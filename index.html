@@ -25,7 +25,7 @@
   </header>
   <form class="cmdline" id="cmdline" autocomplete="off">
     <span class="prompt">INF ›</span>
-    <input id="cmd" type="text" spellcheck="false" placeholder="DES SPY · PLAN · FILL BTC 12 · RISK · HELP  —  press ` anywhere">
+    <input id="cmd" type="text" spellcheck="false" placeholder="DES SPY · PLAN · SRC · FILL BTC 12 · HELP">
     <button class="btn primary" type="submit">Run</button>
   </form>
   <div class="cmd-out" id="cmd-out" hidden></div>
@@ -63,7 +63,7 @@
           <div class="sc base"><span class="label">Base case</span><span class="v" id="p50">—</span><span class="g" id="p50g">—</span></div>
           <div class="sc"><span class="label">Strong (1 in 10)</span><span class="v" id="p90">—</span><span class="g" id="p90g">—</span></div>
         </div>
-        <svg class="fan" id="fan" viewBox="0 0 520 150" preserveAspectRatio="none" role="img" aria-label="Projected value range over time"></svg>
+        <svg class="fan" id="fan" viewBox="0 0 520 150" preserveAspectRatio="none" role="img" aria-label="Projected value range"></svg>
         <p class="fine" id="proj-note">Projection uses the wheel you are viewing.</p>
       </div>
     </section>
@@ -80,7 +80,7 @@
   <section class="panel" aria-labelledby="ideas-h">
     <div class="phead">
       <h2 id="ideas-h">Trade ideas</h2>
-      <div class="seg" role="group" aria-label="Filter ideas" id="ifilter">
+      <div class="seg" id="ifilter">
         <button data-f="all" aria-pressed="true">All</button>
         <button data-f="rec" aria-pressed="false">Recommended</button>
         <button data-f="idea" aria-pressed="false">Ideas</button>
@@ -90,18 +90,27 @@
     <div class="ideas" id="ideas"></div>
   </section>
   <section class="panel" aria-labelledby="book-h">
-    <div class="phead">
-      <h2 id="book-h">Paper book</h2>
-      <div class="marks" id="marks"></div>
-    </div>
+    <div class="phead"><h2 id="book-h">Paper book</h2><div class="marks" id="marks"></div></div>
     <div class="tbl-wrap" id="book"></div>
-    <div style="display:flex;justify-content:flex-end;gap:8px">
-      <button class="btn ghost" id="flatten">Flatten book</button>
-    </div>
+    <div style="display:flex;justify-content:flex-end;gap:8px"><button class="btn ghost" id="flatten">Flatten book</button></div>
   </section>
   <section class="panel" aria-labelledby="rules-h">
     <div class="phead"><h2 id="rules-h">Desk rules</h2><span class="label">Universe BTC · ETH · SPY · QQQ</span></div>
     <div class="rules" id="rules"></div>
+  </section>
+  <section class="panel" aria-labelledby="src-h">
+    <div class="phead"><h2 id="src-h">Research rack</h2><span class="label">context only · type SRC</span></div>
+    <div class="ideas">
+      <a class="idea" href="https://www.dataroma.com/m/home.php" target="_blank" rel="noopener">Dataroma<p class="thesis">13F holdings. Color for SPY/QQQ, not new tickers.</p></a>
+      <a class="idea" href="https://whalewisdom.com" target="_blank" rel="noopener">WhaleWisdom<p class="thesis">Fund quarterly buys/sells. Observe only.</p></a>
+      <a class="idea" href="https://fred.stlouisfed.org" target="_blank" rel="noopener">FRED<p class="thesis">Macro series for the 07:00 Houston brief.</p></a>
+      <a class="idea" href="https://www.federalreserve.gov" target="_blank" rel="noopener">Federal Reserve<p class="thesis">Decisions that move the equity sleeve.</p></a>
+      <a class="idea" href="https://pages.stern.nyu.edu/~adamodar/" target="_blank" rel="noopener">Damodaran<p class="thesis">ERP and cost of capital behind the fan.</p></a>
+      <a class="idea" href="https://www.oaktreecapital.com/insights" target="_blank" rel="noopener">Howard Marks<p class="thesis">Cycle notes. Pair with Doocey.</p></a>
+      <a class="idea" href="https://www.berkshirehathaway.com/letters/letters.html" target="_blank" rel="noopener">Buffett letters<p class="thesis">Owner letters. Not a BRK ticket.</p></a>
+      <a class="idea" href="https://www.quiverquant.com" target="_blank" rel="noopener">QuiverQuant<p class="thesis">Congress and institutional prints.</p></a>
+    </div>
+    <p class="fine">Public 13F / letter sources. They do not add names. Universe stays SPY QQQ BTC ETH.</p>
   </section>
   <footer>INFINITIVE / GHOST DESK · paper simulation · not a registered fund · not advice · type HELP</footer>
 </div>
