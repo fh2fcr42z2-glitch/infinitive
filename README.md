@@ -1,23 +1,14 @@
 # INFINITIVE Desk
 
-Paper dashboard for Ghost Desk. Not a registered fund. Not advice.
+Static paper dashboard. Not Next.js.
 
-## Next.js layout (Vercel)
+Open `index.html` or the Vercel URL. Files:
 
-```
-components/InfinitiveDesk.jsx   client dashboard, no extra packages
-app/page.jsx                    App Router home
-app/layout.js                   root layout
-pages/index.jsx                 Pages Router fallback
-```
+- `index.html`
+- `style.css`
+- `core-a.js` `core-b.js` `desk.js`
 
-```bash
-npm install
-npm run dev
-```
+On Vercel: Framework Preset = Other. Root = repo root. Production branch = main.
 
-Book lives in the browser only. Universe: SPY QQQ BTC ETH. Caps: 15% name, 40% crypto, -15% desk stop then 7 days flat. Agents never submit live orders.
-
-## After you connect Vercel
-
-Link repo `fh2fcr42z2-glitch/infinitive` to project `infinitive-desk`, production branch `main`. Vercel redeploys on push.
+Paper only. Universe SPY QQQ BTC ETH. Caps 15% / 40% / -15%.
+Type `HELP` or `SRC`.
