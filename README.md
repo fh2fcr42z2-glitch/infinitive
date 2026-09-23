@@ -1,11 +1,16 @@
 # INFINITIVE Desk
 
-Paper trading dashboard for Ghost Desk.
+Paper dashboard for Ghost Desk.
 
-- Command bar: press `` ` `` then `DES SPY`, `PLAN`, `FILL BTC 12`, `RISK`, `HELP`
-- Quote strip + tape + portfolio wheel + next-moves plan
-- Paper book lives in your browser only (`localStorage`)
-- Crypto marks refresh from CoinGecko; SPY/QQQ stay manual until IBKR is plugged in
-- Agents never submit live orders
+## Run locally
+```
+npm install
+npm run dev
+```
+Open http://localhost:3000
 
-Open `index.html` or the Vercel URL.
+The page is `app/page.js` (Next.js App Router). Same paper book as the static HTML: $100k start, SPY/QQQ/BTC/ETH, 15% name cap, 40% crypto cap, −15% desk stop.
+
+Static fallback: `index.html` + `style.css` + scripts.
+
+Book is stored in the browser only. Agents never submit live orders.
