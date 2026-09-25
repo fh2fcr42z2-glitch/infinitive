@@ -25,7 +25,7 @@
   </header>
   <form class="cmdline" id="cmdline" autocomplete="off">
     <span class="prompt">INF ›</span>
-    <input id="cmd" type="text" spellcheck="false" placeholder="DES SPY · PLAN · SRC · FILL BTC 12 · HELP">
+    <input id="cmd" type="text" spellcheck="false" placeholder="DES SPY · PLAN · OPT · SRC · HELP">
     <button class="btn primary" type="submit">Run</button>
   </form>
   <div class="cmd-out" id="cmd-out" hidden></div>
@@ -94,6 +94,14 @@
     <div class="tbl-wrap" id="book"></div>
     <div style="display:flex;justify-content:flex-end;gap:8px"><button class="btn ghost" id="flatten">Flatten book</button></div>
   </section>
+  <section class="panel" aria-labelledby="opt-h">
+    <div class="phead">
+      <h2 id="opt-h">Options tape</h2>
+      <span class="label"><a href="https://www.derivativesmonkey.com/eth" target="_blank" rel="noopener">Derivatives Monkey</a></span>
+    </div>
+    <div class="ideas" id="opt"><div class="empty">Loading ETH / BTC options snapshot…</div></div>
+    <p class="fine" id="opt-note">Public market-summary only. No HYPE. Walls inform stops; they do not change the book.</p>
+  </section>
   <section class="panel" aria-labelledby="rules-h">
     <div class="phead"><h2 id="rules-h">Desk rules</h2><span class="label">Universe BTC · ETH · SPY · QQQ</span></div>
     <div class="rules" id="rules"></div>
@@ -101,6 +109,7 @@
   <section class="panel" aria-labelledby="src-h">
     <div class="phead"><h2 id="src-h">Research rack</h2><span class="label">context only · type SRC</span></div>
     <div class="ideas">
+      <a class="idea" href="https://www.derivativesmonkey.com/eth" target="_blank" rel="noopener">Derivatives Monkey<p class="thesis">Live ETH/BTC options: GEX, IV, walls. Observe only.</p></a>
       <a class="idea" href="https://www.dataroma.com/m/home.php" target="_blank" rel="noopener">Dataroma<p class="thesis">13F holdings. Color for SPY/QQQ, not new tickers.</p></a>
       <a class="idea" href="https://whalewisdom.com" target="_blank" rel="noopener">WhaleWisdom<p class="thesis">Fund quarterly buys/sells. Observe only.</p></a>
       <a class="idea" href="https://fred.stlouisfed.org" target="_blank" rel="noopener">FRED<p class="thesis">Macro series for the 07:00 Houston brief.</p></a>
@@ -108,9 +117,8 @@
       <a class="idea" href="https://pages.stern.nyu.edu/~adamodar/" target="_blank" rel="noopener">Damodaran<p class="thesis">ERP and cost of capital behind the fan.</p></a>
       <a class="idea" href="https://www.oaktreecapital.com/insights" target="_blank" rel="noopener">Howard Marks<p class="thesis">Cycle notes. Pair with Doocey.</p></a>
       <a class="idea" href="https://www.berkshirehathaway.com/letters/letters.html" target="_blank" rel="noopener">Buffett letters<p class="thesis">Owner letters. Not a BRK ticket.</p></a>
-      <a class="idea" href="https://www.quiverquant.com" target="_blank" rel="noopener">QuiverQuant<p class="thesis">Congress and institutional prints.</p></a>
     </div>
-    <p class="fine">Public 13F / letter sources. They do not add names. Universe stays SPY QQQ BTC ETH.</p>
+    <p class="fine">Public sources. They do not add names. Universe stays SPY QQQ BTC ETH.</p>
   </section>
   <footer>INFINITIVE / GHOST DESK · paper simulation · not a registered fund · not advice · type HELP</footer>
 </div>
@@ -124,5 +132,6 @@
 <script src="core-a.js"></script>
 <script src="core-b.js"></script>
 <script src="desk.js"></script>
+<script src="options.js"></script>
 </body>
 </html>
