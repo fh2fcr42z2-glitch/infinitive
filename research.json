@@ -1,0 +1,129 @@
+{
+  "asof": "2026-09-26",
+  "nav": 1519,
+  "concentration": "SNAP 39% + DRV 23% = 62% of combined book",
+  "names": [
+    {
+      "sym": "SNAP",
+      "usd": 593,
+      "fit": "satellite equity",
+      "call": "HOLD",
+      "why": "Q2 26 beat: rev +19% to $1.6B, adj EBITDA $250m vs $41m. Street ~$7.4. Fwd P/E ~7x. 971m MAU.",
+      "wrong": "Ads still Google/Apple/Amazon dependent. SBC eats GAAP. Death-cross tape. One name is 39% of you.",
+      "alpha": "Do not add. The $6 Apr-27 calls are the convexity. Common is already the desk."
+    },
+    {
+      "sym": "DRV",
+      "usd": 344,
+      "fit": "desk-adjacent protocol token",
+      "call": "HOLD — DO NOT ADD",
+      "why": "Derive is on-chain options/perps. This desk already reads Derive docs. Token is fee/gov/buyback story after Coinbase roadmap.",
+      "wrong": "49% of Coinbase. Protocol token ≠ exchange quality. Listing pop fades.",
+      "alpha": "Use Derive as tape (already on site). Do not express the options desk as more DRV."
+    },
+    {
+      "sym": "USD cash CB",
+      "usd": 130,
+      "fit": "core dry powder",
+      "call": "HOLD",
+      "why": "Only spendable cash that is not a SNAP or DRV bet.",
+      "wrong": "Idle cash loses to 4% T-bills.",
+      "alpha": "First funded ticket: SGOV or a BTC add under $80k — not another alt."
+    },
+    {
+      "sym": "ETH",
+      "usd": 99,
+      "fit": "core crypto",
+      "call": "HOLD",
+      "why": "Core sleeve. ETF +$87m latest. TVL $53.6B. You already own 0.037 on Coinbase.",
+      "wrong": "Spot $2,688 is below the $2,900 reclaim gate.",
+      "alpha": "DO NOT BUY more ETH until $2,900. Size later from CB cash, not RH."
+    },
+    {
+      "sym": "AERO",
+      "usd": 39,
+      "fit": "optional satellite",
+      "call": "HOLD",
+      "why": "Base DEX cash cow. Fees to veAERO. Coinbase Ventures + cbBTC steer. Aero+Velodrome merge targeted Sep 26.",
+      "wrong": "Emissions still print. Token -85% from ATH while volume is real. Unlocked AERO ≠ veAERO cashflow.",
+      "alpha": "Innovation to try later: lock into veAERO only if this stays a sleeve. $39 is too small to lock. Do not add spot."
+    },
+    {
+      "sym": "BTC",
+      "usd": 54,
+      "fit": "core crypto",
+      "call": "HOLD",
+      "why": "CB 0.00045 + RH 0.00019. ETF +$135m Sep 25. Put wall $84k.",
+      "wrong": "Dust vs a real 12% sleeve.",
+      "alpha": "Next BTC add only with funded cash and a Houston brief. Not today."
+    },
+    {
+      "sym": "PUMP",
+      "usd": 21,
+      "fit": "does not fit",
+      "call": "HOLD — DO NOT ADD",
+      "why": "Pump.fun take-rate + 50% buyback/burn (~$840k/day). Revenue is real.",
+      "wrong": "Memecoin factory. Volume dies when culture dies. Not a Marks/Buffett name.",
+      "alpha": "Look tape only. Size is already a lottery ticket."
+    },
+    {
+      "sym": "ENA",
+      "usd": 20,
+      "fit": "optional satellite",
+      "call": "HOLD — DO NOT ADD",
+      "why": "USDe ~$4.5–4.9B. TradFi (Janus, Coinbase custody). Equity-perp basis next. Fee switch armed at $7.5B USDe. Oct 5 leftover unlock.",
+      "wrong": "You own ENA, not USDe. Unlock 14% circ Oct 5. Buyback not on until supply grows 78%.",
+      "alpha": "Better expression later is sUSDe yield, not more ENA. Watch Oct 5."
+    },
+    {
+      "sym": "VST 170c Oct-9",
+      "usd": null,
+      "fit": "does not fit as structured",
+      "call": "DO NOT ADD",
+      "why": "Vistra itself: data-center power, 2026 EBITDA $6.8–7.6B, some Street $231 FV. That is the stock.",
+      "wrong": "You own $170 calls with stock $139. Oct 9 expected move ~±$9. Strike is ~$23 OTM. Theta eats it.",
+      "alpha": "Innovation: if you want Vistra, buy stock or Jan-27 calls after expiry. Let this lot expire."
+    },
+    {
+      "sym": "XPL",
+      "usd": 10,
+      "fit": "does not fit",
+      "call": "HOLD — DO NOT ADD",
+      "why": "Plasma L1 for stablecoin payments. Listed on Coinbase.",
+      "wrong": "No-max-supply L1 token. Down hard from ATH. $10 is noise.",
+      "alpha": "Ignore."
+    },
+    {
+      "sym": "O / SCHD",
+      "usd": 18,
+      "fit": "yield crumbs",
+      "call": "HOLD",
+      "why": "Realty Income + dividend ETF. Fits a yield sleeve in spirit.",
+      "wrong": "Too small to matter.",
+      "alpha": "When funded, SGOV beats another 0.3 share of O."
+    },
+    {
+      "sym": "XTKG",
+      "usd": 1,
+      "fit": "does not fit",
+      "call": "DO NOT ADD",
+      "why": "IRA penny.",
+      "wrong": "No process.",
+      "alpha": "Leave it."
+    }
+  ],
+  "try": [
+    "Park $130 CB USD in SGOV or leave cash — first process trade",
+    "Read Derive as tape, not as a reason to add DRV",
+    "AERO merge (Sep window) is a watch, not a buy",
+    "ENA Oct 5 unlock is a watch, not a buy",
+    "VST stock after the 170s die — only if Houston writes the power/AI brief",
+    "SPY/QQQ when RH is funded — that is still the core build"
+  ],
+  "do_not": [
+    "DO NOT ADD DRV AERO PUMP ENA XPL VST-calls SNAP common",
+    "DO NOT BUY ETH under $2,900",
+    "DO NOT BUY QQQ above $724",
+    "DO NOT spend the $0.15 RH buying power"
+  ]
+}
