@@ -1,24 +1,27 @@
 {
-  "asof": "2026-09-26T14:26:00Z",
-  "stamp": "Free public tape. Observe only. Does not add a ticket.",
+  "asof": "2026-09-26T14:29:00Z",
+  "stamp": "Spots: Robinhood equities + Coinbase crypto. Context feeds labeled separately.",
   "spot": {
-    "BTC": { "px": 83955.55, "src": "Coinbase", "open": 84002.66, "high": 84325, "low": 83335.24 },
-    "ETH": { "px": 2687.11, "src": "Coinbase", "open": 2695.5, "high": 2699.03, "low": 2667.4 },
+    "BTC": { "px": 83958.04, "src": "Coinbase last" },
+    "ETH": { "px": 2687.58, "src": "Coinbase last" },
     "SPY": { "px": 772.04, "src": "Robinhood Fri ext" },
     "QQQ": { "px": 745.40, "src": "Robinhood Fri ext" },
-    "SNAP": { "px": 5.44, "src": "Robinhood Fri ext" }
+    "SNAP": { "px": 5.4385, "src": "Robinhood Fri ext" },
+    "VST": { "px": 138.76, "src": "Robinhood Fri ext" },
+    "O": { "px": 55.72, "src": "Robinhood Fri ext" },
+    "SCHD": { "px": 33.26, "src": "Robinhood Fri ext" }
   },
   "change_24h": {
-    "BTC": 0.40,
-    "ETH": 0.06
+    "BTC": null,
+    "ETH": null
   },
-  "fear_greed": { "value": 74, "label": "Greed", "src": "alternative.me" },
+  "fear_greed": { "value": 74, "label": "Greed", "src": "alternative.me — context, not a mark" },
   "tvl_usd": {
     "Ethereum": 53620738865,
     "Solana": 6616342717,
     "Base": 6268329129,
     "Bitcoin": 4487837062,
-    "src": "DefiLlama"
+    "src": "DefiLlama — context, not a mark"
   },
   "etf": {
     "btc_net_2026_09_25_usdm": 134.5,
@@ -26,22 +29,12 @@
     "ibt_fbtc": 49.3,
     "ibt_bitb": -11.8,
     "eth_net_latest_usdm": 87.0,
-    "note": "Farside via public posts / The BitGuard. Sep 25 latest full-ish BTC day.",
-    "src": "Farside Investors"
+    "src": "Farside — context, not a mark"
   },
   "reads": [
-    "BTC ETF still taking cash (+$135m Sep 25). Supports HOLD dust + wait for funded BTC add, not a chase.",
-    "Fear & Greed 74 Greed. Do not size new risk from sentiment alone.",
-    "ETH TVL $53.6B still the DeFi base. ETH cash gate stays $2,900.",
-    "Coinbase BTC $83,956 inside Fri $83.3–84.3k range. $84k put wall still the line.",
-    "Yahoo equity chart blocked today — SPY/QQQ/SNAP marks stay RH Friday."
-  ],
-  "sources": [
-    { "id": "Coinbase public", "url": "https://api.exchange.coinbase.com/products/BTC-USD/stats" },
-    { "id": "CoinGecko", "url": "https://api.coingecko.com/api/v3/simple/price" },
-    { "id": "Fear & Greed", "url": "https://api.alternative.me/fng/" },
-    { "id": "DefiLlama", "url": "https://api.llama.fi/v2/chains" },
-    { "id": "Farside", "url": "https://farside.co.uk/bitcoin-etf-flow-all-data/" },
-    { "id": "Derivatives Monkey", "url": "https://www.derivativesmonkey.com/eth" }
+    "Marks on this desk: RH for stocks, Coinbase for BTC/ETH. Nothing else prices the book.",
+    "US cash is shut until Monday. RH equity last is Friday extended.",
+    "Coinbase BTC $83,958 / ETH $2,687.58 right now.",
+    "Joint SNAP 109.03 @ $5.4385 is the live book."
   ]
 }
