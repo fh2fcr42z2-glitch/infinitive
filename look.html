@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>LOOK · INFINITIVE</title>
+<link rel="stylesheet" href="style.css">
+<style>
+  .look-stamp{color:#c45c4a;font:600 13px/1.4 "IBM Plex Mono",monospace;letter-spacing:.04em;margin:8px 0 18px}
+  .src a{display:block;padding:10px 0;border-bottom:1px solid color-mix(in srgb, currentColor 12%, transparent);text-decoration:none;color:inherit}
+  .src small{display:block;opacity:.65;font-weight:400}
+  table{width:100%;border-collapse:collapse;font:13px/1.4 "IBM Plex Mono",monospace}
+  th,td{text-align:left;padding:8px 6px;border-bottom:1px solid color-mix(in srgb, currentColor 12%, transparent)}
+  .nobuy{color:#c45c4a}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <div class="mark" aria-hidden="true">∞</div>
+      <div><h1>LOOK</h1><small>public pages · not the book</small></div>
+    </div>
+    <div class="chips">
+      <a class="chip" href="/">← Desk</a>
+      <span class="chip" id="asof">—</span>
+    </div>
+  </header>
+  <p class="look-stamp" id="stamp">LOOK ≠ TICKET. DO NOT BUY.</p>
+  <section class="panel">
+    <div class="phead"><h2>Sources</h2><span class="label">read only</span></div>
+    <div class="src" id="src"></div>
+  </section>
+  <section class="panel">
+    <div class="phead"><h2>Glance</h2><span class="label">max 8 · never a fill</span></div>
+    <div class="tbl-wrap"><table><thead><tr><th>Name</th><th>Why</th><th>Action</th></tr></thead><tbody id="glance"></tbody></table></div>
+  </section>
+  <section class="panel">
+    <div class="phead"><h2>Fund orders</h2><span class="label">live on /</span></div>
+    <div id="orders" class="plan"></div>
+  </section>
+  <footer>LOOK rack · QLO side door · does not change SPY QQQ BTC ETH</footer>
+</div>
+<script>
+fetch("look.json?t="+Date.now()).then(r=>r.json()).then(j=>{
+  document.getElementById("asof").textContent=j.asof||"";
+  document.getElementById("stamp").textContent=j.stamp||"DO NOT BUY";
+  document.getElementById("src").innerHTML=(j.sources||[]).map(s=>`<a href="${s.url}" target="_blank" rel="noopener">${s.id}<small>${s.note}</small></a>`).join("");
+  document.getElementById("glance").innerHTML=(j.glance||[]).map(g=>`<tr><td>${g.name}</td><td>${g.why}</td><td class="nobuy">${g.action}</td></tr>`).join("")||"<tr><td colspan=3>No glance names. Open the four pages.</td></tr>";
+  document.getElementById("orders").innerHTML=(j.orders||[]).map(o=>`<div>${o}</div>`).join("");
+}).catch(()=>{ document.getElementById("stamp").textContent="look.json missing"; });
+</script>
+</body>
+</html>
