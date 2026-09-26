@@ -1,9 +1,9 @@
 const START = 100000;
 const A = {
-  SPY:{name:"S&P 500",  col:"--spy", px:773.38,  mu:.07, sd:.16, crypto:false, dp:2},
-  QQQ:{name:"Nasdaq 100",col:"--qqq",px:747.46, mu:.09, sd:.21, crypto:false, dp:2},
-  BTC:{name:"Bitcoin",  col:"--btc", px:86378.44, mu:.15, sd:.55, crypto:true, dp:4},
-  ETH:{name:"Ether",    col:"--eth", px:2764.30, mu:.15, sd:.70, crypto:true, dp:3},
+  SPY:{name:"S&P 500",  col:"--spy", px:772.04,  mu:.07, sd:.16, crypto:false, dp:2},
+  QQQ:{name:"Nasdaq 100",col:"--qqq",px:745.40, mu:.09, sd:.21, crypto:false, dp:2},
+  BTC:{name:"Bitcoin",  col:"--btc", px:83958.04, mu:.15, sd:.55, crypto:true, dp:4},
+  ETH:{name:"Ether",    col:"--eth", px:2687.58, mu:.15, sd:.70, crypto:true, dp:3},
   CASH:{name:"Cash",    col:"--cash",px:1,       mu:.04, sd:0,   crypto:false}
 };
 const KEYS = ["SPY","QQQ","BTC","ETH"];
@@ -12,18 +12,18 @@ const rho=(a,b)=>a===b?1:(RHO[a+"|"+b]||RHO[b+"|"+a]||0);
 const TARGET = {SPY:.15, QQQ:.15, BTC:.12, ETH:.08};
 const RULES = {maxName:.15, maxCrypto:.40, deskStop:.15};
 const IDEAS = [
-  {id:"i1",sym:"SPY",status:"rec",side:"Buy",entry:773.38,stop:735,target:830,size:.15,conv:4,
-   thesis:"Core equity sleeve. Index is near its high after bouncing off the September pullback; build the full 15% position and keep a stop about 5% below."},
-  {id:"i2",sym:"BTC",status:"rec",side:"Buy",entry:86378,stop:79500,target:98000,size:.12,conv:3,
-   thesis:"Crypto anchor. Holding the mid-80s range; size to 12% so a stop-out costs under 1% of NAV."},
-  {id:"i3",sym:"ETH",status:"idea",side:"Buy",entry:2764,stop:2520,target:3200,size:.08,conv:2,
-   thesis:"Higher beta than BTC. Starter position only; add if it reclaims $2,900 with volume."},
+  {id:"i1",sym:"SPY",status:"rec",side:"Buy",entry:772.04,stop:735,target:830,size:.15,conv:4,
+   thesis:"RH last $772.04 Fri extended. Core sleeve when funded. Stop ~5% below."},
+  {id:"i2",sym:"BTC",status:"rec",side:"Buy",entry:83958,stop:79500,target:98000,size:.12,conv:3,
+   thesis:"Coinbase last $83,958. Dust only on RH. Do not size until funded."},
+  {id:"i3",sym:"ETH",status:"idea",side:"Buy",entry:2687.58,stop:2520,target:3200,size:.08,conv:2,
+   thesis:"Coinbase last $2,687.58. DO NOT BUY until $2,900 reclaim."},
   {id:"i4",sym:"QQQ",status:"watch",side:"Buy limit",entry:724,stop:700,target:780,size:.15,conv:3,
-   thesis:"Just ran four straight up days into a 52-week high ($748.65). Wait for a pullback to volume support near $724 rather than chasing."}
+   thesis:"RH last $745.40 Fri extended. Wait $724. Do not chase."}
 ];
 let book = []; let seq = 1; let realized = 0;
-try{const s=JSON.parse(localStorage.getItem("inf-book")||"null"); if(s){book=s.book||[];seq=s.seq||1;realized=s.realized||0; if(s.px) for(const k in s.px) if(A[k]) A[k].px=s.px[k];}}catch(e){}
-const save=()=>{try{localStorage.setItem("inf-book",JSON.stringify({book,seq,realized,px:Object.fromEntries(KEYS.map(k=>[k,A[k].px]))}))}catch(e){};};
+try{const s=JSON.parse(localStorage.getItem("inf-book")||"null"); if(s){book=s.book||[];seq=s.seq||1;realized=s.realized||0;}}catch(e){}
+const save=()=>{try{localStorage.setItem("inf-book",JSON.stringify({book,seq,realized}))}catch(e){};};
 let view="now", filter="all";
 const css=v=>getComputedStyle(document.documentElement).getPropertyValue(v).trim();
 const $=id=>document.getElementById(id);
@@ -62,7 +62,7 @@ function drawWheel(){
   $("wheel").innerHTML=`<svg viewBox="0 0 200 200" role="img" aria-label="Allocation wheel">
     ${paths}
     <text x="100" y="88" text-anchor="middle" font-size="9" font-family="var(--body)" fill="${css("--ink-3")}" letter-spacing="1">${view==="now"?"NOW":"TARGET"}</text>
-    <text x="100" y="108" text-anchor="middle" font-size="19" font-weight="600" font-family="Schibsted Grotesk, sans-serif" fill="${css("--ink")}">${usd(n)}</text>
+    <text x="100" y="108" text-anchor="middle" font-size="19" font-weight="600" font-family="Inter, sans-serif" fill="${css("--ink")}">${usd(n)}</text>
     <text x="100" y="123" text-anchor="middle" font-size="7.5" font-family="var(--body)" fill="${css("--ink-3")}">${pct(1-(w.CASH||0),0)} invested · ${pct(crypto,0)} crypto</text>
   </svg>`;
   $("legend").innerHTML=order.map(k=>{
@@ -104,8 +104,8 @@ function drawProjection(w,n){
   const line=k=>pts.map((p,i)=>(i?"L":"M")+X(p.t).toFixed(1)+","+Y(p[k]).toFixed(1)).join("");
   const area=line("p90")+pts.slice().reverse().map(p=>"L"+X(p.t).toFixed(1)+","+Y(p.p10).toFixed(1)).join("")+"Z";
   const ticks=[lo,(lo+hi)/2,hi];
-  const grid=ticks.map(v=>`<line x1="${pl}" x2="${W-pr}" y1="${Y(v)}" y2="${Y(v)}" stroke="${css("--line")}" stroke-width="1"/><text x="${pl-6}" y="${Y(v)+3.5}" text-anchor="end" font-size="10" font-family="IBM Plex Mono, monospace" fill="${css("--ink-3")}">${v>=1e6?"$"+(v/1e6).toFixed(2)+"M":"$"+Math.round(v/1000)+"k"}</text>`).join("");
-  const xt=[0,Math.round(T/2),T].filter((v,i,a)=>a.indexOf(v)===i).map(t=>`<text x="${X(t)}" y="${H-6}" text-anchor="${t===0?"start":t===T?"end":"middle"}" font-size="10" font-family="IBM Plex Mono, monospace" fill="${css("--ink-3")}">${t===0?"Today":t+"y"}</text>`).join("");
+  const grid=ticks.map(v=>`<line x1="${pl}" x2="${W-pr}" y1="${Y(v)}" y2="${Y(v)}" stroke="${css("--line")}" stroke-width="1"/><text x="${pl-6}" y="${Y(v)+3.5}" text-anchor="end" font-size="10" font-family="Inter, sans-serif" fill="${css("--ink-3")}">${v>=1e6?"$"+(v/1e6).toFixed(2)+"M":"$"+Math.round(v/1000)+"k"}</text>`).join("");
+  const xt=[0,Math.round(T/2),T].filter((v,i,a)=>a.indexOf(v)===i).map(t=>`<text x="${X(t)}" y="${H-6}" text-anchor="${t===0?"start":t===T?"end":"middle"}" font-size="10" font-family="Inter, sans-serif" fill="${css("--ink-3")}">${t===0?"Today":t+"y"}</text>`).join("");
   const acc=css("--accent");
   $("fan").innerHTML=grid+`
     <path d="${area}" fill="${acc}" fill-opacity=".14"/>
@@ -114,7 +114,7 @@ function drawProjection(w,n){
     <path d="${line("p50")}" fill="none" stroke="${acc}" stroke-width="2" vector-effect="non-scaling-stroke"/>
     <line x1="${pl}" x2="${W-pr}" y1="${Y(n)}" y2="${Y(n)}" stroke="${css("--ink-3")}" stroke-width="1" stroke-dasharray="2 4" vector-effect="non-scaling-stroke"/>
     `+xt;
-  $("proj-note").textContent="Viewing the "+(view==="now"?"current book":"target plan")+": expected "+pct(mu)+" a year with "+pct(sd)+" volatility. Planning assumptions, not forecasts; the shaded band covers 8 in 10 outcomes.";
+  $("proj-note").textContent="Overlay wheel uses RH/Coinbase marks. Live dollars are in Owned. Expected "+pct(mu)+" / vol "+pct(sd)+".";
 }
 function buildPlan(){
   const n=nav(), w=weightsNow(), steps=[];
@@ -144,7 +144,7 @@ function buildPlan(){
       steps.push({k:"sell",icon:"S",t:"Sell "+usd(-amt)+" of "+k,why:"Above its "+pct(TARGET[k],0)+" target weight.",act:{type:"sell",sym:k,usd:-amt}});
     }
   });
-  if(!steps.length) steps.push({k:"ok",icon:"\u2713",t:"On plan \u2014 hold",why:"Book matches the target wheel and every rule passes. Next review at the 07:00 CT desk brief.",act:null});
+  if(!steps.length) steps.push({k:"ok",icon:"\u2713",t:"On plan \u2014 hold",why:"Book matches the target wheel and every rule passes.",act:null});
   const order={stop:0,sell:1,buy:2,wait:3,ok:4};
   steps.sort((a,b)=>order[a.k]-order[b.k]);
   const invested=1-w.CASH;
@@ -154,9 +154,8 @@ function buildPlan(){
 function drawPlan(){
   const plan=buildPlan(); const steps=plan.steps, mood=plan.mood;
   const nAct=steps.filter(s=>s.act).length;
-  $("plan-head").innerHTML="<b>"+mood+"</b><span class=\"muted\" style=\"font-size:12.5px\">"+steps.length+" step"+(steps.length>1?"s":"")+(nAct?" \u00b7 "+nAct+" ready to paper-fill":"")+"</span>";
+  $("plan-head").innerHTML="<b>"+mood+"</b><span class=\"muted\" style=\"font-size:12.5px\">"+steps.length+" step"+(steps.length>1?"s":"")+(nAct?" · overlay only":"")+"</span>";
   $("plan").innerHTML=steps.map((s,i)=>`<div class="step"><span class="k ${s.k}">${s.icon}</span>
     <div><div class="t">${s.t}</div><div class="why">${s.why}</div></div>
-    ${s.act?`<button class="btn ${i===0?"primary":""}" data-step="${i}">${s.act.type==="flatten"?"Flatten":"Paper fill"}</button>`:"<span></span>"}</div>`).join("");
-  $("plan").querySelectorAll("[data-step]").forEach(b=>b.onclick=()=>runAct(steps[+b.dataset.step].act));
+    <span></span></div>`).join("");
 }
