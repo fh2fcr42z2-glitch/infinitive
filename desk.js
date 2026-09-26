@@ -1,17 +1,17 @@
 /* ---------- agents + tape ---------- */
 const AGENTS = {
-  HOUSTON:{role:"CIO / market brief",memo:"Sep 22 close. Equities finished firm after the September dip; SPY 773 / QQQ 748. Crypto mid-range: BTC 86.4k, ETH 2,764. Build the core 15/15/12 sleeve. Do not chase QQQ — wait $724. ETH is a starter only."},
-  STEFFI:{role:"Structure / tickets",memo:"Tickets stay paper. Size to NAV, not conviction. SPY 15% stop 735. BTC 12% stop 79.5k. ETH 8% stop 2,520. QQQ is a limit, not a market. Two-key flatten. No live submit until IBKR is observe-only."},
+  HOUSTON:{role:"CIO / market brief",memo:"Sat 26 Sep. Coinbase BTC ~83.9k on the $84k put wall. ETH ~2,683 under $2,900 gate. BUY paper SPY 15% and BTC 6%. Do not chase QQQ. LOOK rack is glance only."},
+  STEFFI:{role:"Structure / tickets",memo:"Tickets stay paper. Size to NAV, not conviction. SPY 15% stop 735. BTC 6% now stop 79.5k. ETH off until 2,900. QQQ is a limit, not a market. Two-key flatten. Coinbase is view only."},
   DESMOND:{role:"Risk",memo:"Name cap 15%. Crypto cap 40%. Desk stop −15% then 7 days flat. Pair betas in the book: SPY|QQQ 0.92, BTC|ETH 0.82. A 20% BTC drop at 12% weight costs ~2.4% NAV before the stop. Keep cash ≥50% until both equity sleeves are filled."},
-  DOOCEY:{role:"Red team",memo:"Kill QQQ chase: four up days into the high. Kill ETH size-up until $2,900 reclaim. Kill any name above 15%. Kill live routing. If NAV prints −15%, flatten without a meeting."}
+  DOOCEY:{role:"Red team",memo:"Kill QQQ chase. Kill ETH size-up until $2,900 reclaim. Kill any Look name (CPU BUN INGOT Mistie). Kill live routing. If NAV prints −15%, flatten without a meeting."}
 };
 const TAPE = [
-  {tag:"MKT",t:"US cash close 15:00 CT · crypto 24/7"},
-  {tag:"SPY",t:"773.38 · near session high after Sep pullback"},
-  {tag:"QQQ",t:"747.46 · 52-week high 748.65 · wait 724"},
-  {tag:"BTC",t:"86,378 · mid-80s range holds"},
-  {tag:"ETH",t:"2,764 · starter only below 2,900"},
-  {tag:"RULE",t:"max name 15% · crypto 40% · desk stop −15%"}
+  {tag:"MKT",t:"US cash closed Fri · crypto 24/7 · Coinbase view"},
+  {tag:"SPY",t:"paper BUY 15% · last close ~767"},
+  {tag:"QQQ",t:"DO NOT BUY · wait 724"},
+  {tag:"BTC",t:"Coinbase ~83,922 · put wall 84k · paper BUY 6% stop 79.5k"},
+  {tag:"ETH",t:"Coinbase ~2,683 · DO NOT BUY until 2,900"},
+  {tag:"LOOK",t:"/look · glance only · DO NOT BUY"}
 ];
 function drawTape(){
   $("tape").innerHTML=TAPE.map(x=>`<span><span class="tag">${x.tag}</span> <b>${x.t}</b></span>`).join("");
@@ -78,8 +78,15 @@ function runCmd(raw){
   const verb=parts[0].toUpperCase();
   const a=(parts[1]||"").toUpperCase();
   const b=parts[2];
-  const help=`Commands\n  DES [SPY|QQQ|BTC|ETH|CASH]   name card\n  PLAN / BOOK / RISK / QM / TAPE / WHEEL\n  IDEA [SYM]                   idea card\n  FILL SYM [15|15000]          paper buy % NAV or USD\n  MARK SYM PRICE               update a mark\n  FLAT                         flatten (confirm twice)\n  HOUSTON / STEFFI / DESMOND / DOOCEY\n  HELP                         this list\nNothing live-routes. Paper only.`;
+  const help=`Commands\n  DES [SPY|QQQ|BTC|ETH|CASH]   name card\n  PLAN / BOOK / RISK / QM / TAPE / WHEEL\n  IDEA [SYM]                   idea card\n  FILL SYM [15|15000]          paper buy % NAV or USD\n  MARK SYM PRICE               update a mark\n  LOOK                         glance rack — not a ticket\n  FLAT                         flatten (confirm twice)\n  HOUSTON / STEFFI / DESMOND / DOOCEY\n  HELP                         this list\nNothing live-routes. Paper only. LOOK names are DO NOT BUY.`;
   if(verb==="HELP"||verb==="?"||verb==="H"){ showCmd(help); return; }
+  if(verb==="LOOK"||verb==="SRC"){
+    fetch("look.json?t="+Date.now()).then(r=>r.json()).then(j=>{
+      showCmd((j.stamp||"DO NOT BUY")+"\n"+(j.orders||[]).join("\n")+"\nGlance: "+(j.glance||[]).map(g=>g.name).join(", "));
+    }).catch(()=>showCmd("look.json missing",true));
+    if(verb==="LOOK") location.href="/look";
+    return;
+  }
   if(verb==="PLAN"){ document.getElementById("plan-h").scrollIntoView({behavior:"smooth"}); showCmd(buildPlan().mood+" — "+buildPlan().steps.map(s=>s.t).join(" · ")); return; }
   if(verb==="BOOK"){ document.getElementById("book-h").scrollIntoView({behavior:"smooth"}); showCmd(book.length?book.map(p=>p.id+" "+p.sym+" "+p.qty).join(" · "):"Book is flat."); return; }
   if(verb==="RISK"){ document.getElementById("rules-h").scrollIntoView({behavior:"smooth"}); const w=weightsNow(); showCmd("Name max "+pct(Math.max(...KEYS.map(k=>w[k])))+" / 15% · crypto "+pct(w.BTC+w.ETH)+" / 40% · room to stop "+pct(RULES.deskStop-Math.max(0,(START-nav())/START))); return; }
@@ -97,21 +104,18 @@ function runCmd(raw){
   if(verb==="MARK"){
     if(!A[a]||a==="CASH"){ showCmd("MARK SYM PRICE",true); return; }
     const v=+b; if(!(v>0)){ showCmd("Need a price",true); return; }
-    A[a].px=v; render(); showCmd("Marked "+a+" "+fmtPx(v)); return;
-  }
+    A[a].px=v; render(); showCmd("Marked "+a+" "+fmtPx(v)); return; }
   if(verb==="FILL"){
     if(!KEYS.includes(a)){ showCmd("FILL SPY|QQQ|BTC|ETH [pct or usd]",true); return; }
     let amt;
     if(!b) amt=(TARGET[a]||0.1)*nav();
     else { const v=+b; if(!(v>0)){ showCmd("Bad size",true); return; } amt=v<=1?v*nav():v<=100?v/100*nav():v; }
     const idea=IDEAS.find(i=>i.sym===a);
-    openPos(a,amt,idea&&idea.stop,idea&&idea.target); render(); showCmd("Paper filled "+a+" "+usd(amt)); return;
-  }
+    openPos(a,amt,idea&&idea.stop,idea&&idea.target); render(); showCmd("Paper filled "+a+" "+usd(amt)); return; }
   if(verb==="FLAT"||verb==="FLATTEN"){
     if(!book.length){ showCmd("Already flat."); return; }
     if(!runCmd._flat){ runCmd._flat=true; setTimeout(()=>runCmd._flat=false,4000); showCmd("Type FLAT again in 4s to confirm."); return; }
-    runCmd._flat=false; flatten(); render(); showCmd("Book flattened."); return;
-  }
+    runCmd._flat=false; flatten(); render(); showCmd("Book flattened."); return; }
   if(A[verb]||verb==="CASH"){ openDes(verb); showCmd("Opened DES "+verb); return; }
   showCmd("Unknown: "+line+"  —  type HELP",true);
 }
@@ -128,7 +132,7 @@ async function liveCrypto(){
     const j=await r.json();
     if(j.bitcoin&&j.bitcoin.usd) A.BTC.px=j.bitcoin.usd;
     if(j.ethereum&&j.ethereum.usd) A.ETH.px=j.ethereum.usd;
-    $("mark-src").textContent="Marks: CoinGecko crypto · equity close Sep 22";
+    $("mark-src").textContent="Marks: CoinGecko crypto · Coinbase is the view tape · equity close Sep 24";
     render(true);
   }catch(e){}
 }
