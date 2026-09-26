@@ -21,6 +21,7 @@
       <span class="chip" id="mkt"><span class="dot"></span>US market</span>
       <span class="chip" id="mark-src">Marks: close Sep 22, 2026</span>
       <a class="chip" href="#live-h">Owned</a>
+      <a class="chip" href="#fc-h">Forecast</a>
       <a class="chip" href="/look">LOOK</a>
       <button class="chip cmd-hint" id="cmd-open" type="button" title="Open command bar">` command</button>
     </div>
@@ -40,6 +41,15 @@
     </div>
     <div class="tbl-wrap" id="live-book"><div class="empty">Loading RH book…</div></div>
     <p class="fine">Snapshot from rh.json. Options values sit in the individual options sleeve. No live order from this page.</p>
+  </section>
+  <section class="panel" aria-labelledby="fc-h">
+    <div class="phead">
+      <h2 id="fc-h">Forecast · live book</h2>
+      <span class="label">SNAP-weighted bands</span>
+    </div>
+    <div class="scen" id="fc-rows"></div>
+    <div class="plan" id="fc-scen"></div>
+    <p class="fine" id="fc-note">Planning sketch, not a promise.</p>
   </section>
   <section class="kpis" aria-label="Summary">
     <div class="kpi"><span class="label">Research overlay NAV</span><span class="v" id="k-nav">$100,000</span><span class="s" id="k-nav-s">Not the live RH book</span></div>
@@ -120,6 +130,7 @@
     <div class="phead"><h2 id="src-h">Research rack</h2><span class="label">context only · type SRC</span></div>
     <div class="ideas">
       <a class="idea" href="#live-h">Owned book<p class="thesis">Robinhood quantities. Source of truth for what is held.</p></a>
+      <a class="idea" href="#fc-h">Forecast<p class="thesis">Live-book bands and named SNAP / cash paths.</p></a>
       <a class="idea" href="/look">LOOK rack<p class="thesis">Public degen pages. Glance only. DO NOT BUY.</p></a>
       <a class="idea" href="https://www.derivativesmonkey.com/eth" target="_blank" rel="noopener">Derivatives Monkey<p class="thesis">Live ETH/BTC options: GEX, IV, walls.</p></a>
       <a class="idea" href="https://www.dataroma.com/m/home.php" target="_blank" rel="noopener">Dataroma<p class="thesis">13F holdings.</p></a>
@@ -127,7 +138,6 @@
       <a class="idea" href="https://fred.stlouisfed.org" target="_blank" rel="noopener">FRED<p class="thesis">Macro series for the Houston brief.</p></a>
       <a class="idea" href="https://www.federalreserve.gov" target="_blank" rel="noopener">Federal Reserve<p class="thesis">Decisions that move the equity sleeve.</p></a>
       <a class="idea" href="https://pages.stern.nyu.edu/~adamodar/" target="_blank" rel="noopener">Damodaran<p class="thesis">ERP and cost of capital.</p></a>
-      <a class="idea" href="https://www.oaktreecapital.com/insights" target="_blank" rel="noopener">Howard Marks<p class="thesis">Cycle notes.</p></a>
     </div>
     <p class="fine">Live names live in Owned. LOOK still cannot add a ticket.</p>
   </section>
@@ -145,5 +155,6 @@
 <script src="desk.js"></script>
 <script src="options.js"></script>
 <script src="live.js"></script>
+<script src="forecast.js"></script>
 </body>
 </html>
