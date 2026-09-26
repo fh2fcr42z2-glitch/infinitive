@@ -1,19 +1,20 @@
 {
-  "asof": "2026-09-26T13:46:00Z",
+  "asof": "2026-09-26T16:58:00Z",
   "stamp": "LOOK ≠ TICKET. DO NOT BUY.",
   "rules": [
     "Public pages only",
     "No wallet connect",
-    "No Telegram",
+    "Headlines are not fills",
     "Do not recommend buying",
-    "No extensions",
     "Overlap = look, not size up"
   ],
   "sources": [
-    { "id": "degentape", "url": "https://degentape.com/", "note": "24h tape, FIRST BUY, clips >$500" },
-    { "id": "985monitor", "url": "https://985monitor.xyz/fomo/", "note": "official 24h PnL leaderboard" },
-    { "id": "nock", "url": "https://nockterminal.com/scout", "note": "copyable wallets, 1-3 ETH follower" },
-    { "id": "hoodwatch", "url": "https://hoodwatch.io/", "note": "whale crowding on tape names" }
+    { "id": "news hub", "url": "/news", "note": "RSS collection on this desk" },
+    { "id": "rekt", "url": "https://rekt.news", "note": "exploit post-mortems" },
+    { "id": "degentape", "url": "https://degentape.com/", "note": "24h tape" },
+    { "id": "985monitor", "url": "https://985monitor.xyz/fomo/", "note": "PnL board" },
+    { "id": "nock", "url": "https://nockterminal.com/scout", "note": "copy wallets" },
+    { "id": "hoodwatch", "url": "https://hoodwatch.io/", "note": "whale crowding" }
   ],
   "glance": [
     { "name": "CPU", "why": "prior share tape", "action": "DO NOT BUY" },
@@ -22,17 +23,15 @@
     { "name": "Mistie", "why": "prior share tape", "action": "DO NOT BUY" }
   ],
   "fund": {
-    "venue": "Coinbase view only",
-    "BTC-USD": 83921.98,
-    "ETH-USD": 2683.48,
-    "btc_put_wall": 84000,
+    "BTC-USD": 83958.04,
+    "ETH-USD": 2687.58,
     "eth_gate": 2900
   },
   "orders": [
-    "BUY paper SPY $15000",
-    "BUY paper BTC $6000 stop 79500",
+    "HOLD SNAP / DRV / ETH / CB USD",
+    "DO NOT ADD VST calls, PUMP, ENA, XPL",
     "DO NOT BUY QQQ until 724",
-    "DO NOT BUY ETH until 2900 holds",
-    "DO NOT BUY any Look name"
+    "DO NOT BUY ETH until 2900",
+    "DO NOT BUY any Look name or headline"
   ]
 }
