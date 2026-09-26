@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>NEWS · INFINITIVE</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div class="brand">
+      <div class="mark" aria-hidden="true">∞</div>
+      <div><h1>NEWS</h1><small>RSS hub · headlines only</small></div>
+    </div>
+    <div class="chips">
+      <a class="chip" href="/">← Desk</a>
+      <a class="chip" href="/look">LOOK</a>
+      <span class="chip" id="asof">—</span>
+    </div>
+  </header>
+  <p class="look-stamp" id="stamp">Headlines are not tickets. DO NOT BUY from a feed.</p>
+  <section class="panel">
+    <div class="phead"><h2>Feeds</h2><span class="label">filter</span></div>
+    <div class="seg" id="nfilter"></div>
+  </section>
+  <section class="panel">
+    <div class="phead"><h2>Tape</h2><span class="label" id="ncount">snapshot</span></div>
+    <div class="plan" id="nlist"><div class="empty">Loading news.json…</div></div>
+  </section>
+  <footer>INFINITIVE news hub · RSS snapshot · say “update tape” to refresh</footer>
+</div>
+<script src="news.js"></script>
+</body>
+</html>
