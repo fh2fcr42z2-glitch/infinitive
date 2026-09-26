@@ -14,13 +14,14 @@
   <header class="top">
     <div class="brand">
       <div class="mark" aria-hidden="true">∞</div>
-      <div><h1>INFINITIVE</h1><small>Ghost Desk · live RH book + research overlay</small></div>
+      <div><h1>INFINITIVE</h1><small>Ghost Desk · live book + Houston research</small></div>
     </div>
     <div class="chips">
-      <span class="chip"><span class="dot on"></span>Live RH</span>
+      <span class="chip"><span class="dot on"></span>Live book</span>
       <span class="chip" id="mkt"><span class="dot"></span>US market</span>
-      <span class="chip" id="mark-src">Marks: close Sep 22, 2026</span>
+      <span class="chip" id="mark-src">RH + Coinbase</span>
       <a class="chip" href="#live-h">Owned</a>
+      <a class="chip" href="#rs-h">Research</a>
       <a class="chip" href="#fc-h">Forecast</a>
       <a class="chip" href="#pub-h">Tape</a>
       <a class="chip" href="/look">LOOK</a>
@@ -37,11 +38,19 @@
   <section class="tape" id="tape" aria-label="Desk tape"></section>
   <section class="panel" aria-labelledby="live-h">
     <div class="phead">
-      <h2 id="live-h">Owned · Robinhood</h2>
+      <h2 id="live-h">Owned · RH + Coinbase</h2>
       <span class="label">Live NAV <b id="live-nav">—</b> · <span id="live-asof"></span></span>
     </div>
-    <div class="tbl-wrap" id="live-book"><div class="empty">Loading RH book…</div></div>
-    <p class="fine">Snapshot from rh.json. Options values sit in the individual options sleeve. No live order from this page.</p>
+    <div class="tbl-wrap" id="live-book"><div class="empty">Loading book…</div></div>
+    <p class="fine">RH + Coinbase quantities. No live order from this page.</p>
+  </section>
+  <section class="panel" aria-labelledby="rs-h">
+    <div class="phead">
+      <h2 id="rs-h">Houston · holdings research</h2>
+      <span class="label">why / wrong / alpha</span>
+    </div>
+    <div class="plan" id="rs-list"></div>
+    <div class="plan" id="rs-try"></div>
   </section>
   <section class="panel" aria-labelledby="fc-h">
     <div class="phead">
@@ -59,14 +68,14 @@
     </div>
     <div class="ideas" id="pub-tape"><div class="empty">Loading public tape…</div></div>
     <div class="plan" id="pub-reads"></div>
-    <p class="fine">Coinbase, CoinGecko, DefiLlama, Fear & Greed, Farside. Refresh when you say “update tape.”</p>
+    <p class="fine">Context feeds. Marks stay RH + Coinbase.</p>
   </section>
   <section class="kpis" aria-label="Summary">
-    <div class="kpi"><span class="label">Research overlay NAV</span><span class="v" id="k-nav">$100,000</span><span class="s" id="k-nav-s">Not the live RH book</span></div>
-    <div class="kpi"><span class="label">Open P&L</span><span class="v" id="k-pnl">$0</span><span class="s" id="k-pnl-s">0.00% on overlay</span></div>
+    <div class="kpi"><span class="label">Research overlay NAV</span><span class="v" id="k-nav">$100,000</span><span class="s" id="k-nav-s">Not the live book</span></div>
+    <div class="kpi"><span class="label">Open P&L</span><span class="v" id="k-pnl">$0</span><span class="s" id="k-pnl-s">overlay</span></div>
     <div class="kpi"><span class="label">Invested</span><span class="v" id="k-inv">0%</span><div class="meter"><i id="k-inv-m" style="width:0%"></i></div></div>
     <div class="kpi"><span class="label">Crypto sleeve</span><span class="v" id="k-cr">0%</span><span class="s">Cap 40% overlay</span></div>
-    <div class="kpi"><span class="label">Room to desk stop</span><span class="v" id="k-dd">15.0%</span><span class="s">Stop at −15% → 7 days flat</span></div>
+    <div class="kpi"><span class="label">Room to desk stop</span><span class="v" id="k-dd">15.0%</span><span class="s">Stop at −15%</span></div>
   </section>
   <div class="grid2">
     <section class="panel" aria-labelledby="wheel-h">
@@ -94,17 +103,17 @@
           <div class="sc"><span class="label">Strong (1 in 10)</span><span class="v" id="p90">—</span><span class="g" id="p90g">—</span></div>
         </div>
         <svg class="fan" id="fan" viewBox="0 0 520 150" preserveAspectRatio="none" role="img" aria-label="Projected value range"></svg>
-        <p class="fine" id="proj-note">Overlay wheel. Live names are in Owned above.</p>
+        <p class="fine" id="proj-note">Overlay wheel.</p>
       </div>
     </section>
     <section class="panel" aria-labelledby="plan-h">
       <div class="phead">
         <h2 id="plan-h">Next moves</h2>
-        <span class="label">AI desk plan</span>
+        <span class="label">overlay plan</span>
       </div>
       <div class="plan-head" id="plan-head"></div>
       <div class="plan" id="plan"></div>
-      <p class="fine">Live tickets only after you confirm. Overlay is not the RH book.</p>
+      <p class="fine">Live tickets only after you confirm.</p>
     </section>
   </div>
   <section class="panel" aria-labelledby="ideas-h">
@@ -130,27 +139,24 @@
       <span class="label"><a href="https://www.derivativesmonkey.com/eth" target="_blank" rel="noopener">Derivatives Monkey</a></span>
     </div>
     <div class="ideas" id="opt"><div class="empty">Loading ETH / BTC options snapshot…</div></div>
-    <p class="fine" id="opt-note">Public market-summary only. Walls inform stops.</p>
+    <p class="fine" id="opt-note">Public market-summary only.</p>
   </section>
   <section class="panel" aria-labelledby="rules-h">
-    <div class="phead"><h2 id="rules-h">Desk rules</h2><span class="label">Core + live satellites</span></div>
+    <div class="phead"><h2 id="rules-h">Desk rules</h2><span class="label">process first</span></div>
     <div class="rules" id="rules"></div>
   </section>
   <section class="panel" aria-labelledby="src-h">
-    <div class="phead"><h2 id="src-h">Research rack</h2><span class="label">context only · type SRC</span></div>
+    <div class="phead"><h2 id="src-h">Research rack</h2><span class="label">context</span></div>
     <div class="ideas">
-      <a class="idea" href="#live-h">Owned book<p class="thesis">Robinhood quantities. Source of truth for what is held.</p></a>
-      <a class="idea" href="#fc-h">Forecast<p class="thesis">Live-book bands and named SNAP / cash paths.</p></a>
-      <a class="idea" href="#pub-h">Public tape<p class="thesis">Free spot, ETF flow, TVL, sentiment.</p></a>
-      <a class="idea" href="/look">LOOK rack<p class="thesis">Public degen pages. Glance only. DO NOT BUY.</p></a>
-      <a class="idea" href="https://www.derivativesmonkey.com/eth" target="_blank" rel="noopener">Derivatives Monkey<p class="thesis">Live ETH/BTC options: GEX, IV, walls.</p></a>
-      <a class="idea" href="https://farside.co.uk/bitcoin-etf-flow-all-data/" target="_blank" rel="noopener">Farside ETF flows<p class="thesis">Daily BTC/ETH ETF prints.</p></a>
-      <a class="idea" href="https://defillama.com" target="_blank" rel="noopener">DefiLlama<p class="thesis">TVL and fees. Chain health, not a ticker.</p></a>
-      <a class="idea" href="https://fred.stlouisfed.org" target="_blank" rel="noopener">FRED<p class="thesis">Macro series. Key needed for API; site is free.</p></a>
+      <a class="idea" href="#rs-h">Holdings research<p class="thesis">Why / wrong / alpha on every name you own.</p></a>
+      <a class="idea" href="#live-h">Owned book<p class="thesis">RH + Coinbase quantities.</p></a>
+      <a class="idea" href="/look">LOOK rack<p class="thesis">Glance only. DO NOT BUY.</p></a>
+      <a class="idea" href="https://www.derivativesmonkey.com/eth" target="_blank" rel="noopener">Derivatives Monkey</a>
+      <a class="idea" href="https://farside.co.uk/bitcoin-etf-flow-all-data/" target="_blank" rel="noopener">Farside</a>
+      <a class="idea" href="https://defillama.com" target="_blank" rel="noopener">DefiLlama</a>
     </div>
-    <p class="fine">Live names live in Owned. LOOK still cannot add a ticket.</p>
   </section>
-  <footer>INFINITIVE / GHOST DESK · live RH snapshot + research overlay · not advice · type HELP</footer>
+  <footer>INFINITIVE / GHOST DESK · not advice</footer>
 </div>
 <div class="drawer" id="drawer" hidden>
   <div class="drawer-card" role="dialog" aria-modal="true" aria-labelledby="des-h">
@@ -166,5 +172,6 @@
 <script src="live.js"></script>
 <script src="forecast.js"></script>
 <script src="data.js"></script>
+<script src="research.js"></script>
 </body>
 </html>
