@@ -8,6 +8,7 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap">
 <link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="agent.css">
 </head>
 <body>
 <div class="wrap">
@@ -18,20 +19,17 @@
     </div>
     <div class="chips">
       <span class="chip"><span class="dot on"></span>Live book</span>
-      <span class="chip" id="mkt"><span class="dot"></span>US market</span>
       <span class="chip" id="mark-src">RH + Coinbase</span>
       <a class="chip" href="#live-h">Owned</a>
       <a class="chip" href="#rs-h">Research</a>
-      <a class="chip" href="#fc-h">Forecast</a>
-      <a class="chip" href="#pub-h">Tape</a>
       <a class="chip" href="/news">NEWS</a>
       <a class="chip" href="/look">LOOK</a>
-      <button class="chip cmd-hint" id="cmd-open" type="button" title="Open command bar">` command</button>
+      <button class="chip" id="hx-open" type="button">Ask Houston</button>
     </div>
   </header>
   <form class="cmdline" id="cmdline" autocomplete="off">
     <span class="prompt">INF ›</span>
-    <input id="cmd" type="text" spellcheck="false" placeholder="NEWS · LOOK · HOUSTON · HELP">
+    <input id="cmd" type="text" spellcheck="false" placeholder="ASK SNAP · NEWS · HELP">
     <button class="btn primary" type="submit">Run</button>
   </form>
   <div class="cmd-out" id="cmd-out" hidden></div>
@@ -69,20 +67,19 @@
     </div>
     <div class="ideas" id="pub-tape"><div class="empty">Loading public tape…</div></div>
     <div class="plan" id="pub-reads"></div>
-    <p class="fine">Context feeds. Marks stay RH + Coinbase.</p>
   </section>
   <section class="kpis" aria-label="Summary">
     <div class="kpi"><span class="label">Research overlay NAV</span><span class="v" id="k-nav">$100,000</span><span class="s" id="k-nav-s">Not the live book</span></div>
     <div class="kpi"><span class="label">Open P&L</span><span class="v" id="k-pnl">$0</span><span class="s" id="k-pnl-s">overlay</span></div>
     <div class="kpi"><span class="label">Invested</span><span class="v" id="k-inv">0%</span><div class="meter"><i id="k-inv-m" style="width:0%"></i></div></div>
     <div class="kpi"><span class="label">Crypto sleeve</span><span class="v" id="k-cr">0%</span><span class="s">Cap 40% overlay</span></div>
-    <div class="kpi"><span class="label">Room to desk stop</span><span class="v" id="k-dd">15.0%</span><span class="s">Stop at −15%</span></div>
+    <div class="kpi"><span class="label">Room to desk stop</span><span class="v" id="k-dd">15.0%</span><span class="s">Stop at -15%</span></div>
   </section>
   <div class="grid2">
     <section class="panel" aria-labelledby="wheel-h">
       <div class="phead">
         <h2 id="wheel-h">Portfolio wheel</h2>
-        <div class="seg" role="group" aria-label="Wheel view">
+        <div class="seg" role="group">
           <button id="v-now" aria-pressed="true">Now</button>
           <button id="v-tgt" aria-pressed="false">Target plan</button>
         </div>
@@ -103,18 +100,13 @@
           <div class="sc base"><span class="label">Base case</span><span class="v" id="p50">—</span><span class="g" id="p50g">—</span></div>
           <div class="sc"><span class="label">Strong (1 in 10)</span><span class="v" id="p90">—</span><span class="g" id="p90g">—</span></div>
         </div>
-        <svg class="fan" id="fan" viewBox="0 0 520 150" preserveAspectRatio="none" role="img" aria-label="Projected value range"></svg>
-        <p class="fine" id="proj-note">Overlay wheel.</p>
+        <svg class="fan" id="fan" viewBox="0 0 520 150" preserveAspectRatio="none"></svg>
       </div>
     </section>
     <section class="panel" aria-labelledby="plan-h">
-      <div class="phead">
-        <h2 id="plan-h">Next moves</h2>
-        <span class="label">overlay plan</span>
-      </div>
+      <div class="phead"><h2 id="plan-h">Next moves</h2><span class="label">overlay plan</span></div>
       <div class="plan-head" id="plan-head"></div>
       <div class="plan" id="plan"></div>
-      <p class="fine">Live tickets only after you confirm.</p>
     </section>
   </div>
   <section class="panel" aria-labelledby="ideas-h">
@@ -132,33 +124,37 @@
   <section class="panel" aria-labelledby="book-h">
     <div class="phead"><h2 id="book-h">Research overlay book</h2><div class="marks" id="marks"></div></div>
     <div class="tbl-wrap" id="book"></div>
-    <div style="display:flex;justify-content:flex-end;gap:8px"><button class="btn ghost" id="flatten">Flatten overlay</button></div>
+    <div style="display:flex;justify-content:flex-end"><button class="btn ghost" id="flatten">Flatten overlay</button></div>
   </section>
   <section class="panel" aria-labelledby="opt-h">
-    <div class="phead">
-      <h2 id="opt-h">Options tape</h2>
-      <span class="label"><a href="https://www.derivativesmonkey.com/eth" target="_blank" rel="noopener">Derivatives Monkey</a></span>
-    </div>
-    <div class="ideas" id="opt"><div class="empty">Loading ETH / BTC options snapshot…</div></div>
-    <p class="fine" id="opt-note">Public market-summary only.</p>
+    <div class="phead"><h2 id="opt-h">Options tape</h2></div>
+    <div class="ideas" id="opt"><div class="empty">Loading options…</div></div>
   </section>
   <section class="panel" aria-labelledby="rules-h">
-    <div class="phead"><h2 id="rules-h">Desk rules</h2><span class="label">process first</span></div>
+    <div class="phead"><h2 id="rules-h">Desk rules</h2></div>
     <div class="rules" id="rules"></div>
   </section>
-  <section class="panel" aria-labelledby="src-h">
-    <div class="phead"><h2 id="src-h">Research rack</h2><span class="label">context</span></div>
-    <div class="ideas">
-      <a class="idea" href="/news">News hub<p class="thesis">RSS collection. Headlines are not tickets.</p></a>
-      <a class="idea" href="#rs-h">Holdings research<p class="thesis">Why / wrong / alpha on every name you own.</p></a>
-      <a class="idea" href="#live-h">Owned book<p class="thesis">RH + Coinbase quantities.</p></a>
-      <a class="idea" href="/look">LOOK rack<p class="thesis">Glance only. DO NOT BUY.</p></a>
-      <a class="idea" href="https://rekt.news" target="_blank" rel="noopener">Rekt<p class="thesis">Exploit post-mortems.</p></a>
-      <a class="idea" href="https://www.derivativesmonkey.com/eth" target="_blank" rel="noopener">Derivatives Monkey</a>
-      <a class="idea" href="https://farside.co.uk/bitcoin-etf-flow-all-data/" target="_blank" rel="noopener">Farside</a>
-    </div>
-  </section>
   <footer>INFINITIVE / GHOST DESK · not advice</footer>
+</div>
+<div class="hx-dock">
+  <div class="hx" id="hx">
+    <div class="phead" style="padding:12px 12px 0">
+      <h2>Ask Houston</h2>
+      <span class="label" id="hx-status">loading</span>
+    </div>
+    <div class="hx-log" id="hx-log"></div>
+    <div class="hx-chips">
+      <button class="chip" type="button" data-hx="what do I own">own</button>
+      <button class="chip" type="button" data-hx="SNAP">SNAP</button>
+      <button class="chip" type="button" data-hx="should I buy ETH">ETH</button>
+      <button class="chip" type="button" data-hx="risk">risk</button>
+      <button class="chip" type="button" data-hx="news">news</button>
+    </div>
+    <form class="hx-form" id="hx-form" autocomplete="off">
+      <input id="hx-q" type="text" spellcheck="false" placeholder="Ask about a position">
+      <button class="btn primary" type="submit">Ask</button>
+    </form>
+  </div>
 </div>
 <div class="drawer" id="drawer" hidden>
   <div class="drawer-card" role="dialog" aria-modal="true" aria-labelledby="des-h">
@@ -175,5 +171,6 @@
 <script src="forecast.js"></script>
 <script src="data.js"></script>
 <script src="research.js"></script>
+<script src="agent.js"></script>
 </body>
 </html>
