@@ -1,0 +1,38 @@
+{
+  "asof": "2026-09-26T14:13:00Z",
+  "source": "Robinhood quotes + holdings snapshot",
+  "stamp": "Marks from Robinhood. Not a live order. Desk does not paper-fill.",
+  "marks": {
+    "SPY": 772.04,
+    "QQQ": 745.40,
+    "BTC": 83924.03,
+    "ETH": 2685.71
+  },
+  "closes": {
+    "SPY": 767.18,
+    "QQQ": 741.10
+  },
+  "holdings": [
+    { "sym": "BTC", "qty": 0.00018572, "usd": 15.59, "note": "RH crypto dust" },
+    { "sym": "SPY", "qty": 0, "usd": 0 },
+    { "sym": "QQQ", "qty": 0, "usd": 0 },
+    { "sym": "ETH", "qty": 0, "usd": 0 }
+  ],
+  "account": {
+    "value": 202.74,
+    "equity": 0,
+    "options": 187,
+    "crypto": 15.59,
+    "cash": 0.15,
+    "buying_power": 0.15,
+    "pending_deposits": 206
+  },
+  "outside_universe": ["SNAP long options", "VST long options", "XTKG 1sh IRA"],
+  "orders": [
+    "DO NOT live-buy SPY — RH buying power $0.15",
+    "DO NOT live-buy QQQ until $724 and funded",
+    "BTC on RH is dust only, not the $6,000 sleeve",
+    "DO NOT BUY ETH until $2,900",
+    "Coinbase remains the BTC/ETH view tape"
+  ]
+}
