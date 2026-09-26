@@ -1,40 +1,55 @@
 {
-  "asof": "2026-09-26T14:19:00Z",
-  "source": "Robinhood positions + Friday extended quotes",
-  "stamp": "LIVE BOOK. What is owned. Not a new ticket.",
-  "live_nav": 814.15,
+  "asof": "2026-09-26T14:29:00Z",
+  "source": "Robinhood quotes + holdings; Coinbase BTC/ETH last",
+  "stamp": "LIVE BOOK. RH equities. Coinbase crypto. Not a new ticket.",
+  "live_nav": 814.16,
   "marks": {
     "SPY": 772.04,
     "QQQ": 745.40,
-    "BTC": 83924.03,
-    "ETH": 2685.71,
-    "SNAP": 5.44,
+    "BTC": 83958.04,
+    "ETH": 2687.58,
+    "SNAP": 5.4385,
     "VST": 138.76,
     "O": 55.72,
     "SCHD": 33.26
   },
+  "mark_src": {
+    "SPY": "Robinhood Fri extended 23:59 UTC",
+    "QQQ": "Robinhood Fri extended 23:59 UTC",
+    "SNAP": "Robinhood Fri extended",
+    "VST": "Robinhood Fri extended",
+    "O": "Robinhood Fri extended",
+    "SCHD": "Robinhood Fri extended",
+    "BTC": "Coinbase last 14:28 UTC",
+    "ETH": "Coinbase last 14:28 UTC"
+  },
+  "closes": {
+    "SPY": 767.18,
+    "QQQ": 741.10,
+    "SNAP": 5.43,
+    "VST": 137.94
+  },
   "accounts": {
-    "individual": { "value": 202.74, "options": 187, "crypto": 15.59, "cash": 0.15, "buying_power": 0.15, "pending_deposits": 206 },
+    "individual": { "value": 202.75, "options": 187, "crypto": 15.60, "cash": 0.15, "buying_power": 0.15, "pending_deposits": 206 },
     "joint": { "value": 610.76, "equity": 610.76, "buying_power": 0 },
     "ira_traditional": { "value": 0.65 },
     "agentic": { "value": 0 }
   },
   "holdings": [
-    { "sym": "SNAP", "kind": "equity", "account": "joint", "qty": 109.030627, "avg": 5.61, "mark": 5.44, "usd": 593.0, "action": "HOLD" },
-    { "sym": "SNAP 6C 2027-04-16", "kind": "call", "account": "individual", "qty": 2, "avg": 0.95, "mark": null, "usd": null, "action": "HOLD", "note": "inside ~$187 options sleeve; stock under $6" },
-    { "sym": "VST 170C 2026-10-09", "kind": "call", "account": "individual", "qty": 3, "avg": 36.67, "mark": null, "usd": null, "action": "DO NOT ADD", "note": "13d to expiry, stock ~$139" },
+    { "sym": "SNAP", "kind": "equity", "account": "joint", "qty": 109.030627, "avg": 5.61, "mark": 5.4385, "usd": 592.96, "action": "HOLD" },
+    { "sym": "SNAP 6C 2027-04-16", "kind": "call", "account": "individual", "qty": 2, "avg": 0.95, "mark": null, "usd": null, "action": "HOLD", "note": "inside ~$187 options sleeve" },
+    { "sym": "VST 170C 2026-10-09", "kind": "call", "account": "individual", "qty": 3, "avg": 36.67, "mark": 138.76, "usd": null, "action": "DO NOT ADD", "note": "stock $138.76 vs $170 strike" },
     { "sym": "O", "kind": "equity", "account": "joint", "qty": 0.301127, "avg": 55.43, "mark": 55.72, "usd": 16.78, "action": "HOLD" },
-    { "sym": "BTC", "kind": "crypto", "account": "individual", "qty": 0.00018572, "avg": null, "mark": 83924.03, "usd": 15.59, "action": "HOLD" },
+    { "sym": "BTC", "kind": "crypto", "account": "individual", "qty": 0.00018572, "avg": null, "mark": 83958.04, "usd": 15.60, "action": "HOLD" },
     { "sym": "SCHD", "kind": "equity", "account": "joint", "qty": 0.030589, "avg": 33.35, "mark": 33.26, "usd": 1.02, "action": "HOLD" },
     { "sym": "XTKG", "kind": "equity", "account": "ira", "qty": 1, "avg": 1.54, "mark": null, "usd": 0.59, "action": "DO NOT ADD" },
     { "sym": "CASH", "kind": "cash", "account": "individual", "qty": 0.15, "avg": 1, "mark": 1, "usd": 0.15, "action": "HOLD" }
   ],
   "orders": [
-    "HOLD SNAP common — do not add until funded",
+    "HOLD SNAP common",
     "HOLD SNAP Apr-27 6 calls",
     "DO NOT ADD VST Oct-9 170 calls",
-    "HOLD O and SCHD",
-    "HOLD BTC dust",
-    "DO NOT BUY SPY QQQ ETH on RH — buying power $0.15"
+    "HOLD O SCHD BTC dust",
+    "DO NOT BUY SPY QQQ ETH on RH — BP $0.15"
   ]
 }
