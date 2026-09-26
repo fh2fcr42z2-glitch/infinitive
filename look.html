@@ -18,6 +18,7 @@
     </div>
     <div class="chips">
       <a class="chip" href="/">← Desk</a>
+      <a class="chip" href="/news">NEWS</a>
       <span class="chip" id="asof">—</span>
     </div>
   </header>
@@ -27,21 +28,21 @@
     <div class="src" id="src"></div>
   </section>
   <section class="panel">
-    <div class="phead"><h2>Glance</h2><span class="label">max 8 · never a fill</span></div>
+    <div class="phead"><h2>Glance</h2><span class="label">never a fill</span></div>
     <div class="tbl-wrap"><table><thead><tr><th>Name</th><th>Why</th><th>Action</th></tr></thead><tbody id="glance"></tbody></table></div>
   </section>
   <section class="panel">
-    <div class="phead"><h2>Fund orders</h2><span class="label">live on /</span></div>
+    <div class="phead"><h2>Fund orders</h2></div>
     <div id="orders" class="plan"></div>
   </section>
-  <footer>LOOK rack · QLO side door · does not change SPY QQQ BTC ETH</footer>
+  <footer>LOOK · NEWS is the RSS hub · no fills</footer>
 </div>
 <script>
 fetch("look.json?t="+Date.now()).then(r=>r.json()).then(j=>{
   document.getElementById("asof").textContent=j.asof||"";
   document.getElementById("stamp").textContent=j.stamp||"DO NOT BUY";
-  document.getElementById("src").innerHTML=(j.sources||[]).map(s=>`<a href="${s.url}" target="_blank" rel="noopener">${s.id}<small>${s.note}</small></a>`).join("");
-  document.getElementById("glance").innerHTML=(j.glance||[]).map(g=>`<tr><td>${g.name}</td><td>${g.why}</td><td class="nobuy">${g.action}</td></tr>`).join("")||"<tr><td colspan=3>No glance names. Open the four pages.</td></tr>";
+  document.getElementById("src").innerHTML=(j.sources||[]).map(s=>`<a href="${s.url}">${s.id}<small>${s.note||""}</small></a>`).join("");
+  document.getElementById("glance").innerHTML=(j.glance||[]).map(g=>`<tr><td>${g.name}</td><td>${g.why}</td><td class="nobuy">${g.action}</td></tr>`).join("");
   document.getElementById("orders").innerHTML=(j.orders||[]).map(o=>`<div>${o}</div>`).join("");
 }).catch(()=>{ document.getElementById("stamp").textContent="look.json missing"; });
 </script>
