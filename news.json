@@ -1,0 +1,35 @@
+{
+  "asof": "2026-09-26T16:58:00Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {"id":"CoinTelegraph","url":"https://cointelegraph.com/rss"},
+    {"id":"Decrypt","url":"https://decrypt.co/feed"},
+    {"id":"The Block","url":"https://www.theblock.co/rss.xml"},
+    {"id":"CryptoSlate","url":"https://cryptoslate.com/feed/"},
+    {"id":"Bitcoin Magazine","url":"https://bitcoinmagazine.com/.rss/full/"},
+    {"id":"CoinDesk","url":"https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"id":"Rekt","url":"https://rekt.news","note":"exploits"}
+  ],
+  "items": [
+    {"src":"CoinDesk","title":"Bitget hacker moves $83 million in stolen XRP that Ripple cannot freeze","url":"https://www.coindesk.com/markets/2026/09/26/bitget-hacker-moves-usd83-million-in-stolen-xrp-that-ripple-cannot-freeze","date":"Sat, 26 Sep 2026 12:56:41 +0000","sum":"Bitget follow-through. Exploit tape, not a buy."},
+    {"src":"Bitcoin Magazine","title":"North Korean Hackers Linked to $388M Bitget Crypto Exchange Theft: CEO","url":"https://bitcoinmagazine.com/news/north-korea-linked-to-bitget-hack","date":"Fri, 25 Sep 2026 20:08:41 +0000","sum":"CEX-scale event. Watch majors / XMR only if wash prints."},
+    {"src":"Bitcoin Magazine","title":"Bitcoin ETFs Extend Winning Streak With Nearly $3B in Inflows","url":"https://bitcoinmagazine.com/news/bitcoin-etfs-bring-in-nearly-3-billion","date":"Fri, 25 Sep 2026 19:55:01 +0000","sum":"Six-day ETF bid. Supports HOLD BTC dust, not a chase."},
+    {"src":"The Block","title":"Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue","url":"https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874","date":"Fri, 25 Sep 2026 14:09:15 +0000","sum":"App-scale. Isolated. Not all-of-crypto."},
+    {"src":"The Block","title":"Aave V4 on Base adds Coinbase tokenized stocks as collateral for USDC loans","url":"https://www.theblock.co/news/defi/2026-09-25-aave-v4-on-base-adds-coinbase-tokenized-stocks-as-collateral-for-usdc-loans-416372","date":"Fri, 25 Sep 2026 14:00:00 +0000","sum":"Base + Coinbase rails. AERO watch, not a buy."},
+    {"src":"CryptoSlate","title":"Nearly $15B is moving off LayerZero, now a $292M lawsuit puts its security model on trial","url":"https://cryptoslate.com/nearly-15-billion-is-moving-off-layerzero-now-a-292-million-lawsuit-puts-its-security-model-on-trial/","date":"Sat, 26 Sep 2026 13:30:11 +0000","sum":"Kelp / LayerZero legal. Isolated."},
+    {"src":"CoinTelegraph","title":"Kalshi loses appeal, setting up potential Supreme Court case","url":"https://cointelegraph.com/news/kalshi-loses-appeal-setting-up-potential-supreme-court-case","date":"Sat, 26 Sep 2026 13:50:42 +0000","sum":"Prediction-market regulation. Not a book name."},
+    {"src":"The Block","title":"Kalshi loses appeal over Ohio and Tennessee sports betting laws","url":"https://www.theblock.co/news/regulation/2026-09-26-kalshi-loses-appeal-over-ohio-and-tennessee-sports-betting-laws-widening-circuit-split-416937","date":"Sat, 26 Sep 2026 15:17:34 +0000","sum":"Same Kalshi print, second source."},
+    {"src":"Decrypt","title":"How Crypto Stopped Waiting for Congress and Learned to Love the Regulators","url":"https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators","date":"Sat, 26 Sep 2026 16:06:03 +0000","sum":"Post-Clarity Act agency path."},
+    {"src":"CoinTelegraph","title":"SEC Commissioner Hester Peirce to leave post on Oct. 2","url":"https://cointelegraph.com/news/sec-commissioner-hester-peirce-to-leave-post-on-oct-2","date":"Sat, 26 Sep 2026 09:18:15 +0000","sum":"Crypto Task Force chair leaving."},
+    {"src":"The Block","title":"SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit","url":"https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914","date":"Fri, 25 Sep 2026 20:32:40 +0000","sum":"Staff FAQ. Context for ENA/AERO buyback stories."},
+    {"src":"CoinDesk","title":"Binance deal gives Circle a boost in stablecoin race with Tether","url":"https://www.coindesk.com/business/2026/09/26/binance-deal-gives-circle-a-boost-in-stablecoin-race-with-tether-analysts-say","date":"Sat, 26 Sep 2026 13:00:00 +0000","sum":"USDC vs USDT. You hold USD/USDC dust."},
+    {"src":"CryptoSlate","title":"Washington has $114 billion reasons to want Tether around","url":"https://cryptoslate.com/washington-has-114-billion-reasons-to-want-tether-around/","date":"Sat, 26 Sep 2026 16:45:55 +0000","sum":"T-bill demand narrative."},
+    {"src":"CryptoSlate","title":"Fed stablecoin proposal would make circulation a capital cost for supervised issuers","url":"https://cryptoslate.com/fed-stablecoin-proposal-would-make-circulation-a-capital-cost-for-supervised-issuers/","date":"Sat, 26 Sep 2026 13:35:46 +0000","sum":"Issuer capital. Not a ticket."},
+    {"src":"CoinDesk","title":"Kraken parent Payward betting billions on financial infrastructure","url":"https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange","date":"Sat, 26 Sep 2026 14:00:00 +0000","sum":"Venue strategy. Glance."},
+    {"src":"CoinTelegraph","title":"OG.com seeks CFTC approval for single-stock perpetual futures","url":"https://cointelegraph.com/news/og-com-seeks-cftc-approval-single-stock-perpetual-futures","date":"Fri, 25 Sep 2026 20:40:59 +0000","sum":"Equity perps — Ethena path context."},
+    {"src":"Bitcoin Magazine","title":"Katie Stockton: $93K BTC is the Key Price Level for the Bull Market","url":"https://bitcoinmagazine.com/videos/katie-stockton-93k-btc-is-the-key-price-level-for-the-bull-market","date":"Sat, 26 Sep 2026 15:37:08 +0000","sum":"Technician: $84k resistance, $93k confirmation."},
+    {"src":"CoinDesk","title":"Solana 150-millisecond settlement upgrade reaches second public test network","url":"https://www.coindesk.com/tech/2026/09/26/solana-s-150-millisecond-settlement-upgrade-reaches-second-public-test-network","date":"Sat, 26 Sep 2026 05:00:00 +0000","sum":"SOL crumb on CB. Not a size-up."},
+    {"src":"CoinDesk","title":"XRP Ledger Batch upgrade slips to Oct. 9","url":"https://www.coindesk.com/tech/2026/09/26/xrp-ledger-s-batch-upgrade-slips-to-oct-9-after-validator-support-resets","date":"Sat, 26 Sep 2026 04:30:00 +0000","sum":"Not in the book."},
+    {"src":"Decrypt","title":"US Prosecutors Want $84.2 Million From a Bank Tied to Tether","url":"https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex","date":"Fri, 25 Sep 2026 21:25:35 +0000","sum":"Legal. Not a ticket."}
+  ]
+}
