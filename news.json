@@ -1,12 +1,12 @@
 {
-  "asof": "2026-09-27T18:02:39Z",
+  "asof": "2026-09-27T19:02:00Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {"id":"CoinTelegraph","url":"https://cointelegraph.com/rss"},
     {"id":"Decrypt","url":"https://decrypt.co/feed"},
     {"id":"The Block","url":"https://www.theblock.co/rss.xml"},
     {"id":"CryptoSlate","url":"https://cryptoslate.com/feed/"},
-    {"id":"Bitcoin Magazine","url":"https://bitcoinmagazine.com/.rss/full/"},
+    {"id":"Bitcoin Magazine","url":"https://bitcoinmagazine.com/.rss/full/","note":"empty/404 this run; skipped"},
     {"id":"CoinDesk","url":"https://www.coindesk.com/arc/outboundfeeds/rss"},
     {"id":"Rekt","url":"https://rekt.news","note":"exploits"}
   ],
@@ -35,12 +35,6 @@
     {"src":"CryptoSlate","title":"Visa cuts reported stablecoin volume but there is no proof payments fell","url":"https://cryptoslate.com/visas-stablecoin-reset-cuts-measured-value-while-transfer-counts-barely-move/","date":"Sun, 27 Sep 2026 14:00:34 +0000","sum":"Headline only. Not a ticket. DO NOT ADD."},
     {"src":"CryptoSlate","title":"Ethereum is not instant, but collateral could make it feel that way","url":"https://cryptoslate.com/ethereum-isnt-instant-but-collateral-could-make-it-feel-that-way/","date":"Sun, 27 Sep 2026 13:00:50 +0000","sum":"ETH tape. HOLD ETH dust. DO NOT ADD."},
     {"src":"CryptoSlate","title":"Prediction markets promised better information and hired Hollywood","url":"https://cryptoslate.com/prediction-markets-promised-better-information-and-hired-hollywood/","date":"Sun, 27 Sep 2026 11:00:50 +0000","sum":"Headline only. Not a ticket. DO NOT ADD."},
-    {"src":"Bitcoin Magazine","title":"Samourai Letter #7: Notes From The Inside","url":"https://bitcoinmagazine.com/culture/samourai-letter-7-notes-from-the-inside","date":"Sat, 26 Sep 2026 17:06:47 +0000","sum":"Headline only. Not a ticket. DO NOT ADD."},
-    {"src":"Bitcoin Magazine","title":"An Austrian Economist Explains Why AI Will Make Everyone an Entrepreneur w/ Per Bylund","url":"https://bitcoinmagazine.com/videos/an-austrian-economist-explains-why-ai-will-make-everyone-an-entrepreneur-w-per-bylund","date":"Sat, 26 Sep 2026 15:49:00 +0000","sum":"Headline only. Not a ticket. DO NOT ADD."},
-    {"src":"Bitcoin Magazine","title":"TECHNICAL ANALYSIS: BTC to Cross Key Price Level Against Gold","url":"https://bitcoinmagazine.com/videos/technical-analysis-btc-to-cross-key-price-level-against-gold","date":"Sat, 26 Sep 2026 15:43:07 +0000","sum":"BTC tape. HOLD BTC. DO NOT ADD from a headline."},
-    {"src":"Bitcoin Magazine","title":"Katie Stockton: USD 93K BTC is the Key Price Level for the Bull Market","url":"https://bitcoinmagazine.com/videos/katie-stockton-93k-btc-is-the-key-price-level-for-the-bull-market","date":"Sat, 26 Sep 2026 15:37:08 +0000","sum":"BTC tape. HOLD BTC. DO NOT ADD from a headline."},
-    {"src":"Bitcoin Magazine","title":"Grant Cardone: Real Estate Armageddon Is Here - Why BITCOIN is the Hedge","url":"https://bitcoinmagazine.com/news/grant-cardone-real-estate-armageddon-is-here-why-bitcoin-is-the-hedge","date":"Sat, 26 Sep 2026 15:23:26 +0000","sum":"BTC tape. HOLD BTC. DO NOT ADD from a headline."},
-    {"src":"Bitcoin Magazine","title":"North Korean Hackers Linked to USD 388M Bitget Crypto Exchange Theft: CEO","url":"https://bitcoinmagazine.com/news/north-korea-linked-to-bitget-hack","date":"Fri, 25 Sep 2026 20:08:41 +0000","sum":"Exploit/venue tape. LOOK only. Not a ticket. DO NOT ADD."},
     {"src":"CoinDesk","title":"Vitalik Buterin maps Ethereums shift beyond a blockchain in sweeping 2030 vision","url":"https://www.coindesk.com/tech/2026/09/27/vitalik-buterin-maps-ethereum-s-shift-beyond-a-blockchain-in-sweeping-2030-vision","date":"Sun, 27 Sep 2026 14:29:13 +0000","sum":"ETH tape. HOLD ETH dust. DO NOT ADD."},
     {"src":"CoinDesk","title":"How months of work on the Clarity Act all fell apart","url":"https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart","date":"Sun, 27 Sep 2026 12:00:00 +0000","sum":"Regulation tape. LOOK only. Not a ticket."},
     {"src":"CoinDesk","title":"Kraken parent Payward is betting billions on becoming financial infrastructure, not just a crypto exchange","url":"https://www.coindesk.com/business/2026/09/26/kraken-s-parent-payward-is-betting-billions-on-becoming-financial-infrastructure-not-just-a-crypto-exchange","date":"Sat, 26 Sep 2026 14:00:00 +0000","sum":"Headline only. Not a ticket. DO NOT ADD."},
