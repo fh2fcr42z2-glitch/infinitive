@@ -1,3 +1,4 @@
+window.LIVE_PX = window.LIVE_PX || {};
 function pulseStamp(iso) {
   var el = document.getElementById("mark-src");
   if (!el) return;
@@ -9,12 +10,16 @@ function pulseStamp(iso) {
 }
 function applyMarks(j) {
   if (!j) return;
+  ["BTC","ETH","SOL","AERO","ENA","DRV","PUMP","XPL"].forEach(function (k) {
+    if (j[k] != null) window.LIVE_PX[k] = j[k];
+  });
   if (typeof A !== "undefined") {
     if (j.BTC) A.BTC.px = j.BTC;
     if (j.ETH) A.ETH.px = j.ETH;
     if (typeof render === "function") render(true);
     else if (typeof drawQm === "function") drawQm();
   }
+  if (typeof refreshLiveMarks === "function") refreshLiveMarks();
   pulseStamp(j.asof);
 }
 function pulseMarks() {
@@ -26,10 +31,9 @@ function pulseMarks() {
 function pulseFiles() {
   if (typeof drawLive === "function") drawLive();
   if (typeof drawPublicTape === "function") drawPublicTape();
-  if (typeof liveMarks === "function") liveMarks();
 }
 pulseMarks();
-setInterval(pulseMarks, 20000);
+setInterval(pulseMarks, 15000);
 setInterval(pulseFiles, 120000);
 document.addEventListener("visibilitychange", function () {
   if (!document.hidden) { pulseMarks(); pulseFiles(); }
