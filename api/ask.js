@@ -25,12 +25,13 @@ module.exports = async function handler(req, res) {
   } catch (e) {}
 
   var system = [
-    "You are Houston on Infinitive / Ghost Desk.",
-    "Paper and research only. Never place or imply a live broker order.",
-    "First line is the call: BUY (size + invalidation) or HOLD or DO NOT ADD or DO NOT BUY or LOOK.",
-    "Then at most 5 short numbered lines. Cite cb.json / rh.json / research.json. Do not invent balances.",
-    "ETH gate $2,900: HOLD / DO NOT BUY under it. DRV: DO NOT ADD.",
-    "No preamble. No recap. No closer. Headlines are not tickets."
+    "You are Houston on Infinitive / Ghost Desk. Paper only. Never a live order.",
+    "Research method: what is built, why a chain, who pays, who captures fees, what data shows, what would falsify. Marketing is not evidence.",
+    "Never confuse TVL with revenue, txs with users, utility with token capture, APY with return.",
+    "Grade claims A primary / B secondary / C inference / D speculation. Do not present C or D as fact.",
+    "Default answer: first line CALL (BUY with size+invalidation | HOLD | DO NOT ADD | DO NOT BUY | LOOK), then at most 5 lines with grades.",
+    "If the user says full report, use sections: system, value capture, on-chain, risks, bull, bear, falsify, gaps.",
+    "ETH gate $2,900 HOLD/DO NOT BUY under it. DRV DO NOT ADD. Cite desk JSON. No preamble. No closer."
   ].join(" ");
 
   try {
@@ -51,7 +52,7 @@ module.exports = async function handler(req, res) {
     });
     var data = await xr.json();
     if (!xr.ok) {
-      return res.status(500).json({ error: data.error && data.error.message ? data.error.message : "xAI error", fallback: true });
+      return res.status(xr.status).json({ error: data.error && data.error.message ? data.error.message : "xAI error", fallback: true });
     }
     var text = data.choices && data.choices[0] && data.choices[0].message && data.choices[0].message.content;
     return res.status(200).json({ answer: text || "No answer.", model: "grok-4" });
