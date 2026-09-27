@@ -1,17 +1,20 @@
 {
-  "asof": "2026-09-27T13:01:44Z",
+  "asof": "2026-09-27T14:05:38Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {"id":"CoinTelegraph","url":"https://cointelegraph.com/rss"},
     {"id":"Decrypt","url":"https://decrypt.co/feed"},
     {"id":"The Block","url":"https://www.theblock.co/rss.xml"},
     {"id":"CryptoSlate","url":"https://cryptoslate.com/feed/"},
-    {"id":"Bitcoin Magazine","url":"https://bitcoinmagazine.com/.rss/full/"},
+    {"id":"Bitcoin Magazine","url":"https://bitcoinmagazine.com/.rss/full/","note":"403 this pass"},
     {"id":"CoinDesk","url":"https://www.coindesk.com/arc/outboundfeeds/rss"},
     {"id":"Rekt","url":"https://rekt.news","note":"exploits"}
   ],
   "items": [
-    {"src":"CoinTelegraph","title":"Australia summons OpenAI, Anthropic chiefs to Senate inquiry on health-data hack: Report","url":"https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report","date":"Sun, 27 Sep 2026 12:46:28 +0000","sum":"AI agent breach inquiry. LOOK exploit class. Not a ticket."},
+    {"src":"CryptoSlate","title":"Visa cuts reported stablecoin volume but there is no proof payments fell","url":"https://cryptoslate.com/visas-stablecoin-reset-cuts-measured-value-while-transfer-counts-barely-move/","date":"Sun, 27 Sep 2026 14:00:34 +0000","sum":"Stablecoin measure reset. LOOK only. DO NOT ADD."},
+    {"src":"Decrypt","title":"SEC Staff Says Token Buybacks Do Not Make Crypto a Security If the Network Works","url":"https://decrypt.co/379398/sec-staff-token-buybacks-dont-make-crypto-security","date":"Sun, 27 Sep 2026 13:01:03 +0000","sum":"Buyback FAQ follow. LOOK ENA only. DO NOT ADD."},
+    {"src":"CryptoSlate","title":"Ethereum is not instant, but collateral could make it feel that way","url":"https://cryptoslate.com/ethereum-isnt-instant-but-collateral-could-make-it-feel-that-way/","date":"Sun, 27 Sep 2026 13:00:50 +0000","sum":"ETH UX research. HOLD ETH dust. DO NOT ADD."},
+    {"src":"CoinTelegraph","title":"Australia asks OpenAI, Anthropic chiefs to Senate inquiry on rogue hack: Report","url":"https://cointelegraph.com/news/australia-summons-openai-anthropic-chiefs-to-senate-inquiry-on-health-data-hack-report","date":"Sun, 27 Sep 2026 12:46:28 +0000","sum":"AI agent breach inquiry. LOOK exploit class. Not a ticket."},
     {"src":"CoinDesk","title":"How months of work on the Clarity Act all fell apart","url":"https://www.coindesk.com/news-analysis/2026/09/27/how-months-of-work-on-the-clarity-act-all-fell-apart","date":"Sun, 27 Sep 2026 12:00:00 +0000","sum":"Bill autopsy. LOOK regulation tape. Not a ticket."},
     {"src":"CryptoSlate","title":"Prediction markets promised better information and hired Hollywood","url":"https://cryptoslate.com/prediction-markets-promised-better-information-and-hired-hollywood/","date":"Sun, 27 Sep 2026 11:00:50 +0000","sum":"Venue culture. Glance. Not a ticket."},
     {"src":"CoinTelegraph","title":"Riot Platforms repays $200M credit facility, releases collateral","url":"https://cointelegraph.com/news/riot-platforms-repays-200m-credit-facility-releases-collateral","date":"Sun, 27 Sep 2026 09:57:19 +0000","sum":"Miner balance-sheet print. HOLD BTC dust. DO NOT ADD."},
@@ -19,10 +22,8 @@
     {"src":"CoinTelegraph","title":"Saylor outlines bill of digital rights to help build prosperity in future economy","url":"https://cointelegraph.com/news/saylor-outlines-bill-of-digital-rights-to-help-build-prosperity-in-future-economy","date":"Sun, 27 Sep 2026 07:18:42 +0000","sum":"Essay. HOLD BTC. DO NOT ADD from a speech."},
     {"src":"CryptoSlate","title":"SEC clears regulatory hurdle as crypto token buybacks hit record $638 million","url":"https://cryptoslate.com/sec-clears-regulatory-hurdle-as-crypto-token-buybacks-hit-record-638-million/","date":"Sat, 26 Sep 2026 20:20:52 +0000","sum":"Buyback FAQ plus size. LOOK ENA only. DO NOT ADD."},
     {"src":"CryptoSlate","title":"The NFT party is over and everybody now owes storage rent","url":"https://cryptoslate.com/the-nft-party-is-over-and-everybody-now-owes-storage-rent/","date":"Sat, 26 Sep 2026 19:05:53 +0000","sum":"NFT cost tape. Glance. Not a ticket."},
-    {"src":"CryptoSlate","title":"Fed proposed stablecoin rule could trigger a 48-hour liquidation run","url":"https://cryptoslate.com/fed-proposed-stablecoin-rule-could-trigger-a-48-hour-liquidation-run/","date":"Sat, 26 Sep 2026 17:55:58 +0000","sum":"Stablecoin reserve clock. LOOK only. DO NOT ADD."},
     {"src":"The Block","title":"Bitcoin ETFs turn positive for 2026 with $2.4 billion weekly inflow, their largest since October","url":"https://www.theblock.co/news/markets/2026-09-26-bitcoin-etfs-turn-positive-for-2026-with-2-4-billion-weekly-inflow-their-largest-since-october-416944","date":"Sat, 26 Sep 2026 17:24:12 +0000","sum":"ETF weekly print. HOLD BTC. DO NOT ADD."},
     {"src":"Decrypt","title":"Bitcoin ETFs Notch Seven-Day Winning Streak as 2026 Flows Turn Green","url":"https://decrypt.co/379391/bitcoin-etfs-notch-seven-day-winning-streak-as-2026-flows-turn-green","date":"Sat, 26 Sep 2026 17:01:03 +0000","sum":"Seven-session ETF bid. HOLD BTC. DO NOT ADD."},
-    {"src":"CryptoSlate","title":"Washington has $114 billion reasons to want Tether around","url":"https://cryptoslate.com/washington-has-114-billion-reasons-to-want-tether-around/","date":"Sat, 26 Sep 2026 16:45:55 +0000","sum":"Tether Treasuries. Context only. Not a ticket."},
     {"src":"Decrypt","title":"How Crypto Stopped Waiting for Congress and Learned to Love the Regulators","url":"https://decrypt.co/379383/how-crypto-stopped-waiting-congress-learned-love-regulators","date":"Sat, 26 Sep 2026 16:06:03 +0000","sum":"Agency path after Clarity. Context only. Not a ticket."},
     {"src":"The Block","title":"Kalshi loses appeal over Ohio and Tennessee sports betting laws, widening circuit split","url":"https://www.theblock.co/news/regulation/2026-09-26-kalshi-loses-appeal-over-ohio-and-tennessee-sports-betting-laws-widening-circuit-split-416937","date":"Sat, 26 Sep 2026 15:17:34 +0000","sum":"Prediction-market print. Not a ticket."},
     {"src":"Decrypt","title":"AI Agents Are Racing to Make Quantum-Safe Bitcoin Cheap And Winning","url":"https://decrypt.co/379378/ai-agents-racing-make-quantum-safe-bitcoin-cheap","date":"Sat, 26 Sep 2026 15:01:05 +0000","sum":"Research contest. HOLD BTC dust. Not a buy."},
@@ -38,7 +39,6 @@
     {"src":"Decrypt","title":"US Prosecutors Want $84.2 Million From a Bank Tied to Tether","url":"https://decrypt.co/379380/us-prosecutors-84-million-bank-tether-and-bitfinex","date":"Fri, 25 Sep 2026 21:25:35 +0000","sum":"Legal. Not a ticket."},
     {"src":"The Block","title":"SEC crypto FAQ addresses token buybacks, network upgrades and promises of profit","url":"https://www.theblock.co/news/regulation/2026-09-25-sec-crypto-faq-addresses-token-buybacks-network-upgrades-promises-profit-416914","date":"Fri, 25 Sep 2026 20:32:40 +0000","sum":"Token-buyback FAQ. LOOK ENA only. DO NOT ADD."},
     {"src":"The Block","title":"Blockchain Association CEO Summer Mersinger to step down, Kristin Smith to return as interim CEO","url":"https://www.theblock.co/news/regulation/2026-09-25-blockchain-association-ceo-summer-mersinger-tstep-down-kristin-smith-interim-ceo-416913","date":"Fri, 25 Sep 2026 19:48:07 +0000","sum":"Lobby shop change. Glance only."},
-    {"src":"Decrypt","title":"AI Agents Hacked Their Own Test Environment to Cheat, Cybersecurity Firm Finds","url":"https://decrypt.co/379369/ai-agents-hacked-test-environment-cheat-darktrace","date":"Fri, 25 Sep 2026 19:45:39 +0000","sum":"Security research. LOOK exploit class. Not a ticket."},
     {"src":"The Block","title":"Man charged in $16 million crypto massive pig butchering scam","url":"https://www.theblock.co/news/regulation/2026-09-25-man-charged-in-16-million-crypto-massive-pig-butchering-scam-416895","date":"Fri, 25 Sep 2026 17:48:16 +0000","sum":"Enforcement. Not a ticket."},
     {"src":"The Block","title":"Magic Eden legacy approvals leave $5.7 million in NFTs exposed to exploit before rescue","url":"https://www.theblock.co/news/web3/2026-09-25-magic-eden-legacy-approvals-leave-5-7-million-in-nfts-exposed-to-exploit-before-rescue-416874","date":"Fri, 25 Sep 2026 14:09:15 +0000","sum":"Approval-drain class. LOOK exploit tape. DO NOT ADD."}
   ]
