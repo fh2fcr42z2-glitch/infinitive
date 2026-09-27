@@ -79,6 +79,7 @@ function hxPush(who, text) {
 function hxAsk(q) {
   q = hxText(q).trim();
   if (!q) return;
+  hxSetOpen(true);
   hxPush("me", q);
   var pending = hxPush("bot", "Thinking…");
   fetch("/api/ask", {
@@ -100,6 +101,19 @@ function hxAsk(q) {
       pending.querySelector(".body").textContent = hxAnswer(q) || "Ask failed.";
     });
 }
+function hxSetOpen(on) {
+  var panel = document.getElementById("hx");
+  var open = document.getElementById("hx-open");
+  var input = document.getElementById("hx-q");
+  if (!panel) return;
+  panel.hidden = !on;
+  if (open) {
+    open.setAttribute("aria-expanded", on ? "true" : "false");
+    open.textContent = on ? "Close Houston" : "Ask Houston";
+  }
+  try { localStorage.setItem("hx-open", on ? "1" : "0"); } catch (e) {}
+  if (on && input) input.focus();
+}
 function hxBind() {
   var form = document.getElementById("hx-form");
   var input = document.getElementById("hx-q");
@@ -113,11 +127,18 @@ function hxBind() {
     b.addEventListener("click", function () { hxAsk(b.getAttribute("data-hx")); });
   });
   var open = document.getElementById("hx-open");
+  var close = document.getElementById("hx-close");
   var panel = document.getElementById("hx");
-  if (open && panel) open.addEventListener("click", function () {
-    panel.hidden = !panel.hidden;
-    if (!panel.hidden && input) input.focus();
+  if (open) open.addEventListener("click", function () {
+    hxSetOpen(panel && panel.hidden);
   });
+  if (close) close.addEventListener("click", function () { hxSetOpen(false); });
+  document.addEventListener("keydown", function (e) {
+    if (e.key === "Escape" && panel && !panel.hidden) hxSetOpen(false);
+  });
+  var saved = false;
+  try { saved = localStorage.getItem("hx-open") === "1"; } catch (e) {}
+  hxSetOpen(saved);
 }
 function hxLoad() {
   Promise.all([
@@ -129,10 +150,7 @@ function hxLoad() {
     HX.rh = arr[0]; HX.rs = arr[1]; HX.news = arr[2]; HX.look = arr[3]; HX.ready = true;
     var s = document.getElementById("hx-status");
     if (s) s.textContent = "Grok + book";
-    hxPush("bot", "Houston on desk with Grok. Ask a position or anything on the book. Not a fill.");
-  }).catch(function () {
-    hxPush("bot", "Could not load desk files.");
-  });
+  }).catch(function () {});
 }
 hxBind();
 hxLoad();
