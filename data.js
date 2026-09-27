@@ -9,6 +9,12 @@ function mEth(n){
   if(n==null||!isFinite(+n)) return "\u2014";
   return (+n).toFixed(2)+"m ETH";
 }
+function kInt(n){
+  if(n==null||!isFinite(+n)) return "\u2014";
+  if(n>=1e6) return (n/1e6).toFixed(2)+"m";
+  if(n>=1e3) return Math.round(n/1e3)+"k";
+  return String(Math.round(n));
+}
 async function drawPublicTape(){
   var box=document.getElementById("pub-tape");
   var reads=document.getElementById("pub-reads");
@@ -17,27 +23,36 @@ async function drawPublicTape(){
   try{
     var pack=await Promise.all([
       fetch("public-tape.json?t="+Date.now()).then(function(r){return r.ok?r.json():{};}),
-      fetch("/api/eth?t="+Date.now()).then(function(r){return r.ok?r.json():null;})
+      fetch("/api/eth?t="+Date.now()).then(function(r){return r.ok?r.json():null;}),
+      fetch("/api/research?t="+Date.now()).then(function(r){return r.ok?r.json():null;})
     ]);
     var j=pack[0]||{};
     var eth=pack[1];
+    var rs=pack[2]||{};
+    var g=rs.gtp||{};
+    var l2=rs.l2||{};
     var s=j.spot||{};
-    var ch=j.change_24h||{};
     var fg=j.fear_greed||{};
-    var tvl=j.tvl_usd||{};
     var etf=j.etf||{};
     var ethCard=eth
       ? ("supply "+mEth(eth.supply_m)+" \u00b7 burned "+mEth(eth.burned_m)+"<br>staked "+mEth(eth.staked_m)+(eth.staked_pct!=null?" ("+(eth.staked_pct*100).toFixed(1)+"%)":"")+"<br>HOLD \u00b7 DO NOT BUY under $2,900")
-      : (bn(s.ETH&&s.ETH.px)+" \u00b7 gate $2,900 still off");
+      : "gate $2,900 still off";
+    var gtpCard=g.error?g.error:("DAA "+kInt(g.daa)+(g.daa_rank?" rank "+g.daa_rank:"")+"<br>fees "+bn(g.fees_usd)+" / "+(g.fees_eth!=null?g.fees_eth.toFixed(0)+" ETH":"\u2014")+"<br>stables "+bn(g.stables_usd));
+    var top=(l2.top||[]).slice(0,3).map(function(p){return p.name+" "+bn(p.tvs);}).join(" \u00b7 ");
+    var l2Card=l2.error?l2.error:("TVS "+bn(l2.tvs)+"<br>"+top+"<br>L2 activity \u2260 ETH buy");
+    var bCard="queue / entities on beaconcha.in<br>staked figure from ultrasound<br>no key on desk yet";
     box.innerHTML=""
       +"<div class=\"idea\"><div class=\"tick\">ETH ultrasound</div><div class=\"thesis\">"+ethCard+"</div></div>"
-      +"<div class=\"idea\"><div class=\"tick\">BTC</div><div class=\"thesis\">"+bn(s.BTC&&s.BTC.px)+" \u00b7 24h "+(ch.BTC!=null?(ch.BTC>=0?"+":"")+ch.BTC.toFixed(2)+"%":"\u2014")+"</div></div>"
-      +"<div class=\"idea\"><div class=\"tick\">Fear & Greed</div><div class=\"thesis\">"+(fg.value||"\u2014")+" "+(fg.label||"")+"<br>Greed \u2260 size-up</div></div>"
-      +"<div class=\"idea\"><div class=\"tick\">BTC ETFs</div><div class=\"thesis\">Sep 25 net "+(etf.btc_net_2026_09_25_usdm!=null?"+"+etf.btc_net_2026_09_25_usdm+"m":"\u2014")+"<br>Farside</div></div>"
-      +"<div class=\"idea\"><div class=\"tick\">ETH TVL</div><div class=\"thesis\">"+bn(tvl.Ethereum)+"<br>Sol "+bn(tvl.Solana)+" \u00b7 Base "+bn(tvl.Base)+"</div></div>"
+      +"<a class=\"idea\" href=\"https://www.growthepie.com\" target=\"_blank\" rel=\"noopener\"><div class=\"tick\">growthepie</div><div class=\"thesis\">"+gtpCard+"</div></a>"
+      +"<a class=\"idea\" href=\"https://l2beat.com\" target=\"_blank\" rel=\"noopener\"><div class=\"tick\">L2BEAT</div><div class=\"thesis\">"+l2Card+"</div></a>"
+      +"<a class=\"idea\" href=\"https://beaconcha.in\" target=\"_blank\" rel=\"noopener\"><div class=\"tick\">beaconcha.in</div><div class=\"thesis\">"+bCard+"</div></a>"
+      +"<div class=\"idea\"><div class=\"tick\">Fear</div><div class=\"thesis\">"+(fg.value||"\u2014")+" "+(fg.label||"")+"<br>Greed \u2260 size-up</div></div>"
       +"<div class=\"idea\"><div class=\"tick\">ETH ETFs</div><div class=\"thesis\">latest "+(etf.eth_net_latest_usdm!=null?"+"+etf.eth_net_latest_usdm+"m":"\u2014")+"<br>does not clear $2,900</div></div>";
-    if(reads) reads.innerHTML=(j.reads||[]).map(function(r){return "<div class=\"step\"><span class=\"k wait\">D</span><div><div class=\"t\">"+r+"</div></div></div>";}).join("");
-    if(src) src.textContent=(eth&&eth.source?eth.source+" \u00b7 ":"")+(j.stamp||"")+" \u00b7 "+(j.asof||"");
+    if(reads) reads.innerHTML=(j.reads||[]).concat([
+      "growthepie / L2BEAT / ultrasound = research. Not tickets.",
+      "ETH still HOLD. DO NOT BUY under $2,900."
+    ]).map(function(r){return "<div class=\"step\"><span class=\"k wait\">D</span><div><div class=\"t\">"+r+"</div></div></div>";}).join("");
+    if(src) src.textContent="ultrasound + growthepie + L2BEAT";
   }catch(e){
     box.innerHTML="<div class=\"empty\">public tape failed</div>";
   }
