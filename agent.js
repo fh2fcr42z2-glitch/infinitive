@@ -28,29 +28,24 @@ function hxHoldings() {
 }
 function hxName(hit) {
   var n = hit.row;
-  if (!n) {
-    return hit.key + " is on the tape or a crumb. Open DES " + hit.key + " or read Owned. No fill from chat.";
-  }
+  if (!n) return hit.key + " is on the tape or a crumb. No fill from chat.";
   return n.sym + "  " + n.call + (n.usd != null ? "  $" + n.usd : "") + "\nFit: " + n.fit + "\nWhy: " + n.why + "\nWrong: " + n.wrong + "\nAlpha: " + n.alpha;
 }
 function hxNews() {
   var items = (HX.news && HX.news.items) || [];
   if (!items.length) return "News hub is empty. Open /news.";
-  return items.slice(0, 5).map(function (x) {
-    return x.src + ": " + x.title;
-  }).join("\n") + "\n\nHeadlines are not tickets. DO NOT BUY from a feed.";
+  return items.slice(0, 5).map(function (x) { return x.src + ": " + x.title; }).join("\n") + "\n\nHeadlines are not tickets.";
 }
 function hxBuy(q) {
   var hit = hxFindName(q);
   if (hit && hit.row) return hxName(hit);
-  var dn = ((HX.rs && HX.rs.do_not) || []).join("\n");
-  return "No live order from this desk.\n" + dn + "\n\nIf you want a ticket typed, say the name and I will answer HOLD / DO NOT ADD / LOOK. I will not send an order.";
+  return "No live order from this desk.\n" + ((HX.rs && HX.rs.do_not) || []).join("\n");
 }
 function hxRisk() {
-  return "Desmond: two names are ~62% of live NAV (SNAP + DRV). Coinbase cash $130 is the only powder. RH buying power $0.15. Pending $206 is not spendable. No 5x. No headline trade.\nDoocey: kill VST adds, PUMP/ENA/XPL adds, Look names, and any bot that orders from RSS.";
+  return "Desmond: SNAP + DRV ~62% of live NAV. CB cash is the powder. RH BP $0.15. No 5x. No headline trade.";
 }
 function hxHelp() {
-  return "Ask Houston about the book.\nTry: what do I own / SNAP / ETH / should I buy / cash / risk / news / forecast\nAnswers come from rh.json + research.json + news.json. Not a live model. Not a fill.";
+  return "Ask Houston. Book questions use the live files. Broader questions go to Grok on the server. Not a fill.";
 }
 function hxAnswer(raw) {
   var q = hxText(raw).trim();
@@ -63,28 +58,47 @@ function hxAnswer(raw) {
   if (/buy|sell|add|fill|long|short|order/.test(l)) return hxBuy(q);
   if (/cash|powder|sgov/.test(l)) {
     var c = hxFindName("cash");
-    return c && c.row ? hxName(c) : "Coinbase USD $130 is dry powder. HOLD. First process idea is SGOV or leave cash. DO NOT spend RH $0.15.";
+    return c && c.row ? hxName(c) : "Coinbase USD is dry powder. HOLD. DO NOT spend RH $0.15.";
   }
-  if (/forecast|project/.test(l)) return "Forecast panel is SNAP-weighted bands on the live book. Planning sketch, not a promise. Open Forecast on the desk.";
   var hit = hxFindName(q);
   if (hit) return hxName(hit);
-  return "I only speak the desk files.\n" + hxHelp();
+  return "";
 }
 function hxPush(who, text) {
   var log = document.getElementById("hx-log");
   if (!log) return;
   var el = document.createElement("article");
   el.className = "hx-msg " + who;
-  el.innerHTML = "<div class=\"who\">" + (who === "me" ? "You" : "Houston") + "</div><div class=\"body\"></div>";
+  el.innerHTML = "<div class=\"who\"></div><div class=\"body\"></div>";
+  el.querySelector(".who").textContent = who === "me" ? "You" : "Houston";
   el.querySelector(".body").textContent = text;
   log.appendChild(el);
   log.scrollTop = log.scrollHeight;
+  return el;
 }
 function hxAsk(q) {
   q = hxText(q).trim();
   if (!q) return;
   hxPush("me", q);
-  hxPush("bot", hxAnswer(q));
+  var pending = hxPush("bot", "Thinking…");
+  fetch("/api/ask", {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({ question: q })
+  }).then(function (r) { return r.json().then(function (j) { return { ok: r.ok, j: j }; }); })
+    .then(function (pack) {
+      if (pack.ok && pack.j && pack.j.answer) {
+        pending.querySelector(".body").textContent = pack.j.answer;
+        var s = document.getElementById("hx-status");
+        if (s) s.textContent = pack.j.model || "grok";
+        return;
+      }
+      var local = hxAnswer(q) || (pack.j && pack.j.error) || "Ask failed. Using desk files.";
+      pending.querySelector(".body").textContent = local;
+    })
+    .catch(function () {
+      pending.querySelector(".body").textContent = hxAnswer(q) || "Ask failed.";
+    });
 }
 function hxBind() {
   var form = document.getElementById("hx-form");
@@ -114,8 +128,8 @@ function hxLoad() {
   ]).then(function (arr) {
     HX.rh = arr[0]; HX.rs = arr[1]; HX.news = arr[2]; HX.look = arr[3]; HX.ready = true;
     var s = document.getElementById("hx-status");
-    if (s) s.textContent = HX.rh ? ("book $" + HX.rh.live_nav) : "files missing";
-    hxPush("bot", "Houston on desk. Live NAV $" + (HX.rh && HX.rh.live_nav ? HX.rh.live_nav.toFixed(0) : "?") + ". Ask a name or: what do I own.");
+    if (s) s.textContent = "Grok + book";
+    hxPush("bot", "Houston on desk with Grok. Ask a position or anything on the book. Not a fill.");
   }).catch(function () {
     hxPush("bot", "Could not load desk files.");
   });
