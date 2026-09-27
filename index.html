@@ -15,11 +15,13 @@
   <header class="top">
     <div class="brand">
       <div class="mark" aria-hidden="true">∞</div>
-      <div><h1>INFINITIVE</h1><small>Ghost Desk · Coinbase book</small></div>
+      <div><h1>INFINITIVE</h1><small>Ghost Desk · live book + research</small></div>
     </div>
     <div class="chips">
       <span class="chip"><span class="dot on"></span>Live</span>
+      <span class="chip" id="mkt">US · CT</span>
       <span class="chip" id="mark-src">CB pulse</span>
+      <a class="chip" href="#pub-h">Research</a>
       <a class="chip" href="#live-h">Owned</a>
       <a class="chip" href="#wheel-h">Wheel</a>
       <a class="chip" href="/news">NEWS</a>
@@ -34,6 +36,11 @@
   <div class="cmd-out" id="cmd-out" hidden></div>
   <section class="qm" id="qm" aria-label="Quote monitor"></section>
   <section class="tape" id="tape" aria-label="Desk tape"></section>
+  <section class="panel" aria-labelledby="pub-h">
+    <div class="phead"><h2 id="pub-h">Research tape</h2><span class="label" id="pub-src"></span></div>
+    <div class="ideas" id="pub-tape"></div>
+    <div class="plan" id="pub-reads"></div>
+  </section>
   <section class="panel" aria-labelledby="live-h">
     <div class="phead">
       <h2 id="live-h">Owned · RH + Coinbase</h2>
@@ -42,26 +49,9 @@
     <div class="tbl-wrap" id="live-book"><div class="empty">Loading book…</div></div>
   </section>
   <section class="panel" aria-labelledby="rs-h">
-    <div class="phead"><h2 id="rs-h">Houston · holdings research</h2></div>
+    <div class="phead"><h2 id="rs-h">Holdings research</h2></div>
     <div class="plan" id="rs-list"></div>
     <div class="plan" id="rs-try"></div>
-  </section>
-  <section class="panel" aria-labelledby="fc-h">
-    <div class="phead"><h2 id="fc-h">Forecast</h2></div>
-    <div class="scen" id="fc-rows"></div>
-    <div class="plan" id="fc-scen"></div>
-  </section>
-  <section class="panel" aria-labelledby="pub-h">
-    <div class="phead"><h2 id="pub-h">Public tape</h2><span class="label" id="pub-src"></span></div>
-    <div class="ideas" id="pub-tape"></div>
-    <div class="plan" id="pub-reads"></div>
-  </section>
-  <section class="kpis" aria-label="Summary">
-    <div class="kpi"><span class="label">Research overlay NAV</span><span class="v" id="k-nav">$100,000</span></div>
-    <div class="kpi"><span class="label">Open P&L</span><span class="v" id="k-pnl">$0</span></div>
-    <div class="kpi"><span class="label">Invested</span><span class="v" id="k-inv">0%</span><div class="meter"><i id="k-inv-m" style="width:0%"></i></div></div>
-    <div class="kpi"><span class="label">Crypto sleeve</span><span class="v" id="k-cr">0%</span></div>
-    <div class="kpi"><span class="label">Room to desk stop</span><span class="v" id="k-dd">15.0%</span></div>
   </section>
   <div class="grid2">
     <section class="panel" aria-labelledby="wheel-h">
@@ -76,18 +66,6 @@
         <div class="wheel" id="wheel"></div>
         <div class="legend" id="legend"></div>
       </div>
-      <div class="proj">
-        <div class="phead">
-          <h2>What it could make</h2>
-          <label for="hz">Horizon <input type="range" id="hz" min="1" max="10" value="3"> <b class="num" id="hz-v">3 yr</b></label>
-        </div>
-        <div class="scen">
-          <div class="sc"><span class="label">Rough</span><span class="v" id="p10">—</span><span class="g" id="p10g"></span></div>
-          <div class="sc base"><span class="label">Base</span><span class="v" id="p50">—</span><span class="g" id="p50g"></span></div>
-          <div class="sc"><span class="label">Strong</span><span class="v" id="p90">—</span><span class="g" id="p90g"></span></div>
-        </div>
-        <svg class="fan" id="fan" viewBox="0 0 520 150"></svg>
-      </div>
     </section>
     <section class="panel" aria-labelledby="plan-h">
       <div class="phead"><h2 id="plan-h">Next moves</h2></div>
@@ -95,6 +73,30 @@
       <div class="plan" id="plan"></div>
     </section>
   </div>
+  <section class="panel" aria-labelledby="fc-h">
+    <div class="phead"><h2 id="fc-h">Forecast</h2></div>
+    <div class="scen" id="fc-rows"></div>
+    <div class="plan" id="fc-scen"></div>
+    <div class="proj">
+      <div class="phead">
+        <h2>What it could make</h2>
+        <label for="hz">Horizon <input type="range" id="hz" min="1" max="10" value="3"> <b class="num" id="hz-v">3 yr</b></label>
+      </div>
+      <div class="scen">
+        <div class="sc"><span class="label">Rough</span><span class="v" id="p10">—</span><span class="g" id="p10g"></span></div>
+        <div class="sc base"><span class="label">Base</span><span class="v" id="p50">—</span><span class="g" id="p50g"></span></div>
+        <div class="sc"><span class="label">Strong</span><span class="v" id="p90">—</span><span class="g" id="p90g"></span></div>
+      </div>
+      <svg class="fan" id="fan" viewBox="0 0 520 150"></svg>
+    </div>
+  </section>
+  <section class="kpis" aria-label="Overlay">
+    <div class="kpi"><span class="label">Research overlay NAV</span><span class="v" id="k-nav">$100,000</span></div>
+    <div class="kpi"><span class="label">Open P&L</span><span class="v" id="k-pnl">$0</span></div>
+    <div class="kpi"><span class="label">Invested</span><span class="v" id="k-inv">0%</span><div class="meter"><i id="k-inv-m" style="width:0%"></i></div></div>
+    <div class="kpi"><span class="label">Crypto sleeve</span><span class="v" id="k-cr">0%</span></div>
+    <div class="kpi"><span class="label">Room to desk stop</span><span class="v" id="k-dd">15.0%</span></div>
+  </section>
   <section class="panel" aria-labelledby="ideas-h">
     <div class="phead"><h2 id="ideas-h">Trade ideas</h2><div class="seg" id="ifilter"><button data-f="all" aria-pressed="true">All</button></div></div>
     <div class="ideas" id="ideas"></div>
