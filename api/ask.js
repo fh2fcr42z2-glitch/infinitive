@@ -17,7 +17,7 @@ module.exports = async function handler(req, res) {
   var origin = "https://infinitive-desk.vercel.app";
   var ctx = "";
   try {
-    var files = ["rh.json", "research.json", "news.json"];
+    var files = ["cb.json", "rh.json", "research.json"];
     for (var i = 0; i < files.length; i++) {
       var r = await fetch(origin + "/" + files[i] + "?t=" + Date.now());
       if (r.ok) ctx += "\n\n# " + files[i] + "\n" + (await r.text()).slice(0, 8000);
@@ -27,10 +27,10 @@ module.exports = async function handler(req, res) {
   var system = [
     "You are Houston on Infinitive / Ghost Desk.",
     "Paper and research only. Never place or imply a live broker order.",
-    "Use HOLD, DO NOT ADD, DO NOT BUY, LOOK. If something is a buy it must say BUY and size and invalidation.",
-    "Book source of truth is the JSON context. Combined live NAV is RH + Coinbase.",
-    "Do not invent balances. If a name is not in the book, say so.",
-    "Headlines are not tickets."
+    "First line is the call: BUY (size + invalidation) or HOLD or DO NOT ADD or DO NOT BUY or LOOK.",
+    "Then at most 5 short numbered lines. Cite cb.json / rh.json / research.json. Do not invent balances.",
+    "ETH gate $2,900: HOLD / DO NOT BUY under it. DRV: DO NOT ADD.",
+    "No preamble. No recap. No closer. Headlines are not tickets."
   ].join(" ");
 
   try {
@@ -51,7 +51,7 @@ module.exports = async function handler(req, res) {
     });
     var data = await xr.json();
     if (!xr.ok) {
-      return res.status(xr.status).json({ error: data.error && data.error.message ? data.error.message : "xAI error", fallback: true });
+      return res.status(500).json({ error: data.error && data.error.message ? data.error.message : "xAI error", fallback: true });
     }
     var text = data.choices && data.choices[0] && data.choices[0].message && data.choices[0].message.content;
     return res.status(200).json({ answer: text || "No answer.", model: "grok-4" });
