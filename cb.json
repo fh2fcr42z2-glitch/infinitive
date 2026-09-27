@@ -1,0 +1,15 @@
+{
+  "asof": "2026-09-27T15:50:00Z",
+  "source": "Coinbase Default portfolio",
+  "stamp": "COINBASE WHEEL. Qty from last pull. Marks pulse.",
+  "nav": 710.73,
+  "cash": 0.00,
+  "holdings": [
+    { "sym": "DRV", "qty": 963.635, "usd": 391.51, "w": 0.551 },
+    { "sym": "ETH", "qty": 0.082753, "usd": 222.58, "w": 0.313 },
+    { "sym": "AMP", "qty": 85273.31, "usd": 53.81, "w": 0.076 },
+    { "sym": "BTC", "qty": 0.00044921, "usd": 37.94, "w": 0.053 },
+    { "sym": "XRP", "qty": 2.0, "usd": 3.03, "w": 0.004 },
+    { "sym": "SOL", "qty": 0.009085739, "usd": 1.11, "w": 0.002 }
+  ]
+}
