@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-01T19:03:24Z",
+  "asof": "2026-10-01T20:03:11Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -11,6 +11,13 @@
     "https://rekt.news"
   ],
   "items": [
+    {
+      "source": "The Block",
+      "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
+      "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
+      "pubDate": "2026-10-01T19:10:36Z",
+      "summary": "Policy group wants perps under MiFID II. Circle targets MiCA bank deposit floor. Hyperliquid headline. LOOK only. DO NOT ADD. Not a ticket. No desk order."
+    },
     {
       "source": "CoinTelegraph",
       "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
@@ -100,7 +107,7 @@
       "title": "Bond yield explosion gives Bitcoin a strong signal - is now finally Satoshi's time",
       "url": "https://cryptoslate.com/bond-yield-explosion-gives-bitcoin-a-strong-signal-is-now-finally-satoshis-time/",
       "pubDate": "2026-10-01T18:00:21Z",
-      "summary": "Opinion note tying BoE warning and software-buyer demand to BTC. Not a ticket. BTC headline. HOLD. LOOK only. DO NOT ADD."
+      "summary": "Opinion note tying a BoE warning and software-buyer demand to BTC. Not a ticket. BTC headline. HOLD. LOOK only. DO NOT ADD."
     },
     {
       "source": "Decrypt",
@@ -206,13 +213,6 @@
       "url": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
       "pubDate": "2026-10-01T15:00:00Z",
       "summary": "Advisor note on rules after the CLARITY Act failed. Headlines only. Not a ticket."
-    },
-    {
-      "source": "The Block",
-      "title": "Lloyds, Visa settle $750,000 using USDC in live cross-border pilot",
-      "url": "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378",
-      "pubDate": "2026-10-01T11:13:46Z",
-      "summary": "Lloyds used USDC to settle $750,000 of payment obligations with Visa in a seven-day pilot. Headlines only. Not a ticket."
     },
     {
       "source": "The Block",
