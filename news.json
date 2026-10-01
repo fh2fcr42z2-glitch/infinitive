@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-01T17:08:34Z",
+  "asof": "2026-10-01T18:02:00Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -30,7 +30,7 @@
       "title": "NEAR Intents halts services after $3.8 million exploit, promises full compensation",
       "url": "https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404",
       "pubDate": "2026-10-01T14:18:12Z",
-      "summary": "Contract flaw patched. Deposits and withdrawals on 11 networks remain disrupted. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "Services halted after the exploit. Compensation promised. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "CoinDesk",
@@ -51,21 +51,21 @@
       "title": "Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter",
       "url": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
       "pubDate": "2026-10-01T11:30:38Z",
-      "summary": "Day-ahead note for Oct. 1, 2026. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
-    },
-    {
-      "source": "Decrypt",
-      "title": "MetaMask Exits Lido Validators Amid Infrastructure 'Security Incident'",
-      "url": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
-      "pubDate": "2026-10-01T09:38:06Z",
-      "summary": "Wallet says no immediate threat to user wallets. ETH pulled from Lido could take 45 days to return. ETH headline. LOOK only. DO NOT ADD. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "Day-ahead note for Oct. 1, 2026. BTC headline. HOLD. LOOK only. DO NOT ADD. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "CryptoSlate",
       "title": "MetaMask security scare pushes Ethereum validator exits to a nine-month high",
       "url": "https://cryptoslate.com/metamask-security-scare-pushes-ethereum-validator-exits-to-a-nine-month-high/",
       "pubDate": "2026-10-01T13:40:02Z",
-      "summary": "Lido estimates up to about 45 days for exit, withdrawal and re-entry after the Sept. 30 disclosure. ETH headline. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "Validator exits rose after the MetaMask infrastructure disclosure. ETH headline. LOOK only. DO NOT ADD. Not a ticket."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators",
+      "url": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
+      "pubDate": "2026-10-01T12:29:00Z",
+      "summary": "Note flags a MetaMask security event with details still incomplete. ETH headline. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "The Block",
@@ -79,56 +79,63 @@
       "title": "Ethereum is preparing a 200 million gas push as its Layer 1 scaling strategy accelerates",
       "url": "https://cryptoslate.com/ethereum-is-preparing-a-200-million-gas-push-as-its-layer-1-scaling-strategy-accelerates/",
       "pubDate": "2026-10-01T11:20:17Z",
-      "summary": "Prysm 7.2.0 supports the scheduled fork. 200 million gas preference must be set explicitly. ETH headline. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "Layer 1 gas target note. Preference must be set explicitly. ETH headline. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "CoinDesk",
-      "title": "Live Updates: Bitcoin holding near $84,000 ahead of Friday's U.S. jobs report",
+      "title": "Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report",
       "url": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
       "pubDate": "2026-10-01T11:59:17Z",
-      "summary": "Headline says Bitcoin holding near $84,000 into Friday jobs. Desk does not invent a fill. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Not a ticket."
+      "summary": "Refreshed headline is tentative gains into Friday jobs as rates drop. Desk does not invent a fill. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "CoinTelegraph",
       "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
       "url": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs",
       "pubDate": "2026-10-01T15:55:19Z",
-      "summary": "Yields fell around the Wall Street open as Bitcoin sought higher lows. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Not a ticket."
+      "summary": "Yields fell around the Wall Street open as Bitcoin sought higher lows. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "The Block",
       "title": "Bitcoin ETFs' 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds",
       "url": "https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384",
       "pubDate": "2026-10-01T12:17:06Z",
-      "summary": "Spot BTC ETF streak ends with $149 million out. Spot ETH ETFs saw $59.6 million out Wednesday. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. ETH headline. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "Spot BTC ETF streak ends with $149 million out. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "Decrypt",
       "title": "Citi Lifts 12-Month Bitcoin Target to $113K, Ethereum to $3K",
       "url": "https://decrypt.co/379808/citi-lifts-12-month-bitcoin-target-to-113k-ethereum-to-3k",
       "pubDate": "2026-10-01T12:23:15Z",
-      "summary": "Bank target note only. Not a desk ticket. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. ETH headline. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "Bank target note only. Not a desk ticket. BTC headline. HOLD. LOOK only. DO NOT ADD. ETH headline. LOOK only. DO NOT ADD. Not a ticket."
+    },
+    {
+      "source": "Decrypt",
+      "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
+      "url": "https://decrypt.co/379790/start-of-uptober-will-bitcoin-live-up-to-it",
+      "pubDate": "2026-10-01T12:00:00Z",
+      "summary": "Seasonal headline only. Not a ticket. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "CryptoSlate",
       "title": "Senate tax bill frees stablecoin spending while Bitcoin stays on IRS forms",
       "url": "https://cryptoslate.com/senate-tax-bill-frees-stablecoin-spending-while-bitcoin-stays-on-irs-forms/",
       "pubDate": "2026-10-01T12:20:50Z",
-      "summary": "Draft would give eligible dollar-stablecoin purchases no-gain treatment. Ordinary Bitcoin spending still reported. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Not a ticket."
+      "summary": "Draft would give eligible dollar-stablecoin purchases no-gain treatment. Ordinary Bitcoin spending still reported. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "21bitcoin Now Pays Interest on Idle Euros, Payable in BTC",
       "url": "https://bitcoinmagazine.com/news/21bitcoin-pays-interest-on-euros",
       "pubDate": "2026-10-01T16:25:18Z",
-      "summary": "Austrian platform 21bitcoin will pay interest on euro balances, payable in bitcoin if chosen. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Not a ticket."
+      "summary": "Austrian platform 21bitcoin will pay interest on euro balances, payable in bitcoin if chosen. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "The Quantum Issue: Quantum Isn't Coming For Your Bitcoin",
       "url": "https://bitcoinmagazine.com/print/the-quantum-issue-quantum-isnt-coming-for-your-bitcoin",
       "pubDate": "2026-10-01T14:07:50Z",
-      "summary": "Print essay on barriers to a viable quantum computer. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Not a ticket."
+      "summary": "Print essay on barriers to a viable quantum computer. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "CoinTelegraph",
@@ -194,13 +201,6 @@
       "summary": "Advisor note on rules after the CLARITY Act failed. Headlines only. Not a ticket."
     },
     {
-      "source": "Decrypt",
-      "title": "Morning Minute: Crypto Gives Up on Congress and Goes After Senators",
-      "url": "https://decrypt.co/379807/morning-minute-crypto-gives-up-on-congress-and-goes-after-senators",
-      "pubDate": "2026-10-01T12:29:00Z",
-      "summary": "Note flags a MetaMask security event with details still incomplete. ETH headline. LOOK only. DO NOT ADD. Not a ticket."
-    },
-    {
       "source": "The Block",
       "title": "Lloyds, Visa settle $750,000 using USDC in live cross-border pilot",
       "url": "https://www.theblock.co/news/business/2026-10-01-lloyds-visa-settle-750000-using-usdc-in-live-cross-border-pilot-417378",
@@ -212,7 +212,7 @@
       "title": "Robinhood Wallet integrates Arcus RFQ system for stock token swaps",
       "url": "https://www.theblock.co/news/business/2026-10-01-robinhood-wallet-integrates-arcus-rfq-system-for-stock-token-swaps-417394",
       "pubDate": "2026-10-01T13:00:00Z",
-      "summary": "Robinhood Wallet adds Arcus routing for stock-token swaps, more than 190 tokens for eligible users. Headlines only. Not a ticket."
+      "summary": "Robinhood Wallet adds Arcus routing for stock-token swaps. Headlines only. Not a ticket. No desk order."
     },
     {
       "source": "CoinDesk",
@@ -247,21 +247,21 @@
       "title": "Bitcoin's Institutional Era Has Arrived | Robinhood VP of Crypto Institutions Nicola White",
       "url": "https://bitcoinmagazine.com/videos/bitcoins-institutional-era-has-arrived-robinhood-vp-of-crypto-institutions-nicola-white",
       "pubDate": "2026-10-01T00:52:03Z",
-      "summary": "Interview on US crypto perpetual futures and 24/7 markets. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Not a ticket."
+      "summary": "Interview on US crypto perpetual futures and 24/7 markets. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Mark Moss: The Bitcoin Endgame - BTC to $1 Million by 2030",
       "url": "https://bitcoinmagazine.com/videos/mark-moss-the-bitcoin-endgame-btc-to-1-million-by-2030",
       "pubDate": "2026-10-01T00:45:15Z",
-      "summary": "Price-target interview. Not a desk ticket. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Not a ticket."
+      "summary": "Price-target interview. Not a desk ticket. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Bitcoin Privacy Breakthrough a Zcash Killer? | Misha Komorov, Alloc Innit",
       "url": "https://bitcoinmagazine.com/videos/bitcoin-privacy-breakthrough-a-zcash-killer-misha-komorov-alloc-innit",
       "pubDate": "2026-10-01T00:57:35Z",
-      "summary": "Interview on Shielded Bitcoin, a proposed ZK privacy protocol. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Not a ticket."
+      "summary": "Interview on Shielded Bitcoin, a proposed ZK privacy protocol. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     }
   ]
 }
