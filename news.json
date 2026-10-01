@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-01T22:02:19Z",
+  "asof": "2026-10-01T23:02:30Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,8 +10,22 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "bitcoinmagazine.com/.rss/full/ returned 403 this run. Bitcoin Magazine items below are from https://bitcoinmagazine.com/feed. Rekt listed, not fetched as RSS.",
+  "notes": "All six RSS feeds returned HTTP 200 this run. Up to 6 items parsed per feed. Rekt listed, not fetched as RSS. No SNAP, DRV, ENA, AERO, or PUMP headline in this pull. HOLD those names. DO NOT ADD. LOOK only.",
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitget's $388M hack pushes Q3 crypto security losses past $1B",
+      "url": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion",
+      "pubDate": "2026-10-01T13:35:47Z",
+      "summary": "Article says Q3 losses reached $1.26 billion across 247 incidents, with September about $769 million. Bitget-style exploit headline. LOOK only. DO NOT ADD. Not a ticket."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
+      "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack",
+      "pubDate": "2026-10-01T15:43:34Z",
+      "summary": "Platform said it will compensate users. Bug affected deposits and withdrawals after it assisted on the Bitget incident. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
+    },
     {
       "source": "The Block",
       "title": "NEAR Intents halts services after $3.8 million exploit, promises full compensation",
@@ -27,11 +41,46 @@
       "summary": "Cross-chain system said it will reimburse losses after a bug affected deposits and withdrawals. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
+      "source": "Decrypt",
+      "title": "Bitget Hacker Turns to Zcash Privacy Pool After Near Rejects $50M in Swaps",
+      "url": "https://decrypt.co/379759/bitget-hacker-zcash-private-pool-near-thorchain",
+      "pubDate": "2026-09-30T19:46:04Z",
+      "summary": "Article says the Bitget attacker started hiding about $3.8 million in ZEC after Near Intents turned swaps away. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitget hackers move $4 million into Zcash's private pool, making funds harder to trace",
+      "url": "https://www.coindesk.com/markets/2026/09/30/bitget-hackers-move-usd4-million-into-zcash-s-private-pool-making-funds-harder-to-trace",
+      "pubDate": "2026-09-30T11:04:09Z",
+      "summary": "Three transfers pushed about 15 percent of the stolen ZEC into Ironwood. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
+    },
+    {
       "source": "CryptoSlate",
       "title": "Wall Street arrived in NEAR just as a $4 billion-a-month app got hacked",
       "url": "https://cryptoslate.com/wall-street-arrived-in-near-just-as-a-4-billion-a-month-app-got-hacked/",
       "pubDate": "2026-10-01T21:30:20Z",
-      "summary": "Article frames a new NEAR US ETF against the $3.8 million NEAR Intents Omni deposit incident. Exploit headline. LOOK only. DO NOT ADD. Not a ticket. Desk does not price NEAR."
+      "summary": "Article frames a new NEAR US ETF against the NEAR Intents Omni deposit incident. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
+      "pubDate": "2026-10-01T11:30:38Z",
+      "summary": "Daybook note on Q3 hack losses versus the quarter. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "MetaMask security incident forces Ethereum staking exits, no funds at risk",
+      "url": "https://www.coindesk.com/tech/2026/10/01/metamask-security-incident-forces-ethereum-staking-exits-with-lido-warning-of-lost-rewards",
+      "pubDate": "2026-10-01T07:06:30Z",
+      "summary": "Researcher estimate cited about 0.36 ETH of rewards diverted. Precautionary exits cover validators holding roughly 523,000 ETH. ETH headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "MetaMask exits Ethereum validators amid undisclosed security incident",
+      "url": "https://cointelegraph.com/news/metamask-exits-lido-validators-as-it-investigates-security-incident",
+      "pubDate": "2026-10-01T00:15:55Z",
+      "summary": "MetaMask said it is investigating internally and has found no immediate threat to wallets. ETH headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "The Block",
@@ -39,6 +88,13 @@
       "url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
       "pubDate": "2026-10-01T16:17:23Z",
       "summary": "Issuance-change proposal pulled. Scoping process called the wrong venue. ETH headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin ETFs' 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds",
+      "url": "https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384",
+      "pubDate": "2026-10-01T12:17:06Z",
+      "summary": "Streak ended with $149 million leaving spot bitcoin ETFs. Same note cites $59.6 million of spot ether ETF outflows Wednesday. BTC and ETH headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "CryptoSlate",
@@ -55,18 +111,18 @@
       "summary": "Headline is tentative gains into Friday jobs as rates drop. Desk does not invent a fill. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
-      "source": "CryptoSlate",
-      "title": "Bond yield explosion gives Bitcoin a strong signal - is now finally Satoshi's time?",
-      "url": "https://cryptoslate.com/bond-yield-explosion-gives-bitcoin-a-strong-signal-is-now-finally-satoshis-time/",
-      "pubDate": "2026-10-01T18:00:21Z",
-      "summary": "Opinion note tying a BoE warning and software-buyer demand to BTC. Not a ticket. BTC headline. HOLD. LOOK only. DO NOT ADD."
+      "source": "Decrypt",
+      "title": "It's the Start of Uptober. Will Bitcoin Live Up to It?",
+      "url": "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it",
+      "pubDate": "2026-10-01T17:11:44Z",
+      "summary": "Seasonal headline. Not a ticket. BTC headline. HOLD. LOOK only. DO NOT ADD."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Jack Dorsey's Block Launches Campaign To Get People Spending Bitcoin",
       "url": "https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign",
       "pubDate": "2026-10-01T20:15:36Z",
-      "summary": "Block campaign headline on spending bitcoin. Listed full RSS was 403; item from bitcoinmagazine.com/feed. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "Block campaign headline on spending bitcoin. Full RSS returned 200 this run. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "Bitcoin Magazine",
@@ -104,11 +160,11 @@
       "summary": "Policy group wants perps under MiFID II. Circle targets MiCA bank deposit floor. Hyperliquid headline. LOOK only. DO NOT ADD. Not a ticket. No desk order."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
-      "url": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review",
-      "pubDate": "2026-10-01T18:45:09Z",
-      "summary": "A 50,000-letter campaign presses Brussels to rethink stablecoin rewards as central banks seek broader MiCA changes. Headlines only. Not a ticket."
+      "source": "Bitcoin Magazine",
+      "title": "Republican Senator Steve Daines Releases Text of Proposed Crypto Tax Plan",
+      "url": "https://bitcoinmagazine.com/news/republican-releases-crypto-tax-plan",
+      "pubDate": "2026-10-01T20:03:12Z",
+      "summary": "Proposed bill text aimed at clearer rules for assets like stablecoins. Headlines only. Not a ticket."
     },
     {
       "source": "CoinTelegraph",
@@ -118,32 +174,11 @@
       "summary": "Officials agreed to delay the 0.2 percent crypto tax for six months after lawsuits. Headlines only. Not a ticket."
     },
     {
-      "source": "CoinDesk",
-      "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
-      "url": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
-      "pubDate": "2026-10-01T11:58:00Z",
-      "summary": "Sides agreed the 0.2 percent tax should be put off until July 1 if the court approves. Headlines only. Not a ticket."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "New York, Wyoming regulators sign pact to coordinate crypto oversight",
-      "url": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight",
-      "pubDate": "2026-10-01T16:12:23Z",
-      "summary": "State regulators will share supervisory information and coordinate exams and enforcement. Headlines only. Not a ticket."
-    },
-    {
       "source": "CoinTelegraph",
       "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
       "url": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury",
       "pubDate": "2026-10-01T21:07:45Z",
       "summary": "Evernorth expects Nasdaq ticker XRPN after the SPAC merger closes, with a treasury the article sizes near 473 million XRP. Headlines only. Not a ticket. DO NOT ADD."
-    },
-    {
-      "source": "The Block",
-      "title": "Evernorth shareholders approve $1 billion XRP treasury deal, clearing path to Nasdaq debut",
-      "url": "https://www.theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413",
-      "pubDate": "2026-10-01T15:17:11Z",
-      "summary": "Armada II shareholders approved the Evernorth merger. Company expects to hold about 473M XRP. Headlines only. Not a ticket."
     },
     {
       "source": "Decrypt",
@@ -153,32 +188,11 @@
       "summary": "Shareholders approved Evernorth's merger with Armada Acquisition Corp. II. Trading expected Oct. 8 with about 473 million XRP. Headlines only. Not a ticket."
     },
     {
-      "source": "CryptoSlate",
-      "title": "XRP is becoming collateral for real loans and the first market is already dominated by whales",
-      "url": "https://cryptoslate.com/xrp-is-becoming-collateral-for-real-loans-and-the-first-market-is-already-dominated-by-whales/",
-      "pubDate": "2026-10-01T20:20:56Z",
-      "summary": "Morpho snapshot shows live FXRP collateral use, with concentrated debt. Headlines only. Not a ticket. DO NOT ADD."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Open USD bets Stripe's $1.9 trillion network can break USDT and USDC's grip",
-      "url": "https://cryptoslate.com/open-usd-bets-stripes-1-9-trillion-network-can-break-usdt-and-usdcs-grip/",
-      "pubDate": "2026-10-01T16:00:14Z",
-      "summary": "Fee unspecified. Stripe product limits and a Visa restricted beta shape access. Headlines only. Not a ticket."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "UK's 2027 crypto rules could block new business with existing customers",
-      "url": "https://cryptoslate.com/uks-2027-crypto-rules-could-block-new-business-with-existing-customers/",
-      "pubDate": "2026-10-01T17:00:37Z",
-      "summary": "FCA gateway open. Eligible firms applying by Feb. 28, 2027 can keep new business if still undecided at commencement. Headlines only. Not a ticket."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
-      "pubDate": "2026-10-01T15:00:00Z",
-      "summary": "Advisor note on rules after the CLARITY Act failed. Headlines only. Not a ticket."
+      "source": "CoinTelegraph",
+      "title": "Trump to host 3rd exclusive memecoin event amid corruption claims",
+      "url": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims",
+      "pubDate": "2026-10-01T21:00:11Z",
+      "summary": "Nov. 22 dinner advertised for top memecoin holders. Headlines only. Not a ticket. DO NOT ADD."
     },
     {
       "source": "The Block",
@@ -186,20 +200,6 @@
       "url": "https://www.theblock.co/news/business/2026-10-01-robinhood-wallet-integrates-arcus-rfq-system-for-stock-token-swaps-417394",
       "pubDate": "2026-10-01T13:00:00Z",
       "summary": "Robinhood Wallet adds Arcus routing for stock-token swaps. Headlines only. Not a ticket. No desk order."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Trump to host 3rd 'exclusive' memecoin event amid corruption claims",
-      "url": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims",
-      "pubDate": "2026-10-01T21:00:11Z",
-      "summary": "Nov. 22 dinner advertised for top memecoin holders. Headlines only. Not a ticket. DO NOT ADD."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Another Trump memecoin dinner advertised for token's top investors",
-      "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
-      "pubDate": "2026-10-01T18:45:29Z",
-      "summary": "November event advertised for the token's top holders. Headlines only. Not a ticket. DO NOT ADD."
     },
     {
       "source": "Decrypt",
