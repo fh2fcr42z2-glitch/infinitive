@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-01T21:02:11Z",
+  "asof": "2026-10-01T22:02:19Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,14 +10,8 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
+  "notes": "bitcoinmagazine.com/.rss/full/ returned 403 this run. Bitcoin Magazine items below are from https://bitcoinmagazine.com/feed. Rekt listed, not fetched as RSS.",
   "items": [
-    {
-      "source": "CoinTelegraph",
-      "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
-      "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack",
-      "pubDate": "2026-10-01T15:43:34Z",
-      "summary": "Platform said it will compensate users. Bug hit deposits and withdrawals after Bitget-related assistance. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
-    },
     {
       "source": "The Block",
       "title": "NEAR Intents halts services after $3.8 million exploit, promises full compensation",
@@ -33,11 +27,11 @@
       "summary": "Cross-chain system said it will reimburse losses after a bug affected deposits and withdrawals. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
-      "source": "The Block",
-      "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
-      "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
-      "pubDate": "2026-10-01T19:10:36Z",
-      "summary": "Policy group wants perps under MiFID II. Circle targets MiCA bank deposit floor. Hyperliquid headline. LOOK only. DO NOT ADD. Not a ticket. No desk order."
+      "source": "CryptoSlate",
+      "title": "Wall Street arrived in NEAR just as a $4 billion-a-month app got hacked",
+      "url": "https://cryptoslate.com/wall-street-arrived-in-near-just-as-a-4-billion-a-month-app-got-hacked/",
+      "pubDate": "2026-10-01T21:30:20Z",
+      "summary": "Article frames a new NEAR US ETF against the $3.8 million NEAR Intents Omni deposit incident. Exploit headline. LOOK only. DO NOT ADD. Not a ticket. Desk does not price NEAR."
     },
     {
       "source": "The Block",
@@ -61,15 +55,8 @@
       "summary": "Headline is tentative gains into Friday jobs as rates drop. Desk does not invent a fill. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin fights for local uptrend as US bond yields drop from new 24-year highs",
-      "url": "https://cointelegraph.com/markets/bitcoin-fights-local-uptrend-us-bond-yields-drop-from-new-24-year-highs",
-      "pubDate": "2026-10-01T15:55:19Z",
-      "summary": "Yields fell around the Wall Street open as Bitcoin sought higher lows. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
-    },
-    {
       "source": "CryptoSlate",
-      "title": "Bond yield explosion gives Bitcoin a strong signal - is now finally Satoshi's time",
+      "title": "Bond yield explosion gives Bitcoin a strong signal - is now finally Satoshi's time?",
       "url": "https://cryptoslate.com/bond-yield-explosion-gives-bitcoin-a-strong-signal-is-now-finally-satoshis-time/",
       "pubDate": "2026-10-01T18:00:21Z",
       "summary": "Opinion note tying a BoE warning and software-buyer demand to BTC. Not a ticket. BTC headline. HOLD. LOOK only. DO NOT ADD."
@@ -79,28 +66,14 @@
       "title": "Jack Dorsey's Block Launches Campaign To Get People Spending Bitcoin",
       "url": "https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign",
       "pubDate": "2026-10-01T20:15:36Z",
-      "summary": "Block campaign headline on spending bitcoin. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "Block campaign headline on spending bitcoin. Listed full RSS was 403; item from bitcoinmagazine.com/feed. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Peter Todd Joins MARA to Lead Private Mempool Slipstream",
-      "url": "https://bitcoinmagazine.com/news/peter-todd-joins-mara-to-lead-slipstream",
-      "pubDate": "2026-10-01T18:01:44Z",
-      "summary": "Peter Todd named lead maintainer of Slipstream, MARA's private Bitcoin mempool. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "21bitcoin Now Pays Interest on Idle Euros, Payable in BTC",
-      "url": "https://bitcoinmagazine.com/news/21bitcoin-pays-interest-on-euros",
-      "pubDate": "2026-10-01T16:25:18Z",
-      "summary": "Austrian platform 21bitcoin will pay interest on euro balances, payable in bitcoin if chosen. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "The Quantum Issue: Quantum Isn't Coming For Your Bitcoin",
-      "url": "https://bitcoinmagazine.com/print/the-quantum-issue-quantum-isnt-coming-for-your-bitcoin",
-      "pubDate": "2026-10-01T14:07:50Z",
-      "summary": "Print essay on barriers to a viable quantum computer. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
+      "title": "SEC Proposes New Rules On Crypto Custody",
+      "url": "https://bitcoinmagazine.com/news/sec-proposes-crypto-custody-rules",
+      "pubDate": "2026-10-01T21:09:53Z",
+      "summary": "Regulator proposed rules it said would govern investment funds' custody of crypto assets. Headlines only. Not a ticket."
     },
     {
       "source": "CoinDesk",
@@ -122,6 +95,13 @@
       "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
       "pubDate": "2026-10-01T20:46:03Z",
       "summary": "Custody proposal for advisers and funds. Headlines only. Not a ticket."
+    },
+    {
+      "source": "The Block",
+      "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
+      "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
+      "pubDate": "2026-10-01T19:10:36Z",
+      "summary": "Policy group wants perps under MiFID II. Circle targets MiCA bank deposit floor. Hyperliquid headline. LOOK only. DO NOT ADD. Not a ticket. No desk order."
     },
     {
       "source": "CoinTelegraph",
@@ -150,6 +130,13 @@
       "url": "https://cointelegraph.com/news/new-york-wyoming-regulators-sign-pact-coordinate-crypto-oversight",
       "pubDate": "2026-10-01T16:12:23Z",
       "summary": "State regulators will share supervisory information and coordinate exams and enforcement. Headlines only. Not a ticket."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
+      "url": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury",
+      "pubDate": "2026-10-01T21:07:45Z",
+      "summary": "Evernorth expects Nasdaq ticker XRPN after the SPAC merger closes, with a treasury the article sizes near 473 million XRP. Headlines only. Not a ticket. DO NOT ADD."
     },
     {
       "source": "The Block",
@@ -181,24 +168,10 @@
     },
     {
       "source": "CryptoSlate",
-      "title": "Treasury will let states file for stablecoin approval before finishing their rules",
-      "url": "https://cryptoslate.com/treasury-will-let-states-file-for-stablecoin-approval-before-finishing-their-rules/",
-      "pubDate": "2026-10-01T14:40:06Z",
-      "summary": "Conditional certifications can meet filing timing while state rules are unfinished. Headlines only. Not a ticket."
-    },
-    {
-      "source": "CryptoSlate",
       "title": "UK's 2027 crypto rules could block new business with existing customers",
       "url": "https://cryptoslate.com/uks-2027-crypto-rules-could-block-new-business-with-existing-customers/",
       "pubDate": "2026-10-01T17:00:37Z",
       "summary": "FCA gateway open. Eligible firms applying by Feb. 28, 2027 can keep new business if still undecided at commencement. Headlines only. Not a ticket."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Republican Senator Steve Daines Releases Text of Proposed Crypto Tax Plan",
-      "url": "https://bitcoinmagazine.com/news/republican-releases-crypto-tax-plan",
-      "pubDate": "2026-10-01T20:03:12Z",
-      "summary": "Proposed crypto tax plan text released. Headlines only. Not a ticket."
     },
     {
       "source": "CoinDesk",
@@ -215,11 +188,25 @@
       "summary": "Robinhood Wallet adds Arcus routing for stock-token swaps. Headlines only. Not a ticket. No desk order."
     },
     {
+      "source": "CoinTelegraph",
+      "title": "Trump to host 3rd 'exclusive' memecoin event amid corruption claims",
+      "url": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims",
+      "pubDate": "2026-10-01T21:00:11Z",
+      "summary": "Nov. 22 dinner advertised for top memecoin holders. Headlines only. Not a ticket. DO NOT ADD."
+    },
+    {
       "source": "CoinDesk",
       "title": "Another Trump memecoin dinner advertised for token's top investors",
       "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
       "pubDate": "2026-10-01T18:45:29Z",
       "summary": "November event advertised for the token's top holders. Headlines only. Not a ticket. DO NOT ADD."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash Drops 21% From Recent High-Here's Why the Rally May Not Be Over",
+      "url": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
+      "pubDate": "2026-10-01T21:31:03Z",
+      "summary": "Article cites ETF outflows and a suspected heist routed through the shielded pool. Not a book name. LOOK only. DO NOT ADD. Not a ticket. Desk does not price ZEC."
     }
   ]
 }
