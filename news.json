@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-01T14:02:15Z",
+  "asof": "2026-10-01T15:02:14Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -23,7 +23,7 @@
       "title": "LATAM stablecoin liquidity may depend on few providers, investor says",
       "url": "https://cointelegraph.com/news/latam-stablecoin-liquidity-may-depend-on-few-providers-investor-says",
       "pubDate": "2026-10-01T13:30:00Z",
-      "summary": "Researchers in a Latin American stablecoin ecosystem report warned \"fragility in the system is concentrated in its thinnest layer,\" with just 16 of 494 companies focused primarily on wholesale Headlines only. Not a ticket."
+      "summary": "Researchers in a Latin American stablecoin ecosystem report warned \"fragility in the system is concentrated in its thinnest layer,\" with just 16 of 494 companies focused primarily on wholesale liquidity, treasury and credit. Headlines only. Not a ticket."
     },
     {
       "source": "CoinTelegraph",
@@ -31,6 +31,13 @@
       "url": "https://cointelegraph.com/magazine/stablecoins-can-drain-from-banks-and-nations-at-lightning-speed",
       "pubDate": "2026-10-01T13:30:00Z",
       "summary": "Highly liquid and settling 24/7, stablecoins can leave banks and countries at lightning speed. But whether stablecoins are a risk - or an opportunity - depends on your perspective. Headlines only. Not a ticket."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "2026-10-01T13:08:56Z",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Not a ticket."
     },
     {
       "source": "CoinTelegraph",
@@ -44,7 +51,7 @@
       "title": "Bitcoin trapped below $86K as PCE changes cloud inflation reading",
       "url": "https://cointelegraph.com/markets/bitcoin-rally-lower-us-inflation-data",
       "pubDate": "2026-10-01T10:30:18Z",
-      "summary": "Bitcoin erased its post-PCE gains as analysts cautioned that methodology changes complicated the lower-than-expected inflation reading. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline."
+      "summary": "Bitcoin erased its post-PCE gains as analysts cautioned that methodology changes complicated the lower-than-expected inflation reading. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Not a ticket."
     },
     {
       "source": "Decrypt",
@@ -72,7 +79,7 @@
       "title": "MetaMask Exits Lido Validators Amid Infrastructure 'Security Incident'",
       "url": "https://decrypt.co/379800/metamask-exits-lido-validators-amid-infrastructure-security-incident",
       "pubDate": "2026-10-01T09:38:06Z",
-      "summary": "The wallet says it has found no immediate threat to user wallets, but the ETH it is pulling out of Lido could take 45 days to return. ETH headline. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "The wallet says it has found no immediate threat to user wallets, but the ETH it is pulling out of Lido could take 45 days to return. ETH headline. LOOK only. DO NOT ADD. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "Decrypt",
@@ -87,6 +94,13 @@
       "url": "https://decrypt.co/379784/gemini-4-google-flagship-tops-ai-models-cybersecurity",
       "pubDate": "2026-09-30T23:20:59Z",
       "summary": "Gemini 4 Argon tops 12 of 18 benchmarks in Google's own table, writes a million tokens per reply and resists hijacking best. Cyber defenders get it first, with the guardrails off. Headlines only. Not a ticket."
+    },
+    {
+      "source": "The Block",
+      "title": "NEAR Intents halts services after $3.8 million exploit, promises full compensation",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404",
+      "pubDate": "2026-10-01T14:18:12Z",
+      "summary": "NEAR Intents patched the contract flaw, but deposits and withdrawals on 11 networks remain disrupted. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "The Block",
@@ -124,102 +138,109 @@
       "summary": "The CFTC secured a win in court after the agency said two defendants participated in a crypto scheme that they then tried to walk back. Headlines only. Not a ticket."
     },
     {
-      "source": "The Block",
-      "title": "Base launches Cobalt upgrade with conditional transactions and new B20 asset functions",
-      "url": "https://www.theblock.co/news/ecosystems/2026-09-30-base-launches-cobalt-upgrade-with-conditional-transactions-and-new-b20-asset-functions-417308",
-      "pubDate": "2026-09-30T19:00:00Z",
-      "summary": "Base has launched Cobalt, adding conditional transactions and new functions for assets issued under its B20 standard. Headlines only. Not a ticket."
+      "source": "CryptoSlate",
+      "title": "Treasury will let states file for stablecoin approval before finishing their rules",
+      "url": "https://cryptoslate.com/treasury-will-let-states-file-for-stablecoin-approval-before-finishing-their-rules/",
+      "pubDate": "2026-10-01T14:40:06Z",
+      "summary": "Conditional certifications can meet initial filing timing while state rules remain unfinished, but only complete submissions begin substantive approval review. Headlines only. Not a ticket."
     },
     {
       "source": "CryptoSlate",
       "title": "MetaMask security scare pushes Ethereum validator exits to a nine-month high",
       "url": "https://cryptoslate.com/metamask-security-scare-pushes-ethereum-validator-exits-to-a-nine-month-high/",
       "pubDate": "2026-10-01T13:40:02Z",
-      "summary": "Lido estimates up to about 45 days for exit, withdrawal and re-entry after MetaMask's Sept. 30 incident disclosure. The post MetaMask security scare pushes Ethereum validator exits to a nine-month ETH headline. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "Lido estimates up to about 45 days for exit, withdrawal and re-entry after MetaMask's Sept. 30 incident disclosure. ETH headline. LOOK only. DO NOT ADD. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "CryptoSlate",
       "title": "Senate tax bill frees stablecoin spending while Bitcoin stays on IRS forms",
       "url": "https://cryptoslate.com/senate-tax-bill-frees-stablecoin-spending-while-bitcoin-stays-on-irs-forms/",
       "pubDate": "2026-10-01T12:20:50Z",
-      "summary": "The circulated proposal would give eligible dollar-stablecoin purchases no-gain/no-loss treatment without a stated value cap, while ordinary Bitcoin spending retains disposition reporting. The post BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline."
+      "summary": "The circulated proposal would give eligible dollar-stablecoin purchases no-gain/no-loss treatment without a stated value cap, while ordinary Bitcoin spending retains disposition reporting. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Not a ticket."
     },
     {
       "source": "CryptoSlate",
       "title": "Ethereum is preparing a 200 million gas push as its Layer 1 scaling strategy accelerates",
       "url": "https://cryptoslate.com/ethereum-is-preparing-a-200-million-gas-push-as-its-layer-1-scaling-strategy-accelerates/",
       "pubDate": "2026-10-01T11:20:17Z",
-      "summary": "Prysm 7.2.0 supports the scheduled fork, but validators wanting a 200 million gas preference must configure it explicitly. The post Ethereum is preparing a 200 million gas push as its Layer 1 scaling ETH headline. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "Prysm 7.2.0 supports the scheduled fork, but validators wanting a 200 million gas preference must configure it explicitly. ETH headline. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "CryptoSlate",
       "title": "Ripple quietly made Brazil the center of its XRPL tokenization push",
       "url": "https://cryptoslate.com/ripple-quietly-made-brazil-the-center-of-its-xrpl-tokenization-push/",
       "pubDate": "2026-10-01T10:00:38Z",
-      "summary": "A Sept. 29 fund-share record project adds another layer to Ripple's Brazilian footprint, while CSD BR keeps the official securities register. The post Ripple quietly made Brazil the center of its Headlines only. Not a ticket."
+      "summary": "A Sept. 29 fund-share record project adds another layer to Ripple's Brazilian footprint, while CSD BR keeps the official securities register. Headlines only. Not a ticket."
     },
     {
       "source": "CryptoSlate",
       "title": "Japan's biggest payment network opens its doors for crypto via Binance Pay",
       "url": "https://cryptoslate.com/japans-biggest-payment-network-opens-its-doors-for-crypto-via-binance-pay/",
       "pubDate": "2026-10-01T08:40:28Z",
-      "summary": "The September 30 launch supports verified visitors at participating offline stores, with automatic yen conversion and merchant exceptions. The post Japan's biggest payment network opens its doors for Headlines only. Not a ticket."
+      "summary": "The September 30 launch supports verified visitors at participating offline stores, with automatic yen conversion and merchant exceptions. Headlines only. Not a ticket."
     },
     {
-      "source": "CryptoSlate",
-      "title": "Base's Cobalt upgrade adds another rule to affect token balances",
-      "url": "https://cryptoslate.com/bases-cobalt-upgrade-adds-another-rule-to-affect-token-balances/",
-      "pubDate": "2026-10-01T07:30:48Z",
-      "summary": "Scheduled for September 30 at 18:00 UTC, Cobalt would let B20 issuers opt into seizure policies independent of ordinary transfer restrictions. The post Base's Cobalt upgrade adds another rule to Headlines only. Not a ticket."
+      "source": "Bitcoin Magazine",
+      "title": "The Quantum Issue: Quantum Isn't Coming For Your Bitcoin",
+      "url": "https://bitcoinmagazine.com/print/the-quantum-issue-quantum-isnt-coming-for-your-bitcoin",
+      "pubDate": "2026-10-01T14:07:50Z",
+      "summary": "Brandon Black considers issues that might prevent a viable quantum computer from ever being built. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Not a ticket."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Bitcoin Privacy Breakthrough a Zcash Killer? | Misha Komorov, Alloc Innit",
       "url": "https://bitcoinmagazine.com/videos/bitcoin-privacy-breakthrough-a-zcash-killer-misha-komorov-alloc-innit",
       "pubDate": "2026-10-01T00:57:35Z",
-      "summary": "Bitcoin Magazine Bitcoin Privacy Breakthrough a Zcash Killer? | Misha Komorov, Alloc Innit Misha Komarov explains Shielded Bitcoin-a proposed ZK privacy protocol using Bitcoin PIPEs to hide BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline."
+      "summary": "Misha Komarov explains Shielded Bitcoin, a proposed ZK privacy protocol using Bitcoin PIPEs to hide transactions with no soft fork needed. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Not a ticket."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Bitcoin's Institutional Era Has Arrived | Robinhood VP of Crypto Institutions Nicola White",
       "url": "https://bitcoinmagazine.com/videos/bitcoins-institutional-era-has-arrived-robinhood-vp-of-crypto-institutions-nicola-white",
       "pubDate": "2026-10-01T00:52:03Z",
-      "summary": "Bitcoin Magazine Bitcoin's Institutional Era Has Arrived | Robinhood VP of Crypto Institutions Nicola White Robinhood VP Nicola White explains how 10x crypto perpetual futures arrived in the US and BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline."
+      "summary": "Robinhood VP Nicola White explains how 10x crypto perpetual futures arrived in the US and why Robinhood is pushing for 24/7 global markets. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Not a ticket."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Mark Moss: The Bitcoin Endgame - BTC to $1 Million by 2030",
       "url": "https://bitcoinmagazine.com/videos/mark-moss-the-bitcoin-endgame-btc-to-1-million-by-2030",
       "pubDate": "2026-10-01T00:45:15Z",
-      "summary": "Bitcoin Magazine Mark Moss: The Bitcoin Endgame - BTC to $1 Million by 2030 Mark Moss explains why Bitcoin keeps climbing post-Fed rate hike, benefiting from both currency debasement and a booming BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline."
+      "summary": "Mark Moss explains why Bitcoin keeps climbing post-Fed rate hike, citing currency debasement and a booming tech future. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Not a ticket."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "UK Brings Crypto Under Full FCA Oversight for the First Time",
       "url": "https://bitcoinmagazine.com/news/uk-brings-crypto-under-fca-oversight",
       "pubDate": "2026-09-30T20:14:02Z",
-      "summary": "Bitcoin Magazine UK Brings Crypto Under Full FCA Oversight for the First Time The British regulator has started accepting applications from crypto companies ahead of a new regime taking effect next BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline."
+      "summary": "The British regulator has started accepting applications from crypto companies ahead of a new regime taking effect next year. Headlines only. Not a ticket."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Bitcoin Surges 40% in Its Best Quarter Since Late 2024",
       "url": "https://bitcoinmagazine.com/news/bitcoin-has-its-best-quarter-since-2024",
       "pubDate": "2026-09-30T20:10:24Z",
-      "summary": "Bitcoin Magazine Bitcoin Surges 40% in Its Best Quarter Since Late 2024 The price of bitcoin has surged - mostly since the Treasury announced its debt buyback program - putting it on course for one BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline."
+      "summary": "The price of bitcoin has surged, mostly since the Treasury announced its debt buyback program, putting it on course for one of its best quarters ever. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Not a ticket."
     },
     {
-      "source": "Bitcoin Magazine",
-      "title": "Bitcoin Is More Than Just an Asset, Says TD Cowen",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-is-more-than-an-asset-td-cowen",
-      "pubDate": "2026-09-30T18:59:01Z",
-      "summary": "Bitcoin Magazine Bitcoin Is More Than Just an Asset, Says TD Cowen TD Cowen says institutions are talking more about how bitcoin can be used to support capital markets. This post Bitcoin Is More Than BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline."
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
+      "pubDate": "2026-10-01T15:00:00Z",
+      "summary": "Headlines only. Not a ticket."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "NEAR Intents hit by $3.8 million exploit as crypto's rough year of hacks continues",
+      "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
+      "pubDate": "2026-10-01T14:18:14Z",
+      "summary": "The popular cross-chain trading system said it will reimburse losses after a bug affected deposits and withdrawals across several networks. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "CoinDesk",
       "title": "Live Updates: Bitcoin flat near $84,000 after closing out best quarter since 2024",
       "url": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
       "pubDate": "2026-10-01T11:59:17Z",
-      "summary": "After a spike higher overnight, interest rates are dipping ahead of tomorrow's key U.S. employment report. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline."
+      "summary": "After a spike higher overnight, interest rates are dipping ahead of tomorrow's key U.S. employment report. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Not a ticket."
     },
     {
       "source": "CoinDesk",
@@ -233,28 +254,14 @@
       "title": "Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter",
       "url": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
       "pubDate": "2026-10-01T11:30:38Z",
-      "summary": "Your day-ahead look for Oct. 1, 2026 BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline."
+      "summary": "Your day-ahead look for Oct. 1, 2026. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "CoinDesk",
       "title": "Synthetic tokenized stocks are bad for American investors",
       "url": "https://www.coindesk.com/opinion/2026/10/01/synthetic-tokenized-stocks-are-bad-for-american-investors",
       "pubDate": "2026-10-01T11:00:00Z",
-      "summary": "U.S. markets are the envy of the world because investors trust that whoever owns a share owns it fully, writes Aaron Kaplan, founder of Promethum. The synthetic models cheapens that trust, Headlines only. Not a ticket."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin kicks off new quarter in the old $82,000-$85,000 price range",
-      "url": "https://www.coindesk.com/markets/2026/10/01/bitcoin-kicks-off-new-quarter-in-the-old-usd82-000-usd85-000-price-range",
-      "pubDate": "2026-10-01T10:38:04Z",
-      "summary": "Prices briefly topped $85,000 on Wednesday after weaker-than-expected U.S. inflation cooled bets on Fed rate hikes, But bulls couldn't hold the move and spot ETFs didn't help. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Citigroup raises 12-month bitcoin target to $113,000 as ETF inflows resume",
-      "url": "https://www.coindesk.com/markets/2026/10/01/citigroup-raises-12-month-bitcoin-target-to-usd113-000-as-etf-inflows-resume",
-      "pubDate": "2026-10-01T09:59:30Z",
-      "summary": "Citi also raised its 12-month target for ether from from $2,240 to $3,028. BTC headline. HOLD. LOOK only. DO NOT ADD. DO NOT BUY from a headline. ETH headline. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "U.S. markets are the envy of the world because investors trust that whoever owns a share owns it fully, writes Aaron Kaplan. The synthetic model cheapens that trust. Headlines only. Not a ticket."
     }
   ]
 }
