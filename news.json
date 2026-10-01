@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-01T20:03:11Z",
+  "asof": "2026-10-01T21:02:11Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -12,25 +12,11 @@
   ],
   "items": [
     {
-      "source": "The Block",
-      "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
-      "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
-      "pubDate": "2026-10-01T19:10:36Z",
-      "summary": "Policy group wants perps under MiFID II. Circle targets MiCA bank deposit floor. Hyperliquid headline. LOOK only. DO NOT ADD. Not a ticket. No desk order."
-    },
-    {
       "source": "CoinTelegraph",
       "title": "NEAR Intents suffers $3.8M exploit after assistance with Bitget breach",
       "url": "https://cointelegraph.com/news/near-intents-exploit-assistance-bitget-hack",
       "pubDate": "2026-10-01T15:43:34Z",
       "summary": "Platform said it will compensate users. Bug hit deposits and withdrawals after Bitget-related assistance. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Near Intents Hacked for $3.8M Days After Denying North Korea-Linked Bitget Hacker",
-      "url": "https://decrypt.co/379822/near-intents-hacked-days-after-denying-bitget-hacker",
-      "pubDate": "2026-10-01T15:43:27Z",
-      "summary": "Cross-chain swaps frozen after a bug drained about $3.8 million. Repayment promised. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "The Block",
@@ -47,39 +33,18 @@
       "summary": "Cross-chain system said it will reimburse losses after a bug affected deposits and withdrawals. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitget's $388M hack pushes Q3 crypto security losses past $1B",
-      "url": "https://cointelegraph.com/news/bitget-hack-q3-industry-losses-1-26-billion",
-      "pubDate": "2026-10-01T13:35:47Z",
-      "summary": "Q3 security losses $1.26 billion across 247 incidents; September about $769 million. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto lost $1.26 billion in hacks while bitcoin bulls enjoyed a monster quarter",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/01/crypto-lost-usd1-26-billion-in-hacks-while-bitcoin-bulls-enjoyed-a-monster-quarter",
-      "pubDate": "2026-10-01T11:30:38Z",
-      "summary": "Day-ahead note for Oct. 1, 2026. BTC headline. HOLD. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "MetaMask security scare pushes Ethereum validator exits to a nine-month high",
-      "url": "https://cryptoslate.com/metamask-security-scare-pushes-ethereum-validator-exits-to-a-nine-month-high/",
-      "pubDate": "2026-10-01T13:40:02Z",
-      "summary": "Lido estimates up to about 45 days for exit, withdrawal and re-entry after the Sept. 30 disclosure. ETH headline. LOOK only. DO NOT ADD. Not a ticket."
+      "source": "The Block",
+      "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
+      "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
+      "pubDate": "2026-10-01T19:10:36Z",
+      "summary": "Policy group wants perps under MiFID II. Circle targets MiCA bank deposit floor. Hyperliquid headline. LOOK only. DO NOT ADD. Not a ticket. No desk order."
     },
     {
       "source": "The Block",
       "title": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
       "url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
       "pubDate": "2026-10-01T16:17:23Z",
-      "summary": "Issuance-change proposal pulled. Scoping process called the wrong venue. ETH headline. LOOK only. DO NOT ADD. Not a ticket."
-    },
-    {
-      "source": "The Block",
-      "title": "Bitcoin ETFs' 9-day, $3 billion inflow streak comes to an end as $149 million exits the funds",
-      "url": "https://www.theblock.co/news/markets/2026-10-01-bitcoin-etfs-9-day-3-billion-inflow-streak-comes-to-an-end-as-149-million-exits-the-funds-417384",
-      "pubDate": "2026-10-01T12:17:06Z",
-      "summary": "Spot BTC ETF streak ends with $149 million out. Spot ETH ETFs saw $59.6 million out Wednesday. BTC headline. HOLD. ETH headline. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "Issuance-change proposal pulled. Scoping process called the wrong venue. ETH headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "CryptoSlate",
@@ -110,11 +75,11 @@
       "summary": "Opinion note tying a BoE warning and software-buyer demand to BTC. Not a ticket. BTC headline. HOLD. LOOK only. DO NOT ADD."
     },
     {
-      "source": "Decrypt",
-      "title": "It's the Start of Uptober. Will Bitcoin Live Up to It",
-      "url": "https://decrypt.co/379833/uptober-will-bitcoin-live-up-to-it",
-      "pubDate": "2026-10-01T17:11:44Z",
-      "summary": "Seasonal headline after a strong September, with a Fed hike and 5.3 percent Treasury yields cited. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
+      "source": "Bitcoin Magazine",
+      "title": "Jack Dorsey's Block Launches Campaign To Get People Spending Bitcoin",
+      "url": "https://bitcoinmagazine.com/news/jack-dorseys-block-launches-campaign-to-get-people-spending-bitcoin",
+      "pubDate": "2026-10-01T20:15:36Z",
+      "summary": "Block campaign headline on spending bitcoin. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "Bitcoin Magazine",
@@ -138,6 +103,27 @@
       "summary": "Print essay on barriers to a viable quantum computer. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
+      "source": "CoinDesk",
+      "title": "SEC proposes new crypto custody rules for investment advisers and funds",
+      "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
+      "pubDate": "2026-10-01T20:20:04Z",
+      "summary": "Proposed custody rule. Hester Peirce exits this week. Headlines only. Not a ticket."
+    },
+    {
+      "source": "The Block",
+      "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
+      "url": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
+      "pubDate": "2026-10-01T21:00:53Z",
+      "summary": "Proposal would allow self-custody in some cases and state trust companies as custodians. Headlines only. Not a ticket."
+    },
+    {
+      "source": "Decrypt",
+      "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
+      "url": "https://decrypt.co/379870/sec-proposes-rules-advisers-funds-hold-crypto",
+      "pubDate": "2026-10-01T20:46:03Z",
+      "summary": "Custody proposal for advisers and funds. Headlines only. Not a ticket."
+    },
+    {
       "source": "CoinTelegraph",
       "title": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
       "url": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review",
@@ -150,13 +136,6 @@
       "url": "https://cointelegraph.com/news/illinois-postpones-crypto-tax-industry-lawsuit",
       "pubDate": "2026-10-01T18:01:49Z",
       "summary": "Officials agreed to delay the 0.2 percent crypto tax for six months after lawsuits. Headlines only. Not a ticket."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Illinois Delays Controversial Crypto Tax Amid Industry Lawsuit",
-      "url": "https://decrypt.co/379830/illinois-delays-controversial-crypto-tax",
-      "pubDate": "2026-10-01T16:16:03Z",
-      "summary": "Joint request to delay the 0.2 percent Digital Asset Tax from Jan. 1 to July 1, 2027. Headlines only. Not a ticket."
     },
     {
       "source": "CoinDesk",
@@ -188,6 +167,13 @@
     },
     {
       "source": "CryptoSlate",
+      "title": "XRP is becoming collateral for real loans and the first market is already dominated by whales",
+      "url": "https://cryptoslate.com/xrp-is-becoming-collateral-for-real-loans-and-the-first-market-is-already-dominated-by-whales/",
+      "pubDate": "2026-10-01T20:20:56Z",
+      "summary": "Morpho snapshot shows live FXRP collateral use, with concentrated debt. Headlines only. Not a ticket. DO NOT ADD."
+    },
+    {
+      "source": "CryptoSlate",
       "title": "Open USD bets Stripe's $1.9 trillion network can break USDT and USDC's grip",
       "url": "https://cryptoslate.com/open-usd-bets-stripes-1-9-trillion-network-can-break-usdt-and-usdcs-grip/",
       "pubDate": "2026-10-01T16:00:14Z",
@@ -206,6 +192,13 @@
       "url": "https://cryptoslate.com/uks-2027-crypto-rules-could-block-new-business-with-existing-customers/",
       "pubDate": "2026-10-01T17:00:37Z",
       "summary": "FCA gateway open. Eligible firms applying by Feb. 28, 2027 can keep new business if still undecided at commencement. Headlines only. Not a ticket."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Republican Senator Steve Daines Releases Text of Proposed Crypto Tax Plan",
+      "url": "https://bitcoinmagazine.com/news/steve-daines-releases-text-of-proposed-crypto-tax-plan",
+      "pubDate": "2026-10-01T20:03:12Z",
+      "summary": "Proposed crypto tax plan text released. Headlines only. Not a ticket."
     },
     {
       "source": "CoinDesk",
@@ -227,13 +220,6 @@
       "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
       "pubDate": "2026-10-01T18:45:29Z",
       "summary": "November event advertised for the token's top holders. Headlines only. Not a ticket. DO NOT ADD."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Bitcoin's Institutional Era Has Arrived | Robinhood VP of Crypto Institutions Nicola White",
-      "url": "https://bitcoinmagazine.com/videos/bitcoins-institutional-era-has-arrived-robinhood-vp-of-crypto-institutions-nicola-white",
-      "pubDate": "2026-10-01T00:52:03Z",
-      "summary": "Interview on US crypto perpetual futures and 24/7 markets. BTC headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     }
   ]
 }
