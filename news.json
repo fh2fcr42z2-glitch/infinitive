@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-02T22:01:56Z",
+  "asof": "2026-10-02T23:02:00Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,21 +10,21 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "All six RSS feeds returned HTTP 200 this pull, including Bitcoin Magazine. Up to 6 items parsed per feed. Rekt listed, not fetched as RSS. No SNAP, DRV, ENA, AERO, or PUMP headline in this pull. HOLD those names. DO NOT ADD. LOOK only. Exploit context: third-party Aave adapter reported stolen about 114 ETH; protocol itself said unaffected. Drift exploit recovery claims still in the pull (about 1 percent initial payout). LOOK only. DO NOT ADD. No fills. No Bitget-style exchange exploit in this pull. ETH context is Blast L2 wind-down plus the adapter exploit. HOLD ETH. BTC context is softer September jobs and a headline just above USD 87,000. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only.",
+  "notes": "All six RSS feeds returned HTTP 200 this pull. Up to 6 items parsed per feed. Rekt listed, not fetched as RSS. No SNAP, DRV, ENA, AERO, or PUMP headline in this pull. HOLD those names. DO NOT ADD. LOOK only. Exploit context unchanged: third-party Aave adapter reported stolen about 114 ETH; protocol itself said unaffected. Drift exploit recovery claims still in the pull (about 1 percent initial payout). LOOK only. DO NOT ADD. No Bitget-style exchange exploit in this pull. ETH context is Blast L2 wind-down plus the adapter exploit. HOLD ETH. BTC context is softer September jobs and headlines around a USD 87,000 print and a cleared USD 85,000 sell wall. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. No fills.",
   "items": [
     {
       "source": "CoinTelegraph",
-      "title": "Heres what happened in crypto today",
+      "title": "Here's what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
       "pubDate": "Fri, 02 Oct 2026 20:46:58 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "source": "CoinTelegraph",
-      "title": "European crypto users have more faith in regulated firms under MiCA: Bitpanda co-CEO",
+      "title": "European crypto users have 'more faith' in regulated firms under MiCA: Bitpanda co-CEO",
       "url": "https://cointelegraph.com/news/mica-strengthened-retail-trust-regulated-crypto-exchanges-bitpanda-ceo-says",
       "pubDate": "Fri, 02 Oct 2026 20:40:47 +0000",
-      "summary": "Speaking on Cointelegraphs Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms."
+      "summary": "Speaking on Cointelegraph's Chain Reaction, Christian Trummer said MiCA has increased trust in regulated platforms and called for stricter enforcement against noncompliant firms."
     },
     {
       "source": "CoinTelegraph",
@@ -38,7 +38,7 @@
       "title": "Blast to wind down Ethereum L2 after costs outpace revenue",
       "url": "https://cointelegraph.com/news/blast-to-wind-down-ethereum-l2-after-costs-outpace-revenue",
       "pubDate": "Fri, 02 Oct 2026 18:24:05 +0000",
-      "summary": "Once among Ethereums largest layer-2 networks by total value locked, Blast is urging users to move their assets to mainnet ahead of the shutdown."
+      "summary": "Once among Ethereum's largest layer-2 networks by total value locked, Blast is urging users to move their assets to mainnet ahead of the shutdown."
     },
     {
       "source": "CoinTelegraph",
@@ -49,7 +49,7 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Cryptos billions are back, but the premiums arent",
+      "title": "Crypto's billions are back, but the premiums aren't",
       "url": "https://cointelegraph.com/news/crypto-biz-kalshi-blockchain-com-crypto-treasury-valuations",
       "pubDate": "Fri, 02 Oct 2026 15:32:53 +0000",
       "summary": "Kalshi seeks a USD 40 billion valuation, while Blockchain.com targets an IPO and crypto treasury companies struggle to maintain their once-high valuations."
@@ -59,7 +59,7 @@
       "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
       "url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
       "pubDate": "Fri, 02 Oct 2026 21:16:04 +0000",
-      "summary": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Faceand whether the company can be held legally accountable."
+      "summary": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face - and whether the company can be held legally accountable."
     },
     {
       "source": "Decrypt",
@@ -73,7 +73,7 @@
       "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
       "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
       "pubDate": "Fri, 02 Oct 2026 19:46:03 +0000",
-      "summary": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimetersiding with the ECB in calling for more flexible rules."
+      "summary": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter - siding with the ECB in calling for more flexible rules."
     },
     {
       "source": "Decrypt",
@@ -119,7 +119,7 @@
     },
     {
       "source": "The Block",
-      "title": "BitGo CEO says Claritys failure left capital markets exposed to risk potentially worse than Lehman",
+      "title": "BitGo CEO says Clarity's failure left capital markets exposed to risk potentially worse than Lehman",
       "url": "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560",
       "pubDate": "Fri, 02 Oct 2026 12:28:54 +0000",
       "summary": "BitGo CEO Mike Belshe warned that Clarity's failure left systemic risks arising from one firm holding exchange, brokerage, and custody functions."
@@ -140,38 +140,38 @@
     },
     {
       "source": "CryptoSlate",
-      "title": "Stablecoin issuers have replaced 40% of Chinas lost US Treasury demand",
+      "title": "Stablecoin issuers have replaced 40% of China's lost US Treasury demand",
       "url": "https://cryptoslate.com/stablecoin-issuers-have-replaced-40-of-chinas-lost-us-treasury-demand/",
       "pubDate": "Fri, 02 Oct 2026 21:50:39 +0000",
-      "summary": "Stablecoin issuers are emerging as a new source of demand for US government debt as foreign official holdings lose ground. Tether and Circle have increased their Treasury securities and repurchase-agreement holdings by about USD 200 billion over the past five years, equivalent to"
+      "summary": "Stablecoin issuers are emerging as a new source of demand for US government debt as foreign official holdings lose ground. Tether and Circle have increased their Treasury securities and repurchase-agreement holdings by about USD 200 billion over the past five years, equivalent..."
     },
     {
       "source": "CryptoSlate",
-      "title": "Bitcoins USD 85,000 sell wall is gone and traders are now betting on USD 100,000",
+      "title": "Bitcoin's USD 85,000 sell wall is gone and traders are now betting on USD 100,000",
       "url": "https://cryptoslate.com/bitcoins-85000-sell-wall-is-gone-and-traders-are-now-betting-on-100000/",
       "pubDate": "Fri, 02 Oct 2026 20:30:33 +0000",
-      "summary": "Bitcoins rally is approaching a USD 90,000 test as a rare accumulation pattern reappears and sell-side liquidity thins. On Oct. 2, Bitcoin registered an intraday high at USD 87,000 after buyers broke through a sell wall around USD 85,000 that had stalled several previous attempts"
+      "summary": "Bitcoin's rally is approaching a USD 90,000 test as a rare accumulation pattern reappears and sell-side liquidity thins. On Oct. 2, Bitcoin registered an intraday high at USD 87,000 after buyers broke through a sell wall around USD 85,000 that had stalled several previous attempts to..."
     },
     {
       "source": "CryptoSlate",
       "title": "Crypto hackers exploit third-party Aave tool to steal 114 ETH",
       "url": "https://cryptoslate.com/crypto-hackers-exploit-third-party-aave-tool-to-steal-114-eth/",
       "pubDate": "Fri, 02 Oct 2026 19:10:35 +0000",
-      "summary": "A third-party lending adapter built on Aave was exploited to steal about 114 ETH, worth over USD 300,000, while the protocol itself remained unaffected. On Oct. 2, blockchain security firm SlowMist said the attacker compromised two Safe multisig wallets through a flaw in the Flas"
+      "summary": "A third-party lending adapter built on Aave was exploited to steal about 114 ETH, worth over USD 300,000, while the protocol itself remained unaffected. On Oct. 2, blockchain security firm SlowMist said the attacker compromised two Safe multisig wallets through a flaw in the..."
     },
     {
       "source": "CryptoSlate",
-      "title": "Evernorths Nasdaq XRP treasury is approved, but its real buying power isnt the USD 300 million expected",
+      "title": "Evernorth's Nasdaq XRP treasury is approved, but its real buying power isn't the USD 300 million expected",
       "url": "https://cryptoslate.com/evernorths-nasdaq-xrp-treasury-is-approved-but-its-real-buying-power-isnt-the-300-million-expected/",
       "pubDate": "Fri, 02 Oct 2026 17:50:25 +0000",
-      "summary": "Roughly USD 88.5 million in closing-linked gross sources remains conditional, with expenses and spending choices deciding additional XRP demand. The post Evernorths Nasdaq XRP treasury is approved, but its real buying power isnt the USD 300 million expected appeared first on Cryp"
+      "summary": "Roughly USD 88.5 million in closing-linked gross sources remains conditional, with expenses and spending choices deciding additional XRP demand. The post Evernorth's Nasdaq XRP treasury is approved, but its real buying power isn't the USD 300 million expected appeared first on..."
     },
     {
       "source": "CryptoSlate",
-      "title": "Why Strategys STRC calculator shows USD 210 for a share it can redeem at USD 101",
+      "title": "Why Strategy's STRC calculator shows USD 210 for a share it can redeem at USD 101",
       "url": "https://cryptoslate.com/why-strategys-strc-calculator-shows-210-for-a-share-it-can-redeem-at-101/",
       "pubDate": "Fri, 02 Oct 2026 16:40:55 +0000",
-      "summary": "The illustrative Oct. 2 output holds the dividend constant, while Strategy controls optional redemption at USD 101 or higher plus applicable unpaid dividends. The post Why Strategys STRC calculator shows USD 210 for a share it can redeem at USD 101 appeared first on CryptoSlate ."
+      "summary": "The illustrative Oct. 2 output holds the dividend constant, while Strategy controls optional redemption at USD 101 or higher plus applicable unpaid dividends. The post Why Strategy's STRC calculator shows USD 210 for a share it can redeem at USD 101 appeared first on CryptoSlate ."
     },
     {
       "source": "CryptoSlate",
@@ -182,31 +182,31 @@
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "IMF Praises El Salvador But Still Tries To Scale Back Its Bitcoin Project",
+      "title": "IMF Praises El Salvador - But Still Tries To Scale Back Its Bitcoin Project",
       "url": "https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin",
       "pubDate": "Fri, 02 Oct 2026 22:01:18 +0000",
-      "summary": "Bitcoin Magazine IMF Praises El Salvador But Still Tries To Scale Back Its Bitcoin Project The International Monetary Fund approved a USD 139 million disbursement to El Salvador but still wants it to scale back its Bitcoin project. This post IMF Praises El Salvador But Still Trie"
+      "summary": "Bitcoin Magazine IMF Praises El Salvador - But Still Tries To Scale Back Its Bitcoin Project The International Monetary Fund approved a USD 139 million disbursement to El Salvador but still wants it to scale back its Bitcoin project. This post IMF Praises El Salvador - But..."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "When the Banks Dont Work, Bitcoin Does: Cornell Universitys Adoption Index",
+      "title": "When the Banks Don't Work, Bitcoin Does: Cornell University's Adoption Index",
       "url": "https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell",
       "pubDate": "Fri, 02 Oct 2026 19:15:58 +0000",
-      "summary": "Bitcoin Magazine When the Banks Dont Work, Bitcoin Does: Cornell Universitys Adoption Index Cornell University spoke to 25,880 people about using bitcoin. While many don't understand the tech in depth, it's proving useful for some. This post When the Banks Dont Work, Bitcoin Does"
+      "summary": "Bitcoin Magazine When the Banks Don't Work, Bitcoin Does: Cornell University's Adoption Index Cornell University spoke to 25,880 people about using bitcoin. While many don't understand the tech in depth, it's proving useful for some. This post When the Banks Don't Work,..."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "South Africas Absa Becomes First Bank on the Continent to Custody Bitcoin: Report",
+      "title": "South Africa's Absa Becomes First Bank on the Continent to Custody Bitcoin: Report",
       "url": "https://bitcoinmagazine.com/news/absa-first-african-bank-to-custody-bitcoin",
       "pubDate": "Fri, 02 Oct 2026 18:12:28 +0000",
-      "summary": "Bitcoin Magazine South Africas Absa Becomes First Bank on the Continent to Custody Bitcoin: Report South African bank Absa has become the first African lender to custody bitcoin, according to reports. As reported first by Bloomberg on Friday, the Johannesburg-based lender will se"
+      "summary": "Bitcoin Magazine South Africa's Absa Becomes First Bank on the Continent to Custody Bitcoin: Report South African bank Absa has become the first African lender to custody bitcoin, according to reports. As reported first by Bloomberg on Friday, the Johannesburg-based lender..."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data",
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-surges-on-soft-jobs-data",
       "pubDate": "Fri, 02 Oct 2026 15:09:38 +0000",
-      "summary": "Bitcoin Magazine Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data The price of bitcoin surged above USD 87,000 on Friday morning in New York, buoyed by constant exchange-traded fund flows and a jobs report showing that unemployment in the U.S. had ticked up"
+      "summary": "Bitcoin Magazine Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data The price of bitcoin surged above USD 87,000 on Friday morning in New York, buoyed by constant exchange-traded fund flows and a jobs report showing that unemployment in the U.S. had ticked up...."
     },
     {
       "source": "Bitcoin Magazine",
@@ -217,10 +217,10 @@
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Frank Holmes: They Will Print USD 100 Trillion Why to Buy Bitcoin & Gold",
+      "title": "Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin and Gold",
       "url": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
       "pubDate": "Thu, 01 Oct 2026 21:34:00 +0000",
-      "summary": "Bitcoin Magazine Frank Holmes: They Will Print USD 100 Trillion Why to Buy Bitcoin & Gold Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI boom. This post Frank Holmes: They Will P"
+      "summary": "Bitcoin Magazine Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin and Gold Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI boom. This post Frank Holmes: They..."
     },
     {
       "source": "CoinDesk",
@@ -245,17 +245,17 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Trumps potential AI czar, Jay Clayton, helped pioneer the SECs crypto crackdown",
+      "title": "Trump's potential AI czar, Jay Clayton, helped pioneer the SEC's crypto crackdown",
       "url": "https://www.coindesk.com/news-analysis/2026/10/02/possible-next-crypto-czar-jay-clayton-began-crypto-s-regulation-by-enforcement-at-sec",
       "pubDate": "Fri, 02 Oct 2026 17:12:48 +0000",
       "summary": "The former SEC chairman who may be tapped to oversee the Trump administration's AI work has a potentially divisive history as a watchdog of tech innovation."
     },
     {
       "source": "CoinDesk",
-      "title": "America at a crossroads: Commissioner Peirces parting challenge",
+      "title": "America at a crossroads: Commissioner Peirce's parting challenge",
       "url": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
       "pubDate": "Fri, 02 Oct 2026 13:22:19 +0000",
-      "summary": "It is incumbent upon us to continue Commissioner Peirces mission, writes Will Schwartz, policy associate at the Blockchain Association."
+      "summary": "It is incumbent upon us to continue Commissioner Peirce's mission, writes Will Schwartz, policy associate at the Blockchain Association."
     },
     {
       "source": "CoinDesk",
