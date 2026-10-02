@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-02T02:02:59Z",
+  "asof": "2026-10-02T03:02:18Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,217 +10,252 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "All six RSS feeds returned HTTP 200 this run. Up to 6 items parsed per feed. Rekt listed, not fetched as RSS. No SNAP, DRV, ENA, AERO, or PUMP headline in this pull. HOLD those names. DO NOT ADD. LOOK only. Bitget itself not in this top window. NEAR Intents 3.8 million exploit still in the pull. LOOK only. No fills.",
+  "notes": "All six RSS feeds returned HTTP 200 this run. Up to 6 items parsed per feed. Rekt listed, not fetched as RSS. No SNAP, DRV, ENA, AERO, or PUMP headline in this pull. HOLD those names. DO NOT ADD. LOOK only. Bitget restore-after-breach headline is in the pull. LOOK only. DO NOT ADD. NEAR Intents 3.8 million exploit and 48-hour ultimatum also in the pull. LOOK only. BTC and ETH headlines only. HOLD. No fills.",
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "NEAR Intents says its identified the hacker, gives 48-hour ultimatum",
+      "url": "https://cointelegraph.com/news/near-intents-says-its-identified-the-hacker-gives-48-hour-ultimatum",
+      "pubDate": "Fri, 02 Oct 2026 02:02:13 +0000",
+      "summary": "\"We have identified you, sir,\" NEAR Intents general manager Alex Shevchenko said on Friday after the protocol was hacked for USD 3.8 million.  Exploit headline. LOOK only. DO NOT ADD. Not a ticket. No fills."
+    },
     {
       "source": "CoinTelegraph",
       "title": "SEC moves to clear custody hurdle for advisers offering crypto",
       "url": "https://cointelegraph.com/news/sec-moves-to-clear-custody-hurdle-for-advisers-offering-crypto",
       "pubDate": "Fri, 02 Oct 2026 01:07:08 +0000",
-      "summary": "Custody requirements have kept some investment advisers from offering certain crypto to clients. SEC proposal could remove that hurdle. Headlines only. Not a ticket."
+      "summary": "Custody requirements have kept some investment advisers from offering certain crypto to clients, a regulatory hurdle the SEC's proposal could remove.  Headlines only. Not a ticket."
     },
     {
       "source": "CoinTelegraph",
       "title": "China warns foreign spies about crypto, Singapore dominates Asia: Asia Express",
       "url": "https://cointelegraph.com/magazine/china-claims-crypto-used-by-spies-singapore-dominates-asian-crypto-asia-express",
       "pubDate": "Thu, 01 Oct 2026 23:17:47 +0000",
-      "summary": "Singapore crypto economy cited up 55 percent. South Korea market-maker note. Chinese spy ministry warning on blockchain. Headlines only. Not a ticket."
+      "summary": "Singapore's crypto economy grows 55%, South Korea set to make crypto market makers legal, and Chinese spy ministry warns would-be foreign spies it's watching the blockchain.  Headlines only. Not a ticket."
     },
     {
       "source": "CoinTelegraph",
       "title": "Evernorth clears shareholder vote ahead of Nasdaq debut with 473M XRP treasury",
       "url": "https://cointelegraph.com/news/evernorth-clears-shareholder-vote-ahead-nasdaq-debut-473m-xrp-treasury",
       "pubDate": "Thu, 01 Oct 2026 21:07:45 +0000",
-      "summary": "Evernorth expects Nasdaq ticker XRPN after the SPAC merger closes, with a large XRP treasury. Not a book name. DO NOT ADD. Not a ticket."
+      "summary": "Evernorth expects to begin trading on Nasdaq under the ticker XRPN after its SPAC merger closes, with an XRP treasury worth roughly USD 710 million at current prices.  Headlines only. Not a ticket."
     },
     {
       "source": "CoinTelegraph",
-      "title": "Trump to host 3rd exclusive memecoin event amid corruption claims",
+      "title": "Trump to host 3rd 'exclusive' memecoin event amid corruption claims",
       "url": "https://cointelegraph.com/news/donald-trump-memecoin-dinner-corruption-claims",
       "pubDate": "Thu, 01 Oct 2026 21:00:11 +0000",
-      "summary": "Nov. 22 dinner for top memecoin holders. Not SNAP, DRV, ENA, AERO, or PUMP. DO NOT ADD. Not a ticket."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "50,000 Europeans call on EU to ease stablecoin rewards restrictions in MiCA review",
-      "url": "https://cointelegraph.com/news/50000-europeans-call-on-eu-to-ease-stablecoin-rewards-restrictions-in-mica-review",
-      "pubDate": "Thu, 01 Oct 2026 18:45:09 +0000",
-      "summary": "Letter campaign presses Brussels on stablecoin rewards as central banks seek broader MiCA changes. Headlines only. Not a ticket."
+      "summary": "The president is scheduled to appear at his golf club in Washington, DC, at a Nov. 22 dinner for his top 185 memecoin holders, following similar events in May 2025 and April 2026.  Headlines only. Not a ticket."
     },
     {
       "source": "Decrypt",
-      "title": "Zcash drops 21 percent from recent high",
+      "title": "Zcash Drops 21% From Recent High - Here's Why the Rally May Not Be Over",
       "url": "https://decrypt.co/379901/zcash-price-drops-etf-flows-rally",
       "pubDate": "Thu, 01 Oct 2026 21:31:03 +0000",
-      "summary": "ZEC off a recent peak after ETF outflows and a suspected heist routed through a shielded pool. Not a book name. LOOK only. DO NOT ADD. Desk does not price ZEC."
+      "summary": "ZEC is 21% off its USD 1,698 peak after ETF outflows and a suspected North Korean heist routed money through its shielded pool. Is the run over, or will traders buy the dip?.  Headlines only. Not a ticket."
     },
     {
       "source": "Decrypt",
-      "title": "SEC proposes rules to clear up how advisers and funds can hold crypto",
+      "title": "SEC Proposes Rules to Clear Up How Advisers and Funds Can Hold Crypto",
       "url": "https://decrypt.co/379899/sec-proposes-rules-advisers-funds-hold-crypto",
       "pubDate": "Thu, 01 Oct 2026 20:46:03 +0000",
-      "summary": "Proposal would let advisers and funds use state trust companies as custodians and permit self-custody under certain conditions. Headlines only. Not a ticket."
+      "summary": "The proposal would let advisers and funds use state trust companies as custodians and permit self-custody under certain conditions, aiming to replace years of ambiguity with a clear compliance path.  Headlines only. Not a ticket."
     },
     {
       "source": "Decrypt",
-      "title": "The largest pure-play XRP treasury is about to go public",
+      "title": "Reddit Is Killing RSS Feeds and Public API Access to Fight AI Scrapers",
+      "url": "https://decrypt.co/379892/reddit-killing-rss-feeds-public-api-access-ai-scrapers",
+      "pubDate": "Thu, 01 Oct 2026 20:31:03 +0000",
+      "summary": "Reddit RSS dies November 13 and outside apps lose their data pipeline by March 2027. Reddit blames scraping bots, though it licenses its own content to AI companies.  Headlines only. Not a ticket."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Says People Linked to China's Moonshot Tried to Copy Its AI's Hidden Reasoning",
+      "url": "https://decrypt.co/379890/openai-china-moonshot-copy-ai-hidden-reasoning",
+      "pubDate": "Thu, 01 Oct 2026 19:46:03 +0000",
+      "summary": "OpenAI says it disrupted a campaign involving 15,000+ users and ties a core cluster to people associated with Moonshot, the startup behind Kimi.  Headlines only. Not a ticket."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Meta Pushes Back on Claim That Muse AI Read a User's Messages Without Consent",
+      "url": "https://decrypt.co/379868/meta-muse-ai-agent-read-messages-without-permission",
+      "pubDate": "Thu, 01 Oct 2026 19:16:03 +0000",
+      "summary": "Communications chief Andy Stone said reading Messages requires two permissions the user controls, disputing a journalist who reported Muse synced his texts despite his settings.  Headlines only. Not a ticket."
+    },
+    {
+      "source": "Decrypt",
+      "title": "The 'Largest Pure-Play' XRP Treasury Is About to Go Public",
       "url": "https://decrypt.co/379856/the-largest-pure-play-xrp-treasury-is-about-to-go-public",
       "pubDate": "Thu, 01 Oct 2026 18:46:03 +0000",
-      "summary": "Shareholders approved Evernorth merger with Armada Acquisition Corp. II. Trading expected Oct. 8. DO NOT ADD. Not a ticket."
+      "summary": "Shareholders approved Evernorth's merger with Armada Acquisition Corp. II, clearing the way for the Ripple-backed firm to begin trading Oct. 8 with a stash of roughly 473 million XRP.  Headlines only. Not a ticket."
     },
     {
       "source": "The Block",
       "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
       "url": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
       "pubDate": "Fri, 02 Oct 2026 00:22:58 +0000",
-      "summary": "Users deposit into an Ethereum vault and authorize spend with zero-knowledge proofs. ETH infrastructure note. HOLD. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.  ETH. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "The Block",
       "title": "SEC proposes framework allowing investment advisers, funds to self-custody crypto",
       "url": "https://www.theblock.co/news/regulation/2026-10-01-sec-proposes-crypto-custody-rule-investment-advisers-funds-417498",
       "pubDate": "Thu, 01 Oct 2026 21:00:53 +0000",
-      "summary": "Proposal would allow self-custody in some cases and state trust companies as custodians. Headlines only. Not a ticket."
+      "summary": "SEC proposed a crypto framework for investment advisers & funds, allowing self-custody in some cases & state trust companies as custodians.  Headlines only. Not a ticket."
     },
     {
       "source": "The Block",
       "title": "Hyperliquid Policy Center, Circle press EU on perps and stablecoin reserves in MiCA review",
       "url": "https://www.theblock.co/news/regulation/2026-10-01-hyperliquid-circle-mica-review-417452",
       "pubDate": "Thu, 01 Oct 2026 19:10:36 +0000",
-      "summary": "Policy group wants perps under MiFID II. Circle targets MiCA bank deposit floor. LOOK only. DO NOT ADD. No desk order. Not a ticket."
+      "summary": "Hyperliquid's policy group wants perps under MiFID II, while Circle targets MiCA's bank deposit floor in filings to the European Commission's MiCA review.  Headlines only. Not a ticket."
     },
     {
       "source": "The Block",
       "title": "Ethereum staking reward burn proposal EIP-8363 pulled from Hegota upgrade",
       "url": "https://www.theblock.co/news/ecosystems/2026-10-01-ethereum-staking-reward-burn-proposal-eip-8363-pulled-hegota-upgrade-417419",
       "pubDate": "Thu, 01 Oct 2026 16:17:23 +0000",
-      "summary": "Issuance-change proposal pulled. Scoping process called the wrong venue. ETH headline. HOLD. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "Co-author Jrme de Tychey said industry participants and core contributors convinced him a scoping process was the wrong venue for an issuance change.  ETH. HOLD. LOOK only. DO NOT ADD. Not a ticket."
     },
     {
       "source": "The Block",
-      "title": "Evernorth shareholders approve XRP treasury deal, clearing path to Nasdaq debut",
+      "title": "Evernorth shareholders approve USD 1 billion XRP treasury deal, clearing path to Nasdaq debut",
       "url": "https://www.theblock.co/news/deals/2026-10-01-evernorth-xrpn-nasdaq-armada-shareholders-approve-417413",
       "pubDate": "Thu, 01 Oct 2026 15:17:11 +0000",
-      "summary": "Armada Acquisition Corp. II shareholders approved the Evernorth merger. DO NOT ADD. Not a ticket."
+      "summary": "Armada Acquisition Corp. II shareholders approved the Evernorth merger. The XRP treasury company expects to hold ~473M XRP.  Headlines only. Not a ticket."
     },
     {
       "source": "The Block",
-      "title": "NEAR Intents halts services after 3.8 million exploit, promises full compensation",
+      "title": "NEAR Intents halts services after USD 3.8 million exploit, promises full compensation",
       "url": "https://www.theblock.co/news/ecosystems/2026-10-01-near-intents-halts-services-after-3-8-million-exploit-promises-full-compensation-417404",
       "pubDate": "Thu, 01 Oct 2026 14:18:12 +0000",
-      "summary": "Contract flaw patched. Deposits and withdrawals on 11 networks remain disrupted. Bitget-style exploit note, not Bitget. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "NEAR Intents patched the contract flaw, but deposits and withdrawals on 11 networks remain disrupted.  Exploit headline. LOOK only. DO NOT ADD. Not a ticket. No fills."
     },
     {
       "source": "CryptoSlate",
-      "title": "Crypto hackers have taken 2.7 billion in 2026 and the losses are concentrated",
+      "title": "Bitget restores USD 300M fund after absorbing USD 388M security breach",
+      "url": "https://cryptoslate.com/bitget-restores-300m-fund-after-absorbing-388m-security-breach/",
+      "pubDate": "Fri, 02 Oct 2026 02:10:34 +0000",
+      "summary": "The restored backstop is separate from customer reserves, and claims remain subject to Bitget's assessment as withdrawals reopen in phases. The post Bitget restores USD 300M fund after absorbing USD 388M security breach appeared first on...  Bitget-style exploit note. LOOK only. DO NOT ADD. Not a ticket. No fills."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Crypto hackers have taken USD 2.7 billion in 2026 and the losses are alarmingly concentrated",
       "url": "https://cryptoslate.com/crypto-hackers-have-taken-2-7-billion-in-2026-and-the-losses-are-alarmingly-concentrated/",
       "pubDate": "Fri, 02 Oct 2026 00:20:05 +0000",
-      "summary": "Article cites nearly 2.7 billion lost to security incidents this year. Hack tally. LOOK only. DO NOT ADD. Not a ticket. No fills."
+      "summary": "Crypto firms and users have lost nearly USD 2.7 billion to security incidents this year, with North Korea-linked thefts exceeding USD 1 billion. Blockchain security firm CertiK recorded 658 incidents through September, with about USD 420.4...  Exploit headline. LOOK only. DO NOT ADD. Not a ticket. No fills."
     },
     {
       "source": "CryptoSlate",
-      "title": "US factory costs spike, threatening Bitcoin rally headline",
+      "title": "US factory costs spike, threatening Bitcoin's rally above USD 85,000",
       "url": "https://cryptoslate.com/us-factory-costs-spike-threatening-bitcoins-rally-above-85000/",
       "pubDate": "Thu, 01 Oct 2026 22:40:07 +0000",
-      "summary": "Factory-cost headline ahead of Friday payrolls. Desk does not confirm or fill a level. BTC. HOLD. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "More manufacturers reported rising input prices as orders and employment expanded, adding evidence to the rates debate before Friday's payrolls. The post US factory costs spike, threatening Bitcoin's rally above USD 85,000 appeared first...  BTC. HOLD. LOOK only. DO NOT ADD. Not a ticket. Desk does not invent a price."
     },
     {
       "source": "CryptoSlate",
-      "title": "Wall Street arrived in NEAR just as a large app got hacked",
+      "title": "Wall Street arrived in NEAR just as a USD 4 billion-a-month app got hacked",
       "url": "https://cryptoslate.com/wall-street-arrived-in-near-just-as-a-4-billion-a-month-app-got-hacked/",
       "pubDate": "Thu, 01 Oct 2026 21:30:20 +0000",
-      "summary": "Article frames a NEAR US ETF note against the NEAR Intents incident. Exploit headline. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "NEAR's new US ETF is facing its first stress test days after launch as a USD 3.8 million ecosystem exploit hit the token. NEAR fell about 10% to USD 4.86 after NEAR Intents disclosed a security incident involving its Omni...  Exploit headline. LOOK only. DO NOT ADD. Not a ticket. No fills."
     },
     {
       "source": "CryptoSlate",
-      "title": "XRP is becoming collateral for real loans and the first market is whale-heavy",
+      "title": "XRP is becoming collateral for real loans and the first market is already dominated by whales",
       "url": "https://cryptoslate.com/xrp-is-becoming-collateral-for-real-loans-and-the-first-market-is-already-dominated-by-whales/",
       "pubDate": "Thu, 01 Oct 2026 20:20:56 +0000",
-      "summary": "Morpho snapshot note on FXRP collateral use and concentrated debt. Not a book name. DO NOT ADD. Not a ticket."
+      "summary": "Morpho's October 1 snapshot shows live FXRP collateral use, but concentrated debt leaves the broader XRP demand signal unresolved. The post XRP is becoming collateral for real loans and the first market is already dominated by whales...  Headlines only. Not a ticket."
     },
     {
       "source": "CryptoSlate",
-      "title": "Bitcoin ETFs are 5 billion away from a new flow record after an 11-month reset",
+      "title": "Bitcoin ETFs are USD 5 billion away from a new flow record after a brutal 11-month reset",
       "url": "https://cryptoslate.com/bitcoin-etfs-are-5-billion-from-a-new-flow-record-after-a-brutal-11-month-reset/",
       "pubDate": "Thu, 01 Oct 2026 19:00:39 +0000",
-      "summary": "Flow headline only. Sept. 30 withdrawal leaves later flows and spot to test redemptions. BTC. HOLD. LOOK only. DO NOT ADD. Not a ticket."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Bond yield explosion gives Bitcoin a strong signal, opinion headline",
-      "url": "https://cryptoslate.com/bond-yield-explosion-gives-bitcoin-a-strong-signal-is-now-finally-satoshis-time/",
-      "pubDate": "Thu, 01 Oct 2026 18:00:21 +0000",
-      "summary": "Opinion headline. BTC. HOLD. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "September 30's concentrated withdrawal leaves subsequent fund flows and spot prices to test whether redemptions persist. The post Bitcoin ETFs are USD 5 billion away from a new flow record after a brutal 11-month reset appeared first on...  BTC. HOLD. LOOK only. DO NOT ADD. Not a ticket. Desk does not invent a price."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Frank Holmes: they will print 100 trillion, why to buy Bitcoin and gold",
+      "title": "Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin & Gold",
       "url": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
       "pubDate": "Thu, 01 Oct 2026 21:34:00 +0000",
-      "summary": "Opinion headline. Not a ticket. BTC. HOLD. DO NOT ADD. LOOK only."
+      "summary": "Bitcoin Magazine Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin & Gold Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the...  BTC. HOLD. LOOK only. DO NOT ADD. Not a ticket. Desk does not invent a price."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Darius Dale: will global liquidity send Bitcoin higher in 2027?",
+      "title": "Nico Lechuga: Bitcoin Will Revolutionize the USD 4T Private Equity Industry",
+      "url": "https://bitcoinmagazine.com/videos/nico-lechuga-bitcoin-will-revolutionize-the-4t-private-equity-industry",
+      "pubDate": "Thu, 01 Oct 2026 21:24:55 +0000",
+      "summary": "Bitcoin Magazine Nico Lechuga: Bitcoin Will Revolutionize the USD 4T Private Equity Industry Traditional PE flips companies on tight deadlines. Ego Death Capital's Nico Lechuga explains how permanent capital and Bitcoin treasuries give...  BTC. HOLD. LOOK only. DO NOT ADD. Not a ticket. Desk does not invent a price."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Darius Dale: Will Global Liquidity Send Bitcoin Higher in 2027?",
       "url": "https://bitcoinmagazine.com/videos/darius-dale-will-global-liquidity-send-bitcoin-higher-in-2027",
       "pubDate": "Thu, 01 Oct 2026 21:18:21 +0000",
-      "summary": "Liquidity opinion. Near-term chop, later rally claim. BTC. HOLD. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "Bitcoin Magazine Darius Dale: Will Global Liquidity Send Bitcoin Higher in 2027? Darius Dale warns near-term liquidity tightening could trigger Bitcoin chop, but expects a major 12-to-18-month rally if liquidity returns in 2027. This...  BTC. HOLD. LOOK only. DO NOT ADD. Not a ticket. Desk does not invent a price."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "SEC proposes new rules on crypto custody",
+      "title": "SEC Proposes New Rules On Crypto Custody",
       "url": "https://bitcoinmagazine.com/news/sec-proposes-crypto-custody-rules",
       "pubDate": "Thu, 01 Oct 2026 21:09:53 +0000",
-      "summary": "Regulator proposed rules it said would govern investment funds custody of crypto assets. Headlines only. Not a ticket."
+      "summary": "Bitcoin Magazine SEC Proposes New Rules On Crypto Custody The regulator proposed new rules it said would help govern investment funds' custody of crypto assets. This post SEC Proposes New Rules On Crypto Custody first appeared on...  BTC. HOLD. LOOK only. DO NOT ADD. Not a ticket. Desk does not invent a price."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Jack Dorsey Block launches campaign to get people spending Bitcoin",
+      "title": "Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows",
+      "url": "https://bitcoinmagazine.com/press-releases/sazmining-launches-the-wild-sats-club-a-loyalty-program-that-discounts-mining-management-fees-as-customer-hashrate-grows",
+      "pubDate": "Thu, 01 Oct 2026 21:05:32 +0000",
+      "summary": "Bitcoin Magazine Sazmining Launches the Wild Sats Club, a Loyalty Program That Discounts Mining Management Fees as Customer Hashrate Grows Sazmining, a Bitcoin Mining as a Service company founded in 2020 and led by CEO and Co-Founder...  BTC. HOLD. LOOK only. DO NOT ADD. Not a ticket. Desk does not invent a price."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Jack Dorsey's Block Launches Campaign To Get People Spending Bitcoin",
       "url": "https://bitcoinmagazine.com/news/block-launches-bitcoin-campaign",
       "pubDate": "Thu, 01 Oct 2026 20:15:36 +0000",
-      "summary": "Block campaign headline on spending bitcoin. BTC. HOLD. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "Bitcoin Magazine Jack Dorsey's Block Launches Campaign To Get People Spending Bitcoin Block has launched a campaign to get people on a Bitcoin standard. This post Jack Dorsey's Block Launches Campaign To Get People Spending Bitcoin...  BTC. HOLD. LOOK only. DO NOT ADD. Not a ticket. Desk does not invent a price."
     },
     {
       "source": "CoinDesk",
       "title": "SEC proposes new crypto custody rules for investment advisers and funds",
       "url": "https://www.coindesk.com/policy/2026/10/01/u-s-sec-maps-out-crypto-custody-in-new-proposal-that-furthers-its-digital-assets-agenda",
       "pubDate": "Thu, 01 Oct 2026 20:20:04 +0000",
-      "summary": "Proposed custody rule. Hester Peirce exits this week. Headlines only. Not a ticket."
+      "summary": "The regulator issued a proposed rule for custody, marking a swan song for its inaugural Crypto Task Force chief, Commissioner Hester Peirce, who exits this week.  Headlines only. Not a ticket."
     },
     {
       "source": "CoinDesk",
-      "title": "Another Trump memecoin dinner advertised for token top investors",
+      "title": "Another Trump memecoin dinner advertised for token's top investors",
       "url": "https://www.coindesk.com/policy/2026/10/01/another-trump-memecoin-dinner-advertised-for-token-s-top-investors",
       "pubDate": "Thu, 01 Oct 2026 18:45:29 +0000",
-      "summary": "November event called the most exclusive dinner in the world by the company managing the memecoin. DO NOT ADD. Not a ticket."
+      "summary": "The company managing the memecoin calls the November event the \"most exclusive dinner in the world.\".  Headlines only. Not a ticket."
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto for Advisors: the CLARITY Act failed, but the rules came anyway",
+      "title": "Crypto for Advisors: The CLARITY Act failed, but the rules came anyway",
       "url": "https://www.coindesk.com/coindesk-indices/2026/10/01/crypto-for-advisors-the-clarity-act-failed-but-the-rules-came-anyway",
       "pubDate": "Thu, 01 Oct 2026 15:00:00 +0000",
-      "summary": "Advisor note that market-structure legislation stalled while other rules moved. Headlines only. Not a ticket."
+      "summary": "Headlines only. Not a ticket."
     },
     {
       "source": "CoinDesk",
-      "title": "NEAR Intents hit by 3.8 million exploit as crypto rough year of hacks continues",
+      "title": "NEAR Intents hit by USD 3.8 million exploit as crypto's rough year of hacks continues",
       "url": "https://www.coindesk.com/tech/2026/10/01/near-intents-hit-by-usd3-8-million-exploit-as-crypto-s-rough-year-of-hacks-continues",
       "pubDate": "Thu, 01 Oct 2026 14:18:14 +0000",
-      "summary": "Cross-chain system said it will reimburse losses after a bug hit deposits and withdrawals. Bitget not named. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "The popular cross-chain trading system said it will reimburse losses after a bug affected deposits and withdrawals across several networks.  Exploit headline. LOOK only. DO NOT ADD. Not a ticket. No fills."
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday jobs report",
+      "title": "Live updates: Bitcoin posts tentative gains as rates drop ahead of Friday's jobs report",
       "url": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
       "pubDate": "Thu, 01 Oct 2026 11:59:17 +0000",
-      "summary": "Jobs-day tape note. Desk does not invent a price. BTC. HOLD. LOOK only. DO NOT ADD. Not a ticket."
+      "summary": "The euro is losing ground versus the greenback as spiking French bond yields revive memories of the European sovereign debt crisis.  BTC. HOLD. LOOK only. DO NOT ADD. Not a ticket. Desk does not invent a price."
     },
     {
       "source": "CoinDesk",
       "title": "Illinois agrees to six-month delay of crypto tax as industry continues court battle",
       "url": "https://www.coindesk.com/policy/2026/09/30/illinois-agrees-to-six-month-delay-of-crypto-tax-as-industry-continues-court-battle",
       "pubDate": "Thu, 01 Oct 2026 11:58:00 +0000",
-      "summary": "Both sides agreed the 0.2 percent tax should be put off until July 1 if the court approves. Headlines only. Not a ticket."
+      "summary": "Both sides agreed the 0.2% tax should be put off until July 1, if the court approves the deal, which will let the state and industry focus on the legal dispute.  Headlines only. Not a ticket."
     }
   ]
 }
