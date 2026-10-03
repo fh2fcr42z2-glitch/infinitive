@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-03T18:02:14Z",
+  "asof": "2026-10-03T19:01:56Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -77,7 +77,7 @@
     },
     {
       "source": "Decrypt",
-      "title": "The Pope Has Thoughts on AI Art-And They're Not Flattering",
+      "title": "The Pope Has Thoughts on AI Art - And They're Not Flattering",
       "url": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
       "pubDate": "Sat, 03 Oct 2026 13:01:04 +0000",
       "summary": "The pontiff says algorithms \"lack the spark of humanity,\" and the Vatican wants to renew an alliance with artists and cultural institutions to protect it."
@@ -87,7 +87,7 @@
       "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
       "url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
       "pubDate": "Fri, 02 Oct 2026 21:16:04 +0000",
-      "summary": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face-and whether the company can be held legally accountable."
+      "summary": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face - and whether the company can be held legally accountable."
     },
     {
       "source": "Decrypt",
@@ -140,87 +140,87 @@
     },
     {
       "source": "CryptoSlate",
+      "title": "Hedge funds built a USD 1.2 trillion Treasury trade on money they have to keep borrowing",
+      "url": "https://cryptoslate.com/hedge-funds-built-a-1-2-trillion-treasury-trade-on-money-they-have-to-keep-borrowing/",
+      "pubDate": "Sat, 03 Oct 2026 18:40:22 +0000",
+      "summary": "Companies can own a mountain of US government debt without betting that bond prices will rise. Hedge funds buy Treasury securities and sell futures against them to collect a small pricing gap, borrowing most of the purchase money to make th"
+    },
+    {
+      "source": "CryptoSlate",
       "title": "ESMA proposes ending EU custody and transfer services for non-compliant stablecoins",
       "url": "https://cryptoslate.com/esma-proposes-ending-eu-custody-and-transfer-services-for-non-compliant-stablecoins/",
       "pubDate": "Sat, 03 Oct 2026 16:00:54 +0000",
-      "summary": "Non-compliant tokens could lose licensed custody and transfer access if the proposal becomes law, with exit rules still unresolved. The post ESMA proposes ending EU custody and transfer services for non-compliant stablecoins appeared first on CryptoSlate ."
+      "summary": "Non-compliant tokens could lose licensed custody and transfer access if the proposal becomes law, with exit rules still unresolved."
     },
     {
       "source": "CryptoSlate",
       "title": "Six US banks have failed in 2026 but the numbers look nothing like 2023",
       "url": "https://cryptoslate.com/six-us-banks-have-failed-in-2026-but-the-numbers-look-nothing-like-2023/",
       "pubDate": "Sat, 03 Oct 2026 13:20:17 +0000",
-      "summary": "Six US banks have failed in 2026 so far, which is one more than in 2023 and enough to make another banking-crisis headline practically write itself. But before we start reliving Silicon Valley Bank, it's worth looking at what those six banks actually held: about USD 1.43..."
+      "summary": "Six US banks have failed in 2026 so far, which is one more than in 2023 and enough to make another banking-crisis headline practically write itself. But before we start reliving Silicon Valley Bank, it's worth looking at what those six bank"
     },
     {
       "source": "CryptoSlate",
       "title": "Leveraged funds' Bitcoin futures shorts fall by 5,300 BTC-equivalent as longs shrink",
       "url": "https://cryptoslate.com/leveraged-funds-bitcoin-futures-shorts-fall-by-5300-btc-equivalent-as-longs-shrink/",
       "pubDate": "Sat, 03 Oct 2026 11:30:07 +0000",
-      "summary": "The September 29 snapshot shows leveraged funds' reported shorts fell about 5,300 BTC-equivalent across four products, while longs and open interest also declined. The post Leveraged funds' Bitcoin futures shorts fall by 5,300 BTC-equivalent as longs shrink appeared first on Cryp"
+      "summary": "The September 29 snapshot shows leveraged funds' reported shorts fell about 5,300 BTC-equivalent across four products, while longs and open interest also declined."
     },
     {
       "source": "CryptoSlate",
       "title": "Arbitrum pauses new Stylus activations over AI-assisted attack risks",
       "url": "https://cryptoslate.com/arbitrum-pauses-new-stylus-activations-over-ai-assisted-attack-risks/",
       "pubDate": "Sat, 03 Oct 2026 09:50:30 +0000",
-      "summary": "Existing programs keep running, while a separate proof-conflict guard can delay unconfirmed withdrawals to Ethereum. The post Arbitrum pauses new Stylus activations over AI-assisted attack risks appeared first on CryptoSlate ."
+      "summary": "Existing programs keep running, while a separate proof-conflict guard can delay unconfirmed withdrawals to Ethereum."
     },
     {
       "source": "CryptoSlate",
       "title": "Plunging GPU prices threaten AI hosts, and new hedges step in",
       "url": "https://cryptoslate.com/plunging-gpu-prices-threaten-ai-hosts-and-new-hedges-step-in/",
       "pubDate": "Sat, 03 Oct 2026 07:30:22 +0000",
-      "summary": "Companies building AI applications can rent powerful computers instead of buying the equipment themselves, paying for access to the graphics processing units, or GPUs, that run their software. Lower rental prices make those applications cheaper to operate, but they can also make"
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "US judge kills Milei's LIBRA memecoin lawsuit, leaving investors stranded",
-      "url": "https://cryptoslate.com/us-judge-kills-mileis-libra-memecoin-lawsuit-leaving-investors-stranded/",
-      "pubDate": "Sat, 03 Oct 2026 03:40:54 +0000",
-      "summary": "A September 29 ruling closes the LIBRA/M3M3 district-court case after continuity, pleading and jurisdiction failures. The post US judge kills Milei's LIBRA memecoin lawsuit, leaving investors stranded appeared first on CryptoSlate ."
+      "summary": "Companies building AI applications can rent powerful computers instead of buying the equipment themselves, paying for access to the graphics processing units, or GPUs, that run their software. Lower rental prices make those applications che"
     },
     {
       "source": "Bitcoin Magazine",
       "title": "IMF Praises El Salvador - But Still Tries To Scale Back Its Bitcoin Project",
       "url": "https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin",
       "pubDate": "Fri, 02 Oct 2026 22:01:18 +0000",
-      "summary": "IMF Praises El Salvador - But Still Tries To Scale Back Its Bitcoin Project The International Monetary Fund approved a USD 139 million disbursement to El Salvador but still wants it to scale back its Bitcoin project."
+      "summary": "Bitcoin Magazine IMF Praises El Salvador - But Still Tries To Scale Back Its Bitcoin Project The International Monetary Fund approved a USD 139 million disbursement to El Salvador but still wants it to scale back its Bitcoin project. This p"
     },
     {
       "source": "Bitcoin Magazine",
       "title": "When the Banks Don't Work, Bitcoin Does: Cornell University's Adoption Index",
       "url": "https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell",
       "pubDate": "Fri, 02 Oct 2026 19:15:58 +0000",
-      "summary": "When the Banks Don't Work, Bitcoin Does: Cornell University's Adoption Index Cornell University spoke to 25,880 people about using bitcoin. While many don't understand the tech in depth, it's proving useful for some."
+      "summary": "Bitcoin Magazine When the Banks Don't Work, Bitcoin Does: Cornell University's Adoption Index Cornell University spoke to 25,880 people about using bitcoin. While many don't understand the tech in depth, it's proving useful for some. This p"
     },
     {
       "source": "Bitcoin Magazine",
       "title": "South Africa's Absa Becomes First Bank on the Continent to Custody Bitcoin: Report",
       "url": "https://bitcoinmagazine.com/news/absa-first-african-bank-to-custody-bitcoin",
       "pubDate": "Fri, 02 Oct 2026 18:12:28 +0000",
-      "summary": "South Africa's Absa Becomes First Bank on the Continent to Custody Bitcoin: Report South African bank Absa has become the first African lender to custody bitcoin, according to reports. As reported first by Bloomberg on Friday, the Johannesburg-based lender will s"
+      "summary": "Bitcoin Magazine South Africa's Absa Becomes First Bank on the Continent to Custody Bitcoin: Report South African bank Absa has become the first African lender to custody bitcoin, according to reports. As reported first by Bloomberg on Frid"
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data",
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-surges-on-soft-jobs-data",
       "pubDate": "Fri, 02 Oct 2026 15:09:38 +0000",
-      "summary": "Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data The price of bitcoin surged above USD 87,000 on Friday morning in New York, buoyed by constant exchange-traded fund flows and a jobs report showing that unemployment in the U.S. had ticked up. Bitc"
+      "summary": "Bitcoin Magazine Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data The price of bitcoin surged above USD 87,000 on Friday morning in New York, buoyed by constant exchange-traded fund flows and a jobs report showing tha"
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Impacts of Daily Dividends on Digital Credit",
       "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/impacts-of-daily-dividends-on-digital-credit",
       "pubDate": "Fri, 02 Oct 2026 13:20:41 +0000",
-      "summary": "Impacts of Daily Dividends on Digital Credit Analyzing the implications for digital credit instruments paying daily dividends."
+      "summary": "Bitcoin Magazine Impacts of Daily Dividends on Digital Credit Analyzing the implications for digital credit instruments paying daily dividends. This post Impacts of Daily Dividends on Digital Credit first appeared on Bitcoin Magazine and is"
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin & Gold",
       "url": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
       "pubDate": "Thu, 01 Oct 2026 21:34:00 +0000",
-      "summary": "Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin & Gold Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI boom."
+      "summary": "Bitcoin Magazine Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin & Gold Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI"
     },
     {
       "source": "CoinDesk",
