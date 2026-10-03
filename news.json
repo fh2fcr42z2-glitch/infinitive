@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-03T20:02:20Z",
+  "asof": "2026-10-03T21:02:01Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -140,6 +140,13 @@
     },
     {
       "source": "CryptoSlate",
+      "title": "Bankers sue to overturn OCC trust-bank rule used by crypto firms",
+      "url": "https://cryptoslate.com/bankers-sue-to-overturn-occ-trust-bank-rule-used-by-crypto-firms/",
+      "pubDate": "Sat, 03 Oct 2026 20:00:08 +0000",
+      "summary": "The Independent Community Bankers of America sued the OCC in federal court in Washington on Oct. 2, two weeks after the agency approved Agora National Trust Bank, Catena Trust Bank and Bastion Platforms. American Banker reported that the complaint asked the court to vacate..."
+    },
+    {
+      "source": "CryptoSlate",
       "title": "Hedge funds built a USD 1.2 trillion Treasury trade on money they have to keep borrowing",
       "url": "https://cryptoslate.com/hedge-funds-built-a-1-2-trillion-treasury-trade-on-money-they-have-to-keep-borrowing/",
       "pubDate": "Sat, 03 Oct 2026 18:40:22 +0000",
@@ -172,13 +179,6 @@
       "url": "https://cryptoslate.com/arbitrum-pauses-new-stylus-activations-over-ai-assisted-attack-risks/",
       "pubDate": "Sat, 03 Oct 2026 09:50:30 +0000",
       "summary": "Existing programs keep running, while a separate proof-conflict guard can delay unconfirmed withdrawals to Ethereum. The post Arbitrum pauses new Stylus activations over AI-assisted attack risks appeared first on CryptoSlate ."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Plunging GPU prices threaten AI hosts, and new hedges step in",
-      "url": "https://cryptoslate.com/plunging-gpu-prices-threaten-ai-hosts-and-new-hedges-step-in/",
-      "pubDate": "Sat, 03 Oct 2026 07:30:22 +0000",
-      "summary": "Companies building AI applications can rent powerful computers instead of buying the equipment themselves, paying for access to the graphics processing units, or GPUs, that run their software. Lower rental prices make those applications cheaper to operate, but they can also..."
     },
     {
       "source": "Bitcoin Magazine",
