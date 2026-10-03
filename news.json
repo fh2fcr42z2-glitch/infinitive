@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-03T00:03:37Z",
+  "asof": "2026-10-03T01:02:00Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,7 +10,7 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "All six RSS feeds returned HTTP 200 this pull. Up to 6 items parsed per feed. Rekt listed, not fetched as RSS. No SNAP, DRV, ENA, AERO, or PUMP headline in this pull. HOLD those names. DO NOT ADD. LOOK only. Exploit context unchanged: third-party Aave adapter reported stolen about 114 ETH; protocol itself said unaffected. Drift exploit recovery claims still in the pull (about 1 percent initial payout). LOOK only. DO NOT ADD. No Bitget-style exchange exploit in this pull. ETH context is Blast L2 wind-down plus the adapter exploit. HOLD ETH. BTC context is softer September jobs (29,000 added, unemployment 4.2 percent) and headlines around a USD 87,000 print and a cleared USD 85,000 sell wall. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. No fills.",
+  "notes": "All six RSS feeds returned HTTP 200 this pull. Up to 6 items parsed per feed. Rekt listed, not fetched as RSS. No SNAP, DRV, ENA, AERO, or PUMP headline in this pull. HOLD those names. DO NOT ADD. LOOK only. Exploit context: third-party Aave adapter reported stolen about 114 ETH; protocol itself said unaffected. Drift exploit recovery claims still in the pull (about 1 percent initial payout). LOOK only. DO NOT ADD. No Bitget-style exchange exploit in this pull. ETH context is Blast L2 wind-down plus the adapter exploit. HOLD ETH. BTC context is softer September jobs (29,000 added, unemployment 4.2 percent) and headlines around a USD 87,000 print and a cleared USD 85,000 sell wall. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. No fills.",
   "items": [
     {
       "source": "CoinTelegraph",
@@ -59,7 +59,7 @@
       "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
       "url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
       "pubDate": "Fri, 02 Oct 2026 21:16:04 +0000",
-      "summary": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face-and whether the company can be held legally accountable."
+      "summary": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face - and whether the company can be held legally accountable."
     },
     {
       "source": "Decrypt",
@@ -73,7 +73,7 @@
       "title": "Circle Pushes Back on MiCA's Bank-Deposit Mandate for Stablecoins",
       "url": "https://decrypt.co/379984/circle-pushes-back-on-micas-bank-deposit-mandate-for-stablecoins",
       "pubDate": "Fri, 02 Oct 2026 19:46:03 +0000",
-      "summary": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter-siding with the ECB in calling for more flexible rules."
+      "summary": "The USDC issuer told the European Commission that MiCA's reserve mandates and concentration caps keep the largest global stablecoins outside Europe's perimeter - siding with the ECB in calling for more flexible rules."
     },
     {
       "source": "Decrypt",
@@ -143,84 +143,84 @@
       "title": "Blast shuts down USD 20M layer-2 network, forcing Oct. 26 exit deadline",
       "url": "https://cryptoslate.com/blast-shuts-down-20m-layer-2-network-forcing-oct-26-exit-deadline/",
       "pubDate": "Fri, 02 Oct 2026 23:10:14 +0000",
-      "summary": "Users face a temporary withdrawal pause before an Oct. 26 deadline to exit through Blast's normal interface. The post Blast shuts down USD 20M layer-2 network, forcing Oct. 26 exit deadline appeared first on CryptoSlate ."
+      "summary": "Users face a temporary withdrawal pause before an Oct. 26 deadline to exit through Blast's normal interface."
     },
     {
       "source": "CryptoSlate",
       "title": "Stablecoin issuers have replaced 40% of China's lost US Treasury demand",
       "url": "https://cryptoslate.com/stablecoin-issuers-have-replaced-40-of-chinas-lost-us-treasury-demand/",
       "pubDate": "Fri, 02 Oct 2026 21:50:39 +0000",
-      "summary": "Stablecoin issuers are emerging as a new source of demand for US government debt as foreign official holdings lose ground. Tether and Circle have increased their Treasury securities and repurchase-agreement holdings by about USD 200 billion over the past five years, equivalent..."
+      "summary": "Stablecoin issuers are emerging as a new source of demand for US government debt as foreign official holdings lose ground. Tether and Circle have increased their Treasury securities and repurchase-agreement holdings by about USD 200 billion"
     },
     {
       "source": "CryptoSlate",
       "title": "Bitcoin's USD 85,000 sell wall is gone and traders are now betting on USD 100,000",
       "url": "https://cryptoslate.com/bitcoins-85000-sell-wall-is-gone-and-traders-are-now-betting-on-100000/",
       "pubDate": "Fri, 02 Oct 2026 20:30:33 +0000",
-      "summary": "Bitcoin's rally is approaching a USD 90,000 test as a rare accumulation pattern reappears and sell-side liquidity thins. On Oct. 2, Bitcoin registered an intraday high at USD 87,000 after buyers broke through a sell wall around USD 85,000 that had stalled several previous atte..."
+      "summary": "Bitcoin's rally is approaching a USD 90,000 test as a rare accumulation pattern reappears and sell-side liquidity thins. On Oct. 2, Bitcoin registered an intraday high at USD 87,000 after buyers broke through a sell wall around USD 85,000 t"
     },
     {
       "source": "CryptoSlate",
       "title": "Crypto hackers exploit third-party Aave tool to steal 114 ETH",
       "url": "https://cryptoslate.com/crypto-hackers-exploit-third-party-aave-tool-to-steal-114-eth/",
       "pubDate": "Fri, 02 Oct 2026 19:10:35 +0000",
-      "summary": "A third-party lending adapter built on Aave was exploited to steal about 114 ETH, worth over USD 300,000, while the protocol itself remained unaffected. On Oct. 2, blockchain security firm SlowMist said the attacker compromised two Safe multisig wallets through a flaw in the F..."
+      "summary": "A third-party lending adapter built on Aave was exploited to steal about 114 ETH, worth over USD 300,000, while the protocol itself remained unaffected. On Oct. 2, blockchain security firm SlowMist said the attacker compromised two Safe mul"
     },
     {
       "source": "CryptoSlate",
       "title": "Evernorth's Nasdaq XRP treasury is approved, but its real buying power isn't the USD 300 million expected",
       "url": "https://cryptoslate.com/evernorths-nasdaq-xrp-treasury-is-approved-but-its-real-buying-power-isnt-the-300-million-expected/",
       "pubDate": "Fri, 02 Oct 2026 17:50:25 +0000",
-      "summary": "Roughly USD 88.5 million in closing-linked gross sources remains conditional, with expenses and spending choices deciding additional XRP demand. The post Evernorth's Nasdaq XRP treasury is approved, but its real buying power isn't the USD 300 million expected appeared first on..."
+      "summary": "Roughly USD 88.5 million in closing-linked gross sources remains conditional, with expenses and spending choices deciding additional XRP demand."
     },
     {
       "source": "CryptoSlate",
       "title": "Why Strategy's STRC calculator shows USD 210 for a share it can redeem at USD 101",
       "url": "https://cryptoslate.com/why-strategys-strc-calculator-shows-210-for-a-share-it-can-redeem-at-101/",
       "pubDate": "Fri, 02 Oct 2026 16:40:55 +0000",
-      "summary": "The illustrative Oct. 2 output holds the dividend constant, while Strategy controls optional redemption at USD 101 or higher plus applicable unpaid dividends. The post Why Strategy's STRC calculator shows USD 210 for a share it can redeem at USD 101 appeared first on CryptoSla..."
+      "summary": "The illustrative Oct. 2 output holds the dividend constant, while Strategy controls optional redemption at USD 101 or higher plus applicable unpaid dividends."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "IMF Praises El Salvador - But Still Tries To Scale Back Its Bitcoin Project",
       "url": "https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin",
       "pubDate": "Fri, 02 Oct 2026 22:01:18 +0000",
-      "summary": "Bitcoin Magazine IMF Praises El Salvador - But Still Tries To Scale Back Its Bitcoin Project The International Monetary Fund approved a USD 139 million disbursement to El Salvador but still wants it to scale back its Bitcoin project. This post IMF Praises El Salvador - But Sti..."
+      "summary": "Bitcoin Magazine IMF Praises El Salvador - But Still Tries To Scale Back Its Bitcoin Project The International Monetary Fund approved a USD 139 million disbursement to El Salvador but still wants it to scale back its Bitcoin project. This p"
     },
     {
       "source": "Bitcoin Magazine",
       "title": "When the Banks Don't Work, Bitcoin Does: Cornell University's Adoption Index",
       "url": "https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell",
       "pubDate": "Fri, 02 Oct 2026 19:15:58 +0000",
-      "summary": "Bitcoin Magazine When the Banks Don't Work, Bitcoin Does: Cornell University's Adoption Index Cornell University spoke to 25,880 people about using bitcoin. While many don't understand the tech in depth, it's proving useful for some. This post When the Banks Don't Work, Bitcoi..."
+      "summary": "Bitcoin Magazine When the Banks Don't Work, Bitcoin Does: Cornell University's Adoption Index Cornell University spoke to 25,880 people about using bitcoin. While many don't understand the tech in depth, it's proving useful for some. This p"
     },
     {
       "source": "Bitcoin Magazine",
       "title": "South Africa's Absa Becomes First Bank on the Continent to Custody Bitcoin: Report",
       "url": "https://bitcoinmagazine.com/news/absa-first-african-bank-to-custody-bitcoin",
       "pubDate": "Fri, 02 Oct 2026 18:12:28 +0000",
-      "summary": "Bitcoin Magazine South Africa's Absa Becomes First Bank on the Continent to Custody Bitcoin: Report South African bank Absa has become the first African lender to custody bitcoin, according to reports. As reported first by Bloomberg on Friday, the Johannesburg-based lender wil..."
+      "summary": "Bitcoin Magazine South Africa's Absa Becomes First Bank on the Continent to Custody Bitcoin: Report South African bank Absa has become the first African lender to custody bitcoin, according to reports. As reported first by Bloomberg on Frid"
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data",
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-surges-on-soft-jobs-data",
       "pubDate": "Fri, 02 Oct 2026 15:09:38 +0000",
-      "summary": "Bitcoin Magazine Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data The price of bitcoin surged above USD 87,000 on Friday morning in New York, buoyed by constant exchange-traded fund flows and a jobs report showing that unemployment in the U.S. had ticked..."
+      "summary": "Bitcoin Magazine Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data The price of bitcoin surged above USD 87,000 on Friday morning in New York, buoyed by constant exchange-traded fund flows and a jobs report showing tha"
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Impacts of Daily Dividends on Digital Credit",
       "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/impacts-of-daily-dividends-on-digital-credit",
       "pubDate": "Fri, 02 Oct 2026 13:20:41 +0000",
-      "summary": "Bitcoin Magazine Impacts of Daily Dividends on Digital Credit Analyzing the implications for digital credit instruments paying daily dividends. This post Impacts of Daily Dividends on Digital Credit first appeared on Bitcoin Magazine and is written by Allard Peng ."
+      "summary": "Bitcoin Magazine Impacts of Daily Dividends on Digital Credit Analyzing the implications for digital credit instruments paying daily dividends."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin & Gold",
       "url": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
       "pubDate": "Thu, 01 Oct 2026 21:34:00 +0000",
-      "summary": "Bitcoin Magazine Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin & Gold Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI boom. This post Frank Holmes: They W..."
+      "summary": "Bitcoin Magazine Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin & Gold Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI"
     },
     {
       "source": "CoinDesk",
