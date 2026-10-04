@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-04T13:05:02Z",
+  "asof": "2026-10-04T14:02:17Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,27 +10,34 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "All six RSS feeds returned HTTP 200 on this pull. Up to 6 items parsed per feed. Rekt listed, not fetched as RSS. No SNAP, ENA, AERO, or PUMP headline in this pull. HOLD those names. DO NOT ADD. LOOK only. New Sunday CoinTelegraph: Japan added Garantex to its Russia sanctions list. LOOK only. El Salvador IMF disbursement still in the pull (headline USD 138 million CoinTelegraph; USD 139 million Bitcoin Magazine) after Bitcoin waivers; IMF still wants less state Bitcoin activity. HOLD BTC. LOOK only. Decrypt Sunday: Near Intents says the full stolen about USD 3.8M was returned after a 48-hour ultimatum. LOOK only. Not a book name. Bitget-style: Chainalysis headline still traces the Sept. 24 Bitget breach to North Korea and says the 2026 haul passed USD 1 billion. Title cites USD 387M; URL slug cites 87m. Do not treat either as a desk number. LOOK only. Drift exploit recovery claims still in the pull (about 1 percent initial payout). DRV: HOLD. DO NOT ADD. LOOK only. ETH context is Blast L2 wind-down (exit window cited to Oct. 26). Ethereum zkAPI privacy headline rotated off Decrypt top 6 this pull. HOLD ETH. DO NOT ADD. LOOK only. CryptoSlate leveraged-fund futures shorts item rotated off the top 6. New CryptoSlate: Binance will hold some Brazil deposits from Nov. 1 pending source details. LOOK only. BTC context is softer September jobs, spot ETF September inflow headlines, and a headline print above USD 87,000. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. No fills.",
+  "notes": "All six RSS feeds returned HTTP 200 on this pull. Up to 6 items parsed per feed. Rekt listed, not fetched as RSS. No SNAP, ENA, AERO, or PUMP headline in this pull. HOLD those names. DO NOT ADD. LOOK only. New Sunday CoinTelegraph: Trump taps intel chief Jay Clayton to lead a Super Intelligence Force. LOOK only. Not a book name. Japan still added Garantex to its Russia sanctions list. LOOK only. El Salvador IMF disbursement still in the pull (headline USD 138 million CoinTelegraph; USD 139 million Bitcoin Magazine) after Bitcoin waivers; IMF still wants less state Bitcoin activity. HOLD BTC. LOOK only. New CryptoSlate: the same Fed rate hike can help stablecoins and hurt Bitcoin borrowers. LOOK only. HOLD BTC. DO NOT ADD. Near Intents still says the full stolen about USD 3.8M was returned after a 48-hour ultimatum. LOOK only. Not a book name. Bitget-style: Chainalysis headline still traces the Sept. 24 Bitget breach to North Korea and says the 2026 haul passed USD 1 billion. Title cites USD 387M; URL slug cites 87m. Do not treat either as a desk number. LOOK only. Drift exploit recovery claims still top of The Block (about 1 percent initial payout). DRV: HOLD. DO NOT ADD. LOOK only. ETH context is Blast L2 wind-down (exit window cited to Oct. 26). HOLD ETH. DO NOT ADD. LOOK only. BTC context is softer September jobs, spot ETF September inflow headlines, and a headline print above USD 87,000. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. No fills.",
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
+      "url": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force",
+      "pubDate": "Sun, 04 Oct 2026 13:48:48 +0000",
+      "summary": "President Donald Trump said US intel chief Clayton will lead the SIF, reporting to the president and Chief of Staff Susie Wiles."
+    },
     {
       "source": "CoinTelegraph",
       "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
       "url": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war",
-      "pubDate": "Sun, 04 Oct 2026 12:40:23 +0000",
+      "pubDate": "Sun, 04 Oct 2026 12:42:00 +0000",
       "summary": "Garantex was previously sanctioned by the US, the EU and other jurisdictions for helping Russian entities evade financial restrictions."
     },
     {
       "source": "CoinTelegraph",
       "title": "El Salvador receives USD 138 million from IMF after Bitcoin waivers granted",
       "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
-      "pubDate": "Sun, 04 Oct 2026 09:39:51 +0000",
+      "pubDate": "Sun, 04 Oct 2026 09:40:00 +0000",
       "summary": "IMF said efforts will continue to reduce the state's involvement in Bitcoin-related activities and to strengthen cryptoasset regulation."
     },
     {
       "source": "CoinTelegraph",
       "title": "Russia's Finance Ministry pays wages in digital rubles for first time",
       "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time",
-      "pubDate": "Sun, 04 Oct 2026 07:16:53 +0000",
+      "pubDate": "Sun, 04 Oct 2026 07:18:00 +0000",
       "summary": "Bank of Russia and the Ministry of Finance are introducing the digital ruble into the budget process."
     },
     {
@@ -46,13 +53,6 @@
       "url": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter",
       "pubDate": "Sat, 03 Oct 2026 11:59:10 +0000",
       "summary": "The exploiter returned the entire sum after being identified and given 48 hours to respond."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Community banks sue OCC over trust bank charters of crypto firms",
-      "url": "https://cointelegraph.com/news/community-banks-sue-occ-over-trust-bank-charters-of-crypto-firms",
-      "pubDate": "Sat, 03 Oct 2026 09:25:01 +0000",
-      "summary": "Community banking groups' lawsuit claims OCC has overstepped its mandate from Congress."
     },
     {
       "source": "Decrypt",
@@ -136,13 +136,20 @@
       "title": "Spot bitcoin ETFs log USD 2.7 billion in September inflows as institutional demand holds",
       "url": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
       "pubDate": "Fri, 02 Oct 2026 05:50:41 +0000",
-      "summary": "US spot bitcoin ETFs recorded USD 2.65 billion in net inflows in September."
+      "summary": "US spot bitcoin ETFs recorded about USD 2.65 billion to USD 2.7 billion in net inflows in September. Headline figure only."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "The same Fed rate hike can help stablecoins and hurt Bitcoin borrowers",
+      "url": "https://cryptoslate.com/the-same-fed-rate-hike-can-help-stablecoins-and-hurt-bitcoin-borrowers/",
+      "pubDate": "Sun, 04 Oct 2026 13:20:06 +0000",
+      "summary": "Headline argument that a higher policy rate can support stablecoin yields while raising costs for Bitcoin borrowers. LOOK only."
     },
     {
       "source": "CryptoSlate",
       "title": "Binance will hold some Brazil crypto deposits until users explain where the money came from",
       "url": "https://cryptoslate.com/binance-will-hold-some-brazil-crypto-deposits-until-users-explain-where-the-money-came-from/",
-      "pubDate": "Sun, 04 Oct 2026",
+      "pubDate": "Sun, 04 Oct 2026 12:20:34 +0000",
       "summary": "From Nov. 1, affected international deposits stay pending until customers provide required transfer details."
     },
     {
@@ -174,13 +181,6 @@
       "summary": "Non-compliant tokens could lose licensed custody and transfer access if the proposal becomes law."
     },
     {
-      "source": "CryptoSlate",
-      "title": "Six US banks have failed in 2026 but the numbers look nothing like 2023",
-      "url": "https://cryptoslate.com/six-us-banks-have-failed-in-2026-but-the-numbers-look-nothing-like-2023/",
-      "pubDate": "Sat, 03 Oct 2026 13:20:17 +0000",
-      "summary": "Six US bank failures in 2026 held about USD 1.43 billion combined, unlike the 2023 scale."
-    },
-    {
       "source": "Bitcoin Magazine",
       "title": "IMF praises El Salvador but still tries to scale back its Bitcoin project",
       "url": "https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin",
@@ -189,7 +189,7 @@
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "When the banks don't work, Bitcoin does: Cornell University's adoption index",
+      "title": "When the banks do not work, Bitcoin does: Cornell University's adoption index",
       "url": "https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell",
       "pubDate": "Fri, 02 Oct 2026 19:15:58 +0000",
       "summary": "Cornell spoke to 25,880 people about using bitcoin. Useful for some where banks do not work."
@@ -221,6 +221,13 @@
       "url": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
       "pubDate": "Thu, 01 Oct 2026 21:34:00 +0000",
       "summary": "Source headline only. HIVE's Frank Holmes on mining sites and former Ethereum GPUs in the AI boom. DO NOT BUY from a headline."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto poured years into new products. The next challenge is keeping users",
+      "url": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
+      "pubDate": "Sun, 04 Oct 2026 14:00:00 +0000",
+      "summary": "Crypto firms have spent years building financial products on blockchains. Keeping users is the next challenge."
     },
     {
       "source": "CoinDesk",
@@ -256,13 +263,6 @@
       "url": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
       "pubDate": "Sat, 03 Oct 2026 13:00:00 +0000",
       "summary": "Cato's Ryan Chan-Wei writes progress resets when the new Congress is sworn in."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
-      "url": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
-      "pubDate": "Sat, 03 Oct 2026 13:00:00 +0000",
-      "summary": "Next step could be entire portfolios traded and rebalanced onchain."
     }
   ]
 }
