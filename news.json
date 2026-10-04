@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-04T14:02:17Z",
+  "asof": "2026-10-04T15:02:15Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,7 +10,7 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "All six RSS feeds returned HTTP 200 on this pull. Up to 6 items parsed per feed. Rekt listed, not fetched as RSS. No SNAP, ENA, AERO, or PUMP headline in this pull. HOLD those names. DO NOT ADD. LOOK only. New Sunday CoinTelegraph: Trump taps intel chief Jay Clayton to lead a Super Intelligence Force. LOOK only. Not a book name. Japan still added Garantex to its Russia sanctions list. LOOK only. El Salvador IMF disbursement still in the pull (headline USD 138 million CoinTelegraph; USD 139 million Bitcoin Magazine) after Bitcoin waivers; IMF still wants less state Bitcoin activity. HOLD BTC. LOOK only. New CryptoSlate: the same Fed rate hike can help stablecoins and hurt Bitcoin borrowers. LOOK only. HOLD BTC. DO NOT ADD. Near Intents still says the full stolen about USD 3.8M was returned after a 48-hour ultimatum. LOOK only. Not a book name. Bitget-style: Chainalysis headline still traces the Sept. 24 Bitget breach to North Korea and says the 2026 haul passed USD 1 billion. Title cites USD 387M; URL slug cites 87m. Do not treat either as a desk number. LOOK only. Drift exploit recovery claims still top of The Block (about 1 percent initial payout). DRV: HOLD. DO NOT ADD. LOOK only. ETH context is Blast L2 wind-down (exit window cited to Oct. 26). HOLD ETH. DO NOT ADD. LOOK only. BTC context is softer September jobs, spot ETF September inflow headlines, and a headline print above USD 87,000. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. No fills.",
+  "notes": "All six RSS feeds returned HTTP 200 on this pull. Up to 6 items parsed per feed. Rekt listed, not fetched as RSS. No SNAP, ENA, AERO, or PUMP headline in this pull. HOLD those names. DO NOT ADD. LOOK only. New versus the 14:02Z snapshot: CryptoSlate says 3x Bitcoin and Ether futures funds cleared an SEC listing hurdle. LOOK only. HOLD BTC. HOLD ETH. DO NOT ADD. Sunday CoinTelegraph: Trump taps intel chief Jay Clayton to lead a Super Intelligence Force. LOOK only. Not a book name. Japan still added Garantex to its Russia sanctions list. LOOK only. El Salvador IMF disbursement still in the pull (headline USD 138 million CoinTelegraph; USD 139 million Bitcoin Magazine) after Bitcoin waivers; IMF still wants less state Bitcoin activity. HOLD BTC. LOOK only. CryptoSlate: the same Fed rate hike can help stablecoins and hurt Bitcoin borrowers. LOOK only. HOLD BTC. DO NOT ADD. Near Intents still says the full stolen about USD 3.8M was returned after a 48-hour ultimatum. LOOK only. Not a book name. Bitget-style: Chainalysis headline still traces the Sept. 24 Bitget breach to North Korea and says the 2026 haul passed USD 1 billion. Title cites USD 387M; URL slug cites 87m. Do not treat either as a desk number. LOOK only. Drift exploit recovery claims still top of The Block (about 1 percent initial payout). DRV: HOLD. DO NOT ADD. LOOK only. ETH context is Blast L2 wind-down (exit window cited to Oct. 26) plus the 3x Ether futures listing headline. HOLD ETH. DO NOT ADD. LOOK only. BTC context is softer September jobs, spot ETF September inflow headlines, a headline print above USD 87,000, and the 3x Bitcoin futures listing headline. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. No fills.",
   "items": [
     {
       "source": "CoinTelegraph",
@@ -31,74 +31,74 @@
       "title": "El Salvador receives USD 138 million from IMF after Bitcoin waivers granted",
       "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
       "pubDate": "Sun, 04 Oct 2026 09:40:00 +0000",
-      "summary": "IMF said efforts will continue to reduce the state's involvement in Bitcoin-related activities and to strengthen cryptoasset regulation."
+      "summary": "Efforts will continue to reduce the state's involvement in Bitcoin-related activities and to strengthen crypto?asset regulation and governance, the IMF said."
     },
     {
       "source": "CoinTelegraph",
       "title": "Russia's Finance Ministry pays wages in digital rubles for first time",
       "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time",
       "pubDate": "Sun, 04 Oct 2026 07:18:00 +0000",
-      "summary": "Bank of Russia and the Ministry of Finance are introducing the digital ruble into the budget process."
+      "summary": "Work on the introduction of the digital ruble to the budget process is being carried out by the Bank of Russia together with the Ministry of Finance."
     },
     {
       "source": "CoinTelegraph",
       "title": "Here's what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
       "pubDate": "Sat, 03 Oct 2026 12:20:00 +0000",
-      "summary": "Daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "source": "CoinTelegraph",
       "title": "NEAR Intents recovers entire stolen USD 3.8M after ultimatum to exploiter",
       "url": "https://cointelegraph.com/news/near-intents-recovers-entire-stolen-38m-after-ultimatum-to-exploiter",
       "pubDate": "Sat, 03 Oct 2026 11:59:10 +0000",
-      "summary": "The exploiter returned the entire sum after being identified and given 48 hours to respond."
+      "summary": "The exploiter returned the entire sum to NEAR Intents after being identified and given 48 hours to respond."
     },
     {
       "source": "Decrypt",
-      "title": "Near Intents recovers USD 3.8 million after 48-hour ultimatum",
+      "title": "'We Have Identified You, Sir': Near Intents Recovers USD 3.8 Million After 48-Hour Ultimatum",
       "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
       "pubDate": "Sun, 04 Oct 2026 13:01:03 +0000",
-      "summary": "Near Intents said the Thursday drain was returned in full after the team said it identified the attacker."
+      "summary": "Near Intents said the roughly USD 3.8 million drained in an exploit on Thursday was returned in full, a day after the team said it had identified the attacker and gave them 48 hours to return the funds."
     },
     {
       "source": "Decrypt",
-      "title": "Chainalysis used AI to trace the Bitget hack back to North Korea",
+      "title": "Chainalysis Used AI to Trace the USD 387M Bitget Hack Back to North Korea",
       "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
       "pubDate": "Sat, 03 Oct 2026 17:01:03 +0000",
-      "summary": "Firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past USD 1 billion. Title cites USD 387M; URL slug cites 87m. Not a desk number."
+      "summary": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past USD 1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers."
     },
     {
       "source": "Decrypt",
-      "title": "OpenAI banned PewDiePie twice while he built Ajax, an uncensored local AI",
+      "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
       "url": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
       "pubDate": "Sat, 03 Oct 2026 16:01:03 +0000",
-      "summary": "YouTuber says OpenAI suspended his account twice while he trained a small local model."
+      "summary": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer."
     },
     {
       "source": "Decrypt",
-      "title": "Trump is hosting yet another meme coin dinner",
+      "title": "Trump Is Hosting Yet Another Meme Coin Dinner: Here Are the Details",
       "url": "https://decrypt.co/380002/trump-third-meme-coin-dinner-details",
       "pubDate": "Sat, 03 Oct 2026 15:01:03 +0000",
-      "summary": "TRUMP meme coin project invites top 185 holders to a Nov. 22 gala after Clarity Act stall."
+      "summary": "The TRUMP meme coin project is inviting its top 185 holders to a Nov. 22 gala dinner with President Trump two weeks after ethics disputes over his crypto interests helped stall the Clarity Act in the Senate."
     },
     {
       "source": "Decrypt",
-      "title": "The Pope has thoughts on AI art, and they are not flattering",
+      "title": "The Pope Has Thoughts on AI Art-And They're Not Flattering",
       "url": "https://decrypt.co/379983/pope-leo-human-art-ai-creation",
       "pubDate": "Sat, 03 Oct 2026 13:01:04 +0000",
-      "summary": "Pontiff says algorithms lack the spark of humanity. Vatican wants an alliance with artists."
+      "summary": "The pontiff says algorithms \"lack the spark of humanity,\" and the Vatican wants to renew an alliance with artists and cultural institutions to protect it."
     },
     {
       "source": "Decrypt",
-      "title": "California subpoenas OpenAI over AI models that hacked out of a test",
+      "title": "California Subpoenas OpenAI Over AI Models That Hacked Their Way Out of a Test",
       "url": "https://decrypt.co/379998/california-subpoena-openai-ai-models-hack",
       "pubDate": "Fri, 02 Oct 2026 21:16:04 +0000",
-      "summary": "California AG wants answers on models that escaped a test environment and hacked Hugging Face."
+      "summary": "California's attorney general wants answers from OpenAI about AI models that escaped a locked test environment and hacked Hugging Face-and whether the company can be held legally accountable."
     },
     {
       "source": "The Block",
-      "title": "Drift opens exploit recovery claims with initial payouts of just over 1 percent of user losses",
+      "title": "Drift opens exploit recovery claims with initial payouts of just over 1% of user losses",
       "url": "https://www.theblock.co/news/ecosystems/2026-10-02-drift-opens-exploit-recovery-claims-initial-payouts-just-over-1-user-losses-417581",
       "pubDate": "Fri, 02 Oct 2026 17:10:40 +0000",
       "summary": "DFX holders can cash out now or wait for more funding, with no firm timeline for full repayment."
@@ -108,161 +108,161 @@
       "title": "Paradigm-backed Layer 2 Blast to wind down network as costs exceed revenue",
       "url": "https://www.theblock.co/news/business/2026-10-02-blast-ethereum-layer-2-shutting-down-417583",
       "pubDate": "Fri, 02 Oct 2026 16:54:29 +0000",
-      "summary": "Ethereum L2 Blast is winding down. Users have until Oct. 26 to withdraw via the app."
+      "summary": "Ethereum L2 Blast is winding down after costs outpaced revenue. Users have until Oct. 26 to withdraw via the app."
     },
     {
       "source": "The Block",
       "title": "Bitcoin nears highest level since January as USD 85,000 sell wall clears, US jobs data disappoints",
       "url": "https://www.theblock.co/news/markets/2026-10-02-bitcoin-nears-highest-level-january-85000-sell-wall-clears-us-jobs-data-disappoints-417570",
       "pubDate": "Fri, 02 Oct 2026 13:34:40 +0000",
-      "summary": "Headline says Bitcoin climbed toward USD 87,000 as sellers cleared around USD 85,000, per Glassnode. Not a desk price."
+      "summary": "Bitcoin climbed back toward USD 87,000 on Friday as sellers cleared out around USD 85,000, according to Glassnode."
     },
     {
       "source": "The Block",
       "title": "BitGo CEO says Clarity's failure left capital markets exposed to risk potentially worse than Lehman",
       "url": "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560",
       "pubDate": "Fri, 02 Oct 2026 12:28:54 +0000",
-      "summary": "BitGo CEO warned Clarity's failure left risks from one firm holding exchange, brokerage, and custody."
+      "summary": "BitGo CEO Mike Belshe warned that Clarity's failure left systemic risks arising from one firm holding exchange, brokerage, and custody functions."
     },
     {
       "source": "The Block",
       "title": "ECB outlines three models for putting central bank money onchain",
       "url": "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552",
       "pubDate": "Fri, 02 Oct 2026 10:17:39 +0000",
-      "summary": "ECB outlined three models for bringing central bank money onchain."
+      "summary": "The ECB outlined three models for bringing central bank money onchain as financial institutions explore settlement infrastructure."
     },
     {
       "source": "The Block",
       "title": "Spot bitcoin ETFs log USD 2.7 billion in September inflows as institutional demand holds",
       "url": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
       "pubDate": "Fri, 02 Oct 2026 05:50:41 +0000",
-      "summary": "US spot bitcoin ETFs recorded about USD 2.65 billion to USD 2.7 billion in net inflows in September. Headline figure only."
+      "summary": "US spot bitcoin ETFs recorded USD 2.65 billion in net inflows in September, their second-largest monthly inflow since October 2025."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "3x Bitcoin and Ether futures funds clear SEC listing hurdle",
+      "url": "https://cryptoslate.com/3x-bitcoin-and-ether-futures-funds-clear-sec-listing-hurdle/",
+      "pubDate": "Sun, 04 Oct 2026 14:20:32 +0000",
+      "summary": "The products target triple daily futures-benchmark returns before fees, while registration effectiveness and a first trading date remain unconfirmed. The post 3x Bitcoin and Ether futures funds clear SEC listing hurdle appeared first on CryptoSlate ."
     },
     {
       "source": "CryptoSlate",
       "title": "The same Fed rate hike can help stablecoins and hurt Bitcoin borrowers",
       "url": "https://cryptoslate.com/the-same-fed-rate-hike-can-help-stablecoins-and-hurt-bitcoin-borrowers/",
       "pubDate": "Sun, 04 Oct 2026 13:20:06 +0000",
-      "summary": "Headline argument that a higher policy rate can support stablecoin yields while raising costs for Bitcoin borrowers. LOOK only."
+      "summary": "When you hold a dollar stablecoin, somebody else may be earning interest on the assets backing your balance, while a company borrowing to buy Bitcoin has to find the money to pay its lenders. Both businesses are crypto-native, but a higher interest rate can reward the first and e"
     },
     {
       "source": "CryptoSlate",
       "title": "Binance will hold some Brazil crypto deposits until users explain where the money came from",
       "url": "https://cryptoslate.com/binance-will-hold-some-brazil-crypto-deposits-until-users-explain-where-the-money-came-from/",
       "pubDate": "Sun, 04 Oct 2026 12:20:34 +0000",
-      "summary": "From Nov. 1, affected international deposits stay pending until customers provide required transfer details."
+      "summary": "From Nov. 1, affected international deposits will remain pending until customers provide required transfer details. The post Binance will hold some Brazil crypto deposits until users explain where the money came from appeared first on CryptoSlate ."
     },
     {
       "source": "CryptoSlate",
       "title": "Stablecoins may not drain banks of dollars but they can still make lending more expensive",
       "url": "https://cryptoslate.com/stablecoins-may-not-drain-banks-of-dollars-but-they-can-still-make-lending-more-expensive/",
       "pubDate": "Sun, 04 Oct 2026 07:30:08 +0000",
-      "summary": "Hypothetical: bank dollars used to buy newly issued stablecoins can still change bank funding and lending costs."
+      "summary": "Here's a hypothetical scenario: you want to use USD 100 out of your bank account to buy newly issued stablecoins. The company issuing the stablecoins takes your dollars, puts them in its own bank account, and gives you a balance you can send around on a blockchain. You got the pr"
     },
     {
       "source": "CryptoSlate",
       "title": "Bankers sue to overturn OCC trust-bank rule used by crypto firms",
       "url": "https://cryptoslate.com/bankers-sue-to-overturn-occ-trust-bank-rule-used-by-crypto-firms/",
       "pubDate": "Sat, 03 Oct 2026 20:00:08 +0000",
-      "summary": "ICBA sued the OCC after approvals of Agora National Trust Bank, Catena Trust Bank and Bastion Platforms."
+      "summary": "The Independent Community Bankers of America sued the OCC in federal court in Washington on Oct. 2, two weeks after the agency approved Agora National Trust Bank, Catena Trust Bank and Bastion Platforms. American Banker reported that the complaint asked the court to vacate the OC"
     },
     {
       "source": "CryptoSlate",
       "title": "Hedge funds built a USD 1.2 trillion Treasury trade on money they have to keep borrowing",
       "url": "https://cryptoslate.com/hedge-funds-built-a-1-2-trillion-treasury-trade-on-money-they-have-to-keep-borrowing/",
       "pubDate": "Sat, 03 Oct 2026 18:40:22 +0000",
-      "summary": "Hedge funds buy Treasuries and sell futures against them, borrowing most of the purchase money."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "ESMA proposes ending EU custody and transfer services for non-compliant stablecoins",
-      "url": "https://cryptoslate.com/esma-proposes-ending-eu-custody-and-transfer-services-for-non-compliant-stablecoins/",
-      "pubDate": "Sat, 03 Oct 2026 16:00:54 +0000",
-      "summary": "Non-compliant tokens could lose licensed custody and transfer access if the proposal becomes law."
+      "summary": "Companies can own a mountain of US government debt without betting that bond prices will rise. Hedge funds buy Treasury securities and sell futures against them to collect a small pricing gap, borrowing most of the purchase money to make the return worthwhile. The government gets"
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "IMF praises El Salvador but still tries to scale back its Bitcoin project",
+      "title": "IMF Praises El Salvador - But Still Tries To Scale Back Its Bitcoin Project",
       "url": "https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin",
       "pubDate": "Fri, 02 Oct 2026 22:01:18 +0000",
-      "summary": "IMF approved a USD 139 million disbursement to El Salvador but still wants the Bitcoin project scaled back."
+      "summary": "Bitcoin Magazine IMF Praises El Salvador - But Still Tries To Scale Back Its Bitcoin Project The International Monetary Fund approved a USD 139 million disbursement to El Salvador but still wants it to scale back its Bitcoin project. This post IMF Praises El Salvador - But Still "
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "When the banks do not work, Bitcoin does: Cornell University's adoption index",
+      "title": "When the Banks Don't Work, Bitcoin Does: Cornell University's Adoption Index",
       "url": "https://bitcoinmagazine.com/news/when-banks-dont-work-bitcoin-does-cornell",
       "pubDate": "Fri, 02 Oct 2026 19:15:58 +0000",
-      "summary": "Cornell spoke to 25,880 people about using bitcoin. Useful for some where banks do not work."
+      "summary": "Bitcoin Magazine When the Banks Don't Work, Bitcoin Does: Cornell University's Adoption Index Cornell University spoke to 25,880 people about using bitcoin. While many don't understand the tech in depth, it's proving useful for some. This post When the Banks Don't Work, Bitcoin D"
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "South Africa's Absa becomes first bank on the continent to custody Bitcoin: report",
+      "title": "South Africa's Absa Becomes First Bank on the Continent to Custody Bitcoin: Report",
       "url": "https://bitcoinmagazine.com/news/absa-first-african-bank-to-custody-bitcoin",
       "pubDate": "Fri, 02 Oct 2026 18:12:28 +0000",
-      "summary": "Absa has become the first African lender to custody bitcoin, according to reports."
+      "summary": "Bitcoin Magazine South Africa's Absa Becomes First Bank on the Continent to Custody Bitcoin: Report South African bank Absa has become the first African lender to custody bitcoin, according to reports. As reported first by Bloomberg on Friday, the Johannesburg-based lender will s"
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Bitcoin price surges above USD 87,000 on softer-than-expected jobs data",
+      "title": "Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data",
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-surges-on-soft-jobs-data",
       "pubDate": "Fri, 02 Oct 2026 15:09:38 +0000",
-      "summary": "Headline print above USD 87,000 on softer jobs data and ETF flows. Not a desk price."
+      "summary": "Bitcoin Magazine Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data The price of bitcoin surged above USD 87,000 on Friday morning in New York, buoyed by constant exchange-traded fund flows and a jobs report showing that unemployment in the U.S. had ticked up"
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Impacts of daily dividends on digital credit",
+      "title": "Impacts of Daily Dividends on Digital Credit",
       "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/impacts-of-daily-dividends-on-digital-credit",
       "pubDate": "Fri, 02 Oct 2026 13:20:41 +0000",
-      "summary": "Analyzing implications for digital credit instruments paying daily dividends."
+      "summary": "Bitcoin Magazine Impacts of Daily Dividends on Digital Credit Analyzing the implications for digital credit instruments paying daily dividends. This post Impacts of Daily Dividends on Digital Credit first appeared on Bitcoin Magazine and is written by Allard Peng ."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Frank Holmes: they will print USD 100 trillion - why to buy Bitcoin and gold",
+      "title": "Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin and Gold",
       "url": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
       "pubDate": "Thu, 01 Oct 2026 21:34:00 +0000",
-      "summary": "Source headline only. HIVE's Frank Holmes on mining sites and former Ethereum GPUs in the AI boom. DO NOT BUY from a headline."
+      "summary": "Bitcoin Magazine Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin and Gold Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI boom. This post Frank Holmes: They Wi"
     },
     {
       "source": "CoinDesk",
       "title": "Crypto poured years into new products. The next challenge is keeping users",
       "url": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
       "pubDate": "Sun, 04 Oct 2026 14:00:00 +0000",
-      "summary": "Crypto firms have spent years building financial products on blockchains. Keeping users is the next challenge."
+      "summary": "Crypto firms have spent years building financial products on blockchains. Getting people to use them - and keep using them - is becoming the next challenge."
     },
     {
       "source": "CoinDesk",
-      "title": "The Clarity Act stalled. Bankers are not hitting the brakes yet on crypto dealmaking",
+      "title": "The Clarity Act stalled. Bankers aren't hitting the brakes yet on crypto dealmaking",
       "url": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
       "pubDate": "Sun, 04 Oct 2026 13:00:00 +0000",
-      "summary": "Crypto M&A has hit record levels, but the Clarity Act Senate setback leaves dealmakers weighing regulatory uncertainty."
+      "summary": "Crypto M and A has hit record levels, but the Clarity Act's Senate setback leaves dealmakers weighing how much regulatory uncertainty still matters."
     },
     {
       "source": "CoinDesk",
       "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
       "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
       "pubDate": "Sat, 03 Oct 2026 16:00:00 +0000",
-      "summary": "OpenPayd aims to launch in the U.S. by April 2027 and is eyeing deals for licenses and technology."
+      "summary": "CEO Iana Dimitrova said OpenPayd aims to launch in the U.S. by April 2027 and is eyeing deals to add licenses and technology."
     },
     {
       "source": "CoinDesk",
       "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
       "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
       "pubDate": "Sat, 03 Oct 2026 16:00:00 +0000",
-      "summary": "Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills."
+      "summary": "Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills."
     },
     {
       "source": "CoinDesk",
       "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
       "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
       "pubDate": "Sat, 03 Oct 2026 15:00:00 +0000",
-      "summary": "As AI agents spend real money, investors are watching the networks powering machine commerce."
+      "summary": "As AI agents evolve from answering questions to spending real money, investors and tech giants are scrambling to control the financial networks powering machine-driven commerce."
     },
     {
       "source": "CoinDesk",
       "title": "Crypto's Sisyphean struggle",
       "url": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
       "pubDate": "Sat, 03 Oct 2026 13:00:00 +0000",
-      "summary": "Cato's Ryan Chan-Wei writes progress resets when the new Congress is sworn in."
+      "summary": "Progress will effectively reset when the new Congress is sworn in, because key senators who quarterbacked the bill will not be on the ballot again, writes the Cato Institute's Ryan Chan-Wei."
     }
   ]
 }
