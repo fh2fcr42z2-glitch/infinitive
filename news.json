@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-05T18:02:01Z",
+  "asof": "2026-10-05T19:01:40Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,43 +10,259 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "All six RSS feeds returned HTTP 200. Up to 6 items per feed. Rekt listed, not fetched as RSS. Versus 17:01Z snapshot: CoinTelegraph lead rotated to CFTC joining the SEC on a crypto framework after the failed CLARITY vote. Treasury yields at 5 percent and the failed higher break after the best weekly close in eight months remain in the set. Strategy STRC buybacks still outpace the 334 BTC purchase. Metaplanet sale and repurchase remain in the set. Decrypt kept Bitmine buying USD 41 million more ether, stash past 6 million ETH. The Block top six now leads with Treasury withdrawing the crypto mixing rule; Umia raise and CFTC leveraged retail framework remain. CryptoSlate lead is Strategy buying just 334 Bitcoin as preferred-share buybacks reach USD 1.45 billion. Bitcoin Magazine lead is a visualizer roundup; CFTC oversight proposal and Strategy quarterly profit remain. CoinDesk lead is more than 60 US stocks including Nvidia and Tesla headed onchain. HOLD BTC. DO NOT ADD. LOOK only. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline in this top-six pull. Prior desk note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline in this top-six pull. Prior desk note stands: PUMP funding on Binance changed paying sides between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. Bitget-style exploits: no new Bitget headline in this top-six pull. Prior desk note still stands: Chainalysis traced the Sept. 24 Bitget breach toward North Korea; title and slug figures disagree. Do not treat either as a desk number. LOOK only. No SNAP, ENA, or AERO headline in this pull. HOLD those names. DO NOT ADD. LOOK only. No fills.",
+  "notes": "All six RSS feeds returned HTTP 200. Up to 6 items per feed. Rekt listed, not fetched as RSS. Versus 18:02Z snapshot: CoinTelegraph lead rotated to S&P Global risk assessments for the crypto lending-vault sector. Decrypt lead is ZachXBT fronting USD 350,000 to pose as a client of Lazarus-linked Chinese launderers; SEC 3x BTC and ETH funds cleared for trading. CryptoSlate lead is Aave hiking GHO borrow rates to refill depleted stablecoin pools. Bitcoin Magazine lead is Metaplanet selling BTC last quarter to demonstrate liquidity. CFTC-SEC framework, FinCEN mixing-rule withdrawal, Strategy 334 BTC versus STRC buybacks, and Bitmine ETH add remain in the set. HOLD BTC. DO NOT ADD. LOOK only. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline in this top-six pull. Prior desk note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline in this top-six pull. Prior desk note stands: PUMP funding on Binance changed paying sides between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. Bitget-style exploits: no new Bitget headline in this top-six pull. ZachXBT Lazarus-launderer item is LOOK only, not a Bitget fill and not a desk loss number. Prior desk note still stands: Chainalysis traced the Sept. 24 Bitget breach toward North Korea; title and slug figures disagree. Do not treat either as a desk number. LOOK only. No SNAP, ENA, or AERO headline in this pull. HOLD those names. DO NOT ADD. LOOK only. No fills.",
   "items": [
-    {"source": "CoinTelegraph", "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote", "url": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote", "pubDate": "Mon, 05 Oct 2026 17:40:23 +0000", "summary": "CFTC Chair Michael Selig said the agency is using existing statutory authorities after Congress failed to advance a market structure bill."},
-    {"source": "CoinTelegraph", "title": "Treasury yields at 5% threaten extending Bitcoin's best quarter since 2017", "url": "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook", "pubDate": "Mon, 05 Oct 2026 16:53:08 +0000", "summary": "Weak US jobs data narrowed expectations for another Fed hike in October. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "CoinTelegraph", "title": "Bitcoin price fails to break higher after best weekly close in eight months", "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months", "pubDate": "Mon, 05 Oct 2026 15:09:57 +0000", "summary": "Highest weekly close in eight months formed low-timeframe resistance at the US open. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "CoinTelegraph", "title": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation", "url": "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation", "pubDate": "Mon, 05 Oct 2026 13:47:17 +0000", "summary": "Revised framework would allocate as much as 15 percent of assets to strategic investments to fund Bitcoin accumulation. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "CoinTelegraph", "title": "Strategy opts for bigger spending on STRC buybacks over BTC purchases", "url": "https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys", "pubDate": "Mon, 05 Oct 2026 13:22:16 +0000", "summary": "Strategy bought 334 Bitcoin for USD 28.7 million while spending USD 176.3 million to repurchase about 1.77 million STRC shares. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "CoinTelegraph", "title": "Here's what happened in crypto today", "url": "https://cointelegraph.com/news/what-happened-in-crypto-today", "pubDate": "Mon, 05 Oct 2026 13:04:57 +0000", "summary": "Daily roundup of trends and events. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "Decrypt", "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight", "url": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage", "pubDate": "Mon, 05 Oct 2026 16:46:03 +0000", "summary": "Public comment sought on a federal license for crypto exchanges, with leverage offers as the trigger for oversight."},
-    {"source": "Decrypt", "title": "Bitcoin Just Flashed a Second, Stronger Golden Cross: Here's What That Means", "url": "https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate", "pubDate": "Mon, 05 Oct 2026 16:10:00 +0000", "summary": "A second golden cross is being read as a trend signal while price still meets resistance. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "Decrypt", "title": "NEXTPredict Founder: Nobody Was Serving Prediction Markets Enormous Audience", "url": "https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience", "pubDate": "Mon, 05 Oct 2026 16:03:03 +0000", "summary": "CNBC and CNN reporters are on the program beside the exchanges, two weeks before the midterms."},
-    {"source": "Decrypt", "title": "Bitmine Buys USD 41M More Ethereum, Reaching 99% of Its Alchemy of 5% Target", "url": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target", "pubDate": "Mon, 05 Oct 2026 14:54:17 +0000", "summary": "Purchase lifts stash past 6 million ETH, about 4.9 percent of supply. Headline figure is not a desk price. HOLD ETH. DO NOT ADD. LOOK only."},
-    {"source": "Decrypt", "title": "Strategy Posts USD 21B Q3 Gain, Buys USD 29M in BTC, Repurchases USD 176M in STRC", "url": "https://decrypt.co/380056/strategy-posts-21b-q3-gain-buys-29m-in-btc-repurchases-176m-in-strc", "pubDate": "Mon, 05 Oct 2026 12:51:42 +0000", "summary": "Holdings hit a record 848,000 BTC. Quarterly gain is a fair-value mark with deferred tax. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "Decrypt", "title": "Metaplanet Sold 10,000 Bitcoin and Bought Back 11,000 to Prove a Point", "url": "https://decrypt.co/380053/metaplanet-sold-10000-bitcoin-and-bought-back-11000-to-prove-a-point", "pubDate": "Mon, 05 Oct 2026 12:04:01 +0000", "summary": "CEO said the sale and repurchase answered rating-agency questions about whether the firm will sell. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "The Block", "title": "Treasury withdraws crypto mixing rule, citing concerns over chilling effect on legitimate activity", "url": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690", "pubDate": "Mon, 05 Oct 2026 17:22:37 +0000", "summary": "FinCEN is withdrawing a proposal that would have designated crypto mixing a primary money laundering concern."},
-    {"source": "The Block", "title": "Umia raises USD 6.1 million at USD 18 million FDV to help crypto projects launch tokens", "url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717", "pubDate": "Mon, 05 Oct 2026 16:49:15 +0000", "summary": "Seven-day UMIA auction drew ten funds and nearly 700 individual bidders. Not a live-book name."},
-    {"source": "The Block", "title": "CFTC proposes new federal framework for leveraged retail crypto trading", "url": "https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701", "pubDate": "Mon, 05 Oct 2026 16:09:02 +0000", "summary": "Rulemaking on leveraged and margined retail crypto trading proposes Regulation CTX and CAM."},
-    {"source": "The Block", "title": "Strive adds 2,000 bitcoin in biggest buy since June, closes in on MARA", "url": "https://www.theblock.co/news/business/2026-10-05-strive-adds-2000-bitcoin-biggest-buy-since-june-closes-in-mara-417677", "pubDate": "Mon, 05 Oct 2026 15:03:54 +0000", "summary": "Strive holdings near 30,000 BTC. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "The Block", "title": "DeFi Development sees NAV per share more than doubling, holds 2.56 million SOL", "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674", "pubDate": "Mon, 05 Oct 2026 14:33:14 +0000", "summary": "DFDV preliminary Q3 estimates show NAV per share more than doubled. Not a live-book name."},
-    {"source": "The Block", "title": "Tom Lee says ether dwarfing other macro assets as Bitmine adds 15,112 ETH", "url": "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660", "pubDate": "Mon, 05 Oct 2026 13:23:07 +0000", "summary": "Bitmine added 15,112 ETH. Headline figure is not a desk price. HOLD ETH. DO NOT ADD. LOOK only."},
-    {"source": "CryptoSlate", "title": "Strategy buys just 334 Bitcoin as preferred-share buybacks reach USD 1.45 billion", "url": "https://cryptoslate.com/strategy-buys-just-334-bitcoin-as-preferred-share-buybacks-reach-1-45-billion/", "pubDate": "Mon, 05 Oct 2026 17:30:29 +0000", "summary": "Smallest positive Bitcoin purchase of 2026 even as a quarterly rally produced a large fair-value gain. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "CryptoSlate", "title": "Metaplanet sold 10,000 Bitcoin in a credit-rating bid, only to buy back 11,000 BTC at a higher price per coin", "url": "https://cryptoslate.com/metaplanet-sold-10000-bitcoin-in-a-credit-rating-bid-only-to-buy-back-11000-btc-at-a-higher-price-per-coin/", "pubDate": "Mon, 05 Oct 2026 16:30:56 +0000", "summary": "Sale and later repurchase were framed as a credit-profile move. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "CryptoSlate", "title": "NYSE owner and OKX plan 24/7 tokenized stock trading using Uniswap", "url": "https://cryptoslate.com/nyse-owner-and-okx-plan-24-7-tokenized-stock-trading-using-uniswap/", "pubDate": "Mon, 05 Oct 2026 15:30:48 +0000", "summary": "ICE and OKX joint venture notified the SEC of an always-open tokenized US stock venue."},
-    {"source": "CryptoSlate", "title": "Coinbase says it cut a 90-case AI support test from 1-2 weeks to 30-45 minutes", "url": "https://cryptoslate.com/coinbase-ai-support-tests-weeks-minutes/", "pubDate": "Mon, 05 Oct 2026 14:30:35 +0000", "summary": "Reported support-test speedup still sits next to human approval. Customer outcomes not quantified."},
-    {"source": "CryptoSlate", "title": "Bitcoin gets a 20-day window to see whether energy relief can move the Fed", "url": "https://cryptoslate.com/bitcoin-gets-a-20-day-window-to-see-whether-energy-relief-can-move-the-fed/", "pubDate": "Mon, 05 Oct 2026 13:30:01 +0000", "summary": "Diesel-release window is an implementation test. Financing-cost relief remains conditional. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "CryptoSlate", "title": "Circle can delay European USDC redemptions if reserves cannot cross borders", "url": "https://cryptoslate.com/circle-can-delay-european-usdc-redemptions-if-reserves-cannot-cross-borders/", "pubDate": "Mon, 05 Oct 2026 12:10:14 +0000", "summary": "Terms allow temporary issuer redemption delays during failed reserve rebalancing under MiCA."},
-    {"source": "Bitcoin Magazine", "title": "Top Bitcoin Blockchain Visualizers For Your Home And Office", "url": "https://bitcoinmagazine.com/culture/top-bitcoin-blockchain-visualizers-for-your-home-and-office", "pubDate": "Mon, 05 Oct 2026 17:42:01 +0000", "summary": "OmPool sonifies live mempool flow next to Bitlisten and self-hosted mempool.space. Not a ticket. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "Bitcoin Magazine", "title": "CFTC Proposes New Crypto Oversight Rules", "url": "https://bitcoinmagazine.com/news/cftc-proposes-new-crypto-rules", "pubDate": "Mon, 05 Oct 2026 17:25:05 +0000", "summary": "Commodities regulator proposed a federal framework for cryptocurrency exchanges."},
-    {"source": "Bitcoin Magazine", "title": "Strategy Reports Quarterly Profit on Bitcoin Rally", "url": "https://bitcoinmagazine.com/news/strategy-announces-profits-last-quarter", "pubDate": "Mon, 05 Oct 2026 16:14:17 +0000", "summary": "Paper gains of USD 21 billion in Q3 2026 reported. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "Bitcoin Magazine", "title": "IMF Praises El Salvador - But Still Tries To Scale Back Its Bitcoin Project", "url": "https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin", "pubDate": "Fri, 02 Oct 2026 22:01:18 +0000", "summary": "IMF approved a USD 139 million disbursement and still wants the Bitcoin project scaled back. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "Bitcoin Magazine", "title": "South Africa Absa Becomes First Bank on the Continent to Custody Bitcoin: Report", "url": "https://bitcoinmagazine.com/news/absa-first-african-bank-to-custody-bitcoin", "pubDate": "Fri, 02 Oct 2026 18:12:28 +0000", "summary": "Johannesburg-based Absa reported as first African lender to custody bitcoin. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "Bitcoin Magazine", "title": "Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data", "url": "https://bitcoinmagazine.com/markets/bitcoin-price-surges-on-soft-jobs-data", "pubDate": "Fri, 02 Oct 2026 15:09:38 +0000", "summary": "Friday headline level is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "CoinDesk", "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Here's how it works", "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works", "pubDate": "Mon, 05 Oct 2026 17:18:14 +0000", "summary": "Planned 24/7 venue would trade tokenized stocks against stablecoins in liquidity pools, not an order book."},
-    {"source": "CoinDesk", "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers", "url": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers", "pubDate": "Mon, 05 Oct 2026 15:54:23 +0000", "summary": "Two proposed rules cover exchanges so long as activity is not simple direct spot trading."},
-    {"source": "CoinDesk", "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year", "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year", "pubDate": "Mon, 05 Oct 2026 13:46:31 +0000", "summary": "Stripe crypto head Henri Stern said the firm is also exploring tokenized deposits and DeFi use cases."},
-    {"source": "CoinDesk", "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger", "url": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger", "pubDate": "Mon, 05 Oct 2026 12:28:35 +0000", "summary": "Armada Acquisition Corp. II rose about 270 percent last week ahead of an Evernorth merger. Not a live-book name."},
-    {"source": "CoinDesk", "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings", "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings", "pubDate": "Mon, 05 Oct 2026 11:14:35 +0000", "summary": "Daybook note on leveraged products. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. HOLD ETH. DO NOT ADD. LOOK only."},
-    {"source": "CoinDesk", "title": "Treasury crackdown exposes crypto role in USD 2 million Hamas fundraising network", "url": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network", "pubDate": "Mon, 05 Oct 2026 11:08:03 +0000", "summary": "Treasury said the network raised more than USD 2 million, including crypto, through purported charities."}
+    {
+      "source": "CoinTelegraph",
+      "title": "S&P Global brings risk assessments to growing crypto lending vault sector",
+      "url": "https://cointelegraph.com/news/sp-global-launches-risk-assessments-for-10b-crypto-lending-vault-market",
+      "pubDate": "Mon, 05 Oct 2026 17:58:58 +0000",
+      "summary": "S&P Globals new framework evaluates digital asset lending vaults across six risk categories as deposits in the sector climb to about $10 billion."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CFTC joins SEC in proposing crypto framework after failed CLARITY vote",
+      "url": "https://cointelegraph.com/news/cftc-proposed-crypto-framework-failed-clarity-vote",
+      "pubDate": "Mon, 05 Oct 2026 17:40:23 +0000",
+      "summary": "CFTC Chair Michael Selig claimed that the agency was using its existing statutory authorities to address crypto regulation after Congress failed to advance a market structure bill."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Treasury yields at 5% threaten extending Bitcoins best quarter since 2017",
+      "url": "https://cointelegraph.com/markets/bitcoin-q3-rally-treasury-yields-fed-rate-outlook",
+      "pubDate": "Mon, 05 Oct 2026 16:53:08 +0000",
+      "summary": "Weak US jobs data has narrowed expectations for another Fed hike in October, offering Bitcoin some relief as investors continue to embrace the debasement trade. HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price fails to break higher after best weekly close in eight months",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-break-higher-after-best-weekly-close-in-eight-months",
+      "pubDate": "Mon, 05 Oct 2026 15:09:57 +0000",
+      "summary": "Bitcoins highest weekly close in eight months formed low-timeframe resistance at the start of Mondays US trading session. HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Metaplanet reveals net income strategy to fuel Bitcoin accumulation",
+      "url": "https://cointelegraph.com/news/metaplanet-net-income-strategy-bitcoin-accumulation",
+      "pubDate": "Mon, 05 Oct 2026 13:47:17 +0000",
+      "summary": "Metaplanet revealed a revised capital allocation framework proposing to allocate as much as 15% of total assets to strategic investments to fund its Bitcoin accumulation. HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strategy opts for bigger spending on STRC buybacks over BTC purchases",
+      "url": "https://cointelegraph.com/news/strategy-848k-bitcoin-strc-buybacks-outpace-btc-buys",
+      "pubDate": "Mon, 05 Oct 2026 13:22:16 +0000",
+      "summary": "Strategy bought 334 Bitcoin for $28.7 million last week while spending $176.3 million to repurchase about 1.77 million shares of STRC. HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Sleuth ZachXBT Fronted $350K to Pose as a Client of Lazarus' Chinese Launderers",
+      "url": "https://decrypt.co/380092/zachxbt-fronted-350k-pose-client-lazarus-chinese-crypto-launderers",
+      "pubDate": "Mon, 05 Oct 2026 18:46:02 +0000",
+      "summary": "The on-chain sleuth says he posed as a customer of a Chinese crime syndicate, fronting $349,700 and eating 5% on every order, to track Lazarus Group's Bybit loot in real time. LOOK only. Not a fill."
+    },
+    {
+      "source": "Decrypt",
+      "title": "SEC Clears 3x Leveraged Bitcoin and Ethereum Funds for Trading",
+      "url": "https://decrypt.co/380108/sec-clears-3x-leveraged-bitcoin-ethereum-funds",
+      "pubDate": "Mon, 05 Oct 2026 18:12:28 +0000",
+      "summary": "The agency approved a Cboe rule letting six Volatility Shares funds that triple the daily moves of Bitcoin, Ethereum, gold, silver, oil, and natural gas list on a U.S. exchange. HOLD BTC. DO NOT ADD. LOOK only. HOLD ETH. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "Decrypt",
+      "title": "CFTC Unveils Plan to Bring Crypto Exchanges Under Federal Oversight",
+      "url": "https://decrypt.co/380090/cftc-plan-crypto-exchanges-federal-oversight-leverage",
+      "pubDate": "Mon, 05 Oct 2026 16:46:03 +0000",
+      "summary": "The CFTC is seeking public comment on a framework that would create a new federal license for crypto exchanges, with leverage offers as the trigger for oversight."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Just Flashed a Second, Stronger Golden Cross: Here's What That Means",
+      "url": "https://decrypt.co/380067/bitcoin-price-golden-cross-fed-rate",
+      "pubDate": "Mon, 05 Oct 2026 16:10:00 +0000",
+      "summary": "The Bitcoin rally keeps bumping into the same wall, but a classic bullish signal suggests the trend is built to last. HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "Decrypt",
+      "title": "NEXTPredict Founder: 'Nobody Was Serving' Prediction Markets' Enormous Audience",
+      "url": "https://decrypt.co/379935/nextpredict-founder-nobody-was-serving-prediction-markets-enormous-audience",
+      "pubDate": "Mon, 05 Oct 2026 16:03:03 +0000",
+      "summary": "Reporters from CNBC and CNN are on the program beside the exchanges, two weeks before the midterms put the sector on air."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitmine Buys $41M More Ethereum, Reaching 99% of Its 'Alchemy of 5%' Target",
+      "url": "https://decrypt.co/380059/bitmine-41m-more-ethereum-alchemy-of-5-target",
+      "pubDate": "Mon, 05 Oct 2026 14:54:17 +0000",
+      "summary": "The purchase lifts Bitmine's stash past 6 million ETH4.9% of supply and 99% of the way to its 'Alchemy of 5%' goalas chairman Tom Lee says Ethereum is 'dwarfing' other macro assets. HOLD ETH. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "The Block",
+      "title": "Treasury withdraws crypto mixing rule, citing concerns over chilling effect on legitimate activity",
+      "url": "https://www.theblock.co/news/regulation/2026-10-05-fincen-drops-crypto-mixing-rule-self-hosted-wallet-proposal-417690",
+      "pubDate": "Mon, 05 Oct 2026 17:22:37 +0000",
+      "summary": "FinCEN is withdrawing a proposal that would've designated crypto mixing a 'primary money laundering concern' under the PATRIOT Act."
+    },
+    {
+      "source": "The Block",
+      "title": "Umia raises $6.1 million at $18 million FDV to help crypto projects launch tokens",
+      "url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
+      "pubDate": "Mon, 05 Oct 2026 16:49:15 +0000",
+      "summary": "Umia raised $6.11 million through a seven-day auction of its UMIA token, with ten funds and nearly 700 individual bidders taking part."
+    },
+    {
+      "source": "The Block",
+      "title": "CFTC proposes new federal framework for leveraged retail crypto trading",
+      "url": "https://www.theblock.co/news/markets/2026-10-05-cftc-rulemaking-leveraged-retail-crypto-trading-regulation-ctx-cam-417701",
+      "pubDate": "Mon, 05 Oct 2026 16:09:02 +0000",
+      "summary": "The CFTC launched rulemaking on leveraged and margined retail crypto trading, proposing Regulation CTX and CAM and a new 'crypto asset market' exchange."
+    },
+    {
+      "source": "The Block",
+      "title": "Strive adds 2,000 bitcoin in biggest buy since June, closes in on MARA",
+      "url": "https://www.theblock.co/news/business/2026-10-05-strive-adds-2000-bitcoin-biggest-buy-since-june-closes-in-mara-417677",
+      "pubDate": "Mon, 05 Oct 2026 15:03:54 +0000",
+      "summary": "Strives bitcoin holdings near 30,000 BTC as the race among the largest public treasuries heats up. HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "The Block",
+      "title": "DeFi Development sees NAV per share more than doubling, holds 2.56 million SOL",
+      "url": "https://www.theblock.co/news/markets/2026-10-05-defi-development-nav-per-share-doubles-2-56-million-sol-417674",
+      "pubDate": "Mon, 05 Oct 2026 14:33:14 +0000",
+      "summary": "DFDV says preliminary Q3 estimates show NAV per share more than doubled as its Solana treasury grew to 2.56 million SOL."
+    },
+    {
+      "source": "The Block",
+      "title": "Tom Lee says ether dwarfing other macro assets as Bitmine adds 15,112 ETH",
+      "url": "https://www.theblock.co/news/business/2026-10-05-tom-lee-says-ether-dwarfing-other-macro-assets-as-bitmine-adds-15112-eth-417660",
+      "pubDate": "Mon, 05 Oct 2026 13:23:07 +0000",
+      "summary": "Bitmine added 15,112 ETH as Chairman Tom Lee said Ethereum outperformed the S&P 500 by 6,832 basis points in Q3. HOLD ETH. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Aave hikes GHO borrow rates to rescue depleted stablecoin pools",
+      "url": "https://cryptoslate.com/aave-hikes-gho-borrow-rates-to-rescue-depleted-stablecoin-pools/",
+      "pubDate": "Mon, 05 Oct 2026 18:40:07 +0000",
+      "summary": "Core borrowing is indexed at 4.50%, while stablecoin exits depend on reserve inflows, conversion routes and funding duration. The post Aave hikes GHO borrow rates to rescue depleted stablecoin pools appeared first on CryptoSlate ."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Strategy buys just 334 Bitcoin as preferred-share buybacks reach $1.45 billion",
+      "url": "https://cryptoslate.com/strategy-buys-just-334-bitcoin-as-preferred-share-buybacks-reach-1-45-billion/",
+      "pubDate": "Mon, 05 Oct 2026 17:30:29 +0000",
+      "summary": "Strategy (formerly MicroStrategy) made its smallest positive Bitcoin purchase of 2026 even as a 43% quarterly rally in the cryptocurrency helped generate a $20.9 billion gain on its digital-asset holdings. In an Oct. 5 filing with the US Se HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Metaplanet sold 10,000 Bitcoin in a credit-rating bid, only to buy back 11,000 BTC at a higher price per coin",
+      "url": "https://cryptoslate.com/metaplanet-sold-10000-bitcoin-in-a-credit-rating-bid-only-to-buy-back-11000-btc-at-a-higher-price-per-coin/",
+      "pubDate": "Mon, 05 Oct 2026 16:30:56 +0000",
+      "summary": "Metaplanet sold 10,000 Bitcoin and later bought back 11,000 BTC to strengthen its credit profile and expand beyond accumulation during the third quarter. The Tokyo-listed company said it converted enough Bitcoin into cash during the third q HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "NYSE owner and OKX plan 24/7 tokenized stock trading using Uniswap",
+      "url": "https://cryptoslate.com/nyse-owner-and-okx-plan-24-7-tokenized-stock-trading-using-uniswap/",
+      "pubDate": "Mon, 05 Oct 2026 15:30:48 +0000",
+      "summary": "Intercontinental Exchange and OKX are preparing an always-open market where tokenized US stocks could keep repricing after Wall Street closes. On Oct. 4, OKXICE, the companies' 50-50 joint venture, notified the Securities and Exchange Commi"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Coinbase says it cut a 90-case AI support test from 12 weeks to 3045 minutes",
+      "url": "https://cryptoslate.com/coinbase-ai-support-tests-weeks-minutes/",
+      "pubDate": "Mon, 05 Oct 2026 14:30:35 +0000",
+      "summary": "Coinbases reported support-testing gains coexist with human approval and account controls, while its disclosures leave customer outcomes unquantified. The post Coinbase says it cut a 90-case AI support test from 12 weeks to 3045 minutes app"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin gets a 20-day window to see whether energy relief can move the Fed",
+      "url": "https://cryptoslate.com/bitcoin-gets-a-20-day-window-to-see-whether-energy-relief-can-move-the-fed/",
+      "pubDate": "Mon, 05 Oct 2026 13:30:01 +0000",
+      "summary": "The diesel-release window sets an implementation test for fuel relief, while any easing in Bitcoin financing costs remains conditional. The post Bitcoin gets a 20-day window to see whether energy relief can move the Fed appeared first on Cr HOLD BTC. DO NOT ADD. LOOK only. HOLD ETH. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Japanese Bitcoin Treasury Metaplanet Sold BTC Last Quarter To Demonstrate Liquidity",
+      "url": "https://bitcoinmagazine.com/news/metaplanet-sold-bitcoin-to-show-investors",
+      "pubDate": "Mon, 05 Oct 2026 18:31:20 +0000",
+      "summary": "Bitcoin Magazine Japanese Bitcoin Treasury Metaplanet Sold BTC Last Quarter To Demonstrate Liquidity The second largest corporate holder of bitcoin sold 10,000 BTC before buying back 11,000 coins to strengthen confidence in the company, it HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Top Bitcoin Blockchain Visualizers For Your Home And Office",
+      "url": "https://bitcoinmagazine.com/culture/top-bitcoin-blockchain-visualizers-for-your-home-and-office",
+      "pubDate": "Mon, 05 Oct 2026 17:42:01 +0000",
+      "summary": "Bitcoin Magazine Top Bitcoin Blockchain Visualizers For Your Home And Office A September 2026 Omarchy release, OmPool, sonifies live Bitcoin mempool flow in the terminal. It sits next to Bitlisten, Proof of Sound, and self-hosted mempool.sp HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "CFTC Proposes New Crypto Oversight Rules",
+      "url": "https://bitcoinmagazine.com/news/cftc-proposes-new-crypto-rules",
+      "pubDate": "Mon, 05 Oct 2026 17:25:05 +0000",
+      "summary": "Bitcoin Magazine CFTC Proposes New Crypto Oversight Rules The U.S. commodities regulator has proposed a new federal framework for cryptocurrency exchanges. This post CFTC Proposes New Crypto Oversight Rules first appeared on Bitcoin Magazin HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Strategy Reports Quarterly Profit on Bitcoin Rally",
+      "url": "https://bitcoinmagazine.com/news/strategy-announces-profits-last-quarter",
+      "pubDate": "Mon, 05 Oct 2026 16:14:17 +0000",
+      "summary": "Bitcoin Magazine Strategy Reports Quarterly Profit on Bitcoin Rally The OG bitcoin treasury reported paper gains of $21 billion in Q32026. This post Strategy Reports Quarterly Profit on Bitcoin Rally first appeared on Bitcoin Magazine and i HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "IMF Praises El Salvador But Still Tries To Scale Back Its Bitcoin Project",
+      "url": "https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin",
+      "pubDate": "Fri, 02 Oct 2026 22:01:18 +0000",
+      "summary": "Bitcoin Magazine IMF Praises El Salvador But Still Tries To Scale Back Its Bitcoin Project The International Monetary Fund approved a $139 million disbursement to El Salvador but still wants it to scale back its Bitcoin project. This post I HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "South Africas Absa Becomes First Bank on the Continent to Custody Bitcoin: Report",
+      "url": "https://bitcoinmagazine.com/news/absa-first-african-bank-to-custody-bitcoin",
+      "pubDate": "Fri, 02 Oct 2026 18:12:28 +0000",
+      "summary": "Bitcoin Magazine South Africas Absa Becomes First Bank on the Continent to Custody Bitcoin: Report South African bank Absa has become the first African lender to custody bitcoin, according to reports. As reported first by Bloomberg on Frida HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "More than 60 U.S. stocks including Nvidia and Tesla are headed onchain. Heres how it works",
+      "url": "https://www.coindesk.com/markets/2026/10/05/more-than-60-u-s-stocks-including-nvidia-and-tesla-are-headed-onchain-here-s-how-it-works",
+      "pubDate": "Mon, 05 Oct 2026 17:18:14 +0000",
+      "summary": "The planned 24/7 venue will offer dozens of tokenized U.S. stocks, with trades conducted against stablecoins through blockchain-based liquidity pools rather than a traditional order book."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CFTC joins SEC in proposing crypto regulations, though spot-market gap lingers",
+      "url": "https://www.coindesk.com/policy/2026/10/05/u-s-cftc-joins-sec-in-proposing-crypto-regulations-though-spot-market-gap-lingers",
+      "pubDate": "Mon, 05 Oct 2026 15:54:23 +0000",
+      "summary": "The derivatives regulator is proposing two rules meant to cover the waterfront of crypto activity and exchanges, as long as it's not simple, direct trading."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stripe to expand stablecoin cards to over 100 countries by the end of the year",
+      "url": "https://www.coindesk.com/business/2026/10/01/stripe-to-expand-stablecoin-cards-to-over-100-countries-by-the-end-of-the-year",
+      "pubDate": "Mon, 05 Oct 2026 13:46:31 +0000",
+      "summary": "The payments giant is planning a major global expansion for its stablecoin cards business, and is exploring tokenized deposits and DeFi use cases, new crypto head Henri Stern said."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "An XRP treasury SPAC surges nearly 300% ahead of Evernorth merger",
+      "url": "https://www.coindesk.com/markets/2026/10/05/xrp-treasury-spac-surges-nearly-300-ahead-of-evernorth-merger",
+      "pubDate": "Mon, 05 Oct 2026 12:28:35 +0000",
+      "summary": "Armada Acquisition Corp. II rose about 270% last week, leaving the thinly traded shell at nearly four times its roughly $10.50 trust value before merging with Evernorth, an XPR treasury company."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
+      "pubDate": "Mon, 05 Oct 2026 11:14:35 +0000",
+      "summary": "Your day-ahead look for Oct. 5, 2026 HOLD BTC. DO NOT ADD. LOOK only. HOLD ETH. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Treasury crackdown exposes crypto's role in $2 million Hamas fundraising network",
+      "url": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
+      "pubDate": "Mon, 05 Oct 2026 11:08:03 +0000",
+      "summary": "The Treasury Department said the network raised more than $2 million through purported humanitarian charities, including hundreds of thousands of dollars sent in crypto."
+    }
   ]
 }
