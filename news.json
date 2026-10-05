@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-05T03:02:34Z",
+  "asof": "2026-10-05T12:05:00Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,56 +10,77 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "All six RSS feeds returned HTTP 200. Up to 6 items per feed. Rekt listed, not fetched as RSS. Versus 00:03Z snapshot: CoinTelegraph rotated a new lead, Zcash Washington lobbyist on the CLARITY Act and two digital-asset tax proposals. Not a book name. LOOK only. Hodler's Digest remains: Clayton as AI czar; Brandt headline path to USD 600K by 2029. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. Decrypt still carries Near Intents full recovery cited at about USD 3.8M after a 48-hour ultimatum. LOOK only. Chainalysis still traces the Sept. 24 Bitget breach to North Korea. Title cites USD 387M; URL slug cites 87m. Do not treat either as a desk number. LOOK only. CryptoSlate rotated: new lead is Illinois backs delay to crypto tax rule after months of industry pushback. LOOK only. El Salvador USD 666 million Bitcoin reserve survives IMF review remains in CryptoSlate top six. HOLD BTC. DO NOT ADD. LOOK only. Ethereum past outflow charts can change when more exchange wallets are identified remains in CryptoSlate top six. HOLD ETH. DO NOT ADD. LOOK only. Bitcoin USD 85,000 recovery awaits ETF proof after payrolls remains in CryptoSlate top six. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. Bitcoin Core merged PSBT repair for a missing-output SIGHASH_SINGLE gap remains in CryptoSlate top six. No confirmed fixed-release destination. LOOK only. The Block still carries Drift exploit recovery claims with initial payouts of just over 1 percent of user losses. DRV: HOLD. DO NOT ADD. LOOK only. ETH context: Blast L2 wind-down, exit window cited to Oct. 26. HOLD ETH. DO NOT ADD. LOOK only. BTC context: ETF flow headlines (USD 134 million early October; September inflow headline), softer jobs, headline prints near USD 85,000 to USD 87,000. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. No SNAP, ENA, AERO, or PUMP headline in this pull. HOLD those names. DO NOT ADD. LOOK only. No fills.",
+  "notes": "All six RSS feeds returned HTTP 200. Up to 6 items per feed. Rekt listed, not fetched as RSS. Versus 03:02Z snapshot: CoinTelegraph lead rotated to Vivek Ramaswamy gubernatorial run lacking crypto rhetoric. Not a book name. LOOK only. BTC context: CoinTelegraph says price is fighting the 2026 yearly open; CoinDesk live headline says Bitcoin above USD 86,000 and stuck below USD 87,000 as traders price out an October Fed hike; dollar cited at an 18-month high. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. ETH context: CoinTelegraph says Ether ETFs shed USD 138M while Bitcoin ETFs notched a third inflow week. CoinDesk daybook says SEC approved a 3x product for bitcoin and ether traders. The Block still carries Blast L2 wind-down, exit window cited to Oct. 26. HOLD ETH. DO NOT ADD. LOOK only. DRV: The Block still carries Drift exploit recovery claims with initial payouts of just over 1 percent of user losses. No firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: CryptoSlate concentration note says PUMP funding on Binance changed paying sides between October 5 settlements. Not a ticket. HOLD PUMP. DO NOT ADD. LOOK only. Bitget-style exploits: no new Bitget headline in this top-six pull. Prior desk note still stands: Chainalysis traced the Sept. 24 Bitget breach toward North Korea; title and slug figures disagree. Do not treat either as a desk number. LOOK only. No SNAP, ENA, or AERO headline in this pull. HOLD those names. DO NOT ADD. LOOK only. No fills.",
   "items": [
     {
       "source": "CoinTelegraph",
-      "title": "Zcash gets a Washington lobbyist to push crypto policy",
-      "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy",
-      "pubDate": "Mon, 05 Oct 2026 00:35:34 +0000",
-      "summary": "The newly registered lobbying operation lists the CLARITY Act and two digital asset tax proposals among the issues it plans to lobby on in Washington."
+      "title": "Vivek Ramaswamy's gubernatorial run lacks the crypto rhetoric of his presidential bid",
+      "url": "https://cointelegraph.com/news/vivek-ramaswamy-crypto-gubernatorial-campaign",
+      "pubDate": "Mon, 05 Oct 2026 10:11:26 +0000",
+      "summary": "The Ohio Republican candidate holds a stake in a digital asset manager and received donations from many in the industry, but has avoided making crypto a central campaign issue."
     },
     {
       "source": "CoinTelegraph",
-      "title": "Former SEC boss made AI Czar, Bitcoin may hit USD 600K this cycle: Hodler's Digest",
-      "url": "https://cointelegraph.com/magazine/former-sec-boss-made-ai-czar-bitcoin-may-hit-600k-this-cycle-hodlers-digest",
-      "pubDate": "Sun, 04 Oct 2026 22:31:12 +0000",
-      "summary": "Roman Storm and the XRP army aren't happy former SEC boss Jay Clayton is Trump's new AI czar, Peter Brandt flips bullish and says Bitcoin may reach as high as USD 600K by 2029."
+      "title": "BTC price fights to reclaim 2026 open: Three things to know in Bitcoin this week",
+      "url": "https://cointelegraph.com/markets/btc-price-fights-to-reclaim-2026-open-three-things-to-know-in-bitcoin-this-week",
+      "pubDate": "Mon, 05 Oct 2026 09:08:09 +0000",
+      "summary": "Bitcoin bulls renewed pressure on range highs with the 2026 yearly open forming the next key resistance to break through."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Kraken parent adds 24/7 dollar settlement with Singapore Gulf Bank",
+      "url": "https://cointelegraph.com/news/payward-partners-singapore-gulf-bank-settlement",
+      "pubDate": "Mon, 05 Oct 2026 08:56:10 +0000",
+      "summary": "The partnership will enable select institutions in Asia and the Gulf region to instantly settle US dollar transactions through the bank's SGB Net"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs notch third inflow week as Ether ETFs shed USD 138M",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-third-inflow-week-ether-funds-red",
+      "pubDate": "Mon, 05 Oct 2026 08:00:49 +0000",
+      "summary": "Bitcoin ETF inflows reached a third straight week, while Ether ETFs swung to outflows and Zcash funds posted their first weekly outflow."
     },
     {
       "source": "CoinTelegraph",
       "title": "Here's what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-      "pubDate": "Sun, 04 Oct 2026 18:51:50 +0000",
+      "pubDate": "Mon, 05 Oct 2026 05:00:00 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
     },
     {
       "source": "CoinTelegraph",
-      "title": "Trump taps intel chief Jay Clayton to lead new Super Intelligence Force",
-      "url": "https://cointelegraph.com/news/trump-taps-jay-clayton-to-lead-new-super-intelligence-force",
-      "pubDate": "Sun, 04 Oct 2026 13:48:48 +0000",
-      "summary": "President Donald Trump said US intel chief Clayton will lead the SIF, reporting to the president and Chief of Staff Susie Wiles."
+      "title": "Zcash activates NU7 on testnet ahead of November mainnet target",
+      "url": "https://cointelegraph.com/news/zcash-nu7-testnet-activation-november-mainnet",
+      "pubDate": "Mon, 05 Oct 2026 03:47:19 +0000",
+      "summary": "Zcash's NU7 upgrade is now live on testnet, giving developers several weeks to assess 25-second blocks and other protocol changes before a planned November mainnet activation."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Japan adds Garantex to list of Russia sanctions over Ukraine war",
-      "url": "https://cointelegraph.com/news/japan-adds-garantex-to-list-of-russia-sanctions-over-ukraine-war",
-      "pubDate": "Sun, 04 Oct 2026 12:42:00 +0000",
-      "summary": "Garantex was previously sanctioned by the US, the EU and other jurisdictions for helping Russian entities evade financial restrictions."
+      "source": "Decrypt",
+      "title": "Morning Minute: Uptober Off to a Green Start",
+      "url": "https://decrypt.co/380050/morning-minute-uptober-off-to-a-green-start",
+      "pubDate": "Mon, 05 Oct 2026 11:39:08 +0000",
+      "summary": "Crypto majors and alts are rallying to start October. What's driving the early action and will it continue?"
     },
     {
-      "source": "CoinTelegraph",
-      "title": "El Salvador receives USD 138 million from IMF after Bitcoin waivers granted",
-      "url": "https://cointelegraph.com/news/el-salvador-receives-138-million-from-imf-after-bitcoin-waivers-granted",
-      "pubDate": "Sun, 04 Oct 2026 09:40:00 +0000",
-      "summary": "Efforts will continue to reduce the state's involvement in Bitcoin-related activities and to strengthen crypto-asset regulation and governance, the IMF said."
+      "source": "Decrypt",
+      "title": "Greek Soldiers Among Alleged Leaders of USD 8M Crypto Pyramid Scheme",
+      "url": "https://decrypt.co/380040/greek-soldiers-among-alleged-leaders-of-8m-crypto-pyramid-scheme",
+      "pubDate": "Mon, 05 Oct 2026 11:18:01 +0000",
+      "summary": "An association for AI enthusiasts was allegedly the recruiting vehicle, and two anonymous tips to a government portal started the case."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OKX and NYSE Owner ICE Plan 24/7 Tokenized Stock Trading Under SEC Exemption",
+      "url": "https://decrypt.co/380032/okx-and-nyse-owner-ice-plan-24-7-tokenized-stock-trading-under-sec-exemption",
+      "pubDate": "Mon, 05 Oct 2026 10:22:27 +0000",
+      "summary": "Filed under the SEC's new Innovation Exemption, the notice lists more than 60 stocks, including Nvidia and SpaceX, paired with stablecoins."
     },
     {
       "source": "Decrypt",
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
       "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
       "pubDate": "Sun, 04 Oct 2026 17:01:03 +0000",
-      "summary": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits including the agency's case against Ri..."
+      "summary": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits including the agency's case against Ripple."
     },
     {
       "source": "Decrypt",
@@ -76,25 +97,25 @@
       "summary": "Spot Bitcoin ETFs took in USD 134.4 million over the first two trading days of October, rebounding from a Sept. 30 outflow as a weak jobs report cooled Fed rate-hike bets."
     },
     {
-      "source": "Decrypt",
-      "title": "'We Have Identified You, Sir': Near Intents Recovers USD 3.8 Million After 48-Hour Ultimatum",
-      "url": "https://decrypt.co/380014/near-intents-recovers-3-8-million-after-48-hour-ultimatum",
-      "pubDate": "Sun, 04 Oct 2026 13:01:03 +0000",
-      "summary": "Near Intents said the roughly USD 3.8 million drained in an exploit on Thursday was returned in full, a day after the team said it had identified the attacker and gave them 48 hours to return the funds."
+      "source": "The Block",
+      "title": "Visa, CoinShares find growing crypto appetite among consumers and affluent investors",
+      "url": "https://www.theblock.co/news/business/2026-10-05-visa-coinshares-find-growing-crypto-appetite-among-consumers-and-affluent-investors-417642",
+      "pubDate": "Mon, 05 Oct 2026 12:01:06 +0000",
+      "summary": "Visa and CoinShares surveys show rising stablecoin interest in Asia Pacific alongside strong digital-asset ownership among affluent investors."
     },
     {
-      "source": "Decrypt",
-      "title": "Chainalysis Used AI to Trace the USD 387M Bitget Hack Back to North Korea",
-      "url": "https://decrypt.co/380005/chainalysis-ai-87m-bitget-hack-north-korea",
-      "pubDate": "Sat, 03 Oct 2026 17:01:03 +0000",
-      "summary": "The firm says the Sept. 24 breach pushed North Korea's 2026 crypto haul past USD 1 billion, and detailed how it used in-house AI to trace the stolen funds across four blockchains in a race against the attackers."
+      "source": "The Block",
+      "title": "Injective CEO Eric Chen expects US INJ ETFs to launch sooner than 2027",
+      "url": "https://www.theblock.co/news/defi/2026-10-05-injective-ceo-eric-inj-etf-417616",
+      "pubDate": "Mon, 05 Oct 2026 08:42:20 +0000",
+      "summary": "There are currently two ETF applications tied to INJ - the 21Shares Injective ETF and the Canary Staked INJ ETF."
     },
     {
-      "source": "Decrypt",
-      "title": "OpenAI Banned PewDiePie Twice While He Built Ajax, an Uncensored AI That Will Run on Your PC",
-      "url": "https://decrypt.co/380001/openai-banned-pewdiepie-twice-ajax-uncensored-ai",
-      "pubDate": "Sat, 03 Oct 2026 16:01:03 +0000",
-      "summary": "The YouTuber says OpenAI suspended his account twice while he trained a small, uncensored model built to run on your own computer."
+      "source": "The Block",
+      "title": "OKX, NYSE parent ICE joint venture seeks to launch tokenized US stock trading venue",
+      "url": "https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613",
+      "pubDate": "Mon, 05 Oct 2026 06:38:24 +0000",
+      "summary": "OKXICE has notified the SEC that it intends to launch a tokenized securities trading venue under the innovation exemption."
     },
     {
       "source": "The Block",
@@ -118,25 +139,32 @@
       "summary": "Bitcoin climbed back toward USD 87,000 on Friday as sellers cleared out around USD 85,000, according to Glassnode."
     },
     {
-      "source": "The Block",
-      "title": "BitGo CEO says Clarity's failure left capital markets exposed to risk potentially worse than Lehman",
-      "url": "https://www.theblock.co/news/regulation/2026-10-02-mike-belshe-bitgo-interview-clarity-417560",
-      "pubDate": "Fri, 02 Oct 2026 12:28:54 +0000",
-      "summary": "BitGo CEO Mike Belshe warned that Clarity's failure left systemic risks arising from one firm holding exchange, brokerage, and custody functions."
+      "source": "CryptoSlate",
+      "title": "US jobs revision turns July's 21,000 gain into a 10,000 loss",
+      "url": "https://cryptoslate.com/us-jobs-revision-turns-julys-21000-gain-into-a-10000-loss/",
+      "pubDate": "Mon, 05 Oct 2026 11:10:34 +0000",
+      "summary": "Softer hiring and slower wages weaken the labor case for another Fed hike, while inflation and household employment complicate the outlook."
     },
     {
-      "source": "The Block",
-      "title": "ECB outlines three models for putting central bank money onchain",
-      "url": "https://www.theblock.co/news/regulation/2026-10-02-ecb-outlines-three-models-for-putting-central-bank-money-onchain-417552",
-      "pubDate": "Fri, 02 Oct 2026 10:17:39 +0000",
-      "summary": "The ECB outlined three models for bringing central bank money onchain as financial institutions explore settlement infrastructure."
+      "source": "CryptoSlate",
+      "title": "Ten tokens held 62% of altcoin futures exposure, but shared collateral can put other positions at risk",
+      "url": "https://cryptoslate.com/ten-tokens-held-62-of-altcoin-futures-exposure-but-shared-collateral-can-put-other-positions-at-risk/",
+      "pubDate": "Mon, 05 Oct 2026 10:10:02 +0000",
+      "summary": "Talos's September 24 - 30 snapshot showed concentrated positions; PUMP funding on Binance changed paying sides between October 5 settlements."
     },
     {
-      "source": "The Block",
-      "title": "Spot bitcoin ETFs log USD 2.7 billion in September inflows as institutional demand holds",
-      "url": "https://www.theblock.co/news/markets/2026-10-02-spot-bitcoin-etfs-september-inflows-417547",
-      "pubDate": "Fri, 02 Oct 2026 05:50:41 +0000",
-      "summary": "US spot bitcoin ETFs recorded USD 2.65 billion in net inflows in September, their second-largest monthly inflow since October 2025."
+      "source": "CryptoSlate",
+      "title": "Circle and Tether find common ground against MiCA's bank reserve rules",
+      "url": "https://cryptoslate.com/circle-and-tether-find-common-ground-against-micas-bank-reserve-rules/",
+      "pubDate": "Mon, 05 Oct 2026 09:10:23 +0000",
+      "summary": "Its longer-term proposal would require Commission equivalence and EBA issuer recognition before distribution through a locally licensed institution."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "US expands Hamas sanctions after tracing crypto transfers from France",
+      "url": "https://cryptoslate.com/us-expands-hamas-sanctions-after-tracing-crypto-transfers-from-france/",
+      "pubDate": "Mon, 05 Oct 2026 07:55:47 +0000",
+      "summary": "The October 2 action adds five blocked counterparties, while Treasury's alleged crypto transfers are separate from its wider fundraising total."
     },
     {
       "source": "CryptoSlate",
@@ -153,116 +181,88 @@
       "summary": "Waivers for missed accumulation criteria accompany renewed commitments, with no further Bitcoin accumulation envisaged beyond documented donations."
     },
     {
-      "source": "CryptoSlate",
-      "title": "Ethereum's past outflow charts can change when more exchange wallets are identified",
-      "url": "https://cryptoslate.com/ethereums-past-outflow-charts-can-change-when-more-exchange-wallets-are-identified/",
-      "pubDate": "Sun, 04 Oct 2026 22:05:40 +0000",
-      "summary": "Coin Metrics rebuilt ETH Standard flows, but an outflow trading claim still needs the data available at the decision time."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Bitcoin's USD 85,000 recovery awaits proof that ETF investors kept buying after payrolls",
-      "url": "https://cryptoslate.com/bitcoins-85000-recovery-awaits-proof-that-etf-investors-kept-buying-after-payrolls/",
-      "pubDate": "Sun, 04 Oct 2026 20:45:36 +0000",
-      "summary": "Glassnode estimated the probability of an additional quarter-point hike at the Oct. 28 meeting fell from 66% on Sept. 28 to 22% by 15:00 UTC on Oct. 2."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Bitcoin Core's new fix closes gap that could redirect funds without stealing keys",
-      "url": "https://cryptoslate.com/bitcoin-cores-new-fix-closes-gap-that-could-redirect-funds-without-stealing-keys/",
-      "pubDate": "Sun, 04 Oct 2026 19:40:34 +0000",
-      "summary": "A missing-output SIGHASH_SINGLE request can leave recipients unbound; Core's merged PSBT repair has no confirmed fixed-release destination."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "New Treasury rules could change how stablecoin issuers get your dollars back",
-      "url": "https://cryptoslate.com/new-treasury-rules-could-change-how-stablecoin-issuers-get-your-dollars-back/",
-      "pubDate": "Sun, 04 Oct 2026 18:40:36 +0000",
-      "summary": "US government debt is one of the easiest assets in the world to borrow against, which lets financial companies get cash without giving up their investments for good. Washington is rewriting the rules for that borrowing, and the result wi..."
-    },
-    {
       "source": "Bitcoin Magazine",
       "title": "IMF Praises El Salvador - But Still Tries To Scale Back Its Bitcoin Project",
       "url": "https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin",
       "pubDate": "Fri, 02 Oct 2026 22:01:18 +0000",
-      "summary": "Bitcoin Magazine IMF Praises El Salvador - But Still Tries To Scale Back Its Bitcoin Project The International Monetary Fund approved a USD 139 million disbursement to El Salvador but still wants it to scale back its Bitcoin project. Thi..."
+      "summary": "IMF Praises El Salvador - But Still Tries To Scale Back Its Bitcoin Project The International Monetary Fund approved a USD 139 million disbursement to El Salvador but still wants it to scale back its Bitcoin project. This post IMF Praises El Salvador - But Still Tri"
     },
     {
       "source": "Bitcoin Magazine",
       "title": "South Africa's Absa Becomes First Bank on the Continent to Custody Bitcoin: Report",
       "url": "https://bitcoinmagazine.com/news/absa-first-african-bank-to-custody-bitcoin",
       "pubDate": "Fri, 02 Oct 2026 18:12:28 +0000",
-      "summary": "Bitcoin Magazine South Africa's Absa Becomes First Bank on the Continent to Custody Bitcoin: Report South African bank Absa has become the first African lender to custody bitcoin, according to reports. As reported first by Bloomberg on F..."
+      "summary": "South Africa's Absa Becomes First Bank on the Continent to Custody Bitcoin: Report South African bank Absa has become the first African lender to custody bitcoin, according to reports. As reported first by Bloomberg on Friday, the Johannesburg-based lender will s"
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data",
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-surges-on-soft-jobs-data",
       "pubDate": "Fri, 02 Oct 2026 15:09:38 +0000",
-      "summary": "Bitcoin Magazine Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data The price of bitcoin surged above USD 87,000 on Friday morning in New York, buoyed by constant exchange-traded fund flows and a jobs report showing..."
+      "summary": "Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data The price of bitcoin surged above USD 87,000 on Friday morning in New York, buoyed by constant exchange-traded fund flows and a jobs report showing that unemployment in the U.S. had ticked up. Bitc"
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Impacts of Daily Dividends on Digital Credit",
       "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/impacts-of-daily-dividends-on-digital-credit",
       "pubDate": "Fri, 02 Oct 2026 13:20:41 +0000",
-      "summary": "Bitcoin Magazine Impacts of Daily Dividends on Digital Credit Analyzing the implications for digital credit instruments paying daily dividends."
+      "summary": "Impacts of Daily Dividends on Digital Credit Analyzing the implications for digital credit instruments paying daily dividends. This post Impacts of Daily Dividends on Digital Credit first appeared on Bitcoin Magazine and is written by Allard Peng ."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin & Gold",
       "url": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
       "pubDate": "Thu, 01 Oct 2026 21:34:00 +0000",
-      "summary": "Bitcoin Magazine Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin & Gold Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the..."
+      "summary": "Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin & Gold Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI boom. This post Frank Holmes: They Will Pr"
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Nico Lechuga: Bitcoin Will Revolutionize the USD 4T Private Equity Industry",
       "url": "https://bitcoinmagazine.com/videos/nico-lechuga-bitcoin-will-revolutionize-the-4t-private-equity-industry",
       "pubDate": "Thu, 01 Oct 2026 21:24:55 +0000",
-      "summary": "Bitcoin Magazine Nico Lechuga: Bitcoin Will Revolutionize the USD 4T Private Equity Industry Traditional PE flips companies on tight deadlines. Ego Death Capital's Nico Lechuga explains how permanent capital and Bitcoin treasuries give f..."
+      "summary": "Nico Lechuga: Bitcoin Will Revolutionize the USD 4T Private Equity Industry Traditional PE flips companies on tight deadlines. Ego Death Capital's Nico Lechuga explains how permanent capital and Bitcoin treasuries give founders a better choice. This post Nico Lechug"
     },
     {
       "source": "CoinDesk",
-      "title": "There's an election next month: State of Crypto",
-      "url": "https://www.coindesk.com/policy/2026/10/04/there-s-an-election-next-month-state-of-crypto",
-      "pubDate": "Sun, 04 Oct 2026 18:30:00 +0000",
-      "summary": "Congress is gone from Washington for the final pre-election recess, and it's time to take stock of what's going on ahead of November."
+      "title": "SEC approves a 3x fix for bitcoin and ether traders who miss the wild swings",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/05/sec-approves-a-3x-fix-for-bitcoin-and-ether-traders-who-miss-the-wild-swings",
+      "pubDate": "Mon, 05 Oct 2026 11:14:35 +0000",
+      "summary": "Your day-ahead look for Oct. 5, 2026"
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto poured years into new products. The next challenge is keeping users",
-      "url": "https://www.coindesk.com/business/2026/10/04/crypto-poured-years-into-new-products-the-next-challenge-is-keeping-users",
-      "pubDate": "Sun, 04 Oct 2026 14:00:00 +0000",
-      "summary": "Crypto firms have spent years building financial products on blockchains. Getting people to use them - and keep using them - is becoming the next challenge."
+      "title": "Treasury crackdown exposes crypto's role in USD 2 million Hamas fundraising network",
+      "url": "https://www.coindesk.com/policy/2026/10/05/treasury-crackdown-exposes-crypto-s-role-in-usd2-million-hamas-fundraising-network",
+      "pubDate": "Mon, 05 Oct 2026 11:08:03 +0000",
+      "summary": "The Treasury Department said the network raised more than USD 2 million through purported humanitarian charities, including hundreds of thousands of dollars sent in crypto."
     },
     {
       "source": "CoinDesk",
-      "title": "The Clarity Act stalled. Bankers aren't hitting the brakes yet on crypto dealmaking",
-      "url": "https://www.coindesk.com/business/2026/10/04/the-clarity-act-stalled-crypto-dealmakers-aren-t-hitting-the-brakes-yet",
-      "pubDate": "Sun, 04 Oct 2026 13:00:00 +0000",
-      "summary": "Crypto M&A has hit record levels, but the Clarity Act's Senate setback leaves dealmakers weighing how much regulatory uncertainty still matters."
+      "title": "Metaplanet added 1,000 bitcoin net in the third quarter bringing holdings to 44,000 BTC",
+      "url": "https://www.coindesk.com/business/2026/10/05/metaplanet-adds-1-000-bitcoin-after-sale-and-repurchase-launches-income-strategy",
+      "pubDate": "Mon, 05 Oct 2026 10:58:03 +0000",
+      "summary": "The Japanese firm sold 10,000 BTC before buying 11,000 BTC, demonstrating liquidity as it seeks recurring income from preferred securities."
     },
     {
       "source": "CoinDesk",
-      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
-      "url": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
-      "pubDate": "Sat, 03 Oct 2026 16:00:00 +0000",
-      "summary": "CEO Iana Dimitrova said OpenPayd aims to launch in the U.S. by April 2027 and is eyeing deals to add licenses and technology."
+      "title": "Bitcoin resilience tested as U.S. dollar climbs to 18-month high",
+      "url": "https://www.coindesk.com/markets/2026/10/05/u-s-dollar-climbs-to-18-month-high-as-bitcoin-holds-firm-around-usd86-000",
+      "pubDate": "Mon, 05 Oct 2026 10:44:55 +0000",
+      "summary": "A stronger dollar and rising bond yields could be headwinds as fiscal concerns in France and political uncertainty in Spain weigh on the euro."
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
-      "url": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
-      "pubDate": "Sat, 03 Oct 2026 16:00:00 +0000",
-      "summary": "Finance, engineering and trading led hiring demand, while Bitcoin, Ethereum and Solana were the most frequently requested blockchain skills."
+      "title": "Live updates: Bitcoin above USD 86,000 as traders price out an October Fed hike",
+      "url": "https://www.coindesk.com/business/2026/10/05/live-updates-bitcoin-above-usd86-000-as-traders-price-out-an-october-fed-hike",
+      "pubDate": "Mon, 05 Oct 2026 10:39:57 +0000",
+      "summary": "A weak September jobs report may have taken a rate hike off the table, but bitcoin is still stuck below USD 87,000, with FOMC minutes due Wednesday."
     },
     {
       "source": "CoinDesk",
-      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
-      "url": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
-      "pubDate": "Sat, 03 Oct 2026 15:00:00 +0000",
-      "summary": "As AI agents evolve from answering questions to spending real money, investors and tech giants are scrambling to control the financial networks powering machine-driven commerce."
+      "title": "Cardano's ADA leads gains in narrow range-bound market",
+      "url": "https://www.coindesk.com/markets/2026/10/05/cardano-s-ada-leads-gains-in-narrow-range-bound-market",
+      "pubDate": "Mon, 05 Oct 2026 10:37:30 +0000",
+      "summary": "In traditional markets, the U.S. Dollar Index jumped to 102.53 early today, the highest since April 2025, extending its rise from the Sept. 9 low of 98.60."
     }
   ]
 }
