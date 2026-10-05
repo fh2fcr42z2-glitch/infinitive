@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-05T00:03:06Z",
+  "asof": "2026-10-05T03:02:34Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,8 +10,15 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "All six RSS feeds returned HTTP 200. Up to 6 items per feed. Rekt listed, not fetched as RSS. Versus 23:02Z snapshot: CoinTelegraph top six unchanged (Hodler's Digest still leads: Clayton as AI czar; Brandt headline path to USD 600K by 2029). Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. Decrypt top six unchanged: Near Intents full recovery still cited at about USD 3.8M after a 48-hour ultimatum. LOOK only. Chainalysis still traces the Sept. 24 Bitget breach to North Korea. Title cites USD 387M; URL slug cites 87m. Do not treat either as a desk number. LOOK only. CryptoSlate rotated: new lead is El Salvador's USD 666 million Bitcoin reserve survives IMF review. Prior lead, Ethereum past outflow charts can change when more exchange wallets are identified, remains in the top six. HOLD ETH. HOLD BTC. DO NOT ADD. LOOK only. Bitcoin USD 85,000 recovery awaits ETF proof after payrolls remains in the CryptoSlate top six. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. Bitcoin Core merged PSBT repair for a missing-output SIGHASH_SINGLE gap remains in the CryptoSlate top six. No confirmed fixed-release destination. LOOK only. Drift recovery left the CryptoSlate top six. The Block still carries initial payouts of just over 1 percent of user losses. DRV: HOLD. DO NOT ADD. LOOK only. ETH context: Blast L2 wind-down, exit window cited to Oct. 26. HOLD ETH. DO NOT ADD. LOOK only. BTC context: ETF flow headline (USD 134 million early October; September inflow headline), softer jobs, headline prints near USD 85,000 to USD 87,000. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. No SNAP, ENA, AERO, or PUMP headline in this pull. HOLD those names. DO NOT ADD. LOOK only. No fills.",
+  "notes": "All six RSS feeds returned HTTP 200. Up to 6 items per feed. Rekt listed, not fetched as RSS. Versus 00:03Z snapshot: CoinTelegraph rotated a new lead, Zcash Washington lobbyist on the CLARITY Act and two digital-asset tax proposals. Not a book name. LOOK only. Hodler's Digest remains: Clayton as AI czar; Brandt headline path to USD 600K by 2029. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. Decrypt still carries Near Intents full recovery cited at about USD 3.8M after a 48-hour ultimatum. LOOK only. Chainalysis still traces the Sept. 24 Bitget breach to North Korea. Title cites USD 387M; URL slug cites 87m. Do not treat either as a desk number. LOOK only. CryptoSlate rotated: new lead is Illinois backs delay to crypto tax rule after months of industry pushback. LOOK only. El Salvador USD 666 million Bitcoin reserve survives IMF review remains in CryptoSlate top six. HOLD BTC. DO NOT ADD. LOOK only. Ethereum past outflow charts can change when more exchange wallets are identified remains in CryptoSlate top six. HOLD ETH. DO NOT ADD. LOOK only. Bitcoin USD 85,000 recovery awaits ETF proof after payrolls remains in CryptoSlate top six. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. Bitcoin Core merged PSBT repair for a missing-output SIGHASH_SINGLE gap remains in CryptoSlate top six. No confirmed fixed-release destination. LOOK only. The Block still carries Drift exploit recovery claims with initial payouts of just over 1 percent of user losses. DRV: HOLD. DO NOT ADD. LOOK only. ETH context: Blast L2 wind-down, exit window cited to Oct. 26. HOLD ETH. DO NOT ADD. LOOK only. BTC context: ETF flow headlines (USD 134 million early October; September inflow headline), softer jobs, headline prints near USD 85,000 to USD 87,000. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. No SNAP, ENA, AERO, or PUMP headline in this pull. HOLD those names. DO NOT ADD. LOOK only. No fills.",
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Zcash gets a Washington lobbyist to push crypto policy",
+      "url": "https://cointelegraph.com/news/zcash-gets-a-washington-lobbyist-to-push-crypto-policy",
+      "pubDate": "Mon, 05 Oct 2026 00:35:34 +0000",
+      "summary": "The newly registered lobbying operation lists the CLARITY Act and two digital asset tax proposals among the issues it plans to lobby on in Washington."
+    },
     {
       "source": "CoinTelegraph",
       "title": "Former SEC boss made AI Czar, Bitcoin may hit USD 600K this cycle: Hodler's Digest",
@@ -48,18 +55,11 @@
       "summary": "Efforts will continue to reduce the state's involvement in Bitcoin-related activities and to strengthen crypto-asset regulation and governance, the IMF said."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Russia's Finance Ministry pays wages in digital rubles for first time",
-      "url": "https://cointelegraph.com/news/russias-finance-ministry-pays-wages-in-digital-rubles-for-first-time",
-      "pubDate": "Sun, 04 Oct 2026 07:18:00 +0000",
-      "summary": "Work on the introduction of the digital ruble to the budget process is being carried out by the Bank of Russia together with the Ministry of Finance."
-    },
-    {
       "source": "Decrypt",
       "title": "Trump Taps Jay Clayton, the SEC Chair Who Sued Ripple, to Lead AI Push",
       "url": "https://decrypt.co/380019/trump-jay-clayton-sec-ripple-ai-push-super-intelligence",
       "pubDate": "Sun, 04 Oct 2026 17:01:03 +0000",
-      "summary": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits including the agency's case against Ripple."
+      "summary": "President Trump named a new \"Super Intelligence Force\" to coordinate federal AI policy, with Director of National Intelligence Jay Clayton at the helm. As SEC chair, Clayton launched crypto lawsuits including the agency's case against Ri..."
     },
     {
       "source": "Decrypt",
@@ -140,87 +140,87 @@
     },
     {
       "source": "CryptoSlate",
+      "title": "Illinois backs delay to crypto tax rule after months of industry pushback",
+      "url": "https://cryptoslate.com/illinois-backs-delay-to-crypto-tax-rule-after-months-of-industry-pushback/",
+      "pubDate": "Mon, 05 Oct 2026 02:00:45 +0000",
+      "summary": "The October 1 joint motion seeks a July 2027 tax start, while court entry remains unconfirmed and rule comments close Oct. 30."
+    },
+    {
+      "source": "CryptoSlate",
       "title": "El Salvador's USD 666 million Bitcoin reserve survives IMF review",
       "url": "https://cryptoslate.com/el-salvadors-666-million-bitcoin-reserve-survives-imf-review/",
       "pubDate": "Mon, 05 Oct 2026 00:00:39 +0000",
-      "summary": "Waivers for missed accumulation criteria accompany renewed commitments, with no further Bitcoin accumulation envisaged beyond documented donations. The post El Salvador's USD 666 million Bitcoin reserve survives IMF review appeared first on CryptoSlate ."
+      "summary": "Waivers for missed accumulation criteria accompany renewed commitments, with no further Bitcoin accumulation envisaged beyond documented donations."
     },
     {
       "source": "CryptoSlate",
       "title": "Ethereum's past outflow charts can change when more exchange wallets are identified",
       "url": "https://cryptoslate.com/ethereums-past-outflow-charts-can-change-when-more-exchange-wallets-are-identified/",
       "pubDate": "Sun, 04 Oct 2026 22:05:40 +0000",
-      "summary": "Coin Metrics rebuilt ETH Standard flows, but an outflow trading claim still needs the data available at the decision time. The post Ethereum's past outflow charts can change when more exchange wallets are identified appeared first on CryptoSlate ."
+      "summary": "Coin Metrics rebuilt ETH Standard flows, but an outflow trading claim still needs the data available at the decision time."
     },
     {
       "source": "CryptoSlate",
       "title": "Bitcoin's USD 85,000 recovery awaits proof that ETF investors kept buying after payrolls",
       "url": "https://cryptoslate.com/bitcoins-85000-recovery-awaits-proof-that-etf-investors-kept-buying-after-payrolls/",
       "pubDate": "Sun, 04 Oct 2026 20:45:36 +0000",
-      "summary": "Glassnode estimated the probability of an additional quarter-point hike at the Oct. 28 meeting fell from 66% on Sept. 28 to 22% by 15:00 UTC on Oct. 2. The post Bitcoin's USD 85,000 recovery awaits proof that ETF investors kept buying after payrolls appeared f"
+      "summary": "Glassnode estimated the probability of an additional quarter-point hike at the Oct. 28 meeting fell from 66% on Sept. 28 to 22% by 15:00 UTC on Oct. 2."
     },
     {
       "source": "CryptoSlate",
       "title": "Bitcoin Core's new fix closes gap that could redirect funds without stealing keys",
       "url": "https://cryptoslate.com/bitcoin-cores-new-fix-closes-gap-that-could-redirect-funds-without-stealing-keys/",
       "pubDate": "Sun, 04 Oct 2026 19:40:34 +0000",
-      "summary": "A missing-output SIGHASH_SINGLE request can leave recipients unbound; Core's merged PSBT repair has no confirmed fixed-release destination. The post Bitcoin Core's new fix closes gap that could redirect funds without stealing keys appeared first on CryptoSlate"
+      "summary": "A missing-output SIGHASH_SINGLE request can leave recipients unbound; Core's merged PSBT repair has no confirmed fixed-release destination."
     },
     {
       "source": "CryptoSlate",
       "title": "New Treasury rules could change how stablecoin issuers get your dollars back",
       "url": "https://cryptoslate.com/new-treasury-rules-could-change-how-stablecoin-issuers-get-your-dollars-back/",
       "pubDate": "Sun, 04 Oct 2026 18:40:36 +0000",
-      "summary": "US government debt is one of the easiest assets in the world to borrow against, which lets financial companies get cash without giving up their investments for good. Washington is rewriting the rules for that borrowing, and the result will reach crypto through"
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "India's local crypto exchanges get just 0.7% of inflows, Chainalysis reports",
-      "url": "https://cryptoslate.com/indias-local-crypto-exchanges-get-just-0-7-of-inflows-chainalysis-reports/",
-      "pubDate": "Sun, 04 Oct 2026 18:20:31 +0000",
-      "summary": "Chainalysis's new regional chapters separate national crypto participation from domestic exchange business, with Brazil-based platforms receiving 12.5% of inflows. The post India's local crypto exchanges get just 0.7% of inflows, Chainalysis reports appeared f"
+      "summary": "US government debt is one of the easiest assets in the world to borrow against, which lets financial companies get cash without giving up their investments for good. Washington is rewriting the rules for that borrowing, and the result wi..."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "IMF Praises El Salvador - But Still Tries To Scale Back Its Bitcoin Project",
       "url": "https://bitcoinmagazine.com/news/imf-praises-el-salvador-but-blasts-bitcoin",
       "pubDate": "Fri, 02 Oct 2026 22:01:18 +0000",
-      "summary": "IMF Praises El Salvador - But Still Tries To Scale Back Its Bitcoin Project The International Monetary Fund approved a USD 139 million disbursement to El Salvador but still wants it to scale back its Bitcoin project. This post IMF Praises El Salvador - But Sti"
+      "summary": "Bitcoin Magazine IMF Praises El Salvador - But Still Tries To Scale Back Its Bitcoin Project The International Monetary Fund approved a USD 139 million disbursement to El Salvador but still wants it to scale back its Bitcoin project. Thi..."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "South Africa's Absa Becomes First Bank on the Continent to Custody Bitcoin: Report",
       "url": "https://bitcoinmagazine.com/news/absa-first-african-bank-to-custody-bitcoin",
       "pubDate": "Fri, 02 Oct 2026 18:12:28 +0000",
-      "summary": "South Africa's Absa Becomes First Bank on the Continent to Custody Bitcoin: Report South African bank Absa has become the first African lender to custody bitcoin, according to reports. As reported first by Bloomberg on Friday, the Johannesburg-based lender wil"
+      "summary": "Bitcoin Magazine South Africa's Absa Becomes First Bank on the Continent to Custody Bitcoin: Report South African bank Absa has become the first African lender to custody bitcoin, according to reports. As reported first by Bloomberg on F..."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data",
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-surges-on-soft-jobs-data",
       "pubDate": "Fri, 02 Oct 2026 15:09:38 +0000",
-      "summary": "Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data The price of bitcoin surged above USD 87,000 on Friday morning in New York, buoyed by constant exchange-traded fund flows and a jobs report showing that unemployment in the U.S. had ticked"
+      "summary": "Bitcoin Magazine Bitcoin Price Surges Above USD 87,000 on Softer-Than-Expected Jobs Data The price of bitcoin surged above USD 87,000 on Friday morning in New York, buoyed by constant exchange-traded fund flows and a jobs report showing..."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Impacts of Daily Dividends on Digital Credit",
       "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/impacts-of-daily-dividends-on-digital-credit",
       "pubDate": "Fri, 02 Oct 2026 13:20:41 +0000",
-      "summary": "Impacts of Daily Dividends on Digital Credit Analyzing the implications for digital credit instruments paying daily dividends. This post Impacts of Daily Dividends on Digital Credit first appeared on Bitcoin Magazine and is written by Allard Peng ."
+      "summary": "Bitcoin Magazine Impacts of Daily Dividends on Digital Credit Analyzing the implications for digital credit instruments paying daily dividends."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin & Gold",
       "url": "https://bitcoinmagazine.com/videos/frank-holmes-they-will-print-100-trillion-why-to-buy-bitcoin-gold",
       "pubDate": "Thu, 01 Oct 2026 21:34:00 +0000",
-      "summary": "Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin & Gold Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the AI boom. This post Frank Holmes: They W"
+      "summary": "Bitcoin Magazine Frank Holmes: They Will Print USD 100 Trillion - Why to Buy Bitcoin & Gold Bitcoin miners hold the power and infrastructure AI needs. HIVE's Frank Holmes explains how mining sites and former Ethereum GPUs are fueling the..."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Nico Lechuga: Bitcoin Will Revolutionize the USD 4T Private Equity Industry",
       "url": "https://bitcoinmagazine.com/videos/nico-lechuga-bitcoin-will-revolutionize-the-4t-private-equity-industry",
       "pubDate": "Thu, 01 Oct 2026 21:24:55 +0000",
-      "summary": "Nico Lechuga: Bitcoin Will Revolutionize the USD 4T Private Equity Industry Traditional PE flips companies on tight deadlines. Ego Death Capital's Nico Lechuga explains how permanent capital and Bitcoin treasuries give founders a better choice. This post Nico"
+      "summary": "Bitcoin Magazine Nico Lechuga: Bitcoin Will Revolutionize the USD 4T Private Equity Industry Traditional PE flips companies on tight deadlines. Ego Death Capital's Nico Lechuga explains how permanent capital and Bitcoin treasuries give f..."
     },
     {
       "source": "CoinDesk",
