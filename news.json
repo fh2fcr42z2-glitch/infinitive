@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-06T16:02:47Z",
+  "asof": "2026-10-06T17:02:09Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,8 +10,15 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "All six requested RSS URLs returned HTTP 200 this pull. Rekt listed at https://rekt.news; rekt.news/rss.xml returned HTTP 500 and was not parsed. Versus 15:02Z snapshot: CoinTelegraph top item is now Ripple expands Brevan Howard deal with prime brokerage; Paxos USDG on Arbitrum left the CoinTelegraph top six. Decrypt new top line: Flash Loan Attacks Drained $1.2B From DeFi Between 2020 and 2024 study. Strive $169M buy left the Decrypt top six. The Block new top line: Solana treasury DeFi Development authorizes CHAD preferred stock buyback. ZachXBT $349,700 front left the The Block top six. Polymarket V2 and Brevan Howard / Ripple Prime remain. CryptoSlate new top line: Ripple and Circle backs OKX as it targets the next wave of stablecoin users. ETH near $2,700 with $206M US spot ETF outflows remains. Bitfinex fee rule left the CryptoSlate top six. CoinDesk new top line: OKX draws investment from StanChart, Circle, Ripple. Bitcoin Magazine new items: Treasury drops crypto surveillance proposals; ecash ecosystem on decentralized custody. Indiana merchants and Bringin remain. No SNAP, DRV, ENA, AERO, PUMP, or Bitget headline in this pull. BTC: headlines disagree on the same session. CoinDesk live tape says Bitcoin rises above $86,000 as oil and bond yields retreat; a separate CoinDesk line still frames BTC around $85,000. Not a desk price. Strive $169M / 2,000 coins / 29,462 BTC left the top six but the prior headline stands as context only. HOLD BTC. DO NOT ADD. LOOK only. ETH: CryptoSlate headline says ETH price stays near $2,700 while US spot ETFs record $206M in outflows. Not a desk price. Glamsterdam launched on Sepolia is a testnet rehearsal headline, not a mainnet ticket. The proposed 3x Ethereum ETF / $362 million CME threshold line remains. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior desk note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior desk note stands: PUMP funding on Binance changed paying sides between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. Bitget-style exploits: no new Bitget headline. Decrypt flash-loan study ($1.2B, 2020-2024) is historical research, not a live exploit ticket. ZachXBT Lazarus/Bybit launderer item left the top six; prior claimed $349,700 front is LOOK only, not a Bitget fill and not a desk loss number. Prior desk note still stands: Chainalysis traced the Sept. 24 Bitget breach toward North Korea; title and slug figures disagree. Do not treat either as a desk number. LOOK only. No SNAP, ENA, or AERO headline in this pull. HOLD those names. DO NOT ADD. LOOK only. No fills.",
+  "notes": "All six requested RSS URLs returned HTTP 200 this pull. Rekt listed at https://rekt.news; rekt.news/rss.xml returned HTTP 500 on the prior pull and was not parsed this run. Versus 16:02Z snapshot: CoinTelegraph new top line is ECB policymaker warns of fragmentation without digital euro. Ripple expands Brevan Howard deal remains in the top six. Decrypt new top line: Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up. Flash-loan study ($1.2B, 2020-2024) remains. The Block new top line: Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker. CHAD preferred buyback remains. CryptoSlate new top line: DOJ presses Tornado Cash prosecution as Treasury drops mixer reporting plan. OKX / Circle / Ripple and ETH near $2,700 with $206M US spot ETF outflows remain. Not a desk price. Bitcoin Magazine new top line: BlackRock Says AI Agents Could Be the Next Big Driver of Crypto Demand. Treasury drops crypto surveillance proposals remains. CoinDesk new top line: Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil. OKX / StanChart / Circle / Ripple remains. No SNAP, DRV, ENA, AERO, PUMP, or Bitget headline in this pull. BTC: Decrypt headline says Bitcoin falls asleep while Zcash and Monero wake up. CoinDesk daybook says the VIX of bonds is rising but bitcoin and stocks are not hearing it yet. Prior CoinDesk tape framed Bitcoin above $86,000 as oil and bond yields retreated, with a separate line still near $85,000. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. ETH: CryptoSlate headline says ETH price stays near $2,700 while US spot ETFs record $206M in outflows. Not a desk price. Glamsterdam launched on Sepolia is a testnet rehearsal, not a mainnet ticket. The proposed 3x Ethereum ETF / $362 million CME threshold line remains. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior desk note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior desk note stands: PUMP funding on Binance changed paying sides between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. Bitget-style exploits: no new Bitget headline. Decrypt flash-loan study ($1.2B, 2020-2024) is historical research, not a live exploit ticket. Prior desk note still stands: Chainalysis traced the Sept. 24 Bitget breach toward North Korea; title and slug figures disagree. Do not treat either as a desk number. LOOK only. No SNAP, ENA, or AERO headline in this pull. HOLD those names. DO NOT ADD. LOOK only. No fills.",
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "ECB policymaker warns of fragmentation without digital euro",
+      "url": "https://cointelegraph.com/news/european-central-bank-fragmentation-digital-euro",
+      "pubDate": "Tue, 06 Oct 2026 16:32:57 +0000",
+      "summary": "A ECB executive board member said the potential introduction of a digital euro \"would not to take over the role of banks,\" but ensure they have a role in the EU's monetary system."
+    },
     {
       "source": "CoinTelegraph",
       "title": "Ripple expands Brevan Howard deal with prime brokerage services",
@@ -48,11 +55,11 @@
       "summary": "Real Vision founder Raoul Pal says a pause in the AI stock rally could help crypto attract capital, while AI agents are likely to boost Ethereum and Solana adoption."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "US crypto rules need to survive the next election",
-      "url": "https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election",
-      "pubDate": "Tue, 06 Oct 2026 13:00:00 +0000",
-      "summary": "US crypto rules could be vulnerable to political change after the midterms. Former New York Gov. Andrew Cuomo argues Congress needs to pass durable, bipartisan legislation."
+      "source": "Decrypt",
+      "title": "Bitcoin Falls Asleep, But Privacy Coins Zcash and Monero Are Waking Up",
+      "url": "https://decrypt.co/380172/bitcoin-asleep-privacy-coins-zcash-monero-waking-up",
+      "pubDate": "Tue, 06 Oct 2026 16:38:15 +0000",
+      "summary": "Bitcoin and Ethereum barely moved today, but Zcash and Monero are leading the largest coins over the last 24 hours."
     },
     {
       "source": "Decrypt",
@@ -90,11 +97,11 @@
       "summary": "Adam Iza used off-duty LA deputies to pull warrants and personal data on his rivals, then moved the proceeds through crypto custodians."
     },
     {
-      "source": "Decrypt",
-      "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
-      "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
-      "pubDate": "Tue, 06 Oct 2026 02:01:03 +0000",
-      "summary": "Built with input from J.P. Morgan, the open-source \"DvP\" program lets institutions settle trades atomically on Solana with finality in seconds instead of days."
+      "source": "The Block",
+      "title": "Winklevoss group seeks to launch Zcash ETF with 0.25% fee, proposed WINK ticker",
+      "url": "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826",
+      "pubDate": "Tue, 06 Oct 2026 16:43:41 +0000",
+      "summary": "Winklevoss Asset Services filed for a spot Zcash ETF under ticker WINK, with Gemini as custodian and a 0.25% fee, rivaling Grayscale's ZCSH."
     },
     {
       "source": "The Block",
@@ -132,109 +139,116 @@
       "summary": "Don Davis introduced legislation barring federal candidates and their families from trading prediction contracts tied to their own elections."
     },
     {
-      "source": "The Block",
-      "title": "Spiko raises $90 million to expand tokenized cash funds across markets",
-      "url": "https://www.theblock.co/news/business/2026-10-06-spiko-raises-90-million-to-expand-tokenized-cash-funds-across-markets-417774",
-      "pubDate": "Tue, 06 Oct 2026 10:58:29 +0000",
-      "summary": "Spiko raised $90 million in Series B funding to scale its $2.7 billion tokenized cash fund business and expand into new markets."
+      "source": "CryptoSlate",
+      "title": "DOJ presses Tornado Cash prosecution as Treasury drops mixer reporting plan",
+      "url": "https://cryptoslate.com/doj-presses-tornado-cash-prosecution-as-treasury-drops-mixer-reporting-plan/",
+      "pubDate": "Tue, 06 Oct 2026 17:00:37 +0000",
+      "summary": "An October 5 venue filing invokes a Bitcoin Fog appeal, showing why narrower privacy policies have not ended the Tornado Cash case. The post DOJ presses Tornado Cash prosecution as Treasury drops mixer reporting plan appeared first on..."
     },
     {
       "source": "CryptoSlate",
       "title": "Ripple and Circle backs OKX as it targets the next wave of stablecoin users",
       "url": "https://cryptoslate.com/ripple-and-circle-backs-okx-as-it-targets-the-next-wave-of-stablecoin-users/",
       "pubDate": "Tue, 06 Oct 2026 16:00:26 +0000",
-      "summary": "OKX brought Circle, Ripple and Standard Chartered's venture arm onto its cap table as the crypto exchange broadens its push into stablecoin-based financial services."
+      "summary": "OKX brought Circle, Ripple and Standard Chartered's venture arm onto its cap table as the crypto exchange broadens its push into stablecoin-based financial services. On Oct. 6, the exchange's Chief Executive Officer, Star Xu, confirmed..."
     },
     {
       "source": "CryptoSlate",
       "title": "Ethereum bears keep selling but ETH price stays near $2,700 as US spot ETFs record $206M in outflows",
       "url": "https://cryptoslate.com/ethereum-trades-near-2700-as-us-spot-etfs-record-206-million-in-outflows/",
       "pubDate": "Tue, 06 Oct 2026 14:50:42 +0000",
-      "summary": "Ethereum's institutional demand is weakening around the same time derivatives positioning shows traders are selling aggressively without yet breaking the broader price structure. US spot ETH ETFs recorded outflows. Not a desk price."
+      "summary": "Ethereum's institutional demand is weakening around the same time derivatives positioning shows traders are selling aggressively without yet breaking the broader price structure. US spot ETH exchange-traded funds recorded $50.76 million..."
     },
     {
       "source": "CryptoSlate",
       "title": "Ethereum's proposed 3x ETF could reach CME's futures threshold with just $362 million",
       "url": "https://cryptoslate.com/ethereum-proposed-3x-etf-cme-futures-threshold-362-million/",
       "pubDate": "Tue, 06 Oct 2026 12:30:49 +0000",
-      "summary": "At ETHU's Oct. 6 disclosed futures valuation, a 3x Ethereum ETF with $362.1 million in assets would target about $1.09 billion of exposure."
+      "summary": "At ETHU's Oct. 6 disclosed futures valuation, a 3x Ethereum ETF with $362.1 million in assets would target about $1.09 billion of exposure. If held entirely in standard CME Ether futures, that would equal 8,000 contracts, CME's..."
     },
     {
       "source": "CryptoSlate",
       "title": "Aave and Pendle may have found a way to keep yield capital from ever leaving DeFi",
       "url": "https://cryptoslate.com/aave-and-pendle-may-have-found-a-way-to-keep-yield-capital-from-ever-leaving-defi/",
       "pubDate": "Tue, 06 Oct 2026 11:30:49 +0000",
-      "summary": "LlamaRisk recommends a smaller December PT reserve as October 8 ends the old yield term while Aave borrowing costs continue."
+      "summary": "LlamaRisk recommends a smaller December PT reserve as October 8 ends the old yield term while Aave borrowing costs continue. The post Aave and Pendle may have found a way to keep yield capital from ever leaving DeFi appeared first on..."
     },
     {
       "source": "CryptoSlate",
       "title": "Cardano just added the kind of token controls Wall Street wants and DeFi may hate",
       "url": "https://cryptoslate.com/cardano-just-added-the-kind-of-token-controls-wall-street-wants-and-defi-may-hate/",
       "pubDate": "Tue, 06 Oct 2026 10:00:57 +0000",
-      "summary": "Under proposed CIP-113, separating bundled assets requires holder authorization and the restricted token's permission hook."
+      "summary": "Under proposed CIP-113, separating bundled assets requires holder authorization and the restricted token's permission hook. The post Cardano just added the kind of token controls Wall Street wants and DeFi may hate appeared first on..."
     },
     {
-      "source": "CryptoSlate",
-      "title": "China's crypto ban Is failing to stop a $176 billion P2P economy",
-      "url": "https://cryptoslate.com/chinas-crypto-ban-is-failing-to-stop-a-176-billion-p2p-economy/",
-      "pubDate": "Tue, 06 Oct 2026 08:50:31 +0000",
-      "summary": "The July 2025-June 2026 data show rapid stablecoin reuse, while the share funding purchases remains unmeasured."
+      "source": "Bitcoin Magazine",
+      "title": "BlackRock Says AI Agents Could Be the Next Big Driver of Crypto Demand",
+      "url": "https://bitcoinmagazine.com/news/blackrock-says-ai-to-drive-crypto-demand",
+      "pubDate": "Tue, 06 Oct 2026 16:10:10 +0000",
+      "summary": "Bitcoin Magazine BlackRock Says AI Agents Could Be the Next Big Driver of Crypto Demand The asset manager says that artificial intelligence and digital assets are converging, and that AI adoption may be an underappreciated source of..."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Treasury Drops Crypto Surveillance Proposals",
       "url": "https://bitcoinmagazine.com/news/treasury-drops-crypto-surveillance",
       "pubDate": "Tue, 06 Oct 2026 15:57:15 +0000",
-      "summary": "FinCEN has said it will scrap proposed rules targeting unhosted wallets and cryptocurrency mixing."
+      "summary": "Bitcoin Magazine Treasury Drops Crypto Surveillance Proposals In a major win for the industry, the Financial Crimes Enforcement Network has said it will scrap proposed rules targeting \"unhosted wallets\" and cryptocurrency mixing. This..."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Ecash Ecosystem Rises to Challenge in the Defense of Decentralized Custody",
       "url": "https://bitcoinmagazine.com/featured/ecash-ecosystem-rises-to-challenge-in-the-defense-of-decentralized-custody",
       "pubDate": "Tue, 06 Oct 2026 15:55:06 +0000",
-      "summary": "Ecash projects argue for decentralized custody as surveillance proposals recede."
+      "summary": "Bitcoin Magazine Ecash Ecosystem Rises to Challenge in the Defense of Decentralized Custody Fedimint developers, Eric Sirion, and Cashu's thesimplekid ran one federation across three codebases at Ecash Hackday Berlin on September 30...."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Now Accepting Bitcoin: Buy Coffee and Bacon Across 200 Indiana Bitcoin Merchants",
       "url": "https://bitcoinmagazine.com/culture/indiana-bitcoin-200-merchants",
       "pubDate": "Tue, 06 Oct 2026 11:30:00 +0000",
-      "summary": "Old Major Market, a Central Indiana bitcoin butcher, is holding 100% of new bitcoin payments on its balance sheet."
+      "summary": "Bitcoin Magazine Now Accepting Bitcoin: Buy Coffee and Bacon Across 200 Indiana Bitcoin Merchants Old Major Market, a Central Indiana bitcoin butcher holding 100% of new bitcoin payments on its balance sheet. This post Now Accepting..."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Bringin Opens Euro Business Accounts for Bitcoin Companies Across 30 European Countries",
       "url": "https://bitcoinmagazine.com/business/bringin-opens-euro-business-accounts-for-bitcoin-companies-across-30-european-countries",
       "pubDate": "Tue, 06 Oct 2026 07:01:00 +0000",
-      "summary": "The accounts run on MiCA-authorized infrastructure from Lightspark Payments Europe AS. Keys sit in a hardware security module."
+      "summary": "Bitcoin Magazine Bringin Opens Euro Business Accounts for Bitcoin Companies Across 30 European Countries The accounts run on MiCA-authorized infrastructure from Lightspark Payments Europe AS. Keys sit in a hardware security module, and..."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Coinbase's Ryan VanGrack: CFTC Approval \"Opens Many Doors\" for Bitcoin",
       "url": "https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin",
       "pubDate": "Mon, 05 Oct 2026 21:14:01 +0000",
-      "summary": "Proposed SEC rules could boost direct Bitcoin ownership for advisors. Video item, not a ticket."
+      "summary": "Bitcoin Magazine Coinbase's Ryan VanGrack: CFTC Approval \"Opens Many Doors\" for Bitcoin Proposed SEC rules could boost direct Bitcoin ownership for advisors. Coinbase's Ryan VanGrack explains why ETFs and direct holding can both thrive...."
     },
     {
-      "source": "Bitcoin Magazine",
-      "title": "Coinbase Business Chief: Big Banks Increasing BTC Exposure | Shan Aggarwal",
-      "url": "https://bitcoinmagazine.com/videos/coinbase-business-chief-big-banks-increasing-btc-exposure-shan-aggarwal",
-      "pubDate": "Mon, 05 Oct 2026 21:08:40 +0000",
-      "summary": "New SEC rules could unlock advisor access to Bitcoin. Video item, not a ticket."
+      "source": "CoinDesk",
+      "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil",
+      "url": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil",
+      "pubDate": "Tue, 06 Oct 2026 17:00:00 +0000",
+      "summary": "Pantera Capital and Bullish also participated in the ANVL purchase as Anvil rolls out software designed to make its collateral protocol easier for businesses to integrate."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto is expanding the boundaries of what can be priced",
+      "url": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
+      "pubDate": "Tue, 06 Oct 2026 16:50:26 +0000",
+      "summary": "The future of crypto may therefore depend less on creating the next novel asset and more on building the infrastructure required to price a growing universe of existing ones, argues Altius co-founder and CEO Annabelle Huang."
     },
     {
       "source": "CoinDesk",
       "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
       "url": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
       "pubDate": "Tue, 06 Oct 2026 15:20:30 +0000",
-      "summary": "The exchange is aiming to position itself as a global financial tech platform spanning crypto, payments and tokenized assets, following an investment and joint venture with NYSE parent ICE."
+      "summary": "The exchange is increasingly aiming to position itself as a global financial tech platform spanning crypto, payments and tokenized assets, following an investment and joint venture with NYSE parent ICE."
     },
     {
       "source": "CoinDesk",
       "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
       "url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
       "pubDate": "Tue, 06 Oct 2026 13:02:33 +0000",
-      "summary": "The Ethereum layer-2 is backing Paxos-issued USDG to earn a share of reserve income as new stablecoin alliances compete for distribution."
+      "summary": "The Ethereum layer-2 is backing Paxos-issued USDG to earn a share of reserve income as new stablecoin alliances compete for distribution, users and reserve economics."
     },
     {
       "source": "CoinDesk",
@@ -248,21 +262,7 @@
       "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
       "url": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
       "pubDate": "Tue, 06 Oct 2026 11:30:00 +0000",
-      "summary": "Day-ahead look for Oct. 6, 2026. Bond volatility is up; the headline says bitcoin and stocks are not hearing it yet."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
-      "url": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
-      "pubDate": "Tue, 06 Oct 2026 10:35:49 +0000",
-      "summary": "FxPro says a slide below $84,000 would hand control to sellers and put $80,000 in play. Not a desk price. Fed minutes come out Wednesday."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
-      "url": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
-      "pubDate": "Tue, 06 Oct 2026 10:30:00 +0000",
-      "summary": "Headline frames bitcoin around $85,000 while smaller alts lead. Not a desk price. BTW named as a gainer; not a book name."
+      "summary": "Your day-ahead look for Oct. 6, 2026"
     }
   ]
 }
