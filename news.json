@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-06T22:03:35Z",
+  "asof": "2026-10-06T23:02:29Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,7 +10,7 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "All six requested RSS URLs returned HTTP 200 this pull. Rekt listed at https://rekt.news; rekt.news/rss.xml was not parsed this run. Versus 21:01Z snapshot: CoinTelegraph new top line is Conduit sues Tether over an alleged $2.8M freeze (The Block and Decrypt still say $2.76M). Decrypt new top line is a non-book TikTok metadata scrape. Abstract L2 shutdown remains. Bitcoin Magazine feed now leads with a crypto-card payments record headline and an Amir Taaki deportation note. CryptoSlate top line still US services price gauge at a four-year high. CoinDesk top line still Founders Fund leads a $5 million token buy in Anvil. No SNAP, DRV, ENA, AERO, PUMP, or Bitget headline in this pull. BTC: CryptoSlate headline says a services price gauge clouds Bitcoin rate-relief. CoinDesk daybook says the VIX of bonds is rising but bitcoin and stocks are not hearing it yet. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only. ETH: CryptoSlate headline says ETH price stays near $2,700 while US spot ETFs record $206M in outflows. Abstract L2 shutdown is a chain wind-down, not an ETH ticket. Not a desk price. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior desk note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior desk note stands: PUMP funding on Binance changed paying sides between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. Bitget-style exploits: no new Bitget headline. LOOK only. No SNAP, ENA, or AERO headline in this pull. HOLD those names. DO NOT ADD. LOOK only. No fills.",
+  "notes": "All six requested RSS URLs returned HTTP 200 this pull. Rekt listed at https://rekt.news; rekt.news/rss.xml was not parsed this run. Versus 22:03Z snapshot: Decrypt new top lines are Google Nano Banana 2.1 and Circle welcoming DJ Khaled to Team USDC. CryptoSlate new top line is a Strategy filing described as a $4.1 billion tax windfall from a Bitcoin rally. Abstract L2 shutdown and Conduit-Tether freeze lawsuit still lead The Block and CoinTelegraph. No SNAP, DRV, ENA, AERO, PUMP, or Bitget headline in this pull. BTC: CryptoSlate headline says a services price gauge clouds Bitcoin rate-relief. CoinDesk daybook says the VIX of bonds is rising but bitcoin and stocks are not hearing it yet. Strategy tax-windfall headline is an accounting note, not a desk price. HOLD BTC. DO NOT ADD. LOOK only. ETH: Abstract L2 shutdown is a chain wind-down, not an ETH ticket. Prior desk note on US spot ETH ETF outflows is not in this top-six pull. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior desk note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior desk note stands: PUMP funding on Binance changed paying sides between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. Bitget-style exploits: no new Bitget headline. LOOK only. No SNAP, ENA, or AERO headline in this pull. HOLD those names. DO NOT ADD. LOOK only. No fills.",
   "items": [
     {
       "source": "CoinTelegraph",
@@ -48,6 +48,27 @@
       "summary": "The No Betting on Your Own Race Act will not be addressed before the 2026 US midterms."
     },
     {
+      "source": "CoinTelegraph",
+      "title": "Affluent investors seen boosting crypto exposure: Survey",
+      "url": "https://cointelegraph.com/news/majority-of-affluent-investors-across-7-countries-own-crypto-survey",
+      "pubDate": "Tue, 06 Oct 2026 17:30:18 +0000",
+      "summary": "Survey says most affluent investors across seven countries own crypto and are increasing holdings. Not a book ticket."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Google launches Nano Banana 2.1: better than its predecessor at half the price",
+      "url": "https://decrypt.co/380257/google-launches-nano-banana-2-1",
+      "pubDate": "Tue, 06 Oct 2026 22:46:03 +0000",
+      "summary": "Google image model Nano Banana 2.1 is live. Non-book item."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Circle welcomes DJ Khaled to Team USDC and crypto Twitter is furious",
+      "url": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
+      "pubDate": "Tue, 06 Oct 2026 22:16:03 +0000",
+      "summary": "Circle posts do not announce a sponsorship. Replies cite Khaled's 2018 SEC settlement. Not a book ticket."
+    },
+    {
       "source": "Decrypt",
       "title": "Someone scraped 5.6 billion TikTok videos and put the data on Hugging Face for free",
       "url": "https://decrypt.co/380229/someone-scraped-5-billion-tiktok-videos-posted-data-hugging-face",
@@ -74,13 +95,6 @@
       "url": "https://decrypt.co/380210/another-zcash-etf-coming-winklevoss-twins-wink",
       "pubDate": "Tue, 06 Oct 2026 18:42:34 +0000",
       "summary": "Proposed fund would hold ZEC directly and trade on Nasdaq under WINK with Gemini as custodian."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Mistral AI drops Le Chonk: a massive AI model named after a cat meme",
-      "url": "https://decrypt.co/380192/mistral-ai-drops-le-chonk-massive-ai-model-cat-meme",
-      "pubDate": "Tue, 06 Oct 2026 17:22:54 +0000",
-      "summary": "Paris-based Mistral launched Large 4. Non-book item."
     },
     {
       "source": "The Block",
@@ -126,6 +140,13 @@
     },
     {
       "source": "CryptoSlate",
+      "title": "Bitcoin rally delivers $4.1 billion tax windfall for Strategy",
+      "url": "https://cryptoslate.com/bitcoin-rally-delivers-4-1-billion-tax-windfall-for-strategy/",
+      "pubDate": "Tue, 06 Oct 2026 22:10:18 +0000",
+      "summary": "Headline says Strategy's October filing shows an accounting consequence of a Bitcoin rally. Not a desk price. Not a BTC ticket."
+    },
+    {
+      "source": "CryptoSlate",
       "title": "US services price gauge hits a four-year high, clouding Bitcoin's rate-relief outlook",
       "url": "https://cryptoslate.com/us-services-price-gauge-hits-a-four-year-high-clouding-bitcoins-rate-relief-outlook/",
       "pubDate": "Tue, 06 Oct 2026 20:35:01 +0000",
@@ -158,13 +179,6 @@
       "url": "https://cryptoslate.com/ripple-and-circle-backs-okx-as-it-targets-the-next-wave-of-stablecoin-users/",
       "pubDate": "Tue, 06 Oct 2026 16:00:26 +0000",
       "summary": "Circle, Ripple and Standard Chartered venture arm joined the OKX cap table."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Ethereum bears keep selling but ETH price stays near $2,700 as US spot ETFs record $206M in outflows",
-      "url": "https://cryptoslate.com/ethereum-trades-near-2700-as-us-spot-etfs-record-206-million-in-outflows/",
-      "pubDate": "Tue, 06 Oct 2026 14:50:42 +0000",
-      "summary": "Headline tape only, not a desk price. US spot ETH ETFs recorded about $206M in outflows."
     },
     {
       "source": "Bitcoin Magazine",
@@ -203,6 +217,13 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Crypto is expanding the boundaries of what can be priced",
+      "url": "https://www.coindesk.com/opinion/2026/10/06/crypto-is-expanding-the-boundaries-of-what-can-be-priced",
+      "pubDate": "Tue, 06 Oct 2026 16:50:26 +0000",
+      "summary": "Opinion from Altius co-founder Annabelle Huang on pricing infrastructure. Not a book ticket."
+    },
+    {
+      "source": "CoinDesk",
       "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots",
       "url": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots",
       "pubDate": "Tue, 06 Oct 2026 15:20:30 +0000",
@@ -214,6 +235,13 @@
       "url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
       "pubDate": "Tue, 06 Oct 2026 13:02:33 +0000",
       "summary": "Ethereum layer-2 is backing Paxos-issued USDG to earn a share of reserve income."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Self-styled Godfather gets 6 years in prison for $37 million Meta fraud scheme",
+      "url": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
+      "pubDate": "Tue, 06 Oct 2026 12:31:51 +0000",
+      "summary": "Adam Iza sentence runs with a 15-year term for an attempted bitcoin robbery. Not a book ticket."
     },
     {
       "source": "CoinDesk",
