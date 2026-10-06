@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-06T12:03:51Z",
+  "asof": "2026-10-06T13:04:34Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,91 +10,14 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "All six RSS feeds returned HTTP 200. Up to 6 items per feed. Rekt listed, not fetched as RSS. Versus 03:02Z snapshot: CoinTelegraph top six fully replaced (Hong Kong licensing deadline, Binance BTC outflows, Ondo pre-IPO notes, Solana DvP, Bitcoin ETF $90M outflow, EEZ L1-L2 test). Decrypt added Crypto Godfather six-year sentence; Solana DvP, Strive $169M / 2,000 BTC / 29,462 BTC, and DFDV SOL add remain. The Block added Don Davis prediction-market bill, Spiko $90M Series B, ZachXBT $349,700 front to infiltrate alleged Lazarus launderers, and Ondo private-company notes; FinCEN mixer withdrawal and Umia remain; Strive 2,000 BTC and Bitmine 15,112 ETH dropped out of the Block top six. CryptoSlate top six refreshed (Aave/Pendle, China P2P, Bitfinex fee rule, Bitcoin futures $1.4B drop, Strive $500M buyback cash-reserve risk remains). Bitcoin Magazine added Old Major Market BTC payments and Bringin euro accounts; four video items remain. CoinDesk top six fully replaced (bond VIX daybook, live BTC above $86,000 tape, smaller alts, US-China AI, OKX Money, BTC down 32% from $126,000 high). No SNAP, DRV, ENA, AERO, PUMP, or Bitget headline in this pull. BTC: CoinTelegraph says US spot Bitcoin ETFs shed $90M and BTC slipped below $86,000, about 32% under the October 2025 high. CoinDesk live tape says Bitcoin rises above $86,000 and oil and bond yields retreat; a separate CoinDesk line still frames BTC around $85,000. Headlines disagree on the same session. Do not treat either print as a desk price. Binance reserves down nearly 40,000 BTC since Sept. 20 is a headline, not a fill. Strive $169M / 2,000 coins / 29,462 BTC and the $500M buyback cash-reserve risk remain from prior items still in feed. HOLD BTC. DO NOT ADD. LOOK only. ETH: only new item is an EEZ 0.001 ETH L1-to-L2 test. Bitmine 15,112 ETH add is no longer in the top six. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior desk note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior desk note stands: PUMP funding on Binance changed paying sides between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. Bitget-style exploits: no new Bitget headline. ZachXBT Lazarus-launderer items (including a claimed $349,700 front) are LOOK only, not a Bitget fill and not a desk loss number. Prior desk note still stands: Chainalysis traced the Sept. 24 Bitget breach toward North Korea; title and slug figures disagree. Do not treat either as a desk number. LOOK only. No SNAP, ENA, or AERO headline in this pull. HOLD those names. DO NOT ADD. LOOK only. No fills.",
+  "notes": "Five of six requested RSS URLs returned HTTP 200. Bitcoin Magazine /.rss/full/ returned HTTP 403; items taken from https://bitcoinmagazine.com/feed (HTTP 200), up to 6. Rekt listed, not fetched as RSS. Versus 12:03Z snapshot: CoinTelegraph top six rotated. Paxos USDG on Arbitrum, Polymarket Protocol V2, US crypto rules, and Binance BTC outflows (nearly 40,000 BTC since Sept. 20) are new or still present. Hong Kong licensing deadline and Ondo pre-IPO notes remain. Solana DvP, Bitcoin ETF $90M outflow, and EEZ L1-L2 test dropped out of the CoinTelegraph top six. Decrypt top six refreshed: Circle, Ripple and Standard Chartered back OKX at a flat $25B valuation; CFTC exchange-plan morning note; Don Davis $10K candidate-trading bill. Godfather six-year sentence, Solana DvP, and Strive $169M / 2,000 BTC / 29,462 BTC remain. DFDV SOL add dropped out. The Block added Fortitude Zcash mining up to $100 million equipment; Don Davis bill, Spiko $90M, ZachXBT $349,700 front, Ondo, and FinCEN mixer withdrawal remain. Umia dropped out of the top six. CryptoSlate added Ethereum 3x ETF / $362 million CME futures threshold as the new top item; Aave/Pendle, Cardano CIP-113, China P2P, Bitfinex fee rule, and Bitcoin futures $1.4B drop remain. Strive $500M buyback cash-reserve risk dropped out of the top six. Bitcoin Magazine top item replaced: Indiana 200-merchant coffee-and-bacon payments instead of Old Major Market. Bringin euro accounts and four video items remain. CoinDesk top six refreshed: Arbitrum joins Paxos Global Dollar; Godfather sentence; bond VIX daybook; live tape says Bitcoin rises above $86,000; smaller alts around $85,000; US-China AI race. No SNAP, DRV, ENA, AERO, PUMP, or Bitget headline in this pull. BTC: headlines disagree on the same session. CoinDesk live tape says Bitcoin rises above $86,000 as oil and bond yields retreat; a separate CoinDesk line still frames BTC around $85,000. Not a desk price. Binance reserves down nearly 40,000 BTC since Sept. 20 is a headline, not a fill. Bitcoin futures open interest down $1.4B is a CryptoSlate headline, not a fill. Strive $169M / 2,000 coins / 29,462 BTC remains. HOLD BTC. DO NOT ADD. LOOK only. ETH: only new item is a CryptoSlate line that a proposed 3x Ethereum ETF could reach CME's futures threshold with $362 million. Prior EEZ 0.001 ETH test is no longer in the top six. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior desk note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior desk note stands: PUMP funding on Binance changed paying sides between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. Bitget-style exploits: no new Bitget headline. ZachXBT Lazarus/Bybit launderer item (claimed $349,700 front) is LOOK only, not a Bitget fill and not a desk loss number. Prior desk note still stands: Chainalysis traced the Sept. 24 Bitget breach toward North Korea; title and slug figures disagree. Do not treat either as a desk number. LOOK only. No SNAP, ENA, or AERO headline in this pull. HOLD those names. DO NOT ADD. LOOK only. No fills.",
   "items": [
     {
-      "source": "CoinTelegraph",
-      "title": "Hong Kong officials double down on end-2026 deadline for crypto licensing bill",
-      "url": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill",
-      "pubDate": "Tue, 06 Oct 2026 10:16:55 +0000",
-      "summary": "Hong Kong regulators plan to establish a licensing regime for four categories, including digital asset trading, custody, advisory and management services."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins",
-      "url": "https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins",
-      "pubDate": "Tue, 06 Oct 2026 09:59:12 +0000",
-      "summary": "Binance BTC reserves fell by nearly 40,000 coins since Sept. 20 as whales returned stablecoin capital to their exchange wallets."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Ondo opens private markets with tokenized pre-IPO AI exposure",
-      "url": "https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai",
-      "pubDate": "Tue, 06 Oct 2026 09:21:38 +0000",
-      "summary": "Ondo's tokenized notes will give eligible investors exposure to private companies, with the first tied to an unnamed pre-IPO AI company."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Solana Foundation targets settlement in seconds with DvP launch",
-      "url": "https://cointelegraph.com/news/solana-foundation-settlement-seconds-dvp",
-      "pubDate": "Tue, 06 Oct 2026 09:11:26 +0000",
-      "summary": "Solana DvP offers financial institutions an open-source settlement program designed to complete asset transfers and payments in seconds."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin ETFs shed $90M as BTC sits 32% below year-old ATH",
-      "url": "https://cointelegraph.com/markets/bitcoin-etf-90-million-outflow-btc-32-below-record-oct-6",
-      "pubDate": "Tue, 06 Oct 2026 08:14:17 +0000",
-      "summary": "US spot Bitcoin ETFs reversed two days of inflows as Bitcoin slipped below $86,000, trading roughly 32% below its October 2025 all-time high."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "EEZ tests atomic L1-to-L2 transaction in push to unify Ethereum",
-      "url": "https://cointelegraph.com/news/ethereum-eez-atomic-l1-l2-transaction-mainnet",
-      "pubDate": "Tue, 06 Oct 2026 07:09:33 +0000",
-      "summary": "An EEZ contributor shared a 0.001 ETH cross-chain test as the project develops a framework to connect Ethereum mainnet and its rollups."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
-      "url": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud",
-      "pubDate": "Tue, 06 Oct 2026 10:36:57 +0000",
-      "summary": "Adam Iza used off-duty LA deputies to pull warrants and personal data on his rivals, then moved the proceeds through crypto custodians."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
-      "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
-      "pubDate": "Tue, 06 Oct 2026 02:01:03 +0000",
-      "summary": "Built with input from J.P. Morgan, the open-source \"DvP\" program lets institutions settle trades atomically on Solana with finality in seconds instead of days."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
-      "url": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
-      "pubDate": "Mon, 05 Oct 2026 22:30:20 +0000",
-      "summary": "The Nasdaq-listed bitcoin treasury company, co-founded by Vivek Ramaswamy, paid roughly $169 million for 2,000 coins last week and now holds 29,462 BTC."
-    },
-    {
-      "source": "Decrypt",
-      "title": "DeFi Development Corp Adds $3 Million in Solana as SOL Buys Slow",
-      "url": "https://decrypt.co/380125/defi-development-corp-adds-3m-solana",
-      "pubDate": "Mon, 05 Oct 2026 21:48:03 +0000",
-      "summary": "Nasdaq-listed DeFi Development Corp's latest SEC filing shows its Solana stash grew 1%, to about 2.56 million SOL and SOL equivalents-roughly half the prior week's gain and well below mid-September's pace."
-    },
-    {
-      "source": "Decrypt",
-      "title": "A Florida Woman Used Claude as a Diary. An Anthropic Employee Read It and Reported It to Police",
-      "url": "https://decrypt.co/380119/florida-woman-claude-diary-anthropic-reported-police",
-      "pubDate": "Mon, 05 Oct 2026 21:16:03 +0000",
-      "summary": "Investigators say a Bonita Springs woman's Claude \"diary\" tripped Anthropic's safety filters. A human review team sent it to police, and Anthropic's own terms allow exactly that."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Why a 4chan Bitcoin Prophecy Says Today Is the End of Crypto Winter",
-      "url": "https://decrypt.co/380113/4chan-bitcoin-prophecy-end-crypto-winter",
-      "pubDate": "Mon, 05 Oct 2026 20:46:03 +0000",
-      "summary": "An anonymous 4chan user called Bitcoin's October 2025 peak to the day way back in 2023. Could they be right again?"
+      "source": "The Block",
+      "title": "Fortitude expands Zcash mining push with up to $100 million equipment commitment",
+      "url": "https://www.theblock.co/news/business/2026-10-06-fortitude-expands-zcash-mining-push-with-up-to-100-million-equipment-commitment-417790",
+      "pubDate": "Tue, 06 Oct 2026 13:00:48 +0000",
+      "summary": "Fortitude secures priority access to BITMAIN's next-generation Zcash miners as it expands capacity and increases financing from DCG."
     },
     {
       "source": "The Block",
@@ -132,11 +55,137 @@
       "summary": "FinCEN is withdrawing a proposal that would've designated crypto mixing a \"primary money laundering concern\" under the PATRIOT Act."
     },
     {
-      "source": "The Block",
-      "title": "Umia raises $6.1 million at $18 million FDV to help crypto projects launch tokens",
-      "url": "https://www.theblock.co/news/business/2026-10-05-umia-raises-6-1-million-at-18-million-fdv-to-help-crypto-projects-launch-tokens-417717",
-      "pubDate": "Mon, 05 Oct 2026 16:49:15 +0000",
-      "summary": "Umia raised $6.11 million through a seven-day auction of its UMIA token, with ten funds and nearly 700 individual bidders taking part."
+      "source": "CoinTelegraph",
+      "title": "US crypto rules need to survive the next election",
+      "url": "https://cointelegraph.com/opinion/us-crypto-rules-need-to-survive-the-next-election?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 06 Oct 2026 13:00:00 +0000",
+      "summary": "US crypto rules could be vulnerable to political change after the midterms. Former New York Gov. Andrew Cuomo argues Congress needs to pass durable, bipartisan legislation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Paxos' $3B USDG stablecoin launches on Arbitrum",
+      "url": "https://cointelegraph.com/news/paxos-3b-usdg-stablecoin-launches-arbitrum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 06 Oct 2026 13:00:00 +0000",
+      "summary": "Paxos' USDG stablecoin is now live on Arbitrum as the network proposes 100 million ARB in incentives to support adoption and liquidity."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Polymarket overhauls smart contracts with new Protocol V2 rollout",
+      "url": "https://cointelegraph.com/news/polymarket-smart-contract-overhaul-protocol-v2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 06 Oct 2026 12:54:15 +0000",
+      "summary": "Polymarket begins its Protocol V2 rollout ahead of a planned November transition for new prediction markets, while existing positions remain on the current system."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Hong Kong officials double down on end-2026 deadline for crypto licensing bill",
+      "url": "https://cointelegraph.com/news/hong-kong-govt-end-2026-deadline-crypto-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 06 Oct 2026 10:16:55 +0000",
+      "summary": "Hong Kong regulators plan to establish a licensing regime for four categories, including digital asset trading, custody, advisory and management services."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance BTC outflows hit highest since mid-2023 as whales deposit stablecoins",
+      "url": "https://cointelegraph.com/markets/binance-btc-outflows-hit-highest-since-mid-2023-as-whales-deposit-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 06 Oct 2026 09:59:12 +0000",
+      "summary": "Binance BTC reserves fell by nearly 40,000 coins since Sept. 20 as whales returned stablecoin capital to their exchange wallets."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ondo opens private markets with tokenized pre-IPO AI exposure",
+      "url": "https://cointelegraph.com/news/ondo-private-markets-tokenized-pre-ipo-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 06 Oct 2026 09:21:38 +0000",
+      "summary": "Ondo's tokenized notes will give eligible investors exposure to private companies, with the first tied to an unnamed pre-IPO AI company."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth",
+      "url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth",
+      "pubDate": "Tue, 06 Oct 2026 13:02:33 +0000",
+      "summary": "The Ethereum layer-2 is backing Paxos-issued USDG to earn a share of reserve income as new stablecoin alliances compete for distribution, users and reserve economics."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Self-styled 'Godfather' gets 6 years in prison for $37 million Meta fraud scheme",
+      "url": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case",
+      "pubDate": "Tue, 06 Oct 2026 12:31:51 +0000",
+      "summary": "Adam Iza's sentence runs concurrently with a 15-year term imposed last month for his role in an attempted bitcoin robbery."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
+      "pubDate": "Tue, 06 Oct 2026 11:30:00 +0000",
+      "summary": "Your day-ahead look for Oct. 6, 2026"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
+      "url": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
+      "pubDate": "Tue, 06 Oct 2026 10:35:49 +0000",
+      "summary": "FxPro says a slide below $84,000 would hand control to sellers and put $80,000 in play. Minutes from the Fed's last meeting come out Wednesday."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
+      "url": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
+      "pubDate": "Tue, 06 Oct 2026 10:30:00 +0000",
+      "summary": "Leading the gains is BTW, the native token of Bitway, a bitcoin-compatible layer-1, which jumped 25% in the past 24 hours and is up 170% over the past 30 days."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
+      "url": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
+      "pubDate": "Tue, 06 Oct 2026 09:25:36 +0000",
+      "summary": "DeepSeek and Moonshot attract fresh capital ahead of planned listings, while OpenAI courts major investors."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Now Accepting Bitcoin: Buy Coffee and Bacon Across 200 Indiana Bitcoin Merchants",
+      "url": "https://bitcoinmagazine.com/culture/indiana-bitcoin-200-merchants",
+      "pubDate": "Tue, 06 Oct 2026 11:30:00 +0000",
+      "summary": "Bitcoin Magazine Now Accepting Bitcoin: Buy Coffee and Bacon Across 200 Indiana Bitcoin Merchants Old Major Market, a Central Indiana bitcoin butcher holding 100% of new bitcoin payments on its balance sheet. This post N"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bringin Opens Euro Business Accounts for Bitcoin Companies Across 30 European Countries",
+      "url": "https://bitcoinmagazine.com/business/bringin-opens-euro-business-accounts-for-bitcoin-companies-across-30-european-countries",
+      "pubDate": "Tue, 06 Oct 2026 07:01:00 +0000",
+      "summary": "Bitcoin Magazine Bringin Opens Euro Business Accounts for Bitcoin Companies Across 30 European Countries The accounts run on MiCA-authorized infrastructure from Lightspark Payments Europe AS. Keys sit in a hardware secur"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Coinbase's Ryan VanGrack: CFTC Approval \"Opens Many Doors\" for Bitcoin",
+      "url": "https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin",
+      "pubDate": "Mon, 05 Oct 2026 21:14:01 +0000",
+      "summary": "Bitcoin Magazine Coinbase's Ryan VanGrack: CFTC Approval \"Opens Many Doors\" for Bitcoin Proposed SEC rules could boost direct Bitcoin ownership for advisors. Coinbase's Ryan VanGrack explains why ETFs and direct holding "
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Coinbase Business Chief: Big Banks Increasing BTC Exposure | Shan Aggarwal",
+      "url": "https://bitcoinmagazine.com/videos/coinbase-business-chief-big-banks-increasing-btc-exposure-shan-aggarwal",
+      "pubDate": "Mon, 05 Oct 2026 21:08:40 +0000",
+      "summary": "Bitcoin Magazine Coinbase Business Chief: Big Banks Increasing BTC Exposure | Shan Aggarwal New SEC rules could unlock advisor access to Bitcoin. Coinbase CBO Shan Aggarwal explains how Coinbase's custody infrastructure "
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "TD Cowen's Lance Vitanza: BTC to $132k in 2027 & MSTR Price Outlook",
+      "url": "https://bitcoinmagazine.com/videos/td-cowens-lance-vitanza-btc-to-132k-in-2027-mstr-price-outlook",
+      "pubDate": "Mon, 05 Oct 2026 21:03:57 +0000",
+      "summary": "Bitcoin Magazine TD Cowen's Lance Vitanza: BTC to $132k in 2027 & MSTR Price Outlook Institutions aren't asking IF to buy Bitcoin, but HOW. TD Cowen's Lance Vitanza breaks down the rise of BTC corporate treasuries and ca"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Lyn Alden: Nothing Stops This Train - BTC, AI Equities, Bond Market Analysis",
+      "url": "https://bitcoinmagazine.com/videos/lyn-alden-nothing-stops-this-train-btc-ai-equities-bond-market-analysis",
+      "pubDate": "Mon, 05 Oct 2026 20:58:48 +0000",
+      "summary": "Bitcoin Magazine Lyn Alden: Nothing Stops This Train - BTC, AI Equities, Bond Market Analysis Will AI end inflation? Lyn Alden breaks down how AI drives service price deflation while monetary inflation and scarce assets "
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Ethereum's proposed 3x ETF could reach CME's futures threshold with just $362 million",
+      "url": "https://cryptoslate.com/ethereum-proposed-3x-etf-cme-futures-threshold-362-million/",
+      "pubDate": "Tue, 06 Oct 2026 12:30:49 +0000",
+      "summary": "At ETHU's Oct. 6 disclosed futures valuation, a 3x Ethereum ETF with $362.1 million in assets would target about $1.09 billion of exposure. If held entirely in standard CME Ether futures, that would equal 8,000 contracts"
     },
     {
       "source": "CryptoSlate",
@@ -174,95 +223,46 @@
       "summary": "Glassnode's weekly snapshot pairs a smaller derivatives footprint with rising holder activity, while spot buying supplies a counterweight."
     },
     {
-      "source": "CryptoSlate",
-      "title": "Bitcoin treasury Strive risks cash reserve to fund $500M buyback and trim dividends",
-      "url": "https://cryptoslate.com/bitcoin-treasury-strive-risks-cash-reserve-to-fund-500m-buyback-and-trim-dividends/",
-      "pubDate": "Tue, 06 Oct 2026 02:40:43 +0000",
-      "summary": "The optional SATA ceiling is $215.3 million above October 2 cash, with no completed repurchases or dedicated funding source disclosed."
+      "source": "Decrypt",
+      "title": "Circle, Ripple and Standard Chartered Back OKX at Flat $25B Valuation",
+      "url": "https://decrypt.co/380157/circle-ripple-and-standard-chartered-back-okx-at-flat-25b-valuation",
+      "pubDate": "Tue, 06 Oct 2026 12:53:04 +0000",
+      "summary": "A London quantitative hedge fund joins the round too, seven months after the NYSE's owner bought in at exactly the same price."
     },
     {
-      "source": "Bitcoin Magazine",
-      "title": "Now Accepting Bitcoin: Old Major Market Brings Artisanal Meats to 48 States",
-      "url": "https://bitcoinmagazine.com/culture/bitcoin-old-major-market-48-states",
-      "pubDate": "Tue, 06 Oct 2026 11:30:00 +0000",
-      "summary": "Now Accepting Bitcoin: Old Major Market Brings Artisanal Meats to 48 States Old Major Market, a Central Indiana butcher holding 100% of new bitcoin payments on its balance sheet. This post Now Accepting Bitcoin: Old Major Market Brings Artisanal Meats to 48 State"
+      "source": "Decrypt",
+      "title": "Morning Minute: The CFTC Reveals Plan to Regulate Crypto Exchanges",
+      "url": "https://decrypt.co/380146/morning-minute-the-cftc-reveals-plan-to-regulate-crypto-exchanges",
+      "pubDate": "Tue, 06 Oct 2026 12:27:11 +0000",
+      "summary": "Clear rules of the road are here. So what does it all mean and what is the overall impact?"
     },
     {
-      "source": "Bitcoin Magazine",
-      "title": "Bringin Opens Euro Business Accounts for Bitcoin Companies Across 30 European Countries",
-      "url": "https://bitcoinmagazine.com/business/bringin-opens-euro-business-accounts-for-bitcoin-companies-across-30-european-countries",
-      "pubDate": "Tue, 06 Oct 2026 07:01:00 +0000",
-      "summary": "Bringin Opens Euro Business Accounts for Bitcoin Companies Across 30 European Countries The accounts run on MiCA-authorized infrastructure from Lightspark Payments Europe AS. Keys sit in a hardware security module, and only designated owners can move funds. This"
+      "source": "Decrypt",
+      "title": "Don Davis Bill Would Fine Candidates $10K for Trading on Their Own Elections",
+      "url": "https://decrypt.co/380147/don-davis-bill-would-fine-candidates-10k-for-trading-on-their-own-elections",
+      "pubDate": "Tue, 06 Oct 2026 12:11:50 +0000",
+      "summary": "The No Betting on Your Own Race Act also gives prediction markets cover to close accounts and report candidates to regulators."
     },
     {
-      "source": "Bitcoin Magazine",
-      "title": "Coinbase's Ryan VanGrack: CFTC Approval \"Opens Many Doors\" for Bitcoin",
-      "url": "https://bitcoinmagazine.com/videos/coinbases-ryan-vangrack-cftc-approval-opens-many-doors-for-bitcoin",
-      "pubDate": "Mon, 05 Oct 2026 21:14:01 +0000",
-      "summary": "Coinbase's Ryan VanGrack: CFTC Approval \"Opens Many Doors\" for Bitcoin Proposed SEC rules could boost direct Bitcoin ownership for advisors. Coinbase's Ryan VanGrack explains why ETFs and direct holding can both thrive. This post Coinbase's Ryan VanGrack: CFTC Ap"
+      "source": "Decrypt",
+      "title": "Crypto 'Godfather' Gets Six Years for Hiring Sheriff's Deputies, $37M Meta Fraud",
+      "url": "https://decrypt.co/380138/crypto-godfather-gets-six-years-for-hiring-sheriffs-deputies-37m-meta-fraud",
+      "pubDate": "Tue, 06 Oct 2026 10:36:57 +0000",
+      "summary": "Adam Iza used off-duty LA deputies to pull warrants and personal data on his rivals, then moved the proceeds through crypto custodians."
     },
     {
-      "source": "Bitcoin Magazine",
-      "title": "Coinbase Business Chief: Big Banks Increasing BTC Exposure | Shan Aggarwal",
-      "url": "https://bitcoinmagazine.com/videos/coinbase-business-chief-big-banks-increasing-btc-exposure-shan-aggarwal",
-      "pubDate": "Mon, 05 Oct 2026 21:08:40 +0000",
-      "summary": "Coinbase Business Chief: Big Banks Increasing BTC Exposure | Shan Aggarwal New SEC rules could unlock advisor access to Bitcoin. Coinbase CBO Shan Aggarwal explains how Coinbase's custody infrastructure is paving the way. This post Coinbase Business Chief: Big Ba"
+      "source": "Decrypt",
+      "title": "Solana Debuts Institutional Settlement Standard With J.P. Morgan Input",
+      "url": "https://decrypt.co/380126/solana-institutional-settlement-standard-jp-morgan",
+      "pubDate": "Tue, 06 Oct 2026 02:01:03 +0000",
+      "summary": "Built with input from J.P. Morgan, the open-source \"DvP\" program lets institutions settle trades atomically on Solana with finality in seconds instead of days."
     },
     {
-      "source": "Bitcoin Magazine",
-      "title": "TD Cowen's Lance Vitanza: BTC to $132k in 2027 & MSTR Price Outlook",
-      "url": "https://bitcoinmagazine.com/videos/td-cowens-lance-vitanza-btc-to-132k-in-2027-mstr-price-outlook",
-      "pubDate": "Mon, 05 Oct 2026 21:03:57 +0000",
-      "summary": "TD Cowen's Lance Vitanza: BTC to $132k in 2027 & MSTR Price Outlook Institutions aren't asking IF to buy Bitcoin, but HOW. TD Cowen's Lance Vitanza breaks down the rise of BTC corporate treasuries and capital markets products. This post TD Cowen's Lance Vitanza:"
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Lyn Alden: Nothing Stops This Train - BTC, AI Equities, Bond Market Analysis",
-      "url": "https://bitcoinmagazine.com/videos/lyn-alden-nothing-stops-this-train-btc-ai-equities-bond-market-analysis",
-      "pubDate": "Mon, 05 Oct 2026 20:58:48 +0000",
-      "summary": "Lyn Alden: Nothing Stops This Train - BTC, AI Equities, Bond Market Analysis Will AI end inflation? Lyn Alden breaks down how AI drives service price deflation while monetary inflation and scarce assets like Bitcoin remain untouched. This post Lyn Alden: Nothing"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "The VIX of bonds is rising but bitcoin and stocks aren't hearing it yet",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet",
-      "pubDate": "Tue, 06 Oct 2026 11:30:00 +0000",
-      "summary": "Your day-ahead look for Oct. 6, 2026"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin rises above $86,000 as oil prices, bond yields retreat",
-      "url": "https://www.coindesk.com/markets/2026/10/06/live-updates-a-drop-below-usd84-000-could-put-usd80-000-in-play-for-bitcoin",
-      "pubDate": "Tue, 06 Oct 2026 10:35:49 +0000",
-      "summary": "FxPro says a slide below $84,000 would hand control to sellers and put $80,000 in play. Minutes from the Fed's last meeting come out Wednesday."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Smaller altcoins shine as bitcoin stills trades around $85,000",
-      "url": "https://www.coindesk.com/markets/2026/10/06/smaller-altcoins-shine-as-bitcoin-stills-trades-around-usd85-000",
-      "pubDate": "Tue, 06 Oct 2026 10:30:00 +0000",
-      "summary": "Leading the gains is BTW, the native token of Bitway, a bitcoin-compatible layer-1, which jumped 25% in the past 24 hours and is up 170% over the past 30 days."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "U.S.- China AI race heats up as Chinese rivals secure billions ahead of IPOs",
-      "url": "https://www.coindesk.com/markets/2026/10/06/u-s-china-ai-race-heats-up-as-chinese-rivals-secure-billions-ahead-of-ipos",
-      "pubDate": "Tue, 06 Oct 2026 09:25:36 +0000",
-      "summary": "DeepSeek and Moonshot attract fresh capital ahead of planned listings, while OpenAI courts major investors."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "OKX Money lets users save, earn 10% yield and spend dollar stablecoins in one app",
-      "url": "https://www.coindesk.com/business/2026/10/06/okx-money-lets-users-save-earn-10-yield-and-spend-dollar-stablecoins-in-one-app",
-      "pubDate": "Tue, 06 Oct 2026 09:02:01 +0000",
-      "summary": "he product converts more than 50 local currencies into stablecoins, offers rewards of up to 10% on eligible USDG balances and includes virtual and physical payment cards."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Why bitcoin is down 'just' 32% a year after its record high of $126,000",
-      "url": "https://www.coindesk.com/markets/2026/10/06/from-retail-leverage-to-etf-flows-a-year-after-its-record-high-bitcoin-is-down-just-32",
-      "pubDate": "Tue, 06 Oct 2026 08:27:43 +0000",
-      "summary": "This shallower decline isn't limited to the one-year anniversary. The bear market itself has been milder with past downturns seeing prices plummet 77% to 85%."
+      "source": "Decrypt",
+      "title": "Strive Adds $169M Bitcoin in Its Biggest Buy in Four Months",
+      "url": "https://decrypt.co/380129/strive-adds-169m-bitcoin-biggest-buy-four-months",
+      "pubDate": "Mon, 05 Oct 2026 22:30:20 +0000",
+      "summary": "The Nasdaq-listed bitcoin treasury company, co-founded by Vivek Ramaswamy, paid roughly $169 million for 2,000 coins last week and now holds 29,462 BTC."
     }
   ]
 }
