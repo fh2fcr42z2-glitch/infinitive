@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-07T17:02:15Z",
+  "asof": "2026-10-07T18:02:36Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,98 +10,98 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "All six requested RSS URLs returned HTTP 200 on this run. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 16:05Z snapshot: new CoinTelegraph Tether and Kazakhstan cenbank tenge stablecoin note; House Finance chair says regulator actions fall short of CLARITY; Bitcoin headline print to $82.7K October low still live. New Decrypt US government moved $103 million in seized Bitcoin and BNB, reason not stated (headline level, not a desk price). New Bitcoin Magazine Sberbank green light to custody Bitcoin; Jack Dorsey Block gifts one Bitcoin; Bitcoin quantum exposure note at block 950000. New CoinDesk Polygon taps TRON stablecoin supply. Bitmine stop-stacking at 5 percent of ETH still live. Robinhood $25 million bitcoin balance-sheet add still live. S&P vault note still cites a $6 million Base incident. Still no SNAP, DRV, ENA, AERO, PUMP, or Bitget-style exploit headline. BTC: sub-$83k / $82.7k headline prints and liquidation figures are not desk prices. Robinhood balance-sheet add is not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: Bitmine stop-stacking at 5 percent of ETH is not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. HOLD. DO NOT ADD. LOOK only. Base vault incident is not a Bitget-style exploit on the live book. LOOK only. No fills.",
+  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk returned items on this run. Bitcoin Magazine first curl was HTTP 403; retry with a browser user-agent returned the feed. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 17:02Z snapshot: new CoinTelegraph Sui offchain tunnels 40.6M TPS AI-agent stress test; new The Block Justin Drake bunker-mode note on private-key recovery; new CryptoSlate Japanese institutions selling 2.6 trillion yen of foreign debt framed as a Bitcoin financing risk; new CoinDesk Gate Money all-in-one app note (not a Bitget-style exploit). Bitcoin headline prints still live at $82.7k October low and under $83k on oil and yields. US government moved seized BTC and BNB, reason not stated, no sale confirmed. Bitmine stop-stacking at 5 percent of ETH still live. Robinhood $25 million bitcoin balance-sheet add still live. Still no SNAP, DRV, ENA, AERO, PUMP, or Bitget-style exploit headline. BTC: sub-$83k / $82.7k headline prints and liquidation figures are not desk prices. Robinhood balance-sheet add is not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: Bitmine stop-stacking at 5 percent of ETH and Drake bunker-mode planning are not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. HOLD. DO NOT ADD. LOOK only. Gate Money rebrand is not a Bitget-style exploit on the live book. LOOK only. No fills.",
   "items": [
     {
       "source": "CoinTelegraph",
-      "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
-      "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 07 Oct 2026 16:25:38 +0000",
-      "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets as Kazakhstan expands its digital asset industry. Headline only. Not a ticket."
+      "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
+      "url": "https://cointelegraph.com/news/sui-offchain-network-hits-40m-tps-in-live-ai-focused-stress-test",
+      "pubDate": "Wed, 07 Oct 2026 17:46:59 +0000",
+      "summary": "The layer-1 said programmable offchain tunnels hit the milestone in a live stress test meant to simulate high-frequency activity between AI agents. Headline only. Not a ticket."
     },
     {
       "source": "CoinTelegraph",
-      "title": "House Finance panel chair says regulator actions on crypto 'fall short' of CLARITY bill",
-      "url": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "title": "Tether, Kazakhstan cenbank mull tenge stablecoin and asset tokenization",
+      "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization",
+      "pubDate": "Wed, 07 Oct 2026 16:25:38 +0000",
+      "summary": "The agreement will explore a tenge-backed stablecoin pilot and a framework for tokenizing real-world assets. Headline only. Not a ticket."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "House Finance panel chair says regulator actions on crypto fall short of CLARITY bill",
+      "url": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill",
       "pubDate": "Wed, 07 Oct 2026 16:06:03 +0000",
-      "summary": "Representative French Hill hopes lawmakers could pass a cryptocurrency market structure bill before the next session of Congress in 2027 as SEC and CFTC actions weren't sufficient Headline only. Not a ticket."
+      "summary": "Representative French Hill hopes lawmakers could pass a market-structure bill before the next session of Congress in 2027. Headline only. Not a ticket."
     },
     {
       "source": "CoinTelegraph",
       "title": "Coinbase brings global crypto derivatives liquidity to US with Deribit integration",
-      "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/coinbase-deribit-us-crypto-options-perpetual-futures",
       "pubDate": "Wed, 07 Oct 2026 15:36:11 +0000",
-      "summary": "US institutions will gain access to Deribit's options and perpetual futures through Coinbase, with US retail options expected later this year. Headline only. Not a ticket."
+      "summary": "US institutions will gain access to Deribit options and perpetual futures through Coinbase. US retail options expected later this year. Headline only. Not a ticket."
     },
     {
       "source": "CoinTelegraph",
       "title": "Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-drops-to-827k-october-low-as-bond-sell-off-resumes-on-iran-nerves",
       "pubDate": "Wed, 07 Oct 2026 15:06:14 +0000",
-      "summary": "Bitcoin fell below $83,000 to reach month-to-date lows as stocks reversed after all-time highs and bond yields spiked higher. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here's what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 07 Oct 2026 13:07:40 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation. Headline only. Not a ticket."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Chasing 100x tokens is game of 'irrational exuberance,' says Polymarket CEO",
-      "url": "https://cointelegraph.com/news/chasing-100x-tokens-irrational-exuberance-polymarket-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Wed, 07 Oct 2026 12:29:39 +0000",
-      "summary": "Some traders are looking for more predictable prediction market opportunities, rather than playing hot potato with the next 100x gem, according to Polymarket's Shayne Coplan. Headline only. Not a ticket."
+      "summary": "Headline says Bitcoin fell below $83,000 to month-to-date lows as stocks reversed and bond yields spiked. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "Decrypt",
       "title": "US Government Moves $103 Million in Seized Bitcoin and BNB, But Hasn't Said Why",
       "url": "https://decrypt.co/380313/us-government-moves-103-million-seized-bitcoin-bnb",
       "pubDate": "Wed, 07 Oct 2026 16:56:56 +0000",
-      "summary": "Government-labeled wallets sent 833.6 BTC to Coinbase Prime deposit addresses and shuffled 40,285 BNB. No sale is confirmed, but the stash behind it is the largest any government holds in Arkham's ranking. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Government-labeled wallets sent 833.6 BTC to Coinbase Prime deposit addresses and shuffled 40,285 BNB. No sale is confirmed. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "Decrypt",
       "title": "Bitcoin Dips Below $83K as Oil Shock Rattles Markets: What Happens Next?",
       "url": "https://decrypt.co/380290/bitcoin-dips-oil-shock-rattles-markets-what-happens-next",
       "pubDate": "Wed, 07 Oct 2026 15:34:31 +0000",
-      "summary": "Bitcoin fell sharply as oil topped $101 and the 30-year Treasury yield hit its highest since 2002. The daily chart still leans bullish. The four-hour chart disagrees. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Headline says Bitcoin fell as oil topped $101 and the 30-year Treasury yield hit its highest since 2002. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "Decrypt",
       "title": "Bitmine's Relentless Ethereum Buying Is About to End, Tom Lee Says",
       "url": "https://decrypt.co/380287/bitmine-ethereum-buying-will-stop-tom-lee",
       "pubDate": "Wed, 07 Oct 2026 14:55:32 +0000",
-      "summary": "Speaking at Token2049 in Singapore, the chairman said Bitmine is about 100,000 ETH-roughly six to seven weeks-from its 5% cap, setting an end date on a buying spree that made it the world's largest Ethereum treasury. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."
+      "summary": "Tom Lee said Bitmine is about 100,000 ETH, roughly six to seven weeks, from its 5 percent cap. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."
     },
     {
       "source": "Decrypt",
       "title": "Engineer Gets 32 Months for Bitcoin Extortion Plot Against His Own Employer",
       "url": "https://decrypt.co/380284/engineer-gets-32-months-for-bitcoin-extortion-plot-against-his-own-employer",
       "pubDate": "Wed, 07 Oct 2026 12:39:09 +0000",
-      "summary": "Daniel Rhyne locked his company's IT administrators out of its network and demanded 20 BTC, then worth $750,000, to stop the shutdowns. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Daniel Rhyne locked company IT admins out and demanded 20 BTC, then worth $750,000. Headline only. Not a ticket."
     },
     {
       "source": "Decrypt",
       "title": "Morning Minute: OKX Raises at $25B From Circle, Ripple, and StanChart",
       "url": "https://decrypt.co/380281/morning-minute-okx-raises-at-25b-from-circle-ripple-and-stanchart",
       "pubDate": "Wed, 07 Oct 2026 12:18:43 +0000",
-      "summary": "OKX raises more, $500M+ in crypto longs liquidated after a late evening selloff, and Abstract calls it quits. Headline only. Not a ticket."
+      "summary": "OKX raise note, plus a $500 million-plus crypto long liquidation figure after a late selloff, and Abstract calling it quits. Headline only. Not a ticket."
     },
     {
       "source": "Decrypt",
-      "title": "Europol Warns Crypto Wallets Are 'Primary Risk' for Quantum Attacks",
+      "title": "Europol Warns Crypto Wallets Are Primary Risk for Quantum Attacks",
       "url": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
       "pubDate": "Wed, 07 Oct 2026 10:49:16 +0000",
-      "summary": "The EU police agency expects blockchains to adapt to the threat, while a second report weighs the risk of data stolen now and cracked later. Headline only. Not a ticket."
+      "summary": "EU police expect blockchains to adapt, while a second report weighs data stolen now and cracked later. Headline only. Not a ticket."
     },
     {
       "source": "The Block",
-      "title": "Hunter Biden says LAPTOP market maker should 'buy it all back and burn it'",
+      "title": "Ethereum researcher Justin Drake calls for bunker mode planning over private key recovery risk",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
+      "pubDate": "Wed, 07 Oct 2026 17:23:02 +0000",
+      "summary": "Justin Drake recommended moving crypto assets to fresh addresses that keep public keys hidden behind a hash. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "The Block",
+      "title": "Hunter Biden says LAPTOP market maker should buy it all back and burn it",
       "url": "https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947",
       "pubDate": "Wed, 07 Oct 2026 16:40:51 +0000",
-      "summary": "A commissioned report details thin liquidity and market-maker-linked gains during LAPTOP's launch. Headline only. Not a ticket."
+      "summary": "A commissioned report details thin liquidity and market-maker-linked gains during LAPTOP launch. Headline only. Not a ticket."
     },
     {
       "source": "The Block",
@@ -122,147 +122,133 @@
       "title": "Jito's JTX plans mobile app this fall, eyes perps integration later this winter",
       "url": "https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905",
       "pubDate": "Wed, 07 Oct 2026 09:51:29 +0000",
-      "summary": "Jito's JTX plans a mobile app, equities feature, and perpetual futures as it expands beyond spot trading on Solana. Headline only. Not a ticket."
+      "summary": "Jito's JTX plans a mobile app, equities feature, and perpetual futures beyond spot trading on Solana. Headline only. Not a ticket."
     },
     {
       "source": "The Block",
-      "title": "'Every single exchange' will have to adopt public blockchain infrastructure to compete, Hyperliquid Policy Center CEO says",
+      "title": "Every single exchange will have to adopt public blockchain infrastructure to compete, Hyperliquid Policy Center CEO says",
       "url": "https://www.theblock.co/news/regulation/2026-10-07-hyperliquid-policy-center-jake-chervinsky-interview-417896",
       "pubDate": "Wed, 07 Oct 2026 08:30:01 +0000",
-      "summary": "Chervinsky says that beyond regulated perps, onchain markets need to enter the U.S. regulatory perimeter, a step he expects will happen soon. Not an order. LOOK only."
+      "summary": "Chervinsky says onchain markets need to enter the U.S. regulatory perimeter. Not an order. LOOK only."
     },
     {
-      "source": "The Block",
-      "title": "Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push",
-      "url": "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
-      "pubDate": "Wed, 07 Oct 2026 07:08:36 +0000",
-      "summary": "Robinhood SVP Johann Kerbrat says the purchase was intended to signal the company's commitment to the crypto sector. Not a desk order. Not a BTC ticket. HOLD BTC. DO NOT ADD. LOOK only."
+      "source": "CryptoSlate",
+      "title": "As Japanese institutions sell 2.6 trillion yen in foreign debt, here is what Bitcoin investors need to watch",
+      "url": "https://cryptoslate.com/as-japanese-institutions-sell-%c2%a52-6-trillion-in-foreign-debt-heres-what-bitcoin-investors-need-to-watch/",
+      "pubDate": "Wed, 07 Oct 2026 17:35:20 +0000",
+      "summary": "Headline frames heavier Japanese foreign-debt sales as a potential Bitcoin financing risk. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "CryptoSlate",
       "title": "Bitcoin price has risen 84% since January 2024 while Treasury yields climbed",
       "url": "https://cryptoslate.com/bitcoin-faces-a-5-3-treasury-hurdle-but-its-post-etf-record-complicates-the-threat/",
       "pubDate": "Wed, 07 Oct 2026 16:35:21 +0000",
-      "summary": "Bitcoin gained 84.2% from the January 2024 pre-ETF baseline through Oct. 5, 2026, even as nominal and real yields rose. The post Bitcoin price has risen 84% since January 2024 while Treasury yields climbed appeared first on CryptoSlate . Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Bitcoin gained 84.2% from the January 2024 pre-ETF baseline through Oct. 5, 2026, even as nominal and real yields rose. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "CryptoSlate",
       "title": "XRP treasury SPAC drops 50% in a day ahead of Evernorth's Nasdaq debut",
       "url": "https://cryptoslate.com/xrp-treasury-spac-drops-50-in-a-day-ahead-of-evernorths-nasdaq-debut/",
       "pubDate": "Wed, 07 Oct 2026 15:30:44 +0000",
-      "summary": "Evernorth delayed its Nasdaq debut after shares of the SPAC taking the XRP treasury company public lost half their value. Armada Acquisition Corp. II, which currently trades under the XRPN ticker, closed Tuesday at $19.20, down 50.3% fro... Headline only. Not a ticket."
+      "summary": "Evernorth delayed its Nasdaq debut after the SPAC taking it public lost half its value. Armada Acquisition Corp. II closed Tuesday at $19.20. Headline only. Not a ticket."
     },
     {
       "source": "CryptoSlate",
       "title": "Robinhood adds $25 million of Bitcoin to its own balance sheet",
       "url": "https://cryptoslate.com/robinhood-adds-25-million-of-bitcoin-to-its-own-balance-sheet/",
       "pubDate": "Wed, 07 Oct 2026 14:30:11 +0000",
-      "summary": "Robinhood is adding $25 million of Bitcoin to its balance sheet after executives previously debated whether corporate crypto holdings would benefit shareholders. Johann Kerbrat, Robinhood's senior vice president and general manager of cr... Not a desk order. Not a BTC ticket. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Robinhood balance-sheet add is not a desk order and not a BTC ticket. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "CryptoSlate",
-      "title": "Polymarket's upgrade won't automatically move existing bets to new contracts",
+      "title": "Polymarket's upgrade will not automatically move existing bets to new contracts",
       "url": "https://cryptoslate.com/polymarkets-new-trading-system-wont-automatically-move-existing-bets-to-its-new-contracts/",
       "pubDate": "Wed, 07 Oct 2026 13:30:51 +0000",
-      "summary": "App users follow approval prompts, while integrations must keep CTF support and add V2 identifiers and permissions. The post Polymarket's upgrade won't automatically move existing bets to new contracts appeared first on CryptoSlate . Headline only. Not a ticket."
+      "summary": "App users follow approval prompts. Integrations must keep CTF support and add V2 identifiers. Headline only. Not a ticket."
     },
     {
       "source": "CryptoSlate",
       "title": "Bitcoin drops to $84k sees $143 million in liquidations as ETF inflows turn positive",
       "url": "https://cryptoslate.com/bitcoins-liquidation-wave-shows-why-positive-etf-flows-offer-no-price-floor/",
       "pubDate": "Wed, 07 Oct 2026 12:20:29 +0000",
-      "summary": "Fresh October 7 futures closures highlight the gap between a completed fund-flow tally and traders' continuing margin exposure. The post Bitcoin drops to $84k sees $143 million in liquidations as ETF inflows turn positive appeared first... Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "S&P brings ratings-style scrutiny to $10 billion crypto vault market as $6 million Base incident exposes risks",
-      "url": "https://cryptoslate.com/sp-brings-ratings-style-scrutiny-to-10-billion-crypto-vault-market-as-6-million-base-incident-exposes-risks/",
-      "pubDate": "Wed, 07 Oct 2026 11:40:51 +0000",
-      "summary": "The vault framework compares impairment risk while leaving capital protection and future returns unpromised. The post S&P brings ratings-style scrutiny to $10 billion crypto vault market as $6 million Base incident exposes risks appeared... Not a Bitget-style exploit on the live book. LOOK only. DO NOT ADD."
+      "summary": "Fresh October 7 futures closures highlight the gap between a completed fund-flow tally and margin exposure. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Jack Dorsey's Block Gifts One Bitcoin to Lucky ComplexCon Attendee",
       "url": "https://bitcoinmagazine.com/news/block-gifts-bitcoin-at-complexcon",
       "pubDate": "Wed, 07 Oct 2026 16:52:51 +0000",
-      "summary": "Bitcoin Magazine Jack Dorsey's Block Gifts One Bitcoin to Lucky ComplexCon Attendee Jack Dorsey's Block is pushing so hard for bitcoin adoption, it gifted 1 BTC to a lucky conference attendee at this year's ComplexCon in Los Angeles. The... Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Block gifted 1 BTC to a conference attendee at ComplexCon in Los Angeles. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "The Quantum Issue: Bitcoin Quantum Exposure at Block 950,000",
       "url": "https://bitcoinmagazine.com/print/the-quantum-issue-bitcoin-quantum-exposure-at-block-950000",
       "pubDate": "Wed, 07 Oct 2026 16:46:41 +0000",
-      "summary": "Bitcoin Magazine The Quantum Issue: Bitcoin Quantum Exposure at Block 950,000 From The Quantum Issue: a breakdown of how much of Bitcoin's supply is vulnerable to quantum attack, and the logistical questions of changing that. This post T... Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Print note on how much Bitcoin supply is described as vulnerable to a quantum attack, and the logistics of changing that. Headline only. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Russia's Sberbank Given Green Light to Custody Bitcoin",
       "url": "https://bitcoinmagazine.com/news/russia-sberbank-can-now-custody-bitcoin",
       "pubDate": "Wed, 07 Oct 2026 16:14:51 +0000",
-      "summary": "Bitcoin Magazine Russia's Sberbank Given Green Light to Custody Bitcoin Russia's largest bank has announced it is the first in the country to have been approved to custody bitcoin. Sberbank said in an announcement Wednesday that the Bank... Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Sberbank said it is the first in Russia approved to custody bitcoin. Headline only. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Bitcoin Falls Under $83,000 on Oil Spike, Rising US Borrowing Costs",
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-under-83000",
       "pubDate": "Wed, 07 Oct 2026 16:08:40 +0000",
-      "summary": "Bitcoin Magazine Bitcoin Falls Under $83,000 on Oil Spike, Rising US Borrowing Costs The price of bitcoin is down nearly 4% as most assets experience a selloff. This post Bitcoin Falls Under $83,000 on Oil Spike, Rising US Borrowing Cost... Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Headline says bitcoin is down nearly 4% as most assets sell off. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Robinhood Adds Bitcoin to Its Balance Sheet: A Strategic Signal from a $100B Fintech",
       "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/robinhood-adds-bitcoin-to-its-balance-sheet-a-strategic-signal-from-a-100b-fintech",
       "pubDate": "Wed, 07 Oct 2026 12:16:58 +0000",
-      "summary": "Bitcoin Magazine Robinhood Adds Bitcoin to Its Balance Sheet: A Strategic Signal from a $100B Fintech Robinhood added $25M of Bitcoin (~294 BTC) to its balance sheet-its first corporate holding and a strategic signal from a $100B fintech... Not a desk order. Not a BTC ticket. HOLD BTC. DO NOT ADD. LOOK only."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges",
-      "url": "https://bitcoinmagazine.com/news/crypto-card-payments-hit-record-12-billion",
-      "pubDate": "Tue, 06 Oct 2026 21:48:49 +0000",
-      "summary": "Bitcoin Magazine Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges More people are using crypto cards than ever before to make payments. This post Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adop... Headline only. Not a ticket."
+      "summary": "Robinhood added $25M of Bitcoin, about 294 BTC, to its balance sheet. Not a desk order. Not a BTC ticket. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "CoinDesk",
       "title": "Polygon taps TRON's $94 billion stablecoin supply for seamless cross-border transfers",
       "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
       "pubDate": "Wed, 07 Oct 2026 16:30:00 +0000",
-      "summary": "Polygon said businesses can also move the world's largest stablecoin USDT between TRON and EVM networks without connecting to a wallet provider, bridge or fiat-ramp operator. Headline only. Not a ticket."
+      "summary": "Polygon said businesses can move USDT between TRON and EVM networks without a wallet provider, bridge, or fiat-ramp operator. Headline only. Not a ticket."
     },
     {
       "source": "CoinDesk",
       "title": "Gate bets all-in-one money app is crypto's biggest consumer trend this year and next",
       "url": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
       "pubDate": "Wed, 07 Oct 2026 15:13:15 +0000",
-      "summary": "Gate rebrands around Gate Money, which combines accounts, asset conversion, savings and card payments as the exchange broadens beyond its trading base. Headline only. Not a ticket."
+      "summary": "Gate rebrands around Gate Money, combining accounts, conversion, savings, and card payments. Not a Bitget-style exploit. LOOK only. DO NOT ADD."
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto Long & Short: Zcash and the case for privacy in the age of AI",
+      "title": "Crypto Long and Short: Zcash and the case for privacy in the age of AI",
       "url": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
       "pubDate": "Wed, 07 Oct 2026 15:03:54 +0000",
-      "summary": "AI has made it cheap to link wallet addresses to the people behind them, and the permanence of the blockchain means records don't age out. Michael Zhao of Grayscale Research explains how Zcash's shielded transactions address this problem... Headline only. Not a ticket."
+      "summary": "Grayscale research note on linking wallet addresses to people as AI makes that cheaper. Headline only. Not a ticket."
     },
     {
       "source": "CoinDesk",
       "title": "Tether tapped by Kazakhstan's central bank to explore stablecoin and tokenization",
       "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
       "pubDate": "Wed, 07 Oct 2026 14:27:37 +0000",
-      "summary": "The National Bank of Kazakhstan said it will study a local currency-linked stablecoin and tokenized real-world assets with Tether. Headline only. Not a ticket."
+      "summary": "The National Bank of Kazakhstan said it will study a local-currency stablecoin and tokenized real-world assets with Tether. Headline only. Not a ticket."
     },
     {
       "source": "CoinDesk",
       "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
       "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
       "pubDate": "Wed, 07 Oct 2026 13:20:54 +0000",
-      "summary": "EU law enforcement agencies urged developers, exchanges, and users to initiate phased post-quantum migrations immediately to prevent future unauthorized fund transfers. Headline only. Not a ticket."
+      "summary": "EU agencies urged phased post-quantum migrations to limit future unauthorized transfers. Headline only. Not a ticket."
     },
     {
       "source": "CoinDesk",
       "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
       "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
       "pubDate": "Wed, 07 Oct 2026 12:40:31 +0000",
-      "summary": "Tom Lee said Bitmine will be done stacking once it owns 5% of ETH, setting an end date to an accumulation streak that began in mid-2025 and made the company the world's largest Ethereum treasury. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."
+      "summary": "Tom Lee said Bitmine will be done stacking once it owns 5 percent of ETH. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."
     }
   ]
 }
