@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-07T13:05:17Z",
+  "asof": "2026-10-07T14:02:51Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,8 +10,15 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "All six requested RSS URLs returned HTTP 200. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 12:03Z: new tape adds Bitmine stop-stacking at 5 percent of ETH, a Polymarket 100x warning, OKX $25B raise headline, and a BTC extortion sentencing. Still no SNAP, DRV, ENA, AERO, PUMP, or Bitget-style exploit headline. BTC: liquidation and sub-$84k prints are not desk prices. Robinhood balance-sheet add is not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: Bitmine buying-limit headline and down-5-percent print are not an ETH ticket. Abstract shutdown is not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. HOLD. DO NOT ADD. LOOK only. Base vault incident is not a Bitget-style exploit on the live book. LOOK only. No fills.",
+  "notes": "All six requested RSS URLs returned HTTP 200. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 13:05Z: CoinDesk live tape retitled to Bitcoin falls 4 percent and tumbling below $83,000 as rates surge; Ether underperformed, losing 6 percent after the Bitmine stop note. New CoinDesk quantum-keys Europol item and a CryptoSlate Polymarket contract-migration item. CoinTelegraph added a daily roundup. Still no SNAP, DRV, ENA, AERO, PUMP, or Bitget-style exploit headline. BTC: sub-$83k and sub-$84k prints and liquidation figures are not desk prices. Robinhood balance-sheet add is not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: Bitmine stop-stacking at 5 percent of ETH and a down-6-percent print are not an ETH ticket. Abstract shutdown is not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. HOLD. DO NOT ADD. LOOK only. Base vault incident is not a Bitget-style exploit on the live book. LOOK only. No fills.",
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Wed, 07 Oct 2026 13:07:40 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation. Headline only. Not a ticket."
+    },
     {
       "source": "CoinTelegraph",
       "title": "Chasing 100x tokens is game of 'irrational exuberance,' says Polymarket CEO",
@@ -24,7 +31,7 @@
       "title": "Crypto card access doesn't match global demand, Tangem says",
       "url": "https://cointelegraph.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says",
       "pubDate": "Wed, 07 Oct 2026 11:37:48 +0000",
-      "summary": "Crypto card demand can be stronger where access is harder, Tangem says, as the company expands its self-custodial payment offering through Visa. Headline only. Not a ticket."
+      "summary": "Crypto card demand can be stronger where access is harder, Tangem says, as it expands its Visa payment offering, allowing users to spend from its self-custodial wallet. Headline only. Not a ticket."
     },
     {
       "source": "CoinTelegraph",
@@ -38,7 +45,7 @@
       "title": "Wall Street wealth creation model is unsustainable for most participants: Hyperliquid CEO",
       "url": "https://cointelegraph.com/news/wall-street-wealth-creation-unsustainable-hyperliquid-ceo",
       "pubDate": "Wed, 07 Oct 2026 10:19:27 +0000",
-      "summary": " Hyperliquid CEO comment on perps access. Not an order. LOOK only."
+      "summary": "Early Wall Street wealth-creation opportunities remain inaccessible to retail participants, but Hyperliquid's perpetual contracts aim to democratize access, according to its CEO. Hyperliquid comment. Not an order. LOOK only."
     },
     {
       "source": "CoinTelegraph",
@@ -46,13 +53,6 @@
       "url": "https://cointelegraph.com/news/bingx-old-money-bitcoin-diamond-hands-token2049",
       "pubDate": "Wed, 07 Oct 2026 09:57:19 +0000",
       "summary": "BingX strategy chief Kevin Lee says wealthy investors are taking a longer-term approach to Bitcoin, though family-office crypto exposure remains limited. Headline only. Not a ticket."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Crypto liquidations hit $550M as Bitcoin price dips below $84K",
-      "url": "https://cointelegraph.com/markets/crypto-liquidations-hit-550m-as-bitcoin-price-dips-below-84k",
-      "pubDate": "Wed, 07 Oct 2026 09:45:35 +0000",
-      "summary": " Headline liquidation figure and a sub-$84k print. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "Decrypt",
@@ -108,21 +108,21 @@
       "title": "'Every single exchange' will have to adopt public blockchain infrastructure to compete, Hyperliquid Policy Center CEO says",
       "url": "https://www.theblock.co/news/regulation/2026-10-07-hyperliquid-policy-center-jake-chervinsky-interview-417896",
       "pubDate": "Wed, 07 Oct 2026 08:30:01 +0000",
-      "summary": " Hyperliquid Policy Center comment on exchange infrastructure. Not an order. LOOK only."
+      "summary": "Chervinsky says that beyond regulated perps, onchain markets need to enter the U.S. regulatory perimeter, a step he expects will happen soon. Hyperliquid comment. Not an order. LOOK only."
     },
     {
       "source": "The Block",
       "title": "Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push",
       "url": "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
       "pubDate": "Wed, 07 Oct 2026 07:08:36 +0000",
-      "summary": " Robinhood treasury headline. Not a desk order. Not a BTC ticket. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Robinhood SVP Johann Kerbrat says the purchase was intended to signal the company's commitment to the crypto sector. Robinhood treasury headline. Not a desk order. Not a BTC ticket. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "The Block",
       "title": "Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million",
       "url": "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882",
       "pubDate": "Wed, 07 Oct 2026 03:57:21 +0000",
-      "summary": " Headline print under $84,000 and a long-liquidation figure. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Crypto liquidations amounted to $555.6 million over the past 24 hours, including $487.2 million in long positions, according to CoinGlass. Headline print. Not a desk price. HOLD BTC. HOLD ETH. DO NOT ADD. LOOK only."
     },
     {
       "source": "The Block",
@@ -133,94 +133,101 @@
     },
     {
       "source": "CryptoSlate",
+      "title": "Polymarket's upgrade won't automatically move existing bets to new contracts",
+      "url": "https://cryptoslate.com/polymarkets-new-trading-system-wont-automatically-move-existing-bets-to-its-new-contracts/",
+      "pubDate": "Wed, 07 Oct 2026 13:30:51 +0000",
+      "summary": "App users follow approval prompts, while integrations must keep CTF support and add V2 identifiers and permissions. The post Polymarket's upgrade won't automatically move existing bets to new contracts appeared first on Headline only. Not a ticket."
+    },
+    {
+      "source": "CryptoSlate",
       "title": "Bitcoin drops to $84k sees $143 million in liquidations as ETF inflows turn positive",
       "url": "https://cryptoslate.com/bitcoins-liquidation-wave-shows-why-positive-etf-flows-offer-no-price-floor/",
       "pubDate": "Wed, 07 Oct 2026 12:20:29 +0000",
-      "summary": " Headline print near $84k and a liquidation figure. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Fresh October 7 futures closures highlight the gap between a completed fund-flow tally and traders' continuing margin exposure. The post Bitcoin drops to $84k sees $143 million in liquidations as ETF inflows turn Headline print. Not a desk price. HOLD BTC. HOLD ETH. DO NOT ADD. LOOK only."
     },
     {
       "source": "CryptoSlate",
       "title": "S&P brings ratings-style scrutiny to $10 billion crypto vault market as $6 million Base incident exposes risks",
       "url": "https://cryptoslate.com/sp-brings-ratings-style-scrutiny-to-10-billion-crypto-vault-market-as-6-million-base-incident-exposes-risks/",
       "pubDate": "Wed, 07 Oct 2026 11:40:51 +0000",
-      "summary": " Ratings-style note on vaults cites a $6 million Base incident. Not a Bitget-style exploit on the live book. LOOK only. DO NOT ADD."
+      "summary": "The vault framework compares impairment risk while leaving capital protection and future returns unpromised. The post S&P brings ratings-style scrutiny to $10 billion crypto vault market as $6 million Base incident Vault ratings note cites a $6 million Base incident. Not a Bitget-style exploit on the live book. LOOK only. DO NOT ADD."
     },
     {
       "source": "CryptoSlate",
       "title": "Why Abstract is killing its Ethereum L2 instead of launching a token to save it",
       "url": "https://cryptoslate.com/why-abstract-is-killing-its-ethereum-l2-instead-of-launching-a-token-to-save-it/",
       "pubDate": "Wed, 07 Oct 2026 10:20:52 +0000",
-      "summary": " Abstract L2 wind-down. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."
+      "summary": "Abstract will shut down on Dec. 15 despite onboarding more than 400,000 users, hosting 144 apps, and landing brands including Disney and Red Bull Racing. The consumer-focused Ethereum layer-2 (L2) cited stagnant growth, Abstract L2 wind-down. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."
     },
     {
       "source": "CryptoSlate",
       "title": "Cardano's price breakout could trigger the next ADA squeeze or trap leveraged bulls",
       "url": "https://cryptoslate.com/cardanos-price-breakout-could-trigger-the-next-ada-squeeze-or-trap-leveraged-bulls/",
       "pubDate": "Wed, 07 Oct 2026 09:00:00 +0000",
-      "summary": "Cardano's value has climbed about 42% since Sept. 16, taking ADA from roughly $0.19 to $0.27, and the positioning behind the move has expanded faster than the dollar liquidity beneath it. Santiment counted 413... Headline only. Not a ticket."
+      "summary": "Cardano's value has climbed about 42% since Sept. 16, taking ADA from roughly $0.19 to $0.27, and the positioning behind the move has expanded faster than the dollar liquidity beneath it. Santiment counted 413 Headline only. Not a ticket."
     },
     {
       "source": "CryptoSlate",
       "title": "Solana DvP settlement requires 100% upfront cash for every trade",
       "url": "https://cryptoslate.com/solana-dvp-settlement-requires-100-upfront-cash-for-every-trade/",
       "pubDate": "Wed, 07 Oct 2026 04:30:56 +0000",
-      "summary": "Its published DvP design exchanges fully funded token legs atomically, leaving financing and netting to institutions. The post Solana DvP settlement requires 100% upfront cash for every trade appeared first on... Headline only. Not a ticket."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "SEC drops to 2 members, and 1 hidden rule shifts crypto power",
-      "url": "https://cryptoslate.com/sec-drops-to-2-members-and-1-hidden-rule-shifts-crypto-power/",
-      "pubDate": "Wed, 07 Oct 2026 02:20:47 +0000",
-      "summary": "The new exception permits one eligible commissioner to form a quorum when every other sitting member is disqualified from the particular matter. The post SEC drops to 2 members, and 1 hidden rule shifts crypto power... Headline only. Not a ticket."
+      "summary": "Its published DvP design exchanges fully funded token legs atomically, leaving financing and netting to institutions. The post Solana DvP settlement requires 100% upfront cash for every trade appeared first on Headline only. Not a ticket."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Robinhood Adds Bitcoin to Its Balance Sheet: A Strategic Signal from a $100B Fintech",
       "url": "https://bitcoinmagazine.com/bitcoin-for-corporations/robinhood-adds-bitcoin-to-its-balance-sheet-a-strategic-signal-from-a-100b-fintech",
       "pubDate": "Wed, 07 Oct 2026 12:16:58 +0000",
-      "summary": " Robinhood treasury headline. Not a desk order. Not a BTC ticket. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Bitcoin Magazine Robinhood Adds Bitcoin to Its Balance Sheet: A Strategic Signal from a $100B Fintech Robinhood added $25M of Bitcoin (~294 BTC) to its balance sheet-its first corporate holding and a strategic signal Robinhood treasury headline. Not a desk order. Not a BTC ticket. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges",
       "url": "https://bitcoinmagazine.com/news/crypto-card-payments-hit-record-12-billion",
       "pubDate": "Tue, 06 Oct 2026 21:48:49 +0000",
-      "summary": "Bitcoin Magazine Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges More people are using crypto cards than ever before to make payments. This post Crypto Card Payments Hit Record $12.5... Headline only. Not a ticket."
+      "summary": "Bitcoin Magazine Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges More people are using crypto cards than ever before to make payments. This post Crypto Card Payments Hit Record $12.5 Billion Headline only. Not a ticket."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "$350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer",
       "url": "https://bitcoinmagazine.com/videos/350m-st-cloud-ceo-the-first-credit-union-to-put-bitcoin-on-core-ledger-jed-meyer",
       "pubDate": "Tue, 06 Oct 2026 21:34:32 +0000",
-      "summary": "Bitcoin Magazine $350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer A 1930s postal credit union now custodies real Bitcoin. St. Cloud CEO Jed Meyer breaks down its hybrid vault model... Headline only. Not a ticket."
+      "summary": "Bitcoin Magazine $350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer A 1930s postal credit union now custodies real Bitcoin. St. Cloud CEO Jed Meyer breaks down its hybrid vault model Headline only. Not a ticket."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Housingwire's Logan Mohtashami: Real Estate vs Bitcoin & Bond Market Outlook",
       "url": "https://bitcoinmagazine.com/videos/housingwires-logan-mohtashami-real-estate-vs-bitcoin-bond-market-outlook",
       "pubDate": "Tue, 06 Oct 2026 21:28:54 +0000",
-      "summary": "Bitcoin Magazine Housingwire's Logan Mohtashami: Real Estate vs Bitcoin & Bond Market Outlook Mortgage rates hit 3-year highs as homebuyers retreat. HousingWire's Logan Mohtashami explains why rising bond yields and... Headline only. Not a ticket."
+      "summary": "Bitcoin Magazine Housingwire's Logan Mohtashami: Real Estate vs Bitcoin & Bond Market Outlook Mortgage rates hit 3-year highs as homebuyers retreat. HousingWire's Logan Mohtashami explains why rising bond yields and Fed Headline only. Not a ticket."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Leon Wankum: BTC Taking on Real Estate's $300T Monetary Premium",
       "url": "https://bitcoinmagazine.com/videos/leon-wankum-btc-taking-on-real-estates-300t-monetary-premium",
       "pubDate": "Tue, 06 Oct 2026 21:21:43 +0000",
-      "summary": "Bitcoin Magazine Leon Wankum: BTC Taking on Real Estate's $300T Monetary Premium Property was once the default wealth store, but Leon Wankum argues that run is over. He explains why Bitcoin is stripping real estate... Headline only. Not a ticket."
+      "summary": "Bitcoin Magazine Leon Wankum: BTC Taking on Real Estate's $300T Monetary Premium Property was once the default wealth store, but Leon Wankum argues that run is over. He explains why Bitcoin is stripping real estate of Headline only. Not a ticket."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "StoneX's Mark Palmer: $435 MSTR Price Target Explained - DAT Consolidation Outlook",
       "url": "https://bitcoinmagazine.com/videos/stonexs-mark-palmer-435-mstr-price-target-explained-dat-consolidation-outlook",
       "pubDate": "Tue, 06 Oct 2026 21:16:05 +0000",
-      "summary": "Bitcoin Magazine StoneX's Mark Palmer: $435 MSTR Price Target Explained - DAT Consolidation Outlook Strategy bought STRC over Bitcoin. Mark Palmer explains why the preferred stock is vital to Strategy's fundraising... Headline only. Not a ticket."
+      "summary": "Bitcoin Magazine StoneX's Mark Palmer: $435 MSTR Price Target Explained - DAT Consolidation Outlook Strategy bought STRC over Bitcoin. Mark Palmer explains why the preferred stock is vital to Strategy's fundraising and Headline only. Not a ticket."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
+      "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
+      "pubDate": "Wed, 07 Oct 2026 13:20:54 +0000",
+      "summary": "EU law enforcement agencies urged developers, exchanges, and users to initiate phased post-quantum migrations immediately to prevent future unauthorized fund transfers. Headline only. Not a ticket."
     },
     {
       "source": "CoinDesk",
       "title": "Ether is about to lose a steady buyer as Tom Lee says Bitmine will stop token purchases",
       "url": "https://www.coindesk.com/markets/2026/10/07/ether-is-about-to-lose-a-steady-buyer-as-tom-lee-says-bitmine-will-stop-token-purchases",
       "pubDate": "Wed, 07 Oct 2026 12:40:31 +0000",
-      "summary": " Tom Lee said Bitmine will stop stacking once it owns 5 percent of ETH. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."
+      "summary": "Tom Lee said Bitmine will be \"done stacking\" once it owns 5% of ETH, setting an end date to an accumulation streak that began in mid-2025 and made the company the world's largest Ethereum treasury. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."
     },
     {
       "source": "CoinDesk",
@@ -241,21 +248,14 @@
       "title": "Here's what bitcoin needs to break above $87,000",
       "url": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
       "pubDate": "Wed, 07 Oct 2026 11:30:00 +0000",
-      "summary": " Daybook level headline. Not a desk price. Not a BTC ticket. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Your day-ahead look for Oct. 7, 2026 Headline print. Not a desk price. HOLD BTC. HOLD ETH. DO NOT ADD. LOOK only."
     },
     {
       "source": "CoinDesk",
-      "title": "Live updates: Cryptos tumble, with ETH down 5% as Tom Lee confirms Bitmine buying limit",
+      "title": "Live updates: Bitcoin falls 4%, tumbling below $83,000 as interest rates surge",
       "url": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
       "pubDate": "Wed, 07 Oct 2026 11:09:50 +0000",
-      "summary": " Live-update headline says ETH down 5 percent and ties it to a Bitmine buying limit. Not a desk price. HOLD ETH. HOLD BTC. DO NOT ADD. LOOK only."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin's recovery stalls just short of rescuing its last underwater cohort",
-      "url": "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort",
-      "pubDate": "Wed, 07 Oct 2026 10:38:23 +0000",
-      "summary": " Headline says recovery stalled with bitcoin under $84,000. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Ether underperformed, losing 6% after Tom Lee said Bitmine would soon stop purchasing additional ETH. Headline print. Not a desk price. HOLD BTC. HOLD ETH. DO NOT ADD. LOOK only."
     }
   ]
 }
