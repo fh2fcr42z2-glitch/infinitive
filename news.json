@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-07T03:02:01Z",
+  "asof": "2026-10-07T12:03:23Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,35 +10,231 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "All six requested RSS URLs returned HTTP 200. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 02:03Z: new The Block item is Coinbase Pro return plus Deribit into Coinbase Global Exchange. CryptoSlate top is SEC down to 2 members. No SNAP, DRV, ENA, AERO, PUMP, or Bitget-style exploit headline in this pull. BTC: venue halt and services-price gauge are not desk prices. HOLD BTC. DO NOT ADD. LOOK only. ETH: Abstract L2 shutdown is not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. HOLD. DO NOT ADD. LOOK only. No fills.",
+  "notes": "All six requested RSS URLs returned HTTP 200. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 03:02Z: new tape is liquidation and sub-$84k BTC headlines, ETH outflow and down-5-percent headlines, Robinhood BTC balance-sheet add, Abstract L2 wind-down, and an S&P vault note citing a $6 million Base incident. No SNAP, DRV, ENA, AERO, PUMP, or Bitget-style exploit headline in this pull. BTC: liquidation and sub-$84k prints are not desk prices. HOLD BTC. DO NOT ADD. LOOK only. ETH: ETF outflow streak and down-5-percent headline are not an ETH ticket. Abstract shutdown is not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. HOLD. DO NOT ADD. LOOK only. Base vault incident is not a Bitget-style exploit on the live book. LOOK only. No fills.",
   "items": [
-    {"source": "The Block", "title": "Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange", "url": "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867", "pubDate": "Wed, 07 Oct 2026 03:00:00 +0000", "summary": "Venue headline only. Not a book ticket. HOLD. DO NOT ADD. LOOK only."},
-    {"source": "CryptoSlate", "title": "SEC drops to 2 members, and 1 hidden rule shifts crypto power", "url": "https://cryptoslate.com/sec-drops-to-2-members-and-1-hidden-rule-shifts-crypto-power/", "pubDate": "Wed, 07 Oct 2026 02:20:47 +0000", "summary": "Regulator headcount headline. Not a book ticket."},
-    {"source": "CoinTelegraph", "title": "Bitcoin.de trading remains halted as German regulator rejects MiCA application", "url": "https://cointelegraph.com/news/bitcoinde-trading-remains-halted-as-german-regulator-rejects-mica-application", "pubDate": "Wed, 07 Oct 2026 01:48:53 +0000", "summary": "Venue halt since June after MiCA rejection. Not a desk price. Not a BTC ticket. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "CryptoSlate", "title": "Open USD supply hits $666 million as 10 wallets trap most tokens", "url": "https://cryptoslate.com/open-usd-supply-hits-666-million-as-10-wallets-trap-most-tokens/", "pubDate": "Wed, 07 Oct 2026 00:30:19 +0000", "summary": "Crystal Oct 5 snapshot: $396 million unmoved in eight Tempo wallets. Headline only."},
-    {"source": "CoinTelegraph", "title": "Pudgy Penguins-backed Abstract to shut down after tens of millions in losses", "url": "https://cointelegraph.com/news/consumer-crypto-chain-abstract-to-wind-down", "pubDate": "Wed, 07 Oct 2026 00:01:40 +0000", "summary": "Igloo funded Abstract 18 months and did not find product-market fit. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."},
-    {"source": "CryptoSlate", "title": "Bitcoin rally delivers $4.1 billion tax windfall for Strategy", "url": "https://cryptoslate.com/bitcoin-rally-delivers-4-1-billion-tax-windfall-for-strategy/", "pubDate": "Tue, 06 Oct 2026 22:10:18 +0000", "summary": "Accounting note from an October filing. Not a desk price. Not a BTC ticket."},
-    {"source": "CoinTelegraph", "title": "Conduit sues Tether over allegedly freezing $2.8M without explanation", "url": "https://cointelegraph.com/news/conduit-lawsuit-tether-usdt-freeze", "pubDate": "Tue, 06 Oct 2026 21:00:44 +0000", "summary": "Lawsuit says Tether froze USDt tied to a 2024 Brazilian investigation. Not a book ticket."},
-    {"source": "CoinTelegraph", "title": "Winklevoss-backed Zcash ETF files with SEC for Nasdaq listing", "url": "https://cointelegraph.com/news/winklevoss-backed-zcash-etf-files-with-sec-for-nasdaq-listing", "pubDate": "Tue, 06 Oct 2026 20:53:19 +0000", "summary": "Proposed fund would hold ZEC. Gemini custodian. Not a book ticket."},
-    {"source": "CoinTelegraph", "title": "UK names 6 banks to lead first digitally native government bond", "url": "https://cointelegraph.com/news/uk-taps-6-banks-to-lead-first-digitally-native-government-bond", "pubDate": "Tue, 06 Oct 2026 19:19:00 +0000", "summary": "DIGIT pilot for DLT settlement of UK sovereign debt. Issuance eyed by Q1 2027. Not a book ticket."},
-    {"source": "Decrypt", "title": "Pudgy Penguins Ethereum Layer-2 Abstract Is Shutting Down", "url": "https://decrypt.co/380225/pudgy-penguin-ethereum-layer-2-abstract-shutting-down", "pubDate": "Tue, 06 Oct 2026 20:28:53 +0000", "summary": "Abstract shuts down Dec. 15. Bridge assets off before then. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."},
-    {"source": "Decrypt", "title": "Tether Hit With Lawsuit Over $2.76 Million Stablecoin Freeze", "url": "https://decrypt.co/380222/tether-lawsuit-2-76-million-stablecoin-freeze", "pubDate": "Tue, 06 Oct 2026 19:46:04 +0000", "summary": "Payments firm says a treasury wallet was frozen over a Brazilian investigation."},
-    {"source": "The Block", "title": "Pudgy Penguins-backed Ethereum L2 Abstract to shut down after losing tens of millions", "url": "https://www.theblock.co/news/ecosystems/2026-10-06-abstract-ethereum-layer-2-shutting-down-pudgy-penguins-igloo-417855", "pubDate": "Tue, 06 Oct 2026 20:11:30 +0000", "summary": "Shutdown date Dec. 15. Users must bridge off. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."},
-    {"source": "The Block", "title": "Conduit sues Tether over $2.76 million freeze, says it has no legal entitlement to funds", "url": "https://www.theblock.co/news/regulation/2026-10-06-conduit-sues-tether-usdt-freeze-417831", "pubDate": "Tue, 06 Oct 2026 17:54:00 +0000", "summary": "NY federal suit over a freeze lasting more than a year."},
-    {"source": "The Block", "title": "Winklevoss group seeks to launch Zcash ETF with 0.25 percent fee, proposed WINK ticker", "url": "https://www.theblock.co/news/markets/2026-10-06-winklevoss-files-spot-zcash-etf-wink-417826", "pubDate": "Tue, 06 Oct 2026 16:43:41 +0000", "summary": "Spot ZEC filing. Gemini custodian. 0.25 percent fee. Not a book ticket."},
-    {"source": "The Block", "title": "Solana treasury DeFi Development authorizes CHAD preferred stock buyback program", "url": "https://www.theblock.co/news/markets/2026-10-06-defi-development-chad-preferred-stock-repurchase-program-417819", "pubDate": "Tue, 06 Oct 2026 15:09:41 +0000", "summary": "Open-ended buyback if CHAD trades below $10 par. Not a book ticket."},
-    {"source": "The Block", "title": "Brevan Howard to use Ripple Prime for multi-asset brokerage, clearing and financing", "url": "https://www.theblock.co/news/business/2026-10-06-ripple-prime-brevan-howard-prime-brokerage-clearing-financing-417801", "pubDate": "Tue, 06 Oct 2026 14:36:08 +0000", "summary": "Prime-brokerage headline. Not a book ticket."},
-    {"source": "CryptoSlate", "title": "US services price gauge hits a four-year high, clouding Bitcoin rate-relief outlook", "url": "https://cryptoslate.com/us-services-price-gauge-hits-a-four-year-high-clouding-bitcoins-rate-relief-outlook/", "pubDate": "Tue, 06 Oct 2026 20:35:01 +0000", "summary": "September prices index 74.0. Headline only, not a desk price. HOLD BTC. DO NOT ADD. LOOK only."},
-    {"source": "CryptoSlate", "title": "3 countries control 66 percent of Bitcoin mining, but 1 rival is gaining", "url": "https://cryptoslate.com/3-countries-control-66-of-bitcoin-mining-but-1-rival-is-gaining/", "pubDate": "Tue, 06 Oct 2026 19:30:29 +0000", "summary": "Hashrate Index comparison. Not ownership or pool control. Not a BTC ticket."},
-    {"source": "CryptoSlate", "title": "FinCEN drops crypto mixing proposal as backlash kills rule", "url": "https://cryptoslate.com/fincen-drops-crypto-mixing-proposal-as-backlash-kills-rule/", "pubDate": "Tue, 06 Oct 2026 18:20:29 +0000", "summary": "Proposed mixer reporting dropped. Existing AML duties remain."},
-    {"source": "Bitcoin Magazine", "title": "Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges", "url": "https://bitcoinmagazine.com/news/crypto-card-payments-hit-record-12-billion", "pubDate": "Tue, 06 Oct 2026 21:48:49 +0000", "summary": "Card-payment headline. Not a book ticket."},
-    {"source": "Bitcoin Magazine", "title": "Bitcoin Privacy Legend Amir Taaki Deported From Singapore", "url": "https://bitcoinmagazine.com/news/amir-taaki-deported-from-singapore", "pubDate": "Tue, 06 Oct 2026 21:07:23 +0000", "summary": "Early Bitcoin contributor says he was questioned then deported. Not a BTC ticket."},
-    {"source": "Bitcoin Magazine", "title": "StoneX Mark Palmer: $435 MSTR Price Target Explained - DAT Consolidation Outlook", "url": "https://bitcoinmagazine.com/videos/stonexs-mark-palmer-435-mstr-price-target-explained-dat-consolidation-outlook", "pubDate": "Tue, 06 Oct 2026 21:16:05 +0000", "summary": "Video note on a stated target. Headline only, not a desk price. Not a BTC ticket."},
-    {"source": "Bitcoin Magazine", "title": "$350M St Cloud CEO: first credit union to put Bitcoin on core ledger", "url": "https://bitcoinmagazine.com/videos/350m-st-cloud-ceo-the-first-credit-union-to-put-bitcoin-on-core-ledger-jed-meyer", "pubDate": "Tue, 06 Oct 2026 21:34:32 +0000", "summary": "Video note on a credit-union ledger. Not a desk price. Not a BTC ticket."},
-    {"source": "CoinDesk", "title": "Peter Thiel-backed Founders Fund leads a $5 million token buy in crypto collateral protocol Anvil", "url": "https://www.coindesk.com/business/2026/10/06/peter-thiel-backed-founders-fund-leads-a-usd5-million-token-buy-in-crypto-collateral-protocol-anvil", "pubDate": "Tue, 06 Oct 2026 17:00:00 +0000", "summary": "Pantera and Bullish also in the ANVL purchase. Not a book ticket."},
-    {"source": "CoinDesk", "title": "OKX draws investment from StanChart, Circle, Ripple as it pushes beyond crypto exchange roots", "url": "https://www.coindesk.com/business/2026/10/06/okx-draws-investment-from-stanchart-circle-ripple-as-it-pushes-beyond-crypto-exchange-roots", "pubDate": "Tue, 06 Oct 2026 15:20:30 +0000", "summary": "Exchange positioning beyond spot roots. Not a book ticket."},
-    {"source": "CoinDesk", "title": "Arbitrum joins Paxos-led stablecoin group Global Dollar to capture digital dollar growth", "url": "https://www.coindesk.com/business/2026/10/05/arbitrum-joins-paxos-led-stablecoin-group-global-dollar-to-capture-digital-dollar-growth", "pubDate": "Tue, 06 Oct 2026 13:02:33 +0000", "summary": "L2 backing Paxos USDG for reserve-income share. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."},
-    {"source": "CoinDesk", "title": "Self-styled Godfather gets 6 years in prison for $37 million Meta fraud scheme", "url": "https://www.coindesk.com/policy/2026/10/06/self-styled-crypto-godfather-gets-more-than-6-years-in-usd37-million-meta-fraud-case", "pubDate": "Tue, 06 Oct 2026 12:31:51 +0000", "summary": "Sentence runs with a prior term tied to an attempted bitcoin robbery. Not a book ticket."},
-    {"source": "CoinDesk", "title": "The VIX of bonds is rising but bitcoin and stocks are not hearing it yet", "url": "https://www.coindesk.com/daybook-us/2026/10/06/the-vix-of-bonds-is-rising-but-bitcoin-and-stocks-aren-t-hearing-it-yet", "pubDate": "Tue, 06 Oct 2026 11:30:00 +0000", "summary": "Daybook for Oct 6, 2026. Headline only, not a desk price. HOLD BTC. DO NOT ADD. LOOK only."}
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto card access doesn't match global demand, Tangem says",
+      "url": "https://cointelegraph.com/news/crypto-card-access-doesnt-match-global-demand-tangem-says",
+      "pubDate": "Wed, 07 Oct 2026 11:37:48 +0000",
+      "summary": "Crypto card demand can be stronger where access is harder, Tangem says, as the company expands its self-custodial payment offering through Visa. Headline only. Not a ticket."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Trump-backed WLFI plans USD1 payments for online businesses",
+      "url": "https://cointelegraph.com/news/trump-backed-wlfi-plans-usd1-payments-for-online-businesses",
+      "pubDate": "Wed, 07 Oct 2026 10:26:55 +0000",
+      "summary": "World Liberty Financial outlined plans to bring USD1 to major online platforms as Mesh announced a payments partnership scheduled to roll out this quarter. Headline only. Not a ticket."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Wall Street wealth creation model is unsustainable for most participants: Hyperliquid CEO",
+      "url": "https://cointelegraph.com/news/wall-street-wealth-creation-unsustainable-hyperliquid-ceo",
+      "pubDate": "Wed, 07 Oct 2026 10:19:27 +0000",
+      "summary": "Hyperliquid CEO comment on perps access. Not an order. Not a book ticket. LOOK only."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "'Old money' has stronger Bitcoin 'diamond hands,' says BingX exec",
+      "url": "https://cointelegraph.com/news/bingx-old-money-bitcoin-diamond-hands-token2049",
+      "pubDate": "Wed, 07 Oct 2026 09:57:19 +0000",
+      "summary": "BingX strategy chief Kevin Lee says wealthy investors are taking a longer-term approach to Bitcoin, though family-office crypto exposure remains limited. Headline only. Not a ticket."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto liquidations hit $550M as Bitcoin price dips below $84K",
+      "url": "https://cointelegraph.com/markets/crypto-liquidations-hit-550m-as-bitcoin-price-dips-below-84k",
+      "pubDate": "Wed, 07 Oct 2026 09:45:35 +0000",
+      "summary": "Headline liquidation figure and a sub-$84k print. Not a desk price. Not a BTC ticket. HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs rebound with $119M inflow as Ether extends losses",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-rebound-119m-inflow-ether-extend-losses",
+      "pubDate": "Wed, 07 Oct 2026 09:03:38 +0000",
+      "summary": "ETF flow headline: BTC funds +$119 million, Ether funds six-session outflow. Not a desk price. HOLD BTC. HOLD ETH. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Europol Warns Crypto Wallets Are 'Primary Risk' for Quantum Attacks",
+      "url": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
+      "pubDate": "Wed, 07 Oct 2026 10:49:16 +0000",
+      "summary": "The EU police agency expects blockchains to adapt to the threat, while a second report weighs the risk of data stolen now and cracked later. Headline only. Not a ticket."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Prosecutors Cite Bitcoin Fog Ruling Against Roman Storm's Venue Challenge",
+      "url": "https://decrypt.co/380260/prosecutors-cite-bitcoin-fog-ruling-against-roman-storms-venue-challenge",
+      "pubDate": "Wed, 07 Oct 2026 09:58:06 +0000",
+      "summary": "The Tornado Cash founder hit back in a tweet, noting FinCEN withdrew a proposed mixer rule over concerns it could chill legitimate activity. Headline only. Not a ticket."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ledger Launches Bitcoin Loans, Letting Holders Borrow Without Selling",
+      "url": "https://decrypt.co/380224/ledger-bitcoin-loans-holders-borrow-without-selling",
+      "pubDate": "Wed, 07 Oct 2026 09:01:03 +0000",
+      "summary": "Unveiled at TOKEN2049 Singapore, the Morpho-powered Crypto Loan feature lets users borrow stablecoins against wrapped Bitcoin while keeping private keys and final approval on their hardware device. Headline only. Not a ticket."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Circle Welcomes DJ Khaled to 'Team USDC' and Crypto Twitter Is Furious",
+      "url": "https://decrypt.co/380240/circle-dj-khaled-team-usdc-crypto-twitter-furious",
+      "pubDate": "Tue, 06 Oct 2026 22:16:03 +0000",
+      "summary": "Nothing in Circle's posts announces a sponsorship, but replies dug up Khaled's 2018 SEC settlement over a crypto fraud he promoted. The internet never forgets. Headline only. Not a ticket."
+    },
+    {
+      "source": "The Block",
+      "title": "NEAR's Polosukhin sees shrinking need for centralized exchanges as onchain tools expand",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-07-nears-polosukhin-sees-shrinking-need-for-centralized-exchanges-as-onchain-tools-expand-417912",
+      "pubDate": "Wed, 07 Oct 2026 11:15:16 +0000",
+      "summary": "NEAR co-founder Illia Polosukhin said users no longer need centralized exchanges for \"a lot\" of crypto activity. Headline only. Not a ticket."
+    },
+    {
+      "source": "The Block",
+      "title": "Jito's JTX plans mobile app this fall, eyes perps integration later this winter",
+      "url": "https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905",
+      "pubDate": "Wed, 07 Oct 2026 09:51:29 +0000",
+      "summary": "Jito's JTX plans a mobile app, equities feature, and perpetual futures as it expands beyond spot trading on Solana. Headline only. Not a ticket."
+    },
+    {
+      "source": "The Block",
+      "title": "'Every single exchange' will have to adopt public blockchain infrastructure to compete, Hyperliquid Policy Center CEO says",
+      "url": "https://www.theblock.co/news/regulation/2026-10-07-hyperliquid-policy-center-jake-chervinsky-interview-417896",
+      "pubDate": "Wed, 07 Oct 2026 08:30:01 +0000",
+      "summary": "Hyperliquid Policy Center comment on exchange infrastructure. Not an order. LOOK only."
+    },
+    {
+      "source": "The Block",
+      "title": "Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push",
+      "url": "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
+      "pubDate": "Wed, 07 Oct 2026 07:08:36 +0000",
+      "summary": "Robinhood treasury headline. Not a desk order. Not a BTC ticket. HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin briefly slides below $84,000 as crypto long liquidations reach $487 million",
+      "url": "https://www.theblock.co/news/markets/2026-10-06-bitcoin-slides-crypto-long-liquidations-surge-417882",
+      "pubDate": "Wed, 07 Oct 2026 03:57:21 +0000",
+      "summary": "Headline print under $84,000 and long-liquidation figure. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "The Block",
+      "title": "Coinbase Pro to return; Deribit integration creates Coinbase Global Exchange",
+      "url": "https://www.theblock.co/news/business/2026-10-06-coinbase-pro-deribit-integration-coinbase-global-exchange-417867",
+      "pubDate": "Wed, 07 Oct 2026 03:00:00 +0000",
+      "summary": "Venue headline only. Not a book ticket. HOLD. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "S&P brings ratings-style scrutiny to $10 billion crypto vault market as $6 million Base incident exposes risks",
+      "url": "https://cryptoslate.com/sp-brings-ratings-style-scrutiny-to-10-billion-crypto-vault-market-as-6-million-base-incident-exposes-risks/",
+      "pubDate": "Wed, 07 Oct 2026 11:40:51 +0000",
+      "summary": "Ratings-style note on vaults cites a $6 million Base incident. Not a Bitget-style exploit on the live book. LOOK only. DO NOT ADD."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Why Abstract is killing its Ethereum L2 instead of launching a token to save it",
+      "url": "https://cryptoslate.com/why-abstract-is-killing-its-ethereum-l2-instead-of-launching-a-token-to-save-it/",
+      "pubDate": "Wed, 07 Oct 2026 10:20:52 +0000",
+      "summary": "Abstract L2 wind-down. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Cardano's price breakout could trigger the next ADA squeeze or trap leveraged bulls",
+      "url": "https://cryptoslate.com/cardanos-price-breakout-could-trigger-the-next-ada-squeeze-or-trap-leveraged-bulls/",
+      "pubDate": "Wed, 07 Oct 2026 09:00:00 +0000",
+      "summary": "Cardano's value has climbed about 42% since Sept. 16, taking ADA from roughly $0.19 to $0.27, and the positioning behind the move has expanded faster than the dollar liquidity beneath it. Santiment counted 413 transactio Headline only. Not a ticket."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Solana DvP settlement requires 100% upfront cash for every trade",
+      "url": "https://cryptoslate.com/solana-dvp-settlement-requires-100-upfront-cash-for-every-trade/",
+      "pubDate": "Wed, 07 Oct 2026 04:30:56 +0000",
+      "summary": "Its published DvP design exchanges fully funded token legs atomically, leaving financing and netting to institutions. The post Solana DvP settlement requires 100% upfront cash for every trade appeared first on CryptoSlat Headline only. Not a ticket."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "SEC drops to 2 members, and 1 hidden rule shifts crypto power",
+      "url": "https://cryptoslate.com/sec-drops-to-2-members-and-1-hidden-rule-shifts-crypto-power/",
+      "pubDate": "Wed, 07 Oct 2026 02:20:47 +0000",
+      "summary": "The new exception permits one eligible commissioner to form a quorum when every other sitting member is disqualified from the particular matter. The post SEC drops to 2 members, and 1 hidden rule shifts crypto power appe Headline only. Not a ticket."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Open USD supply hits $666 million as 10 wallets trap most tokens",
+      "url": "https://cryptoslate.com/open-usd-supply-hits-666-million-as-10-wallets-trap-most-tokens/",
+      "pubDate": "Wed, 07 Oct 2026 00:30:19 +0000",
+      "summary": "Crystal's October 5 snapshot found $396 million unmoved in eight Tempo wallets, while customer activity inside custody accounts remains unknown. The post Open USD supply hits $666 million as 10 wallets trap most tokens a Headline only. Not a ticket."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges",
+      "url": "https://bitcoinmagazine.com/news/crypto-card-payments-hit-record-12-billion",
+      "pubDate": "Tue, 06 Oct 2026 21:48:49 +0000",
+      "summary": "Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges More people are using crypto cards than ever before to make payments. This post Crypto Card Payments Hit Record $12.5 Billion a Headline only. Not a ticket."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "$350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer",
+      "url": "https://bitcoinmagazine.com/videos/350m-st-cloud-ceo-the-first-credit-union-to-put-bitcoin-on-core-ledger-jed-meyer",
+      "pubDate": "Tue, 06 Oct 2026 21:34:32 +0000",
+      "summary": "$350M St Cloud CEO: The First Credit Union to Put Bitcoin on Core Ledger | Jed Meyer A 1930s postal credit union now custodies real Bitcoin. St. Cloud CEO Jed Meyer breaks down its hybrid vault model and Headline only. Not a ticket."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "StoneX's Mark Palmer: $435 MSTR Price Target Explained - DAT Consolidation Outlook",
+      "url": "https://bitcoinmagazine.com/videos/stonexs-mark-palmer-435-mstr-price-target-explained-dat-consolidation-outlook",
+      "pubDate": "Tue, 06 Oct 2026 21:16:05 +0000",
+      "summary": "StoneX's Mark Palmer: $435 MSTR Price Target Explained - DAT Consolidation Outlook Strategy bought STRC over Bitcoin. Mark Palmer explains why the preferred stock is vital to Strategy's fundraising and h Headline only. Not a ticket."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Privacy Legend Amir Taaki Deported From Singapore",
+      "url": "https://bitcoinmagazine.com/news/amir-taaki-deported-from-singapore",
+      "pubDate": "Tue, 06 Oct 2026 21:07:23 +0000",
+      "summary": "Bitcoin Privacy Legend Amir Taaki Deported From Singapore The early Bitcoin contributor says he was questioned for hours before being deported - something which keeps happening. This post Bitcoin Privacy Headline only. Not a ticket."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Swift blockchain ledger requires key internal layers, Taurus co-founder warns",
+      "url": "https://www.coindesk.com/business/2026/10/07/swift-blockchain-ledger-requires-key-internal-layers-taurus-co-founder-warns",
+      "pubDate": "Wed, 07 Oct 2026 11:59:24 +0000",
+      "summary": "Banks need their own permissioned ledger, wallet tools and smart-contract capabilities before they can use Swift's tokenized-deposit network, Taurus's Lamine Brahimi said. Headline only. Not a ticket."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Here's what bitcoin needs to break above $87,000",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/07/here-s-what-bitcoin-needs-to-break-above-usd87-000",
+      "pubDate": "Wed, 07 Oct 2026 11:30:00 +0000",
+      "summary": "Your day-ahead look for Oct. 7, 2026 Headline only. Not a ticket."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Cryptos tumble, with ETH down 5% as Tom Lee confirms buying limit",
+      "url": "https://www.coindesk.com/business/2026/10/07/live-updates-bitcoin-slides-under-usd84-000-as-usd550-million-in-bets-get-liquidated",
+      "pubDate": "Wed, 07 Oct 2026 11:09:50 +0000",
+      "summary": "Live-update headline says ETH down 5 percent and BTC under $84,000. Not a desk price. HOLD ETH. HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's recovery stalls just short of rescuing its last underwater cohort",
+      "url": "https://www.coindesk.com/markets/2026/10/07/bitcoin-s-recovery-stalls-just-short-of-rescuing-its-last-underwater-cohort",
+      "pubDate": "Wed, 07 Oct 2026 10:38:23 +0000",
+      "summary": "Yearly buyer cohorts and U.S. spot ETF investors offer a map of potential support and resistance as bitcoin retreats below $84,000. Headline only. Not a ticket."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Liquidations jump to $547 million as oil rally hits crypto market",
+      "url": "https://www.coindesk.com/markets/2026/10/07/liquidations-jump-to-usd547-million-as-oil-rally-drags-bitcoin-below-usd84-000",
+      "pubDate": "Wed, 07 Oct 2026 10:35:09 +0000",
+      "summary": "Headline ties oil rally to BTC under $84,000 and liquidations. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Rain is seeking a national trust bank charter to bypass third-party banks",
+      "url": "https://www.coindesk.com/business/2026/10/07/rain-becomes-12th-crypto-firm-seeking-occ-trust-bank-charter-amid-community-bank-pushback",
+      "pubDate": "Wed, 07 Oct 2026 09:09:06 +0000",
+      "summary": "The stablecoin payments company's proposed New York trust bank would custody digital assets and dollars, manage stablecoin reserves and issue and redeem dollar-backed tokens. Headline only. Not a ticket."
+    }
   ]
 }
