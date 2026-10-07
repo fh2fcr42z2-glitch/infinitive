@@ -1,1 +1,15 @@
-PLACEHOLDER
+{
+  "asof": "2026-10-07T16:05:09Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "notes": "All six requested RSS URLs returned HTTP 200 on this run. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 15:02Z snapshot: new CoinTelegraph Bitcoin price drops to $82.7K October low as bond sell-off resumes on Iran nerves (headline level, not a desk price). New Decrypt Bitcoin dips below $83K as oil shock rattles markets (headline level, not a desk price). New CoinTelegraph Coinbase Deribit US derivatives integration. New CryptoSlate XRP treasury SPAC drops 50 percent ahead of Evernorth Nasdaq debut. New CoinDesk Gate all-in-one money app and Zcash privacy note. Bitmine stop-stacking at 5 percent of ETH still live. Robinhood $25 million bitcoin balance-sheet add still live. Abstract L2 shutdown still live. S&P vault note still cites a $6 million Base incident. Still no SNAP, DRV, ENA, AERO, PUMP, or Bitget-style exploit headline. BTC: sub-$83k / $82.7k headline prints and liquidation figures are not desk prices. Robinhood balance-sheet add is not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: Bitmine stop-stacking at 5 percent of ETH is not an ETH ticket. Abstract shutdown is not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. HOLD. DO NOT ADD. LOOK only. Base vault incident is not a Bitget-style exploit on the live book. LOOK only. No fills.",
+  "items": []
+}
