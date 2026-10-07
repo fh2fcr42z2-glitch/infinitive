@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-06T23:02:29Z",
+  "asof": "2026-10-07T00:02:18Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,7 +10,7 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "All six requested RSS URLs returned HTTP 200 this pull. Rekt listed at https://rekt.news; rekt.news/rss.xml was not parsed this run. Versus 22:03Z snapshot: Decrypt new top lines are Google Nano Banana 2.1 and Circle welcoming DJ Khaled to Team USDC. CryptoSlate new top line is a Strategy filing described as a $4.1 billion tax windfall from a Bitcoin rally. Abstract L2 shutdown and Conduit-Tether freeze lawsuit still lead The Block and CoinTelegraph. No SNAP, DRV, ENA, AERO, PUMP, or Bitget headline in this pull. BTC: CryptoSlate headline says a services price gauge clouds Bitcoin rate-relief. CoinDesk daybook says the VIX of bonds is rising but bitcoin and stocks are not hearing it yet. Strategy tax-windfall headline is an accounting note, not a desk price. HOLD BTC. DO NOT ADD. LOOK only. ETH: Abstract L2 shutdown is a chain wind-down, not an ETH ticket. Prior desk note on US spot ETH ETF outflows is not in this top-six pull. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior desk note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior desk note stands: PUMP funding on Binance changed paying sides between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. Bitget-style exploits: no new Bitget headline. LOOK only. No SNAP, ENA, or AERO headline in this pull. HOLD those names. DO NOT ADD. LOOK only. No fills.",
+  "notes": "All six requested RSS URLs returned HTTP 200 this pull. Rekt listed at https://rekt.news; rekt.news/rss.xml was not parsed this run. Versus 23:02Z snapshot: top lines are largely unchanged. Decrypt sixth slot is now a non-book Bryan Johnson filter item; the second Zcash ETF writeup dropped out of the top six. Abstract L2 shutdown and Conduit-Tether freeze lawsuit still lead The Block and CoinTelegraph. Strategy filing still leads CryptoSlate as a $4.1 billion tax windfall from a Bitcoin rally. No SNAP, DRV, ENA, AERO, PUMP, or Bitget headline in this top-six pull. BTC: CryptoSlate headline says a services price gauge clouds Bitcoin rate-relief. CoinDesk daybook says the VIX of bonds is rising but bitcoin and stocks are not hearing it yet. Strategy tax-windfall headline is an accounting note, not a desk price. HOLD BTC. DO NOT ADD. LOOK only. ETH: Abstract L2 shutdown is a chain wind-down, not an ETH ticket. A deeper CryptoSlate line, not in the top six, says ETH stayed near a stated level while US spot ETFs recorded outflows. Headline only, not a desk price. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior desk note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior desk note stands: PUMP funding on Binance changed paying sides between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. Bitget-style exploits: no new Bitget headline. LOOK only. No SNAP, ENA, or AERO headline in this pull. HOLD those names. DO NOT ADD. LOOK only. No fills.",
   "items": [
     {
       "source": "CoinTelegraph",
@@ -91,10 +91,10 @@
     },
     {
       "source": "Decrypt",
-      "title": "Another Zcash ETF is coming: Winklevoss twins file for WINK",
-      "url": "https://decrypt.co/380210/another-zcash-etf-coming-winklevoss-twins-wink",
-      "pubDate": "Tue, 06 Oct 2026 18:42:34 +0000",
-      "summary": "Proposed fund would hold ZEC directly and trade on Nasdaq under WINK with Gemini as custodian."
+      "title": "Bryan Johnson says a filter works better than aging therapy",
+      "url": "https://decrypt.co/380211/bryan-johnson-best-anti-aging-filters",
+      "pubDate": "Tue, 06 Oct 2026 19:15:04 +0000",
+      "summary": "Non-book item. Replaced the second Zcash ETF writeup in Decrypt's top six."
     },
     {
       "source": "The Block",
