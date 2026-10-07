@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-07T18:02:36Z",
+  "asof": "2026-10-07T19:02:47Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,8 +10,15 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk returned items on this run. Bitcoin Magazine first curl was HTTP 403; retry with a browser user-agent returned the feed. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 17:02Z snapshot: new CoinTelegraph Sui offchain tunnels 40.6M TPS AI-agent stress test; new The Block Justin Drake bunker-mode note on private-key recovery; new CryptoSlate Japanese institutions selling 2.6 trillion yen of foreign debt framed as a Bitcoin financing risk; new CoinDesk Gate Money all-in-one app note (not a Bitget-style exploit). Bitcoin headline prints still live at $82.7k October low and under $83k on oil and yields. US government moved seized BTC and BNB, reason not stated, no sale confirmed. Bitmine stop-stacking at 5 percent of ETH still live. Robinhood $25 million bitcoin balance-sheet add still live. Still no SNAP, DRV, ENA, AERO, PUMP, or Bitget-style exploit headline. BTC: sub-$83k / $82.7k headline prints and liquidation figures are not desk prices. Robinhood balance-sheet add is not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: Bitmine stop-stacking at 5 percent of ETH and Drake bunker-mode planning are not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. HOLD. DO NOT ADD. LOOK only. Gate Money rebrand is not a Bitget-style exploit on the live book. LOOK only. No fills.",
+  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk returned items on this run. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 18:02Z snapshot: new CoinTelegraph Hunter Biden LAPTOP 'not a rug' note; new The Block Grayscale Zcash ETF tops $1 billion; new CryptoSlate Ethereum falls 6% with $1.35 billion long bets at liquidation risk. Bitcoin headline prints still live at $82.7k October low and under $83k on oil and yields. US government moved seized BTC and BNB, reason not stated, no sale confirmed. Bitmine stop-stacking at 5 percent of ETH still live. Robinhood $25 million bitcoin balance-sheet add still live. Still no SNAP, DRV, ENA, AERO, PUMP, or Bitget-style exploit headline. BTC: sub-$83k / $82.7k headline prints and liquidation figures are not desk prices. Robinhood balance-sheet add is not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: 6% drop headline, $1.35 billion long-liquidation risk, Bitmine stop-stacking at 5 percent of ETH, and Drake bunker-mode planning are not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. HOLD. DO NOT ADD. LOOK only. Gate Money rebrand is not a Bitget-style exploit on the live book. LOOK only. No fills.",
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Hunter Biden confirms LAPTOP token 'not a rug pull,' just trolling Trumps",
+      "url": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull",
+      "pubDate": "Wed, 07 Oct 2026 18:00:10 +0000",
+      "summary": "Hunter Biden said the LAPTOP memecoin was trolling, not a rug. Not on the live book. Headline only. Not a ticket. LOOK only."
+    },
     {
       "source": "CoinTelegraph",
       "title": "Sui tunnels hit 40.6M TPS in live AI agent test",
@@ -28,7 +35,7 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "House Finance panel chair says regulator actions on crypto fall short of CLARITY bill",
+      "title": "House Finance panel chair says regulator actions on crypto 'fall short' of CLARITY bill",
       "url": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill",
       "pubDate": "Wed, 07 Oct 2026 16:06:03 +0000",
       "summary": "Representative French Hill hopes lawmakers could pass a market-structure bill before the next session of Congress in 2027. Headline only. Not a ticket."
@@ -83,22 +90,22 @@
       "summary": "OKX raise note, plus a $500 million-plus crypto long liquidation figure after a late selloff, and Abstract calling it quits. Headline only. Not a ticket."
     },
     {
-      "source": "Decrypt",
-      "title": "Europol Warns Crypto Wallets Are Primary Risk for Quantum Attacks",
-      "url": "https://decrypt.co/380268/europol-warns-crypto-wallets-are-primary-risk-for-quantum-attacks",
-      "pubDate": "Wed, 07 Oct 2026 10:49:16 +0000",
-      "summary": "EU police expect blockchains to adapt, while a second report weighs data stolen now and cracked later. Headline only. Not a ticket."
+      "source": "The Block",
+      "title": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",
+      "url": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
+      "pubDate": "Wed, 07 Oct 2026 18:37:17 +0000",
+      "summary": "Grayscale framed a new ETF phase as a Zcash product topped $1 billion. Not on the live book. Headline only. Not a ticket. LOOK only."
     },
     {
       "source": "The Block",
-      "title": "Ethereum researcher Justin Drake calls for bunker mode planning over private key recovery risk",
+      "title": "Ethereum researcher Justin Drake calls for 'bunker mode' planning over private key recovery risk",
       "url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
       "pubDate": "Wed, 07 Oct 2026 17:23:02 +0000",
       "summary": "Justin Drake recommended moving crypto assets to fresh addresses that keep public keys hidden behind a hash. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."
     },
     {
       "source": "The Block",
-      "title": "Hunter Biden says LAPTOP market maker should buy it all back and burn it",
+      "title": "Hunter Biden says LAPTOP market maker should 'buy it all back and burn it'",
       "url": "https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947",
       "pubDate": "Wed, 07 Oct 2026 16:40:51 +0000",
       "summary": "A commissioned report details thin liquidity and market-maker-linked gains during LAPTOP launch. Headline only. Not a ticket."
@@ -112,28 +119,21 @@
     },
     {
       "source": "The Block",
-      "title": "NEAR's Polosukhin sees shrinking need for centralized exchanges as onchain tools expand",
-      "url": "https://www.theblock.co/news/ecosystems/2026-10-07-nears-polosukhin-sees-shrinking-need-for-centralized-exchanges-as-onchain-tools-expand-417912",
-      "pubDate": "Wed, 07 Oct 2026 11:15:16 +0000",
-      "summary": "NEAR co-founder Illia Polosukhin said users no longer need centralized exchanges for a lot of crypto activity. Headline only. Not a ticket."
-    },
-    {
-      "source": "The Block",
       "title": "Jito's JTX plans mobile app this fall, eyes perps integration later this winter",
       "url": "https://www.theblock.co/news/defi/2026-10-07-jitos-jtx-plans-mobile-app-this-fall-eyes-perps-integration-later-this-winter-417905",
       "pubDate": "Wed, 07 Oct 2026 09:51:29 +0000",
       "summary": "Jito's JTX plans a mobile app, equities feature, and perpetual futures beyond spot trading on Solana. Headline only. Not a ticket."
     },
     {
-      "source": "The Block",
-      "title": "Every single exchange will have to adopt public blockchain infrastructure to compete, Hyperliquid Policy Center CEO says",
-      "url": "https://www.theblock.co/news/regulation/2026-10-07-hyperliquid-policy-center-jake-chervinsky-interview-417896",
-      "pubDate": "Wed, 07 Oct 2026 08:30:01 +0000",
-      "summary": "Chervinsky says onchain markets need to enter the U.S. regulatory perimeter. Not an order. LOOK only."
+      "source": "CryptoSlate",
+      "title": "Ethereum falls 6%, leaving $1.35 billion in long bets at risk of liquidation",
+      "url": "https://cryptoslate.com/ethereum-falls-6-leaving-1-35-billion-in-long-bets-at-risk-of-liquidation/",
+      "pubDate": "Wed, 07 Oct 2026 18:40:43 +0000",
+      "summary": "Headline says ETH fell 6% with $1.35 billion of long bets at liquidation risk. Headline print is not a desk price. HOLD ETH. DO NOT ADD. LOOK only."
     },
     {
       "source": "CryptoSlate",
-      "title": "As Japanese institutions sell 2.6 trillion yen in foreign debt, here is what Bitcoin investors need to watch",
+      "title": "As Japanese institutions sell yen 2.6 trillion in foreign debt, here's what Bitcoin investors need to watch",
       "url": "https://cryptoslate.com/as-japanese-institutions-sell-%c2%a52-6-trillion-in-foreign-debt-heres-what-bitcoin-investors-need-to-watch/",
       "pubDate": "Wed, 07 Oct 2026 17:35:20 +0000",
       "summary": "Headline frames heavier Japanese foreign-debt sales as a potential Bitcoin financing risk. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
@@ -158,13 +158,6 @@
       "url": "https://cryptoslate.com/robinhood-adds-25-million-of-bitcoin-to-its-own-balance-sheet/",
       "pubDate": "Wed, 07 Oct 2026 14:30:11 +0000",
       "summary": "Robinhood balance-sheet add is not a desk order and not a BTC ticket. HOLD BTC. DO NOT ADD. LOOK only."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Polymarket's upgrade will not automatically move existing bets to new contracts",
-      "url": "https://cryptoslate.com/polymarkets-new-trading-system-wont-automatically-move-existing-bets-to-its-new-contracts/",
-      "pubDate": "Wed, 07 Oct 2026 13:30:51 +0000",
-      "summary": "App users follow approval prompts. Integrations must keep CTF support and add V2 identifiers. Headline only. Not a ticket."
     },
     {
       "source": "CryptoSlate",
@@ -209,6 +202,13 @@
       "summary": "Robinhood added $25M of Bitcoin, about 294 BTC, to its balance sheet. Not a desk order. Not a BTC ticket. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
+      "source": "Bitcoin Magazine",
+      "title": "Crypto Card Payments Hit Record $12.5 Billion as Stablecoin Adoption Surges",
+      "url": "https://bitcoinmagazine.com/news/crypto-card-payments-hit-record-12-billion",
+      "pubDate": "Tue, 06 Oct 2026 21:48:49 +0000",
+      "summary": "Headline says crypto card payments hit a record $12.5 billion. Not on the live book. Headline only. Not a ticket."
+    },
+    {
       "source": "CoinDesk",
       "title": "Polygon taps TRON's $94 billion stablecoin supply for seamless cross-border transfers",
       "url": "https://www.coindesk.com/business/2026/10/07/polygon-and-tron-partner-to-bridge-usd94-billion-usdt-ecosystem-with-u-s-banking-rails",
@@ -221,20 +221,6 @@
       "url": "https://www.coindesk.com/business/2026/10/07/gate-bets-all-in-one-money-app-is-crypto-s-biggest-consumer-trend-this-year-and-next",
       "pubDate": "Wed, 07 Oct 2026 15:13:15 +0000",
       "summary": "Gate rebrands around Gate Money, combining accounts, conversion, savings, and card payments. Not a Bitget-style exploit. LOOK only. DO NOT ADD."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Long and Short: Zcash and the case for privacy in the age of AI",
-      "url": "https://www.coindesk.com/coindesk-indices/2026/10/07/crypto-long-and-short-zcash-and-the-case-for-privacy-in-the-age-of-ai",
-      "pubDate": "Wed, 07 Oct 2026 15:03:54 +0000",
-      "summary": "Grayscale research note on linking wallet addresses to people as AI makes that cheaper. Headline only. Not a ticket."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Tether tapped by Kazakhstan's central bank to explore stablecoin and tokenization",
-      "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
-      "pubDate": "Wed, 07 Oct 2026 14:27:37 +0000",
-      "summary": "The National Bank of Kazakhstan said it will study a local-currency stablecoin and tokenized real-world assets with Tether. Headline only. Not a ticket."
     },
     {
       "source": "CoinDesk",
