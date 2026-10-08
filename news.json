@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-08T01:01:58Z",
+  "asof": "2026-10-08T02:01:53Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,14 +10,14 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk returned items on this run. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 00:02Z snapshot: CoinTelegraph added Justin Drake bunker-mode item at 00:04Z. CoinDesk added Cointelegraph-seeks-buyer item at 00:35Z. Other six-item windows unchanged. Bitcoin headline prints still live under $83k on oil and yields. Ethereum 6 percent drop with $1.35 billion long bets at liquidation risk still live. Drake bunker-mode and AI-before-quantum warnings still live, now also on CoinTelegraph. Orca/Loopscale merge as Formation still live and is not an AERO headline. Robinhood $25 million bitcoin balance-sheet add remains a prior note, not a ticket. Bitmine stop-stacking at 5 percent of ETH remains a prior note. US government seized BTC and BNB move remains a prior note, reason not stated, no sale confirmed. Still no SNAP, DRV, ENA, AERO, PUMP, or Bitget-style exploit headline. BTC: sub-$83k headline prints, Drake/OpenAI bunker-mode alarm, and prior Robinhood balance-sheet add are not desk prices and not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: 6 percent drop headline, $1.35 billion long-liquidation risk, Drake bunker-mode planning, and Drake AI-before-quantum warning are not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. Orca/Loopscale merge is Solana DeFi, not AERO. HOLD. DO NOT ADD. LOOK only. Gate Money rebrand, the megachurch AI-agent database note, and the Cointelegraph sale note are not a Bitget-style exploit on the live book. LOOK only. No fills.",
+  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk returned items on this run. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 01:01:58Z snapshot: CoinTelegraph top slot retitled Vitalik Buterin backs bunker mode, same 00:04:32Z stamp. CryptoSlate added US government moves $470 million seized crypto to Coinbase wallets at 00:00:12Z; Evernorth SPAC item dropped from the six-item window. CoinDesk Cointelegraph-seeks-buyer item still live at 00:35Z. Bitcoin headline prints still live under $83k on oil and yields. Ethereum 6 percent drop with $1.35 billion long bets at liquidation risk still live. Drake bunker-mode and AI-before-quantum warnings still live; Vitalik backing now on CoinTelegraph. Orca/Loopscale merge as Formation still live and is not an AERO headline. Robinhood $25 million bitcoin balance-sheet add remains a prior note, not a ticket. Bitmine stop-stacking at 5 percent of ETH remains a prior note. US seized BTC and BNB move is now a fresh CryptoSlate headline; reason not stated, no sale confirmed. Still no SNAP, DRV, ENA, AERO, PUMP, or Bitget-style exploit headline. BTC: sub-$83k headline prints, Drake/Vitalik bunker-mode alarm, and prior Robinhood balance-sheet add are not desk prices and not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: 6 percent drop headline, $1.35 billion long-liquidation risk, Drake bunker-mode planning, and Drake AI-before-quantum warning are not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. Orca/Loopscale merge is Solana DeFi, not AERO. HOLD. DO NOT ADD. LOOK only. Gate Money rebrand, the megachurch AI-agent database note, and the Cointelegraph sale note are not a Bitget-style exploit on the live book. LOOK only. No fills.",
   "items": [
     {
       "source": "CoinTelegraph",
-      "title": "Justin Drake urges crypto bunker mode, as AI could break wallet security within months",
+      "title": "Vitalik Buterin backs crypto bunker mode amid rapid AI math advances",
       "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
       "pubDate": "Thu, 08 Oct 2026 00:04:32 +0000",
-      "summary": "Ethereum researcher said users should consider moving funds to fresh addresses, warning AI could threaten private-key security before quantum. Headline print is not a desk price. HOLD BTC. HOLD ETH. DO NOT ADD. LOOK only."
+      "summary": "Feed title now says Vitalik backs bunker mode as AI math advances. Prior Drake wallet-security warning still in the URL slug. Headline print is not a desk price. HOLD BTC. HOLD ETH. DO NOT ADD. LOOK only."
     },
     {
       "source": "CoinTelegraph",
@@ -56,7 +56,7 @@
     },
     {
       "source": "Decrypt",
-      "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt-Mathematicians Want Receipts",
+      "title": "OpenAI Says a Secret AI Model Cracked Hundreds of Open Math Problems in One Prompt - Mathematicians Want Receipts",
       "url": "https://decrypt.co/380366/openai-secret-ai-model-cracked-hundreds-math-problems-one-prompt",
       "pubDate": "Wed, 07 Oct 2026 21:46:03 +0000",
       "summary": "OpenAI posted 722 math manuscripts from an unreleased model. Not a book name. LOOK only."
@@ -140,6 +140,13 @@
     },
     {
       "source": "CryptoSlate",
+      "title": "US government moves $470 million in seized crypto to Coinbase wallets, raising Bitcoin sale questions",
+      "url": "https://cryptoslate.com/us-government-moves-470-million-in-seized-crypto-to-coinbase-wallets-raising-bitcoin-sale-questions/",
+      "pubDate": "Thu, 08 Oct 2026 00:00:12 +0000",
+      "summary": "Headline says seized crypto including BTC and BNB moved to Coinbase wallets. Sale not confirmed. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "CryptoSlate",
       "title": "OpenAI math breakthroughs raise bunker mode alarm from Bitcoin researcher Justin Drake",
       "url": "https://cryptoslate.com/openais-math-breakthrough-raises-fears-ai-could-break-bitcoin-and-ethereum-security-within-months/",
       "pubDate": "Wed, 07 Oct 2026 22:24:45 +0000",
@@ -172,13 +179,6 @@
       "url": "https://cryptoslate.com/bitcoin-faces-a-5-3-treasury-hurdle-but-its-post-etf-record-complicates-the-threat/",
       "pubDate": "Wed, 07 Oct 2026 16:35:21 +0000",
       "summary": "Headline says Bitcoin gained 84.2% from the Jan 2024 pre-ETF baseline through Oct. 5, 2026, even as yields rose. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "XRP treasury SPAC drops 50% in a day ahead of Evernorth's Nasdaq debut",
-      "url": "https://cryptoslate.com/xrp-treasury-spac-drops-50-in-a-day-ahead-of-evernorths-nasdaq-debut/",
-      "pubDate": "Wed, 07 Oct 2026 15:30:44 +0000",
-      "summary": "Evernorth delayed Nasdaq debut after the SPAC lost about half its value. Not a live-book name. LOOK only."
     },
     {
       "source": "Bitcoin Magazine",
