@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-08T22:03:20Z",
+  "asof": "2026-10-08T23:02:45Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,21 +10,35 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk returned items on this run. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 21:02:18Z snapshot: CoinDesk added a Cantor Fitzgerald / Tether Senate probe note at 21:22:58Z. Decrypt added a Manus AI funding note at 21:46:03Z. Bitcoin Magazine EDX Markets / VerifiedX vBTC note at 16:53:52Z entered the top slice. Sale of seized BTC not confirmed. Headline prints are not desk prices. THORChain September income note is still a prior Bitget hack-linked surge, not a new exploit. Still no SNAP, DRV, ENA, AERO, or PUMP headline. BTC: liquidation note, seized-wallet move, old-coin move, oil/Iran dip headline, flash-crash anniversary note, Fed-pause note, Q4 range note, Citrini tokenization note are not desk prices and not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: Sepolia testnet gas-limit note, Europol quantum note, Citrini note are not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Lending-risk note is not a DRV ticket. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. Orca/Loopscale Formation merger and Securitize Solana equities are not AERO, PUMP, or SNAP. HOLD. DO NOT ADD. LOOK only. Bitget: THORChain income note is not a new exploit ticket. LOOK only. No fills.",
+  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk returned items on this run. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 22:03:20Z snapshot: CryptoSlate added a PumpFun fee note at 22:00:06Z. CoinTelegraph added an Asia Express China P2P stablecoin / Korea economy note at 22:35:00Z. Sale of seized BTC not confirmed. Headline prints are not desk prices. THORChain September income note is still a prior Bitget hack-linked surge, not a new exploit. Still no SNAP, DRV, ENA, or AERO headline. BTC: liquidation note, seized-wallet move, old-coin move, oil/Iran dip headline, flash-crash anniversary note, Fed-pause note, Q4 range note, Citrini tokenization note are not desk prices and not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: Sepolia testnet gas-limit note, Europol quantum note, Citrini note are not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Lending-risk note is not a DRV ticket. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: PumpFun fee and burn note is not a buy ticket. Platform fees and PUMP burns do not map to a fill. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. Orca/Loopscale Formation merger and Securitize Solana equities are not AERO, PUMP, or SNAP. HOLD. DO NOT ADD. LOOK only. Bitget: THORChain income note is not a new exploit ticket. LOOK only. No fills.",
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "China P2P stablecoin wallets surge 43x, Korea $450B crypto economy: Asia Express",
+      "url": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express",
+      "pubDate": "Thu, 08 Oct 2026 22:35:00 +0000",
+      "summary": "Despite bans, China peer-to-peer stablecoin use surged. South Korea cited as a large East Asia crypto economy. Stablecoin-flow note. Not a live-book ticket. LOOK only. No fills."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "PumpFun is making millions from a market where 81 percent of memecoins crashed 90 percent",
+      "url": "https://cryptoslate.com/pumpfun-is-making-millions-from-a-market-where-81-of-memecoins-crashed-90/",
+      "pubDate": "Thu, 08 Oct 2026 22:00:06 +0000",
+      "summary": "Talos reports rare observed recoveries. Platform fees and PUMP burns offer no automatic route back to break-even for other tokens. Not a PUMP ticket. HOLD PUMP. DO NOT ADD. LOOK only."
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Startup Manus Raises $500 Million After China Nixed Meta $2 Billion Acquisition",
+      "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
+      "pubDate": "Thu, 08 Oct 2026 21:46:03 +0000",
+      "summary": "Manus raised more than $500 million after Beijing unwound a Meta deal. AI funding note. Not a live-book name. LOOK only. No fills."
+    },
     {
       "source": "CoinDesk",
       "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
       "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
       "pubDate": "Thu, 08 Oct 2026 21:22:58 +0000",
       "summary": "Senator Richard Blumenthal is probing Tether's U.S. financial partnership with Cantor Fitzgerald. Stablecoin-partner probe. Not a live-book ticket. LOOK only. No fills."
-    },
-    {
-      "source": "Decrypt",
-      "title": "AI Startup Manus Raises $500 Million After China Nixed Meta's $2 Billion Acquisition",
-      "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
-      "pubDate": "Thu, 08 Oct 2026 21:46:03 +0000",
-      "summary": "Manus raised more than $500 million after Beijing unwound a Meta deal. AI funding note. Not a live-book name. LOOK only. No fills."
     },
     {
       "source": "CryptoSlate",
@@ -49,21 +63,21 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
+      "title": "Wall Street tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
       "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
       "pubDate": "Thu, 08 Oct 2026 19:46:15 +0000",
       "summary": "Citrini sees tokenized stocks, bonds and loans creating new markets, with fee platforms poised to benefit more than bitcoin and ether. Not a BTC or ETH ticket. Headline is not a desk price. HOLD BTC. HOLD ETH. DO NOT ADD. LOOK only."
     },
     {
       "source": "CryptoSlate",
-      "title": "Why XRP's 63 billion circulating tokens do not tell buyers what is for sale",
+      "title": "Why XRP 63 billion circulating tokens do not tell buyers what is for sale",
       "url": "https://cryptoslate.com/xrp-has-63-billion-circulating-tokens-but-how-many-are-actually-for-sale/",
       "pubDate": "Thu, 08 Oct 2026 19:40:44 +0000",
       "summary": "An Oct. 7 snapshot counts 21.98 billion XRP in exchange custody. Executable supply depends on sell orders. Not a live-book name. LOOK only. No fills."
     },
     {
       "source": "CoinTelegraph",
-      "title": "Securitize stock jumps over 10% after launching tokenized US equities on Solana",
+      "title": "Securitize stock jumps over 10 percent after launching tokenized US equities on Solana",
       "url": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana",
       "pubDate": "Thu, 08 Oct 2026 19:31:38 +0000",
       "summary": "Securitize offering gives eligible investors tokenized shares of 12 US companies, with dividend and voting rights and plans for round-the-clock trading. Solana equities note. Not AERO, PUMP, or SNAP. HOLD. DO NOT ADD. LOOK only."
@@ -97,13 +111,6 @@
       "summary": "WhiteBIT added Lightning Network support. Exchange feature note. Not a BTC ticket. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
-      "source": "Decrypt",
-      "title": "Satoshi-era Bitcoin worth $8.3 million moves after 16 years",
-      "url": "https://decrypt.co/380514/satoshi-era-bitcoin-mined-2010-moves-16-years",
-      "pubDate": "Thu, 08 Oct 2026 18:46:04 +0000",
-      "summary": "A batch of 100.02 BTC mined in July 2010 moved after 16 years. Owner unknown. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
-    },
-    {
       "source": "The Block",
       "title": "JPMorgan estimates $50 billion has flowed into crypto this year as momentum improves into Q4",
       "url": "https://www.theblock.co/news/markets/2026-10-08-jpmorgan-crypto-inflows-50-billion-etf-futures-q4-418115",
@@ -111,8 +118,15 @@
       "summary": "JPMorgan analysts estimate around $50 billion has flowed into digital assets this year. Flow estimate. Not a ticket. LOOK only. No fills."
     },
     {
+      "source": "Decrypt",
+      "title": "Satoshi-era Bitcoin worth $8.3 million moves after 16 years",
+      "url": "https://decrypt.co/380514/satoshi-era-bitcoin-mined-2010-moves-16-years",
+      "pubDate": "Thu, 08 Oct 2026 18:46:04 +0000",
+      "summary": "A batch of 100.02 BTC mined in July 2010 moved after 16 years. Owner unknown. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+    },
+    {
       "source": "CryptoSlate",
-      "title": "Europol says crypto's quantum upgrade could take years and urges work to start now",
+      "title": "Europol says crypto quantum upgrade could take years and urges work to start now",
       "url": "https://cryptoslate.com/europol-urges-crypto-to-prepare-wallet-upgrades-now-warning-migration-could-take-years/",
       "pubDate": "Thu, 08 Oct 2026 18:40:23 +0000",
       "summary": "Wallet keys are the main exposure, Europol says. Quantum-upgrade note. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."
@@ -122,7 +136,7 @@
       "title": "Greece plans crypto capital gains tax: report",
       "url": "https://bitcoinmagazine.com/news/greece-plans-crypto-capital-gains",
       "pubDate": "Thu, 08 Oct 2026 18:39:39 +0000",
-      "summary": "Greece is planning a law to tax crypto investors' capital gains at 15%, according to reports. Tax report. LOOK only. Not a ticket. No fills."
+      "summary": "Greece is planning a law to tax crypto investors' capital gains at 15 percent, according to reports. Tax report. LOOK only. Not a ticket. No fills."
     },
     {
       "source": "Decrypt",
@@ -154,7 +168,7 @@
     },
     {
       "source": "CryptoSlate",
-      "title": "Bitcoin's slide below $81,000 exposes why a Fed pause may not save the crypto market",
+      "title": "Bitcoin slide below $81,000 exposes why a Fed pause may not save the crypto market",
       "url": "https://cryptoslate.com/bitcoins-slide-below-81000-exposes-why-a-fed-pause-may-not-save-the-crypto-market/",
       "pubDate": "Thu, 08 Oct 2026 17:30:25 +0000",
       "summary": "Bitcoin slid below $81,000 on Oct. 8, with an intraday low near $80,800, even as traders expect the Fed to hold in October. Fed-pause note. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
@@ -238,7 +252,7 @@
     },
     {
       "source": "CryptoSlate",
-      "title": "THORChain made 63% of its record $3 million September income during the Bitget hack-linked trading surge",
+      "title": "THORChain made 63 percent of its record $3 million September income during the Bitget hack-linked trading surge",
       "url": "https://cryptoslate.com/thorchain-made-63-of-its-record-3-million-september-income-during-the-bitget-hack-linked-trading-surge/",
       "pubDate": "Thu, 08 Oct 2026 11:55:09 +0000",
       "summary": "Prior Bitget hack-linked surge, not a new exploit on the live book. LOOK only. No fills."
