@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-08T21:02:18Z",
+  "asof": "2026-10-08T22:03:20Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,8 +10,22 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk returned items on this run. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 20:02:46Z snapshot: CryptoSlate added a BTC liquidation note at 21:00:13Z (intraday low near $80,000, over $1 billion liquidations, headline print not a desk price) and an SAP Pay USDC note at 20:40:19Z. Decrypt added an Ethereum Sepolia Glamsterdam block-limit note at 20:16:03Z. CoinTelegraph IMF tokenization-risk note at 16:25:06Z and Bitcoin Magazine Standard Chartered Singapore custody note at 15:46:05Z entered the top slice. Sale of seized BTC not confirmed. Headline prints are not desk prices. THORChain September income note is still a prior Bitget hack-linked surge, not a new exploit. Still no SNAP, DRV, ENA, AERO, or PUMP headline. BTC: liquidation note, seized-wallet move, old-coin move, oil/Iran dip headline, ETF-exit headline, flash-crash anniversary note, Fed-pause note, Q4 range note, Citrini tokenization note are not desk prices and not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: Sepolia testnet gas-limit note, ETF withdrawal headline, staking-queue note, bunker-mode notes, Europol quantum note, Citrini note are not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Lending-risk note is not a DRV ticket. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. Orca/Loopscale Formation merger and Securitize Solana equities are not AERO, PUMP, or SNAP. HOLD. DO NOT ADD. LOOK only. Bitget: THORChain income note is not a new exploit ticket. LOOK only. No fills.",
+  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk returned items on this run. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 21:02:18Z snapshot: CoinDesk added a Cantor Fitzgerald / Tether Senate probe note at 21:22:58Z. Decrypt added a Manus AI funding note at 21:46:03Z. Bitcoin Magazine EDX Markets / VerifiedX vBTC note at 16:53:52Z entered the top slice. Sale of seized BTC not confirmed. Headline prints are not desk prices. THORChain September income note is still a prior Bitget hack-linked surge, not a new exploit. Still no SNAP, DRV, ENA, AERO, or PUMP headline. BTC: liquidation note, seized-wallet move, old-coin move, oil/Iran dip headline, flash-crash anniversary note, Fed-pause note, Q4 range note, Citrini tokenization note are not desk prices and not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: Sepolia testnet gas-limit note, Europol quantum note, Citrini note are not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Lending-risk note is not a DRV ticket. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. Orca/Loopscale Formation merger and Securitize Solana equities are not AERO, PUMP, or SNAP. HOLD. DO NOT ADD. LOOK only. Bitget: THORChain income note is not a new exploit ticket. LOOK only. No fills.",
   "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Top Democrat among Senate investigators probes ties between Cantor Fitzgerald, Tether",
+      "url": "https://www.coindesk.com/policy/2026/10/08/top-democrat-among-senate-investigators-probes-ties-between-cantor-fitzgerald-tether",
+      "pubDate": "Thu, 08 Oct 2026 21:22:58 +0000",
+      "summary": "Senator Richard Blumenthal is probing Tether's U.S. financial partnership with Cantor Fitzgerald. Stablecoin-partner probe. Not a live-book ticket. LOOK only. No fills."
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Startup Manus Raises $500 Million After China Nixed Meta's $2 Billion Acquisition",
+      "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
+      "pubDate": "Thu, 08 Oct 2026 21:46:03 +0000",
+      "summary": "Manus raised more than $500 million after Beijing unwound a Meta deal. AI funding note. Not a live-book name. LOOK only. No fills."
+    },
     {
       "source": "CryptoSlate",
       "title": "Bitcoin crashes through $81,000 buy wall as $1 billion crypto liquidation bloodbath unfolds",
@@ -62,6 +76,13 @@
       "summary": "The NFL urged the Supreme Court to resolve a circuit split over whether states can regulate sports contracts on prediction markets. Prediction-market note. LOOK only. Not a ticket. No fills."
     },
     {
+      "source": "CoinTelegraph",
+      "title": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi",
+      "url": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi",
+      "pubDate": "Thu, 08 Oct 2026 19:17:18 +0000",
+      "summary": "The league said Kalshi and other prediction markets threaten game integrity because many event contracts are highly susceptible to manipulation. LOOK only. Not a ticket. No fills."
+    },
+    {
       "source": "Bitcoin Magazine",
       "title": "AI coding agents drive surge in Bitcoin integration requests: Breez",
       "url": "https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration",
@@ -104,13 +125,6 @@
       "summary": "Greece is planning a law to tax crypto investors' capital gains at 15%, according to reports. Tax report. LOOK only. Not a ticket. No fills."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Netflix drops trailer for series based on FTX's SBF and Caroline Ellison",
-      "url": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison",
-      "pubDate": "Thu, 08 Oct 2026 18:17:35 +0000",
-      "summary": "Sam Bankman-Fried remains in federal prison following his 2023 conviction. Caroline Ellison was released in January. Culture note. LOOK only. Not a ticket. No fills."
-    },
-    {
       "source": "Decrypt",
       "title": "Solana DeFi firms Orca and Loopscale merge under new Formation brand",
       "url": "https://decrypt.co/380522/solana-defi-firms-orca-and-loopscale-merge-under-new-formation-brand",
@@ -125,11 +139,11 @@
       "summary": "Oct 10 2025 flash-crash anniversary note. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
-      "source": "Decrypt",
-      "title": "Bitcoin ETFs suffer worst loss since June as Uptober turns red",
-      "url": "https://decrypt.co/380490/bitcoin-etfs-worst-outflow-since-june-uptober-red",
-      "pubDate": "Thu, 08 Oct 2026 17:46:05 +0000",
-      "summary": "Investors yanked $484.9 million out of spot Bitcoin ETFs in a single day. ETF outflow headline. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "source": "CoinDesk",
+      "title": "NFL joins pushback against prediction markets as U.S. Supreme Court asked to act",
+      "url": "https://www.coindesk.com/policy/2026/10/08/nfl-joins-pushback-against-prediction-markets-as-u-s-supreme-court-asked-to-act",
+      "pubDate": "Thu, 08 Oct 2026 18:06:41 +0000",
+      "summary": "The NFL sided with states against federal oversight of prediction markets. Prediction-market note. LOOK only. Not a ticket. No fills."
     },
     {
       "source": "The Block",
@@ -160,11 +174,11 @@
       "summary": "Oil and Fed note. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
-      "source": "Decrypt",
-      "title": "Will AI break crypto encryption? Ethereum's Vitalik Buterin weighs in on bunker mode shift",
-      "url": "https://decrypt.co/380503/ai-break-crypto-encryption-ethereum-vitalik-buterin-bunker-mode",
-      "pubDate": "Thu, 08 Oct 2026 17:07:48 +0000",
-      "summary": "Vitalik bunker-mode note. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."
+      "source": "Bitcoin Magazine",
+      "title": "EDX Markets and VerifiedX partner to bring verified Bitcoin (vBTC) to institutional markets",
+      "url": "https://bitcoinmagazine.com/business/edx-markets-and-verifiedx-partner-to-bring-verified-bitcoin-vbtc-to-institutional-markets",
+      "pubDate": "Thu, 08 Oct 2026 16:53:52 +0000",
+      "summary": "Partnership will bring vBTC to EDX Markets for institutional spot trading. Tokenized-bitcoin note. Not a BTC ticket. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "CryptoSlate",
@@ -172,13 +186,6 @@
       "url": "https://cryptoslate.com/us-government-moves-another-1-billion-in-bitcoin-as-btc-slides-4000/",
       "pubDate": "Thu, 08 Oct 2026 16:50:59 +0000",
       "summary": "Galaxy Research flagged a transfer of 12,267 BTC. Sale not confirmed. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
-    },
-    {
-      "source": "Decrypt",
-      "title": "US government moves $1 billion in Bitcoin seized from Bitfinex hacker",
-      "url": "https://decrypt.co/380504/us-government-moves-1-billion-bitcoin-bitfinex",
-      "pubDate": "Thu, 08 Oct 2026 16:44:20 +0000",
-      "summary": "A government wallet sent 12,267 BTC to a new unlabeled address, according to Arkham. Sale not confirmed. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "The Block",
@@ -221,13 +228,6 @@
       "url": "https://www.coindesk.com/policy/2026/10/08/eu-securities-regulator-gives-crypto-platforms-3-months-to-remove-unauthorized-stablecoins",
       "pubDate": "Thu, 08 Oct 2026 15:23:26 +0000",
       "summary": "ESMA said authorized platforms must block new access to stablecoins that fail to meet MiCA rules. Stablecoin deadline. LOOK only. Not a ticket. No fills."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "A $1,000 MetaMask incident could turn Ethereum's staking queue into a $5 billion traffic jam",
-      "url": "https://cryptoslate.com/a-1000-metamask-incident-could-turn-ethereums-staking-queue-into-a-5-billion-traffic-jam/",
-      "pubDate": "Thu, 08 Oct 2026 15:00:46 +0000",
-      "summary": "ETH staking-queue headline. Not a desk price. HOLD ETH. DO NOT ADD. LOOK only."
     },
     {
       "source": "The Block",
