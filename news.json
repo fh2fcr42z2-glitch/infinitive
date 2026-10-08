@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-08T00:02:25Z",
+  "asof": "2026-10-08T01:01:58Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,8 +10,15 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk returned items on this run. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 23:02Z snapshot: the six-item windows did not change. No new title entered. Bitcoin headline prints still live under $83k on oil and yields. Ethereum 6 percent drop with $1.35 billion long bets at liquidation risk still live. Drake bunker-mode and AI-before-quantum warnings still live. Orca/Loopscale merge as Formation still live and is not an AERO headline. Robinhood $25 million bitcoin balance-sheet add remains a prior note, not a ticket. Bitmine stop-stacking at 5 percent of ETH remains a prior note. US government seized BTC and BNB move remains a prior note, reason not stated, no sale confirmed. Still no SNAP, DRV, ENA, AERO, PUMP, or Bitget-style exploit headline. BTC: sub-$83k headline prints, Drake/OpenAI bunker-mode alarm, and prior Robinhood balance-sheet add are not desk prices and not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: 6 percent drop headline, $1.35 billion long-liquidation risk, Drake bunker-mode planning, and Drake AI-before-quantum warning are not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. Orca/Loopscale merge is Solana DeFi, not AERO. HOLD. DO NOT ADD. LOOK only. Gate Money rebrand and the megachurch AI-agent database note are not a Bitget-style exploit on the live book. LOOK only. No fills.",
+  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk returned items on this run. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 00:02Z snapshot: CoinTelegraph added Justin Drake bunker-mode item at 00:04Z. CoinDesk added Cointelegraph-seeks-buyer item at 00:35Z. Other six-item windows unchanged. Bitcoin headline prints still live under $83k on oil and yields. Ethereum 6 percent drop with $1.35 billion long bets at liquidation risk still live. Drake bunker-mode and AI-before-quantum warnings still live, now also on CoinTelegraph. Orca/Loopscale merge as Formation still live and is not an AERO headline. Robinhood $25 million bitcoin balance-sheet add remains a prior note, not a ticket. Bitmine stop-stacking at 5 percent of ETH remains a prior note. US government seized BTC and BNB move remains a prior note, reason not stated, no sale confirmed. Still no SNAP, DRV, ENA, AERO, PUMP, or Bitget-style exploit headline. BTC: sub-$83k headline prints, Drake/OpenAI bunker-mode alarm, and prior Robinhood balance-sheet add are not desk prices and not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: 6 percent drop headline, $1.35 billion long-liquidation risk, Drake bunker-mode planning, and Drake AI-before-quantum warning are not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. Orca/Loopscale merge is Solana DeFi, not AERO. HOLD. DO NOT ADD. LOOK only. Gate Money rebrand, the megachurch AI-agent database note, and the Cointelegraph sale note are not a Bitget-style exploit on the live book. LOOK only. No fills.",
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Justin Drake urges crypto bunker mode, as AI could break wallet security within months",
+      "url": "https://cointelegraph.com/news/justin-drake-urges-crypto-bunker-mode-as-ai-could-break-wallet-security-within-months",
+      "pubDate": "Thu, 08 Oct 2026 00:04:32 +0000",
+      "summary": "Ethereum researcher said users should consider moving funds to fresh addresses, warning AI could threaten private-key security before quantum. Headline print is not a desk price. HOLD BTC. HOLD ETH. DO NOT ADD. LOOK only."
+    },
     {
       "source": "CoinTelegraph",
       "title": "Circle brings USDC, EURC payments to SAP customers through Tereina",
@@ -28,7 +35,7 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Hunter Biden confirms LAPTOP token 'not a rug pull,' just trolling Trumps",
+      "title": "Hunter Biden confirms LAPTOP token not a rug pull, just trolling Trumps",
       "url": "https://cointelegraph.com/news/hunter-biden-laptop-memecoin-troll-no-rug-pull",
       "pubDate": "Wed, 07 Oct 2026 18:00:10 +0000",
       "summary": "Hunter Biden said LAPTOP was trolling, not a rug pull. Not a live-book name. LOOK only."
@@ -46,13 +53,6 @@
       "url": "https://cointelegraph.com/news/tether-kazakhstan-central-bank-to-explore-tenge-stablecoin-and-asset-tokenization",
       "pubDate": "Wed, 07 Oct 2026 16:25:38 +0000",
       "summary": "Agreement explores a tenge-backed stablecoin pilot and real-world asset tokenization. Headline only. Not a ticket. LOOK only."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "House Finance panel chair says regulator actions on crypto 'fall short' of CLARITY bill",
-      "url": "https://cointelegraph.com/news/sec-cftc-crypto-regulations-fall-short-clarity-bill",
-      "pubDate": "Wed, 07 Oct 2026 16:06:03 +0000",
-      "summary": "French Hill hopes a market-structure bill can pass before the 2027 session. Headline only. Not a ticket. LOOK only."
     },
     {
       "source": "Decrypt",
@@ -77,7 +77,7 @@
     },
     {
       "source": "Decrypt",
-      "title": "SEC and CFTC Crypto Rules 'Fall Short' of Clarity, Says Rep. French Hill",
+      "title": "SEC and CFTC Crypto Rules Fall Short of Clarity, Says Rep. French Hill",
       "url": "https://decrypt.co/380349/sec-cftc-crypto-rules-fall-short-clarity-french-hill",
       "pubDate": "Wed, 07 Oct 2026 20:16:04 +0000",
       "summary": "House Financial Services chairman said only permanent law change can secure U.S. leadership. LOOK only."
@@ -112,14 +112,14 @@
     },
     {
       "source": "The Block",
-      "title": "Ethereum researcher Justin Drake calls for 'bunker mode' planning over private key recovery risk",
+      "title": "Ethereum researcher Justin Drake calls for bunker mode planning over private key recovery risk",
       "url": "https://www.theblock.co/news/ecosystems/2026-10-07-ethereum-researcher-justin-drake-bunker-mode-planning-private-key-recovery-risk-417954",
       "pubDate": "Wed, 07 Oct 2026 17:23:02 +0000",
       "summary": "Drake recommended moving assets to fresh addresses that keep public keys hidden behind a hash. Headline print is not a desk price. HOLD ETH. DO NOT ADD. LOOK only."
     },
     {
       "source": "The Block",
-      "title": "Hunter Biden says LAPTOP market maker should 'buy it all back and burn it'",
+      "title": "Hunter Biden says LAPTOP market maker should buy it all back and burn it",
       "url": "https://www.theblock.co/news/markets/2026-10-07-hunter-biden-laptop-market-maker-should-buy-back-burn-it-417947",
       "pubDate": "Wed, 07 Oct 2026 16:40:51 +0000",
       "summary": "Report details thin liquidity and market-maker-linked gains during LAPTOP launch. Not a live-book name. LOOK only."
@@ -140,7 +140,7 @@
     },
     {
       "source": "CryptoSlate",
-      "title": "OpenAI math breakthroughs raise 'bunker mode' alarm from Bitcoin researcher Justin Drake",
+      "title": "OpenAI math breakthroughs raise bunker mode alarm from Bitcoin researcher Justin Drake",
       "url": "https://cryptoslate.com/openais-math-breakthrough-raises-fears-ai-could-break-bitcoin-and-ethereum-security-within-months/",
       "pubDate": "Wed, 07 Oct 2026 22:24:45 +0000",
       "summary": "CryptoSlate says Drake warned OpenAI math advances could threaten Bitcoin and Ethereum wallet security within months. Headline claim, not a desk price. HOLD BTC. HOLD ETH. DO NOT ADD. LOOK only."
@@ -224,6 +224,13 @@
     },
     {
       "source": "CoinDesk",
+      "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+      "url": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+      "pubDate": "Thu, 08 Oct 2026 00:35:24 +0000",
+      "summary": "CoinDesk says Cointelegraph is shopping itself after a traffic drop. Sale price not stated. Not a Bitget-style exploit. LOOK only."
+    },
+    {
+      "source": "CoinDesk",
       "title": "Wells Fargo in talks with Kraken parent Payward for crypto trading liquidity",
       "url": "https://www.coindesk.com/business/2026/10/05/wells-fargo-in-talks-with-kraken-parent-payward-for-crypto-trading-liquidity",
       "pubDate": "Wed, 07 Oct 2026 18:59:32 +0000",
@@ -256,13 +263,6 @@
       "url": "https://www.coindesk.com/business/2026/10/07/tether-tapped-by-kazakhstan-s-central-bank-to-explore-stablecoin-and-tokenization",
       "pubDate": "Wed, 07 Oct 2026 14:27:37 +0000",
       "summary": "National Bank of Kazakhstan will study a local-currency stablecoin and tokenized assets with Tether. LOOK only."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Quantum computers threaten exposed private keys rather than blockchains, Europol warns",
-      "url": "https://www.coindesk.com/tech/2026/10/07/quantum-computers-threaten-exposed-private-keys-rather-than-blockchains-europol-warns",
-      "pubDate": "Wed, 07 Oct 2026 13:20:54 +0000",
-      "summary": "Europol urged phased post-quantum migrations so exposed private keys are not the failure point. LOOK only."
     }
   ]
 }
