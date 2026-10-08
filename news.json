@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-08T13:03:01Z",
+  "asof": "2026-10-08T14:02:31Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,21 +10,28 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk returned items on this run. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 12:05:10Z snapshot: CoinTelegraph added EU lawmakers pushing crypto onto an anti-corruption agenda at 12:54:21Z, and Sui Hashi with more than $500 million in Bitcoin finance commitments at 12:03:28Z. CryptoSlate added Bitcoin losing ground when Wall Street opens as the Coinbase discount deepens at 13:00:24Z. US government $770 million / 9,261 BTC move to Coinbase Prime still live; sale not confirmed. CoinDesk ETF-exit and sub-$83,000 prints still live and are not desk prices. THORChain September income note is still a prior Bitget hack-linked surge, not a new exploit. Drake bunker-mode, Vitalik do-not-rush migration, and BitMine 5 percent ETH cap still live. Samsung USDC on Solana and Orca/Loopscale Formation still live and are not AERO or PUMP. Still no SNAP, DRV, ENA, AERO, or PUMP headline. BTC: seized-wallet move, ETF-exit headline, sub-$83k print, Coinbase-discount note, and 2010 coins moving are not desk prices and not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: bunker-mode split, Vitalik do-not-rush migration, and BitMine 5 percent cap are not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. Orca/Loopscale merge and Samsung USDC on Solana are Solana items, not AERO. HOLD. DO NOT ADD. LOOK only. Bitget: THORChain income note is not a new exploit ticket. LOOK only. No fills.",
+  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk returned items on this run. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 13:03:01Z snapshot: CoinTelegraph added Fidelity tokenization 'no going back' at 13:42:27Z and a crypto-lending risk note at 13:30:00Z. CryptoSlate added a Citi $113,000 Bitcoin path note at 14:00:36Z. CoinDesk live headline now says Bitcoin sliding back to $82,000. Securitize Apple, Nvidia, and Tesla on Solana is new and is not AERO or PUMP. US government $770 million / 9,261 BTC move to Coinbase Prime still live; sale not confirmed. CoinDesk ETF-exit and sub-$83,000 / $82,000 prints still live and are not desk prices. THORChain September income note is still a prior Bitget hack-linked surge, not a new exploit. Drake bunker-mode, Vitalik do-not-rush migration, and BitMine 5 percent ETH cap still live. Samsung USDC on Solana and Orca/Loopscale Formation still live and are not AERO or PUMP. Still no SNAP, DRV, ENA, AERO, or PUMP headline. BTC: seized-wallet move, ETF-exit headline, slide-to-$82,000 print, Coinbase-discount note, Citi path note, and 2010 coins moving are not desk prices and not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: bunker-mode split, Vitalik do-not-rush migration, and BitMine 5 percent cap are not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no PUMP headline. Prior note stands: Binance funding side changed between October 5 settlements. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. Orca/Loopscale merge, Samsung USDC on Solana, and Securitize tokenized stocks are Solana items, not AERO. HOLD. DO NOT ADD. LOOK only. Bitget: THORChain income note is not a new exploit ticket. LOOK only. No fills.",
   "items": [
     {
       "source": "CoinTelegraph",
-      "title": "EU lawmakers push crypto onto anti-corruption agenda",
-      "url": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption",
-      "pubDate": "Thu, 08 Oct 2026 12:54:21 +0000",
-      "summary": "New versus the 12:05Z snapshot. MEPs called for stronger asset recovery. Not a book name. LOOK only."
+      "title": "'No going back' for institutions moving toward tokenized onchain future, says Fidelity",
+      "url": "https://cointelegraph.com/news/institutions-tokenized-onchain-future-no-going-back-fidelity",
+      "pubDate": "Thu, 08 Oct 2026 13:42:27 +0000",
+      "summary": "New versus the 13:03Z snapshot. Fidelity tokenization note. Not a book name. LOOK only."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto lending rises again, but have they solved the risks?",
+      "url": "https://cointelegraph.com/magazine/crypto-lending-rises-again-but-have-they-solved-the-risks",
+      "pubDate": "Thu, 08 Oct 2026 13:30:00 +0000",
+      "summary": "New versus the 13:03Z snapshot. Lending up 55 percent since July, with AI-hack and cascade risk in the headline. Not a DRV or Bitget ticket. LOOK only. No fills."
     },
     {
       "source": "CoinTelegraph",
       "title": "Sui Hashi to launch with $500M in Bitcoin finance commitments",
       "url": "https://cointelegraph.com/news/sui-hashi-bitcoin-finance-commitments",
       "pubDate": "Thu, 08 Oct 2026 12:03:28 +0000",
-      "summary": "New versus the 12:05Z snapshot. Headline says more than $500 million in commitments ahead of mainnet. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Headline says more than $500 million in commitments ahead of mainnet. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "CoinTelegraph",
@@ -35,24 +42,10 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Bitcoin monthly new money inflows near $5B as BTC price rally stalls",
-      "url": "https://cointelegraph.com/markets/bitcoin-monthly-new-money-inflows-near-5b-as-btc-price-rally-stalls",
-      "pubDate": "Thu, 08 Oct 2026 09:56:07 +0000",
-      "summary": "Headline says realized-cap rise to Oct. 5 came mostly from existing holders, not fresh capital. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "ESMA gives crypto firms 3 months to exit non-compliant stablecoins",
-      "url": "https://cointelegraph.com/news/esma-unauthorised-stablecoins-three-month-deadline",
-      "pubDate": "Thu, 08 Oct 2026 09:42:04 +0000",
-      "summary": "ESMA urged EU firms to halt services in non-MiCA stablecoins. Not a book name. LOOK only."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Samsung Wallet to add USDC transfers for US Galaxy users in October",
-      "url": "https://cointelegraph.com/news/samsung-wallet-usdc-transfers-us-galaxy-users-october",
-      "pubDate": "Thu, 08 Oct 2026 08:24:24 +0000",
-      "summary": "Samsung USDC transfers for US Galaxy users. Not an AERO or PUMP headline. HOLD AERO. HOLD PUMP. DO NOT ADD. LOOK only."
+      "title": "EU lawmakers push crypto onto anti-corruption agenda",
+      "url": "https://cointelegraph.com/news/eu-lawmakers-crypto-anti-corruption",
+      "pubDate": "Thu, 08 Oct 2026 12:54:21 +0000",
+      "summary": "MEPs called for stronger asset recovery. Not a book name. LOOK only."
     },
     {
       "source": "Decrypt",
@@ -118,18 +111,18 @@
       "summary": "Orca and Loopscale unite as Formation. Not an AERO headline. HOLD AERO. DO NOT ADD. LOOK only."
     },
     {
-      "source": "The Block",
-      "title": "Grayscale says crypto ETF market is entering new phase as Zcash ETF tops $1 billion",
-      "url": "https://www.theblock.co/news/markets/2026-10-07-grayscale-crypto-etf-market-beyond-bitcoin-ether-417953",
-      "pubDate": "Wed, 07 Oct 2026 18:37:17 +0000",
-      "summary": "Grayscale says SEC listing standards cover about 15 tokens beyond bitcoin and ether. LOOK only."
+      "source": "CryptoSlate",
+      "title": "Bitcoin needs a 36 percent rise to hit Citi target. Buying data tested",
+      "url": "https://cryptoslate.com/bitcoin-needs-a-36-rise-to-hit-citis-target-we-tested-the-demand-case/",
+      "pubDate": "Thu, 08 Oct 2026 14:00:36 +0000",
+      "summary": "New versus the 13:03Z snapshot. Bank path note, not a desk price and not a ticket. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "CryptoSlate",
       "title": "Bitcoin keeps losing ground when Wall Street opens as Coinbase discount deepens",
       "url": "https://cryptoslate.com/bitcoin-keeps-losing-ground-when-wall-street-opens-as-coinbase-discount-deepens/",
       "pubDate": "Thu, 08 Oct 2026 13:00:24 +0000",
-      "summary": "New versus the 12:05Z snapshot. Headline on cash-session weakness and a Coinbase discount. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Headline on cash-session weakness and a Coinbase discount. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "CryptoSlate",
@@ -160,39 +153,18 @@
       "summary": "Vitalik favors unused addresses when migration is easy. Not a ticket. HOLD BTC. HOLD ETH. DO NOT ADD. LOOK only."
     },
     {
-      "source": "CryptoSlate",
-      "title": "US government moves $470 million in seized crypto to Coinbase wallets, raising Bitcoin sale questions",
-      "url": "https://cryptoslate.com/us-government-moves-470-million-in-seized-crypto-to-coinbase-linked-wallets-reviving-bitcoin-sale-questions/",
-      "pubDate": "Thu, 08 Oct 2026 00:00:12 +0000",
-      "summary": "Earlier $470 million print still live. CoinTelegraph later printed $770 million / 9,261 BTC. Sale not confirmed. HOLD BTC. DO NOT ADD. LOOK only."
+      "source": "Bitcoin Magazine",
+      "title": "Why Bitcoin's Liquidity Advantage Matters as Institutions Move In",
+      "url": "https://bitcoinmagazine.com/markets/why-bitcoins-liquidity-advantage-matters-as-institutions-move-in",
+      "pubDate": "Thu, 08 Oct 2026 13:49:39 +0000",
+      "summary": "New versus the 13:03Z snapshot. Institutional-liquidity commentary. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
-      "source": "Bitcoin Magazine",
-      "title": "Bitcoin Falls Under $83,000 on Oil Spike, Rising US Borrowing Costs",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-under-83000",
-      "pubDate": "Wed, 07 Oct 2026 16:08:40 +0000",
-      "summary": "Bitcoin Magazine says bitcoin is down nearly 4 percent and under $83,000. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "CFTC Chair Says New Crypto Rulemaking Will Prevent Another FTX-Style Collapse",
-      "url": "https://bitcoinmagazine.com/news/cftc-boss-says-rules-will-stop-another-ftx",
-      "pubDate": "Wed, 07 Oct 2026 20:21:22 +0000",
-      "summary": "CFTC Chair Mike Selig on rules to avoid another FTX-style collapse. LOOK only."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Russia Sberbank Given Green Light to Custody Bitcoin",
-      "url": "https://bitcoinmagazine.com/news/russia-sberbank-can-now-custody-bitcoin",
-      "pubDate": "Wed, 07 Oct 2026 16:14:51 +0000",
-      "summary": "Sberbank said it is the first bank in Russia approved to custody bitcoin. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "The Quantum Issue: Bitcoin Quantum Exposure at Block 950,000",
-      "url": "https://bitcoinmagazine.com/print/the-quantum-issue-bitcoin-quantum-exposure-at-block-950000",
-      "pubDate": "Wed, 07 Oct 2026 16:46:41 +0000",
-      "summary": "Print piece on supply described as vulnerable to a quantum attack. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "source": "CoinDesk",
+      "title": "Securitize brings Apple, Nvidia and Tesla to Solana, with NYSE trading in the works",
+      "url": "https://www.coindesk.com/business/2026/10/08/securitize-brings-apple-nvidia-and-tesla-to-solana-with-nyse-trading-in-the-works",
+      "pubDate": "Thu, 08 Oct 2026 13:06:24 +0000",
+      "summary": "New versus the 13:03Z snapshot. Tokenized mega-cap shares on Solana. Not an AERO or PUMP headline. HOLD AERO. HOLD PUMP. DO NOT ADD. LOOK only."
     },
     {
       "source": "CoinDesk",
@@ -206,7 +178,7 @@
       "title": "NUVA brings U.S. residential mortgage credit to offshore investors",
       "url": "https://www.coindesk.com/business/2026/10/08/nuva-brings-u-s-residential-mortgage-credit-to-offshore-investors",
       "pubDate": "Thu, 08 Oct 2026 11:36:25 +0000",
-      "summary": "New versus the 12:05Z snapshot. HOME token on a HELOC vault. Not a book name. LOOK only."
+      "summary": "HOME token on a HELOC vault. Not a book name. LOOK only."
     },
     {
       "source": "CoinDesk",
@@ -224,17 +196,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Live news: Risk assets under pressure as bond selloff and oil rally intensify",
+      "title": "Live updates: Bitcoin breaks lower from recent trading range, sliding back to $82,000",
       "url": "https://www.coindesk.com/markets/2026/10/08/live-news-risk-assets-under-pressure-as-bond-selloff-and-oil-rally-intensify",
       "pubDate": "Thu, 08 Oct 2026 10:44:47 +0000",
-      "summary": "Yields, oil, and a stronger dollar weighing on bitcoin and tech. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin slips below $83,000 as Ethereum researcher bunker mode call divides crypto",
-      "url": "https://www.coindesk.com/markets/2026/10/08/bitcoin-slips-below-usd83-000-as-ethereum-researcher-s-bunker-mode-call-divides-crypto",
-      "pubDate": "Thu, 08 Oct 2026 10:30:41 +0000",
-      "summary": "Headline print under $83,000. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Live headline now says a slide back to $82,000. Not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     }
   ]
 }
