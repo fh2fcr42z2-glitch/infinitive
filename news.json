@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-09T02:02:10Z",
+  "asof": "2026-10-09T03:02:09Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,60 +10,60 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk each returned 6 items. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 2026-10-09T01:02:48Z snapshot: top slices unchanged. Cantor Fitzgerald Senate probe over Tether ties still the newest CoinTelegraph item (00:46:27Z). Sale of seized BTC not confirmed. Headline prints are not desk prices. Still no SNAP, DRV, ENA, or AERO headline. BTC: liquidation note, seized-wallet move with no sale indicated, old-coin move, oil dip headline, flash-crash anniversary note, Q4 range note, Core privacy note, Citrini tokenization note are not desk prices and not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: Sepolia testnet gas-limit note and Citrini note are not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: PumpFun fee and burn note is not a buy ticket. Platform fees and PUMP burns do not map to a fill. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. Solana validator-location note, Orca/Loopscale Formation merger, and Securitize Solana equities are not AERO, PUMP, or SNAP. HOLD. DO NOT ADD. LOOK only. Bitget: no new exploit headline. LOOK only. No fills.",
+  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk each returned 6 items. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 2026-10-09T02:02:10Z snapshot: top slices unchanged. Cantor Fitzgerald Senate probe over Tether ties still the newest CoinTelegraph item (00:46:27Z). Sale of seized BTC not confirmed. Headline prints are not desk prices. Still no SNAP, DRV, ENA, or AERO headline. BTC: liquidation note, seized-wallet move with no sale indicated, old-coin move, oil dip headline, flash-crash anniversary note, Q4 range note, Core privacy note, Citrini tokenization note are not desk prices and not a ticket. HOLD BTC. DO NOT ADD. LOOK only. ETH: Sepolia testnet gas-limit note and Citrini note are not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: PumpFun fee and burn note is not a buy ticket. Platform fees and PUMP burns do not map to a fill. HOLD PUMP. DO NOT ADD. LOOK only. SNAP, ENA, AERO: no headline. Solana validator-location note, Orca/Loopscale Formation merger, and Securitize Solana equities are not AERO, PUMP, or SNAP. HOLD. DO NOT ADD. LOOK only. Bitget: no new exploit headline. LOOK only. No fills.",
   "items": [
     {
       "source": "CoinTelegraph",
-      "title": "Cantor Fitzgerald faces Senate Democrats questions over Tether ties",
+      "title": "Cantor Fitzgerald faces Senate Democrat's questions over Tether ties",
       "url": "https://cointelegraph.com/news/cantor-fitzgerald-faces-senate-democrats-probe-over-tether-ties",
       "pubDate": "Fri, 09 Oct 2026 00:46:27 +0000",
-      "summary": "The letter follows a report by the Democratic investigators last month alleging Tethers USDT has become a key tool for Irans shadow banking network. LOOK only. Not a ticket. No fills."
+      "summary": "The letter follows a report by the Democratic investigators last month alleging Tether's USDT has become a key tool for Iran's shadow banking network. LOOK only. Not a ticket. No fills."
     },
     {
       "source": "CoinTelegraph",
-      "title": "Chinas P2P stablecoin wallets surge 43x, Koreas 450B crypto economy: Asia Express",
+      "title": "China's P2P stablecoin wallets surge 43x, Korea's 450B crypto economy: Asia Express",
       "url": "https://cointelegraph.com/magazine/chinas-p2p-stablecoin-wallets-surge-43x-koreas-450b-crypto-economy-asia-express",
       "pubDate": "Thu, 08 Oct 2026 22:35:00 +0000",
-      "summary": "Despite ongoing bans, China has seen a big surge in peer-to-peer stablecoin use. New figures show South Koreas 450B crypto economy is the largest in East Asia. LOOK only. Not a ticket. No fills."
+      "summary": "Despite ongoing bans, China has seen a big surge in peer-to-peer stablecoin use. New figures show South Korea's 450B crypto economy is the largest in East Asia. LOOK only. Not a ticket. No fills."
     },
     {
       "source": "CoinTelegraph",
       "title": "Securitize stock jumps over 10 percent after launching tokenized US equities on Solana",
       "url": "https://cointelegraph.com/news/securitize-stock-jumps-launching-tokenized-us-equities-solana",
       "pubDate": "Thu, 08 Oct 2026 19:31:38 +0000",
-      "summary": "Securitizes new offering gives eligible investors access to tokenized shares of 12 US companies, with dividend and voting rights and plans for round-the-clock trading. Not AERO, PUMP, or SNAP. HOLD. DO NOT ADD. LOOK only."
+      "summary": "Securitize's new offering gives eligible investors access to tokenized shares of 12 US companies, with dividend and voting rights and plans for round-the-clock trading. Not AERO, PUMP, or SNAP. HOLD. DO NOT ADD. LOOK only."
     },
     {
       "source": "CoinTelegraph",
       "title": "NFL backs New Jersey authorities in SCOTUS petition over Kalshi",
       "url": "https://cointelegraph.com/news/nfl-new-jersey-supreme-court-kalshi",
       "pubDate": "Thu, 08 Oct 2026 19:17:18 +0000",
-      "summary": "According to the league, Kalshi and other prediction markets threaten game integrity because many event contracts are highly susceptible to manipulation. LOOK only. Not a ticket. No fills."
+      "summary": "According to the league, Kalshi and other prediction markets \"threaten game integrity\" because many event contracts are \"highly susceptible to manipulation.\" LOOK only. Not a ticket. No fills."
     },
     {
       "source": "CoinTelegraph",
-      "title": "Heres what happened in crypto today",
+      "title": "Here's what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
       "pubDate": "Thu, 08 Oct 2026 18:29:33 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "CoinTelegraph",
-      "title": "Netflix drops trailer for series based on FTXs SBF and Caroline Ellison",
+      "title": "Netflix drops trailer for series based on FTX's SBF and Caroline Ellison",
       "url": "https://cointelegraph.com/news/netflix-series-ftx-sam-bankman-fried-caroline-ellison",
       "pubDate": "Thu, 08 Oct 2026 18:17:35 +0000",
       "summary": "Sam Bankman-Fried remains in federal prison following his 2023 conviction, while Caroline Ellison was released in January. LOOK only. Not a ticket. No fills."
     },
     {
       "source": "Decrypt",
-      "title": "AI Startup Manus Raises 500 Million After China Nixed Metas 2 Billion Acquisition",
+      "title": "AI Startup Manus Raises 500 Million After China Nixed Meta's 2 Billion Acquisition",
       "url": "https://decrypt.co/380546/maus-ai-startup-raises-500m-meta-acquisition-china",
       "pubDate": "Thu, 08 Oct 2026 21:46:03 +0000",
       "summary": "Manus built a self-driving AI assistant before the hype, sold itself to Meta, then watched Beijing unwind the deal. Its first fresh money since: more than 500 million. LOOK only. Not a ticket. No fills."
     },
     {
       "source": "Decrypt",
-      "title": "Google Wants Gemini to Be Your Next CoworkerComplete With Its Own Email Address",
+      "title": "Google Wants Gemini to Be Your Next Coworker-Complete With Its Own Email Address",
       "url": "https://decrypt.co/380545/google-gemini-coworker-own-email-address",
       "pubDate": "Thu, 08 Oct 2026 21:16:03 +0000",
       "summary": "Google Cloud unveiled a single Gemini agent that takes goals instead of questions, works in the background for days, and can join a company as a staffer with its own inbox and calendar. LOOK only. Not a ticket. No fills."
@@ -119,14 +119,14 @@
     },
     {
       "source": "The Block",
-      "title": "The Block GCCI 2026 Country Profile: Inside Koreas Crypto Market",
+      "title": "The Block GCCI 2026 Country Profile: Inside Korea's Crypto Market",
       "url": "https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081",
       "pubDate": "Thu, 08 Oct 2026 17:16:23 +0000",
-      "summary": "Section 1: The Blocks Global Crypto Competitiveness Index Crypto markets have historically been measured on their trading volume, ownership, or adoption. While these metrics remain important, they speak to demand-side factors rather than th LOOK only. Not a ticket. No fills."
+      "summary": "Section 1: The Block's Global Crypto Competitiveness Index Crypto markets have historically been measured on their trading volume, ownership, or adoption. While these metrics remain important, they speak to demand-side factors rather LOOK only. Not a ticket. No fills."
     },
     {
       "source": "The Block",
-      "title": "Bitwise CEO says tragic Dogecoin ETF failure shows gap between ETF buyers and crypto-app users",
+      "title": "Bitwise CEO says 'tragic' Dogecoin ETF failure shows gap between ETF buyers and crypto-app users",
       "url": "https://www.theblock.co/news/business/2026-10-08-bitwise-ceo-dogecoin-etf-failure-hunter-horsley-418070",
       "pubDate": "Thu, 08 Oct 2026 16:43:47 +0000",
       "summary": "Alongside its recent spot NEAR ETF launch, Bitwise is prioritizing AI and intends to do more in that area. LOOK only. Not a ticket. No fills."
@@ -140,87 +140,87 @@
     },
     {
       "source": "CryptoSlate",
-      "title": "XRPLs 1.34 billion stablecoin base doesnt tell us how much XRP users need",
+      "title": "Abstract's shutdown exposes the gap between owning assets and being able to move them",
+      "url": "https://cryptoslate.com/abstracts-shutdown-exposes-the-gap-between-owning-assets-and-being-able-to-move-them/",
+      "pubDate": "Fri, 09 Oct 2026 02:00:05 +0000",
+      "summary": "Abstract sets a Dec. 15 shutdown, but wallet access, supported routes and settlement determine whether holders can complete an exit. The post Abstract's shutdown exposes the gap between owning assets and being able to move them appeared LOOK only. Not a ticket. No fills."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "XRPL's 1.34 billion stablecoin base doesn't tell us how much XRP users need",
       "url": "https://cryptoslate.com/xrpls-1-34-billion-stablecoin-base-doesnt-tell-us-how-much-xrp-users-need/",
       "pubDate": "Fri, 09 Oct 2026 01:00:56 +0000",
-      "summary": "Fees and reserves require XRP, while larger demand depends on routing choices and the balances held in liquidity or credit products. The post XRPLs 1.34 billion stablecoin base doesnt tell us how much XRP users need appeared first on Crypto LOOK only. Not a ticket. No fills."
+      "summary": "Fees and reserves require XRP, while larger demand depends on routing choices and the balances held in liquidity or credit products. The post XRPL's 1.34 billion stablecoin base doesn't tell us how much XRP users need appeared first on LOOK only. Not a ticket. No fills."
     },
     {
       "source": "CryptoSlate",
-      "title": "Solanas geographic speed plan trusts validator locations the network cannot verify",
+      "title": "Solana's geographic speed plan trusts validator locations the network cannot verify",
       "url": "https://cryptoslate.com/solanas-geographic-speed-plan-trusts-validator-locations-the-network-cannot-verify/",
       "pubDate": "Fri, 09 Oct 2026 00:00:53 +0000",
-      "summary": "Wattenhofer and Knieps proposal preserves leader allocations while faster modeled handovers come with longer consecutive-control and regional risks. The post Solanas geographic speed plan trusts validator locations the network cannot verify LOOK only. Not a ticket. No fills."
+      "summary": "Wattenhofer and Kniep's proposal preserves leader allocations while faster modeled handovers come with longer consecutive-control and regional risks. The post Solana's geographic speed plan trusts validator locations the network cannot Not AERO, PUMP, or SNAP. HOLD. DO NOT ADD. LOOK only."
     },
     {
       "source": "CryptoSlate",
-      "title": "Bitcoin Cores privacy fix reaches v32 code while the v31 patch remains open",
+      "title": "Bitcoin Core's privacy fix reaches v32 code while the v31 patch remains open",
       "url": "https://cryptoslate.com/bitcoin-cores-privacy-fix-reaches-v32-code-while-the-v31-patch-remains-open/",
       "pubDate": "Thu, 08 Oct 2026 23:00:07 +0000",
-      "summary": "The opt-in private-broadcast repair is merged into 32.x, while the older-branch backport remains open and 31.1 is still the stable download. The post Bitcoin Cores privacy fix reaches v32 code while the v31 patch remains open appeared first Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "The opt-in private-broadcast repair is merged into 32.x, while the older-branch backport remains open and 31.1 is still the stable download. The post Bitcoin Core's privacy fix reaches v32 code while the v31 patch remains open appeared Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "CryptoSlate",
       "title": "PumpFun is making millions from a market where 81 percent of memecoins crashed 90 percent",
       "url": "https://cryptoslate.com/pumpfun-is-making-millions-from-a-market-where-81-of-memecoins-crashed-90/",
       "pubDate": "Thu, 08 Oct 2026 22:00:06 +0000",
-      "summary": "Talos reports rare observed recoveries, while platform fees and PUMP burns offer no automatic route back to break-even for other tokens. The post PumpFun is making millions from a market where 81 percent of memecoins crashed 90 percent appe Platform fees and PUMP burns do not map to a fill. HOLD PUMP. DO NOT ADD. LOOK only."
+      "summary": "Talos reports rare observed recoveries, while platform fees and PUMP burns offer no automatic route back to break-even for other tokens. The post PumpFun is making millions from a market where 81 percent of memecoins crashed 90 percent Platform fees and PUMP burns do not map to a fill. HOLD PUMP. DO NOT ADD. LOOK only."
     },
     {
       "source": "CryptoSlate",
       "title": "Bitcoin crashes through 81,000 buy wall as 1 billion crypto liquidation bloodbath unfolds",
       "url": "https://cryptoslate.com/bitcoin-crashes-through-81000-buy-wall-as-1-billion-crypto-liquidation-bloodbath-unfolds/",
       "pubDate": "Thu, 08 Oct 2026 21:00:13 +0000",
-      "summary": "Bitcoin registered an intraday low near 80,000 as a cryptocurrency selloff triggered over 1 billion in liquidations, overwhelmingly hitting traders betting on higher prices. The largest cryptocurrency traded around 80,744 as of press time,  Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "SAP Pay adds USDC payments, with Circle Mint access required",
-      "url": "https://cryptoslate.com/saps-new-usdc-payments-require-an-eligible-circle-mint-account/",
-      "pubDate": "Thu, 08 Oct 2026 20:40:19 +0000",
-      "summary": "Tereinas Circle integration adds a settlement route inside SAP workflows, while institutional checks and regional conditions govern access. The post SAP Pay adds USDC payments, with Circle Mint access required appeared first on CryptoSlate  LOOK only. Not a ticket. No fills."
+      "summary": "Bitcoin registered an intraday low near 80,000 as a cryptocurrency selloff triggered over 1 billion in liquidations, overwhelmingly hitting traders betting on higher prices. The largest cryptocurrency traded around 80,744 as of press Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez",
       "url": "https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration",
       "pubDate": "Thu, 08 Oct 2026 19:17:12 +0000",
-      "summary": "Bitcoin Magazine AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez Bitcoin software company Breez said demand for its developer tools has surged since AI coding agents went mainstream, with partnership inquiries rising rou Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Bitcoin Magazine AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez Bitcoin software company Breez said demand for its developer tools has surged since AI coding agents went mainstream, with partnership inquiries rising Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions",
       "url": "https://bitcoinmagazine.com/news/whitebit-integrates-lightning-network",
       "pubDate": "Thu, 08 Oct 2026 19:10:07 +0000",
-      "summary": "Bitcoin Magazine WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions The Swiss crypto exchange has onboarded the Lightning Network to help people withdraw and deposit bitcoin with ease. This post WhiteBIT Integrate Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Bitcoin Magazine WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions The Swiss crypto exchange has onboarded the Lightning Network to help people withdraw and deposit bitcoin with ease. This post WhiteBIT Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Greece Plans Crypto Capital Gains Tax: Report",
       "url": "https://bitcoinmagazine.com/news/greece-plans-crypto-capital-gains",
       "pubDate": "Thu, 08 Oct 2026 18:39:39 +0000",
-      "summary": "Bitcoin Magazine Greece Plans Crypto Capital Gains Tax: Report Greece is planning a law to tax crypto investors capital gains at a rate of 15 percent, according to reports. According to Reuters and local media, the countrys Finance Ministry Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Bitcoin Magazine Greece Plans Crypto Capital Gains Tax: Report Greece is planning a law to tax crypto investors' capital gains at a rate of 15 percent, according to reports. According to Reuters and local media, the country's Finance Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Bitcoin Falls Below 81,000 as Oil Spikes, Fed Talks Tough",
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slide-continues-below-81000",
       "pubDate": "Thu, 08 Oct 2026 17:14:58 +0000",
-      "summary": "Bitcoin Magazine Bitcoin Falls Below 81,000 as Oil Spikes, Fed Talks Tough The price of bitcoin has continued to drop this week, spurred by fears that the Federal Reserve is increasingly tempted to raise interest rates. This post Bitcoin Fa Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Bitcoin Magazine Bitcoin Falls Below 81,000 as Oil Spikes, Fed Talks Tough The price of bitcoin has continued to drop this week, spurred by fears that the Federal Reserve is increasingly tempted to raise interest rates. This post Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "EDX Markets and VerifiedX Partner to Bring Verified Bitcoin (vBTC) to Institutional Markets",
       "url": "https://bitcoinmagazine.com/business/edx-markets-and-verifiedx-partner-to-bring-verified-bitcoin-vbtc-to-institutional-markets",
       "pubDate": "Thu, 08 Oct 2026 16:53:52 +0000",
-      "summary": "Bitcoin Magazine EDX Markets and VerifiedX Partner to Bring Verified Bitcoin (vBTC) to Institutional Markets Partnership will bring vBTC to EDX Markets for institutional spot trading, while EDX joins the VerifiedX network as a validator, ex Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Bitcoin Magazine EDX Markets and VerifiedX Partner to Bring Verified Bitcoin (vBTC) to Institutional Markets Partnership will bring vBTC to EDX Markets for institutional spot trading, while EDX joins the VerifiedX network as a Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Standard Chartered to Offer Digital Asset Custody in Singapore",
       "url": "https://bitcoinmagazine.com/news/standard-chartered-singapore-custody-plans",
       "pubDate": "Thu, 08 Oct 2026 15:46:05 +0000",
-      "summary": "Bitcoin Magazine Standard Chartered to Offer Digital Asset Custody in Singapore The bank already offers bitcoin custody in other countries. This post Standard Chartered to Offer Digital Asset Custody in Singapore first appeared on Bitcoin M Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "Bitcoin Magazine Standard Chartered to Offer Digital Asset Custody in Singapore The bank already offers bitcoin custody in other countries. This post Standard Chartered to Offer Digital Asset Custody in Singapore first appeared on Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
     },
     {
       "source": "CoinDesk",
@@ -234,7 +234,7 @@
       "title": "Wall Street's tokenization boom could have bigger winners than bitcoin and ether, Citrini says",
       "url": "https://www.coindesk.com/markets/2026/10/08/wall-street-s-tokenization-boom-could-have-bigger-winners-than-bitcoin-and-ether-citrini-says",
       "pubDate": "Thu, 08 Oct 2026 19:46:15 +0000",
-      "summary": "The research firm sees tokenized stocks, bonds and loans creating new markets for trading and lending, with fee-generating platforms and companies poised to benefit. Headline print is not a desk price. HOLD BTC. DO NOT ADD. LOOK only."
+      "summary": "The research firm sees tokenized stocks, bonds and loans creating new markets for trading and lending, with fee-generating platforms and companies poised to benefit. Not an ETH ticket. HOLD ETH. DO NOT ADD. LOOK only."
     },
     {
       "source": "CoinDesk",
