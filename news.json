@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-09T13:04:32Z",
+  "asof": "2026-10-09T14:02:52Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,14 +10,35 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk each returned 6 items. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 2026-10-09T12:03:33Z: new Decrypt UK sanctions naming Cryptomus and TokenSpot; new CoinDesk note that DWF Labs subsidiaries sued BitGo for 141 million over an alleged token lock-up breach. BTC tape unchanged in headlines: dipped below 81,000 with about 1.1 billion liquidations and about 55K BTC sent to exchanges; CoinDesk said BTC steadied near 82,500 after Trump ruled out an Iran strike before midterms, still about 4 percent lower on the week, ether about 9 percent lower. Headline prints are not desk prices. BTC and ETH ETF October outflows swelling toward 1 billion. HOLD BTC. DO NOT ADD. LOOK only. HOLD ETH. DO NOT ADD. LOOK only. No SNAP, DRV, ENA, or AERO headline. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no new PumpFun headline. Prior fee and burn note is not a ticket. HOLD PUMP. DO NOT ADD. LOOK only. Bitget: no new exploit headline. LOOK only. No fills.",
+  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk each returned 6 items. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 2026-10-09T13:04:32Z: new CoinTelegraph Dragonfly note rejecting bunker-mode asset migration; new CoinTelegraph count of 90 crypto-related attacks in France in seven months; new Decrypt note that experts cite support levels from 83,000 down to 72,000 in a weak Uptober start; new The Block note that Base creator Jesse Pollak said equities and non-dollar stablecoins will lead a tokenization supercycle, with Coinbase tokenized stocks on Base at about 70 million to 100 million daily volume; new CryptoSlate note that a Polygon USDT0 audit estimates about 1.1 million scam look-alikes and that addresses holding at least 10 fell 42 percent since August 2025. Still on the tape: UK sanctions naming Cryptomus and TokenSpot; DWF Labs subsidiaries suing BitGo for 141 million over an alleged token lock-up breach; CoinDesk said BTC steadied near 82,500 after Trump ruled out an Iran strike before midterms, still about 4 percent lower on the week, ether about 9 percent lower; CoinTelegraph said BTC dipped below 81,000 with about 1.1 billion liquidations and about 55K BTC sent to exchanges. Headline prints are not desk prices. HOLD BTC. DO NOT ADD. LOOK only. HOLD ETH. DO NOT ADD. LOOK only. No SNAP, DRV, ENA, or AERO headline. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. PUMP: no new PumpFun headline. Prior fee and burn note is not a ticket. HOLD PUMP. DO NOT ADD. LOOK only. Bitget: no new exploit headline. LOOK only. No fills.",
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Dragonfly partner rejects 'bunker mode' doomerism, calls for proactive blockchain measures",
+      "url": "https://cointelegraph.com/news/dragonfly-bunker-mode-doomerism-proactive-blockchain-measures",
+      "pubDate": "Fri, 09 Oct 2026 13:49:22 +0000",
+      "summary": "Dragonfly's Qureshi argued that asset migration is not a real solution in case of AI models breaking cryptographic signatures, and urged blockchains to adopt proactive measures. LOOK only. Not a ticket. No fills."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Fri, 09 Oct 2026 13:31:41 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "France is world's most dangerous place for Bitcoiners: 90 attacks in 7 months",
+      "url": "https://cointelegraph.com/magazine/france-is-worlds-most-dangerous-place-for-bitcoiners-90-attacks-in-7-months",
+      "pubDate": "Fri, 09 Oct 2026 13:30:00 +0000",
+      "summary": "French authorities recorded 90 crypto-related cases involving kidnapping, extortion, threats and violent theft in seven months. What makes France such a hotspot? HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
+    },
     {
       "source": "CoinTelegraph",
       "title": "ESMA seeks evidence tokenized collateral can be cashed out in crisis",
       "url": "https://cointelegraph.com/news/esma-tokenized-collateral-eu-clearinghouses",
       "pubDate": "Fri, 09 Oct 2026 10:49:24 +0000",
-      "summary": "ESMA is seeking industry feedback on the legal, liquidity and operational risks of tokenized collateral before deciding whether additional EU regulatory measures are necessary. LOOK only. Not a ticket. No fills."
+      "summary": "ESMA is seeking industry feedback on the legal, liquidity and operational risks of tokenized collateral before deciding whether additional EU regulatory measures are necessary. HOLD ETH. DO NOT ADD. LOOK only. Headline print is not a desk price."
     },
     {
       "source": "CoinTelegraph",
@@ -34,25 +55,11 @@
       "summary": "France's Finance Committee backed taxes on stablecoin swaps, as well as unrealized crypto gains when households with more than 800,000 euros move abroad. LOOK only. Not a ticket. No fills."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin speculators move 55K BTC to exchanges amid 1.1B liquidations",
-      "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-crypto-liquidation",
-      "pubDate": "Fri, 09 Oct 2026 09:50:01 +0000",
-      "summary": "Bitcoin dipped below 81,000, sparking mass crypto liquidations as traders sent BTC to exchanges at a loss. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin, Ether ETFs' October outflows swell toward 1B",
-      "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-october-outflows-billion",
-      "pubDate": "Fri, 09 Oct 2026 07:34:44 +0000",
-      "summary": "Bitcoin ETFs lost 244 million on Thursday, while Ether funds extended their outflow streak to eight sessions, shedding 641 million. HOLD BTC. DO NOT ADD. LOOK only. HOLD ETH. DO NOT ADD. LOOK only. Headline print is not a desk price."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here's what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-      "pubDate": "Fri, 09 Oct 2026 05:38:03 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation. LOOK only. Not a ticket. No fills."
+      "source": "Decrypt",
+      "title": "Bitcoin Bleeds in Uptober-How Low Can It Go? Experts Weigh In",
+      "url": "https://decrypt.co/380574/bitcoin-bleeds-in-uptober-how-low-can-it-go-experts-weigh-in",
+      "pubDate": "Fri, 09 Oct 2026 13:20:12 +0000",
+      "summary": "Experts highlight several support levels, from 83,000 down to 72,000, that Bitcoin may need to test in a bearish start to Uptober. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
     },
     {
       "source": "Decrypt",
@@ -66,14 +73,14 @@
       "title": "Morning Minute: Uptober Turns Sour as Crypto Majors Slide",
       "url": "https://decrypt.co/380569/morning-minute-uptober-turns-sour-as-crypto-majors-slide",
       "pubDate": "Fri, 09 Oct 2026 11:41:15 +0000",
-      "summary": "Is this the beginning of a bigger selloff with the anniversary of 10/10 looming? Or just a leverage flush before the next leg up?. LOOK only. Not a ticket. No fills."
+      "summary": "Is this the beginning of a bigger selloff with the anniversary of 10/10 looming? Or just a leverage flush before the next leg up? LOOK only. Not a ticket. No fills."
     },
     {
       "source": "Decrypt",
       "title": "Empire Market Co-Creator Sentenced to 40 Years Over 430M Dark Web Bazaar",
       "url": "https://decrypt.co/380561/empire-market-co-creator-sentenced-to-40-years-over-430m-dark-web-bazaar",
       "pubDate": "Fri, 09 Oct 2026 10:11:51 +0000",
-      "summary": "Raheim Hamilton forfeited some 1,230 BTC. His co-creator Thomas Pavey, who agreed to forfeit 1,584 BTC, is due to be sentenced this month. LOOK only. Not a ticket. No fills."
+      "summary": "Raheim Hamilton forfeited some 1,230 BTC. His co-creator Thomas Pavey, who agreed to forfeit 1,584 BTC, is due to be sentenced this month. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
     },
     {
       "source": "Decrypt",
@@ -90,18 +97,18 @@
       "summary": "Manus built a self-driving AI assistant before the hype, sold itself to Meta, then watched Beijing unwind the deal. Its first fresh money since: more than 500 million. LOOK only. Not a ticket. No fills."
     },
     {
-      "source": "Decrypt",
-      "title": "Google Wants Gemini to Be Your Next Coworker-Complete With Its Own Email Address",
-      "url": "https://decrypt.co/380545/google-gemini-coworker-own-email-address",
-      "pubDate": "Thu, 08 Oct 2026 21:16:03 +0000",
-      "summary": "Google Cloud unveiled a single Gemini agent that takes goals instead of questions, works in the background for days, and can join a company as a staffer with its own inbox and calendar. LOOK only. Not a ticket. No fills."
+      "source": "The Block",
+      "title": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead upcoming 'tokenization supercycle'",
+      "url": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
+      "pubDate": "Fri, 09 Oct 2026 13:12:57 +0000",
+      "summary": "Coinbase launched tokenized stocks on Base six weeks ago, with about 70 million to 100 million in daily volume, according to Pollak. LOOK only. Not a ticket. No fills."
     },
     {
       "source": "The Block",
       "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
       "url": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
       "pubDate": "Fri, 09 Oct 2026 10:40:59 +0000",
-      "summary": "Thailand's SEC has limited initial crypto ETFs to bitcoin and ether, with new custody, exposure, and trading rules taking effect Oct. 16. HOLD BTC. DO NOT ADD. LOOK only. HOLD ETH. DO NOT ADD. LOOK only. Headline print is not a desk price."
+      "summary": "Thailand's SEC has limited initial crypto ETFs to bitcoin and ether, with new custody, exposure, and trading rules taking effect Oct. 16. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price. HOLD ETH. DO NOT ADD. LOOK only. Headline print is not a desk price."
     },
     {
       "source": "The Block",
@@ -132,95 +139,88 @@
       "summary": "TD Cowen kept its 260 price target on Strategy (MSTR) as dilution limits the benefit of higher bitcoin forecasts. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
     },
     {
-      "source": "The Block",
-      "title": "The Block GCCI 2026 Country Profile: Inside Korea's Crypto Market",
-      "url": "https://www.theblock.co/research/institutional/block-gcci-2026-country-profile-korea-crypto-market-418081",
-      "pubDate": "Thu, 08 Oct 2026 17:16:23 +0000",
-      "summary": "Section 1: The Block's Global Crypto Competitiveness Index Crypto markets have historically been measured on their trading volume, ownership, or adoption. While these metrics remain important, they speak to demand-side f. LOOK only. Not a ticket. No fills."
+      "source": "CryptoSlate",
+      "title": "Polygon's 8 million USDT0 holders face scrutiny as 58% of growth matches scam patterns",
+      "url": "https://cryptoslate.com/polygons-8-million-usdt0-holders-face-scrutiny-as-58-of-growth-matches-scam-patterns/",
+      "pubDate": "Fri, 09 Oct 2026 13:40:01 +0000",
+      "summary": "The Oct. 7 audit estimates about 1.1 million scam look-alikes, while addresses holding at least 10 fell 42% since August 2025. . LOOK only. Not a ticket. No fills."
     },
     {
       "source": "CryptoSlate",
       "title": "Backing Polymarket's primary favorites would have lost 4%, new audit finds.",
       "url": "https://cryptoslate.com/backing-polymarkets-primary-favorites-would-have-lost-4-new-audit-finds/",
       "pubDate": "Fri, 09 Oct 2026 12:00:22 +0000",
-      "summary": "Bitquery's 273-race scorecard found an 87% win rate, but its equal-dollar hypothetical shows why accurate calls can come at losing prices. LOOK only. Not a ticket. No fills."
+      "summary": "Bitquery's 273-race scorecard found an 87% win rate, but its equal-dollar hypothetical shows why accurate calls can come at losing prices. . LOOK only. Not a ticket. No fills."
     },
     {
       "source": "CryptoSlate",
       "title": "AI agents can pay for your shopping. Who gets your money back?",
       "url": "https://cryptoslate.com/ai-agents-hijack-online-shopping-forcing-a-6b-merchant-crisis/",
       "pubDate": "Fri, 09 Oct 2026 10:40:44 +0000",
-      "summary": "Amazon's Bedrock AgentCore Payments, built with Coinbase and Stripe, lets AI agents discover paid services, authenticate, and pay with stablecoins and x402 under preset spending limits. AI agents are getting wallets befo. LOOK only. Not a ticket. No fills."
+      "summary": "Amazon's Bedrock AgentCore Payments, built with Coinbase and Stripe, lets AI agents discover paid services, authenticate, and pay with stablecoins and x402 under preset spending limits. AI agents are getting wallets before merchants get a c LOOK only. Not a ticket. No fills."
     },
     {
       "source": "CryptoSlate",
       "title": "Strategy's 150 million-a-day STRC market has a hidden dependency on its own buybacks",
       "url": "https://cryptoslate.com/strategys-150-million-a-day-strc-market-has-a-hidden-dependency-on-its-own-buybacks/",
       "pubDate": "Fri, 09 Oct 2026 09:40:38 +0000",
-      "summary": "Strategy's 1.45 billion preferred-share buyback program is supporting a substantial share of trading in one of its key Bitcoin financing instruments. According to a Keyrock research report, Strategy's repurchases account. LOOK only. Not a ticket. No fills."
+      "summary": "Strategy's 1.45 billion preferred-share buyback program is supporting a substantial share of trading in one of its key Bitcoin financing instruments. According to a Keyrock research report, Strategy's repurchases accounted for more than 20% HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
     },
     {
       "source": "CryptoSlate",
       "title": "Coinbase streams 150,000 Singapore trading cup and crowns its first champion",
       "url": "https://cryptoslate.com/coinbase-streams-150000-singapore-trading-cup-and-crowns-its-first-champion/",
       "pubDate": "Fri, 09 Oct 2026 08:30:11 +0000",
-      "summary": "The exchange paired walkouts and memes with a ten-trader tournament; its displayed leaderboard listed Intern first without confirming a winner. LOOK only. Not a ticket. No fills."
+      "summary": "The exchange paired walkouts and memes with a ten-trader tournament; its displayed leaderboard listed Intern first without confirming a winner. . LOOK only. Not a ticket. No fills."
     },
     {
       "source": "CryptoSlate",
       "title": "EU regulators target non-compliant stablecoins with a 90-day deadline",
       "url": "https://cryptoslate.com/eu-regulators-target-non-compliant-stablecoins-with-a-90-day-deadline/",
       "pubDate": "Fri, 09 Oct 2026 07:20:02 +0000",
-      "summary": "National regulators should require remediation within three months and may permit narrowly supervised exit services for existing holdings. LOOK only. Not a ticket. No fills."
+      "summary": "National regulators should require remediation within three months and may permit narrowly supervised exit services for existing holdings. . LOOK only. Not a ticket. No fills."
     },
     {
-      "source": "CryptoSlate",
-      "title": "Coinbase rolls out 10x spot leverage, but blocks US retail from it",
-      "url": "https://cryptoslate.com/coinbase-rolls-out-10x-spot-leverage-but-blocks-us-retail-from-it/",
-      "pubDate": "Fri, 09 Oct 2026 06:30:02 +0000",
-      "summary": "The coming-weeks rollout limits US access to Eligible Contract Participants and puts borrowers' collateral at risk. LOOK only. Not a ticket. No fills."
+      "source": "Bitcoin Magazine",
+      "title": "UTXO's Loren Asmus: The 300T Bond Market Is Bitcoin's Next Frontier",
+      "url": "https://bitcoinmagazine.com/videos/utxos-loren-asmus-the-300t-bond-market-is-bitcoins-next-frontier",
+      "pubDate": "Fri, 09 Oct 2026 13:44:49 +0000",
+      "summary": "UTXO's Loren Asmus: The 300T Bond Market Is Bitcoin's Next Frontier UTXO Management's Loren Asmus: Bitcoin isn't a trade, but a portfolio staple. He breaks down institutional adoption, retention, and why education is key. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Core developer responds to AI & Quantum Risk",
+      "url": "https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk",
+      "pubDate": "Fri, 09 Oct 2026 13:38:38 +0000",
+      "summary": "Bitcoin Core developer responds to AI & Quantum Risk Is AI address security fear-mongering? Chaincode Labs' Antoine Poinsot answers Justin Drake's viral post, breaking down quantum risk and preparation. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury",
+      "url": "https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury",
+      "pubDate": "Fri, 09 Oct 2026 13:33:09 +0000",
+      "summary": "Building the Berkshire Hathaway of Bitcoin | Twenty One Capital CEO Rapha Zagury Twenty One Capital holds 43K BTC at a discount. CEO Rapha Zagury breaks down its mNAV, share buybacks, and why Tether's backing provides a permanent edge. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price. HOLD ETH. DO NO"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Calamos Investments CEO John Koudounis: Bitcoin Will Hit 1M by 2030",
+      "url": "https://bitcoinmagazine.com/videos/calamos-investments-ceo-john-koudounis-bitcoin-will-hit-1m-by-2030",
+      "pubDate": "Fri, 09 Oct 2026 13:28:10 +0000",
+      "summary": "Calamos Investments CEO John Koudounis: Bitcoin Will Hit 1M by 2030 Is Bitcoin headed for a 1M awakening by 2030? Calamos CEO John Koudounis explains why institutional bank lending and ETF access will drive the surge. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez",
       "url": "https://bitcoinmagazine.com/news/ai-coding-agents-drive-bitcoin-integration",
       "pubDate": "Thu, 08 Oct 2026 19:17:12 +0000",
-      "summary": "Bitcoin Magazine AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez Bitcoin software company Breez said demand for its developer tools has surged since AI coding agents went mainstream, with partnership. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
+      "summary": "AI Coding Agents Drive Surge in Bitcoin Integration Requests: Breez Bitcoin software company Breez said demand for its developer tools has surged since AI coding agents went mainstream, with partnership inquiries rising roughly 14-fold as d HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions",
       "url": "https://bitcoinmagazine.com/news/whitebit-integrates-lightning-network",
       "pubDate": "Thu, 08 Oct 2026 19:10:07 +0000",
-      "summary": "Bitcoin Magazine WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions The Swiss crypto exchange has onboarded the Lightning Network to help people withdraw and deposit bitcoin with ease. This pos. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Greece Plans Crypto Capital Gains Tax: Report",
-      "url": "https://bitcoinmagazine.com/news/greece-plans-crypto-capital-gains",
-      "pubDate": "Thu, 08 Oct 2026 18:39:39 +0000",
-      "summary": "Bitcoin Magazine Greece Plans Crypto Capital Gains Tax: Report Greece is planning a law to tax crypto investors' capital gains at a rate of 15%, according to reports. According to Reuters and local media, the country's F. LOOK only. Not a ticket. No fills."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Bitcoin Falls Below 81,000 as Oil Spikes, Fed Talks Tough",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slide-continues-below-81000",
-      "pubDate": "Thu, 08 Oct 2026 17:14:58 +0000",
-      "summary": "Bitcoin Magazine Bitcoin Falls Below 81,000 as Oil Spikes, Fed Talks Tough The price of bitcoin has continued to drop this week, spurred by fears that the Federal Reserve is increasingly tempted to raise interest rates. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "EDX Markets and VerifiedX Partner to Bring Verified Bitcoin (vBTC) to Institutional Markets",
-      "url": "https://bitcoinmagazine.com/business/edx-markets-and-verifiedx-partner-to-bring-verified-bitcoin-vbtc-to-institutional-markets",
-      "pubDate": "Thu, 08 Oct 2026 16:53:52 +0000",
-      "summary": "Bitcoin Magazine EDX Markets and VerifiedX Partner to Bring Verified Bitcoin (vBTC) to Institutional Markets Partnership will bring vBTC to EDX Markets for institutional spot trading, while EDX joins the VerifiedX networ. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Standard Chartered to Offer Digital Asset Custody in Singapore",
-      "url": "https://bitcoinmagazine.com/news/standard-chartered-singapore-custody-plans",
-      "pubDate": "Thu, 08 Oct 2026 15:46:05 +0000",
-      "summary": ". LOOK only. Not a ticket. No fills."
+      "summary": "WhiteBIT Integrates Lightning Network for Fast and Cheap Bitcoin Transactions The Swiss crypto exchange has onboarded the Lightning Network to help people withdraw and deposit bitcoin with ease. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
     },
     {
       "source": "CoinDesk",
@@ -234,28 +234,28 @@
       "title": "Zcash developers set January target for quantum-resistant payments after 'bunker mode' scare",
       "url": "https://www.coindesk.com/tech/2026/10/09/zcash-developers-set-january-target-for-quantum-resistant-payments-after-bunker-mode-scare",
       "pubDate": "Fri, 09 Oct 2026 11:39:05 +0000",
-      "summary": "The plan concerns public payments, where about seven in 10 ZEC sit. A separate wallet tool would keep balance checks from revealing which addresses belong together. LOOK only. Not a ticket. No fills."
+      "summary": "The plan concerns public payments, where about seven in 10 ZEC sit. A separate wallet tool would keep balance checks from revealing which addresses belong together. HOLD ETH. DO NOT ADD. LOOK only. Headline print is not a desk price."
     },
     {
       "source": "CoinDesk",
       "title": "Trump's Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
       "url": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
       "pubDate": "Fri, 09 Oct 2026 11:09:04 +0000",
-      "summary": "Your day-ahead look for Oct. 9, 2026. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
+      "summary": "Your day-ahead look for Oct. 9, 2026 HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
     },
     {
       "source": "CoinDesk",
       "title": "Bitcoin steadies near 82,500 after Trump rules out Iran strike before midterms",
       "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-steadies-near-usd82-500-after-trump-rules-out-iran-strike-before-midterms",
       "pubDate": "Fri, 09 Oct 2026 10:44:22 +0000",
-      "summary": "Bitcoin recovered to around 82,500 after Trump ruled out an Iran strike, but remains about 4% lower on the week, while ether has lost 9%. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
+      "summary": "Bitcoin recovered to around 82,500 after Trump ruled out an Iran strike, but remains about 4% lower on the week, while ether has lost 9%. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price. HOLD ETH. DO NOT ADD. LOOK only. Headline print is not a desk price."
     },
     {
       "source": "CoinDesk",
       "title": "Thailand opens door to locally listed bitcoin and ether ETFs",
       "url": "https://www.coindesk.com/policy/2026/10/09/thailand-opens-door-to-locally-listed-bitcoin-and-ether-etfs",
       "pubDate": "Fri, 09 Oct 2026 10:16:55 +0000",
-      "summary": "Thailand's new crypto rules taking effect Oct. 16. They allow Thai asset managers to launch crypto ETFs on the local stock exchange, with bitcoin and ether initially eligible. HOLD BTC. DO NOT ADD. LOOK only. HOLD ETH. DO NOT ADD. LOOK only. Headline print is not a desk price."
+      "summary": "Thailand's new crypto rules taking effect Oct. 16. They allow Thai asset managers to launch crypto ETFs on the local stock exchange, with bitcoin and ether initially eligible. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price. HOLD ETH. DO NOT ADD. LOOK only. Headline print is not a desk price."
     },
     {
       "source": "CoinDesk",
