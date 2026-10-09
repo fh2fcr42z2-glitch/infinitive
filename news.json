@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-09T19:02:03Z",
+  "asof": "2026-10-09T20:03:48Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,8 +10,15 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk each returned 6 items. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 2026-10-09T18:02:05Z: new Decrypt note that a Senate Democrat pressed Cantor Fitzgerald on Tether ties and Lutnick family profits; new Decrypt note that Blockchain.com filed for DCM and FCM licenses; new The Block note that former FTX COO Constance Wang criticized the Netflix Altruists trailer; new CoinDesk note that Robinhood Chain is considering priority ordering after Arbitrum moved to Priority Gas Auctions; new CryptoSlate note that Hoskinson said Vitalik AI warning could delay quantum defenses. Ledger / CryptoBilis investigation still on the tape at CoinTelegraph, Decrypt, The Block, CoinDesk, and Bitcoin Magazine, with estimates about 86 million to 87 million and posts naming Bitcoin, Ethereum, and Tron addresses. CoinTelegraph still notes bitcoin consolidating near a headline print of 82.5K as markets weather Ledger theft reports. Decrypt still notes bitcoin rebounded after dipping near a headline print of 80,000 while traders price more downside. Bitcoin Magazine still notes bitcoin ETFs shed 729 million in two days. CryptoSlate notes still stand that Ethereum proposed safety checks could still let a bad trade through, and that Ethereum open interest rose 2.3 percent in ETH on Binance as its dollar value fell 6.6 percent. CryptoSlate note still stands that Bitquery traced a 79AU / 79th vaults pool drain of about 14 million to token permissions that bypassed burned LP receipts. The Block note still stands that the US is targeting a 1 billion Iran-linked crypto seizure. CoinDesk, Decrypt, and The Block notes still stand that the New York AG secured up to 35 million and a lifetime crypto ban from Celsius Alex Mashinsky. Decrypt and CoinDesk notes still stand that DWF Labs subsidiaries sued BitGo for 141 million over an alleged token lock-up breach. Headline prints are not desk prices. HOLD BTC. DO NOT ADD. LOOK only. HOLD ETH. DO NOT ADD. LOOK only. No SNAP headline. HOLD SNAP. DO NOT ADD. LOOK only. No DRV headline. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. No ENA headline. HOLD ENA. DO NOT ADD. LOOK only. No AERO headline. HOLD AERO. DO NOT ADD. LOOK only. No PUMP headline. PUMP: no new PumpFun headline. Prior fee and burn note is not a ticket. HOLD PUMP. DO NOT ADD. LOOK only. Bitget: no new exploit headline. LOOK only. Ledger and 79AU drains are LOOK only, not a book add. No fills.",
+  "notes": "RSS: CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, and CoinDesk each returned items. Rekt listed at https://rekt.news; rekt rss not parsed. Versus 2026-10-09T19:02:03Z: new CoinTelegraph note that a THORChain exec accused Tether of temporarily freezing then unfreezing USDT vaults; new CryptoSlate note that XRPL PermissionDelegationV1_1 went live Oct. 8; new The Block note that Base creator Jesse Pollak said equities and non-dollar stablecoins will lead a tokenization supercycle; new CoinDesk note that Zcash developers set a January target for quantum-resistant public payments; new CoinDesk daybook note that a Trump Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure; new Bitcoin Magazine notes on UTXO Loren Asmus and a Calamos 1M-by-2030 comment. Ledger / CryptoBilis investigation still on the tape at CoinTelegraph, The Block, CoinDesk, and Bitcoin Magazine, with estimates about 86 million and posts naming Bitcoin, Ethereum, and Tron addresses. Decrypt still notes bitcoin rebounded after dipping near a headline print of 80,000 while traders price more downside. Bitcoin Magazine still notes bitcoin ETFs shed 729 million in two days. CryptoSlate notes still stand that Ethereum proposed safety checks could still let a bad trade through, and that Ethereum open interest rose 2.3 percent in ETH on Binance as its dollar value fell 6.6 percent. CryptoSlate note still stands that Bitquery traced a 79AU / 79th vaults pool drain of about 14 million to token permissions that bypassed burned LP receipts. The Block note still stands that the US is targeting a 1 billion Iran-linked crypto seizure. CoinDesk, Decrypt prior, and The Block notes still stand that the New York AG secured up to 35 million and a lifetime crypto ban from Celsius Alex Mashinsky. Decrypt and CoinDesk notes still stand that DWF Labs subsidiaries sued BitGo for 141 million over an alleged token lock-up breach. Headline prints are not desk prices. HOLD BTC. DO NOT ADD. LOOK only. HOLD ETH. DO NOT ADD. LOOK only. No SNAP headline. HOLD SNAP. DO NOT ADD. LOOK only. No DRV headline. DRV: no Drift exploit headline. Prior note stands: initial payouts just over 1 percent of user losses, no firm full-repayment timeline. HOLD DRV. DO NOT ADD. LOOK only. No ENA headline. HOLD ENA. DO NOT ADD. LOOK only. No AERO headline. HOLD AERO. DO NOT ADD. LOOK only. No PUMP headline. PUMP: no new PumpFun headline. Prior fee and burn note is not a ticket. HOLD PUMP. DO NOT ADD. LOOK only. Bitget: no new exploit headline. LOOK only. Ledger, THORChain USDT freeze, and 79AU drains are LOOK only, not a book add. No fills.",
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "THORChain exec accuses Tether of temporarily freezing USDT vaults",
+      "url": "https://cointelegraph.com/news/thorchain-tether-freezing-usdt-addresses",
+      "pubDate": "Fri, 09 Oct 2026 19:04:03 +0000",
+      "summary": "Chad Barraford, technical co-founder of THORChain, said USDT vault funds were frozen and then unfrozen without explanation. LOOK only. Not a ticket. No fills."
+    },
     {
       "source": "CoinTelegraph",
       "title": "HSBC, Ant Digital test AI-agent payments using tokenized deposits",
@@ -39,13 +46,6 @@
       "url": "https://cointelegraph.com/news/wealthy-investors-crypto-advisers-okx-strategy-buybacks",
       "pubDate": "Fri, 09 Oct 2026 15:51:53 +0000",
       "summary": "Wealthy investors are embracing crypto faster than their advisers, while OKX attracts new funding and Strategy shifts more capital toward preferred stock buybacks. LOOK only. Not a ticket. No fills."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin consolidates near 82.5K as crypto weathers Ledger theft reports",
-      "url": "https://cointelegraph.com/markets/bitcoin-consolidates-crypto-weathers-ledger-theft-reports",
-      "pubDate": "Fri, 09 Oct 2026 15:20:36 +0000",
-      "summary": "Bitcoin and crypto markets eyed a recovery from Thursday drop despite concerns of another hardware wallet exploit. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
     },
     {
       "source": "Decrypt",
@@ -81,13 +81,6 @@
       "url": "https://decrypt.co/380593/dwf-bitgo-141-million-lawsuit-early-token-sales",
       "pubDate": "Fri, 09 Oct 2026 16:08:23 +0000",
       "summary": "DWF Labs-linked firms allege in London High Court that BitGo sold discounted Falcon Finance and ESPORTS tokens roughly two months before lock-up expired. LOOK only. Not a ticket. No fills."
-    },
-    {
-      "source": "Decrypt",
-      "title": "New York AG secures up to 35M and industry ban from ex-Celsius CEO Alex Mashinsky",
-      "url": "https://decrypt.co/380592/new-york-ag-secures-up-to-35m-and-industry-ban-from-ex-celsius-ceo-alex-mashinsky",
-      "pubDate": "Fri, 09 Oct 2026 16:07:07 +0000",
-      "summary": "Mashinsky owes New York 25 million if he fails to forfeit another 10 million, and 10 million more if he does not serve his full sentence. LOOK only. Not a ticket. No fills."
     },
     {
       "source": "The Block",
@@ -126,10 +119,17 @@
     },
     {
       "source": "The Block",
-      "title": "Thailand SEC issues bitcoin and ether ETF rules set to take effect Oct. 16",
-      "url": "https://www.theblock.co/news/regulation/2026-10-09-thailand-sec-issues-bitcoin-and-ether-etf-rules-set-to-take-effect-oct-16-418132",
-      "pubDate": "Fri, 09 Oct 2026 10:40:59 +0000",
-      "summary": "Thailand SEC has limited initial crypto ETFs to bitcoin and ether, with new custody, exposure, and trading rules taking effect Oct. 16. HOLD BTC. DO NOT ADD. LOOK only. HOLD ETH. DO NOT ADD. LOOK only. Headline print is not a desk price."
+      "title": "Base creator Jesse Pollak says equities and non-dollar stablecoins will lead tokenization supercycle",
+      "url": "https://www.theblock.co/news/defi/2026-10-09-tokenization-supercycle-base-jesse-pollak-418144",
+      "pubDate": "Fri, 09 Oct 2026 13:12:57 +0000",
+      "summary": "Coinbase launched tokenized stocks on Base six weeks ago, with about 70 million to 100 million in daily volume, according to Pollak. LOOK only. Not a ticket. No fills."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "XRP Ledger lets institutions share account duties without sharing their keys",
+      "url": "https://cryptoslate.com/ripple-wants-to-turn-xrpls-4-5-billion-in-tokenized-assets-into-round-the-clock-collateral/",
+      "pubDate": "Fri, 09 Oct 2026 20:00:29 +0000",
+      "summary": "XRPL PermissionDelegationV1_1 went live Oct. 8 at ledger 107,524,865, letting owners assign specific transaction permissions while keeping primary signing keys. LOOK only. Not a ticket. No fills."
     },
     {
       "source": "CryptoSlate",
@@ -167,13 +167,6 @@
       "summary": "Bitquery traced 79AU drain to token permissions that bypassed burned LP receipts, with residual rights documented on Oct. 8. LOOK only. Not a ticket. No fills."
     },
     {
-      "source": "CryptoSlate",
-      "title": "Polygon 8 million USDT0 holders face scrutiny as 58 percent of growth matches scam patterns",
-      "url": "https://cryptoslate.com/polygons-8-million-usdt0-holders-face-scrutiny-as-58-of-growth-matches-scam-patterns/",
-      "pubDate": "Fri, 09 Oct 2026 13:40:01 +0000",
-      "summary": "The Oct. 7 audit estimates about 1.1 million scam look-alikes, while addresses holding at least 10 fell 42 percent since August 2025. LOOK only. Not a ticket. No fills."
-    },
-    {
       "source": "Bitcoin Magazine",
       "title": "Bitcoin ETFs shed 729M in two days as investors reverse course",
       "url": "https://bitcoinmagazine.com/markets/bitcoin-etfs-shed-729-million-in-two-days",
@@ -189,6 +182,13 @@
     },
     {
       "source": "Bitcoin Magazine",
+      "title": "UTXO Loren Asmus: the 300T bond market is Bitcoin next frontier",
+      "url": "https://bitcoinmagazine.com/videos/utxos-loren-asmus-the-300t-bond-market-is-bitcoins-next-frontier",
+      "pubDate": "Fri, 09 Oct 2026 13:44:49 +0000",
+      "summary": "UTXO Management Loren Asmus frames Bitcoin as a portfolio staple and talks institutional adoption and retention. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
+    },
+    {
+      "source": "Bitcoin Magazine",
       "title": "Bitcoin Core developer responds to AI and quantum risk",
       "url": "https://bitcoinmagazine.com/videos/bitcoin-core-developer-responds-to-ai-quantum-risk",
       "pubDate": "Fri, 09 Oct 2026 13:38:38 +0000",
@@ -200,6 +200,13 @@
       "url": "https://bitcoinmagazine.com/videos/building-the-berkshire-hathaway-of-bitcoin-twenty-one-capital-ceo-rapha-zagury",
       "pubDate": "Fri, 09 Oct 2026 13:33:09 +0000",
       "summary": "Twenty One Capital holds 43K BTC at a discount. CEO Rapha Zagury breaks down mNAV and share buybacks. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Calamos Investments CEO John Koudounis: Bitcoin will hit 1M by 2030",
+      "url": "https://bitcoinmagazine.com/videos/calamos-investments-ceo-john-koudounis-bitcoin-will-hit-1m-by-2030",
+      "pubDate": "Fri, 09 Oct 2026 13:28:10 +0000",
+      "summary": "Calamos CEO John Koudounis says institutional bank lending and ETF access could drive a long-dated Bitcoin path. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price. Not a ticket."
     },
     {
       "source": "CoinDesk",
@@ -241,7 +248,7 @@
       "title": "Trump Iran pledge underpins crypto gains as bitcoin bears face liquidation pressure",
       "url": "https://www.coindesk.com/daybook-us/2026/10/09/trump-s-iran-pledge-underpins-crypto-gains-as-bitcoin-bears-face-liquidation-pressure",
       "pubDate": "Fri, 09 Oct 2026 11:09:04 +0000",
-      "summary": "Day-ahead look for Oct. 9, 2026. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
+      "summary": "CoinDesk daybook says an Iran pledge is the tape under crypto gains and that bitcoin bears face liquidation pressure. HOLD BTC. DO NOT ADD. LOOK only. Headline print is not a desk price."
     }
   ]
 }
