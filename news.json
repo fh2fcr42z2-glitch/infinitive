@@ -1,1 +1,23 @@
-PLACEHOLDER
+{
+  "asof": "2026-10-10T12:03:16Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "notes": "RSS parsed from CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, CoinDesk (up to 6 each). Rekt listed at https://rekt.news; no RSS parsed. HOLD BTC. DO NOT ADD. LOOK only. HOLD ETH. DO NOT ADD. LOOK only. HOLD SNAP. DO NOT ADD. LOOK only. HOLD DRV. DO NOT ADD. LOOK only. HOLD ENA. DO NOT ADD. LOOK only. HOLD AERO. DO NOT ADD. LOOK only. HOLD PUMP. DO NOT ADD. LOOK only. Bitget-style exploits: LOOK only. No fills. Headline prints are not desk prices.",
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Justin Sun says Tron\u2019s post-quantum cryptography has gone live on testnet",
+      "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 10 Oct 2026 11:52:14 +0000",
+      "summary": "\u201cWe\u2019re ready to bring quantum resistance to mainnet at any time,\u201d Sun said in a post on X. LOOK only. Not a ticket. No fills."
+    }
+  ]
+}
