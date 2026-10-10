@@ -1,17 +1,1 @@
-{
-  "asof": "2026-10-10T20:01:59Z",
-  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
-  "feeds": [
-    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
-    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
-    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
-    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
-    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
-    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
-    {"name": "Rekt", "url": "https://rekt.news"}
-  ],
-  "items": [
-    {"source": "CoinTelegraph", "title": "Here's what happened in crypto today", "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound", "pubDate": "Sat, 10 Oct 2026 12:30:00 +0000", "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."},
-    {"source": "CoinTelegraph", "title": "Justin Sun says Tron's post-quantum cryptography has gone live on testnet", "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound", "pubDate": "Sat, 10 Oct 2026 11:52:14 +0000", "summary": "We're ready to bring quantum resistance to mainnet at any time, Sun said in a post on X."}
-  ]
-}
+PLACEHOLDER
