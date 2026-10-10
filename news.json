@@ -1,1 +1,30 @@
-PLACEHOLDER_WILL_REPLACE
+{
+  "asof": "2026-10-10T15:03:15Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "notes": "RSS parsed from CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, CoinDesk (up to 6 each). Rekt listed at https://rekt.news; no RSS parsed. HOLD BTC. DO NOT ADD. LOOK only. HOLD ETH. DO NOT ADD. LOOK only. HOLD SNAP. DO NOT ADD. LOOK only. HOLD DRV. DO NOT ADD. LOOK only. HOLD ENA. DO NOT ADD. LOOK only. HOLD AERO. DO NOT ADD. LOOK only. HOLD PUMP. DO NOT ADD. LOOK only. Bitget-style exploits: LOOK only. No fills. Headline prints are not desk prices.",
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 10 Oct 2026 12:30:00 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Justin Sun says Tron's post-quantum cryptography has gone live on testnet",
+      "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 10 Oct 2026 11:52:14 +0000",
+      "summary": "\"We're ready to bring quantum resistance to mainnet at any time,\" Sun said in a post on X."
+    }
+  ]
+}
