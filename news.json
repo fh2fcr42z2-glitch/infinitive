@@ -1,33 +1,246 @@
 {
-  "asof": "2026-10-11T03:02:05Z",
+  "asof": "2026-10-11T12:04:31Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
-    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
-    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
-    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
-    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
-    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
-    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
-    {"name": "Rekt", "url": "https://rekt.news"}
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
   ],
   "items": [
-    {"source": "CoinTelegraph", "title": "Here's what happened in crypto today", "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound", "pubDate": "Sat, 10 Oct 2026 12:30:00 +0000", "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."},
-    {"source": "CoinTelegraph", "title": "Justin Sun says Tron's post-quantum cryptography has gone live on testnet", "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound", "pubDate": "Sat, 10 Oct 2026 11:52:14 +0000", "summary": "We're ready to bring quantum resistance to mainnet at any time, Sun said in a post on X."},
-    {"source": "CoinTelegraph", "title": "Sam Altman-backed Bitcoin life insurer Meanwhile raises more funds", "url": "https://cointelegraph.com/news/sam-altman-backed-bitcoin-life-insurer-meanwhile-raises-more-funds", "pubDate": "Sat, 10 Oct 2026 07:10:43 +0000", "summary": "The round follows increased international demand for Meanwhile's Bitcoin life insurance policies."},
-    {"source": "Decrypt", "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules", "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules", "pubDate": "Sat, 10 Oct 2026 17:01:03 +0000", "summary": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the swap definition."},
-    {"source": "Decrypt", "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million", "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise", "pubDate": "Sat, 10 Oct 2026 16:01:04 +0000", "summary": "The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto."},
-    {"source": "The Block", "title": "Kalshi is investigating bets on Trump's press secretary pick placed before announcement: WSJ", "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222", "pubDate": "Sat, 10 Oct 2026 18:35:25 +0000", "summary": "Three bets totaling about $173 were placed before news outlets reported Zacharia's pick."},
-    {"source": "The Block", "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run", "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215", "pubDate": "Sat, 10 Oct 2026 15:10:37 +0000", "summary": "Spot bitcoin, solana, and ether ETFs all logged weekly outflows."},
-    {"source": "The Block", "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses", "url": "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163", "pubDate": "Fri, 09 Oct 2026 14:52:55 +0000", "summary": "Ledger said it is investigating reports of fund losses from users in Southeast Asia who bought its products from reseller CryptoBilis."},
-    {"source": "CryptoSlate", "title": "BTCPay Docker users must opt into Tor at their next update to keep onion access", "url": "https://cryptoslate.com/btcpays-docker-servers-must-opt-into-tor-to-keep-onion-access/", "pubDate": "Sat, 10 Oct 2026 19:00:26 +0000", "summary": "Existing installations must explicitly select Tor at their next setup or update."},
-    {"source": "CryptoSlate", "title": "Being right about Bitcoin won't save your 3x leveraged ETF position", "url": "https://cryptoslate.com/being-right-about-bitcoin-wont-save-your-3x-leveraged-etf-position/", "pubDate": "Sat, 10 Oct 2026 17:00:12 +0000", "summary": "Bitcoin's next recovery could vindicate your investment thesis but leave your leveraged fund deep in the red because of the fund's daily reset."},
-    {"source": "Bitcoin Magazine", "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On Their BTC", "url": "https://bitcoinmagazine.com/news/meanwhile-bitcoin-raises-37-million", "pubDate": "Sat, 10 Oct 2026 00:53:09 +0000", "summary": "The Bermuda-regulated startup, whose backers include Bain Capital Crypto and Sam Altman, has now raised more than $180 million."},
-    {"source": "Bitcoin Magazine", "title": "Bitcoin ETFs Shed $729M in Two Days as Investors Reverse Course", "url": "https://bitcoinmagazine.com/markets/bitcoin-etfs-shed-729-million-in-two-days", "pubDate": "Fri, 09 Oct 2026 17:11:16 +0000", "summary": "Investors have fast cashed out of bitcoin exchange-traded funds this week."},
-    {"source": "CoinDesk", "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks", "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks", "pubDate": "Sat, 10 Oct 2026 12:00:00 +0000", "summary": "Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding."},
-    {"source": "CoinDesk", "title": "Ether bets were wiped out at six times bitcoin's rate in crypto's $1 billion flush", "url": "https://www.coindesk.com/markets/2026/10/09/ether-bets-were-wiped-out-at-six-times-bitcoin-s-rate-in-crypto-s-usd1-billion-flush", "pubDate": "Fri, 09 Oct 2026 04:04:36 +0000", "summary": "About $356 million in ETH positions were liquidated over 24 hours."},
-    {"source": "CoinDesk", "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%", "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40", "pubDate": "Sat, 10 Oct 2026 04:44:35 +0000", "summary": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September."},
-    {"source": "The Block", "title": "Vitalik Buterin warns against hasty wallet migrations amid growing AI threats", "url": "https://www.theblock.co/news/defi/2026-10-08-vitalik-buterin-warns-hasty-wallet-migrations-418007", "pubDate": "Thu, 08 Oct 2026 05:00:28 +0000", "summary": "Ethereum co-founder Vitalik Buterin warned that the crypto industry should take risks to cryptography from AI-accelerated math seriously."},
-    {"source": "CoinTelegraph", "title": "US plans to seize $1B in crypto linked to Iran this week: Scott Bessent", "url": "https://cointelegraph.com/news/scott-bessent-us-seize-crypto-iran-sanctions", "pubDate": "Fri, 09 Oct 2026 20:39:17 +0000", "summary": "The Treasury Department has announced several digital asset seizures related to sanctions on Iran."},
-    {"source": "Bitcoin Magazine", "title": "We Know Where It Is: Treasury Secretary Threatens To Freeze $1B of Iran's Crypto", "url": "https://bitcoinmagazine.com/news/treasury-to-seize-one-billion-of-iran-crypto", "pubDate": "Fri, 09 Oct 2026 20:10:14 +0000", "summary": "The U.S. will seize $1 billion of Iran's crypto this week, U.S. Treasury Secretary Scott Bessent has said."}
+    {
+      "source": "CoinTelegraph",
+      "title": "Coldcard says it's investigating how phishing link appeared on its X account",
+      "url": "https://cointelegraph.com/news/coldcard-says-its-investigating-how-phishing-link-appeared-on-its-x-account",
+      "pubDate": "Sun, 11 Oct 2026 10:22:44 +0000",
+      "summary": "Company advised users not to visit or interact with the link in question and said it will share any further verified updates."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ledger confirms unauthorized hardware implant; losses may exceed $86M",
+      "url": "https://cointelegraph.com/news/ledger-confirms-unauthorized-hardware-implant-losses-may-exceed-86m",
+      "pubDate": "Sun, 11 Oct 2026 09:01:51 +0000",
+      "summary": "Ledger said the incident appeared to be isolated to a single reseller and its Southeast Asian market."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CFTC proposals aimed at separating prediction markets from casino gambling",
+      "url": "https://cointelegraph.com/news/cftc-proposals-aimed-at-separating-prediction-markets-from-casino-gambling",
+      "pubDate": "Sun, 11 Oct 2026 07:44:51 +0000",
+      "summary": "The two measures attempt to set the stage for a potential US Supreme Court battle over federal and state jurisdiction."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Sat, 10 Oct 2026 12:30:00 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Justin Sun says Tron's post-quantum cryptography has gone live on testnet",
+      "url": "https://cointelegraph.com/news/justin-sun-says-trons-post-quantum-cryptography-has-gone-live-on-testnet",
+      "pubDate": "Sat, 10 Oct 2026 11:52:14 +0000",
+      "summary": "We're ready to bring quantum resistance to mainnet at any time, Sun said in a post on X."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Tech chief says EU can fend off rogue AI risk: Report",
+      "url": "https://cointelegraph.com/news/tech-chief-says-eu-can-fend-off-rogue-ai-risk-report",
+      "pubDate": "Sat, 10 Oct 2026 08:41:06 +0000",
+      "summary": "There are global concerns following incidents at OpenAI and Anthropic, and fears have arisen that rogue AI agents may venture beyond human control."
+    },
+    {
+      "source": "Decrypt",
+      "title": "CFTC Draws the Line Between Prediction Markets and Gambling in New Rules",
+      "url": "https://decrypt.co/380635/cftc-draws-line-prediction-markets-and-gambling-new-rules",
+      "pubDate": "Sat, 10 Oct 2026 17:01:03 +0000",
+      "summary": "A proposed rule would expressly fold event contracts tied to sports, politics, culture and weather into the swap definition."
+    },
+    {
+      "source": "Decrypt",
+      "title": "This Sam Altman-Backed Life Insurer Runs Entirely on Bitcoin, and Just Raised $37.5 Million",
+      "url": "https://decrypt.co/380633/sam-altman-backed-life-insurer-bitcoin-raise",
+      "pubDate": "Sat, 10 Oct 2026 16:01:04 +0000",
+      "summary": "The Bermuda-based insurer, which runs entirely on Bitcoin, drew the funding from existing backers led by Bain Capital Crypto."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Here's a Way to Predict When AI Chatbots Will Turn Bad",
+      "url": "https://decrypt.co/380624/formula-predicts-when-ai-chatbot-turn-bad",
+      "pubDate": "Sat, 10 Oct 2026 15:01:03 +0000",
+      "summary": "Physicists at George Washington University say a formula can estimate when an AI chatbot will flip from good answers to bad ones."
+    },
+    {
+      "source": "Decrypt",
+      "title": "French Committee Backs Stablecoin Swap Tax and Crypto Exit Tax, Then Rejects the Bill",
+      "url": "https://decrypt.co/380610/french-committee-backs-stablecoin-swap-tax-crypto-exit-tax-rejects-bill",
+      "pubDate": "Sat, 10 Oct 2026 14:01:05 +0000",
+      "summary": "Lawmakers advanced then rejected measures that would tax stablecoin swaps and crypto exits."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI and Anthropic Are Quietly Rehearsing for the Day After an AI Catastrophe",
+      "url": "https://decrypt.co/380599/openai-anthropic-rehearsing-ai-catastrophe",
+      "pubDate": "Sat, 10 Oct 2026 13:01:02 +0000",
+      "summary": "The labs have been running tabletop exercises for catastrophic AI scenarios."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Senate Democrat Presses Cantor Fitzgerald on Tether Ties and Lutnick Family Profits",
+      "url": "https://decrypt.co/380590/senate-democrat-presses-cantor-fitzgerald-tether-ties",
+      "pubDate": "Sat, 10 Oct 2026 12:01:04 +0000",
+      "summary": "A senator is asking questions about Cantor Fitzgerald's relationship with Tether and related profits."
+    },
+    {
+      "source": "The Block",
+      "title": "Kalshi is investigating bets on Trump's press secretary pick placed before announcement: WSJ",
+      "url": "https://www.theblock.co/news/regulation/2026-10-10-kalshi-is-investigating-bets-on-trumps-press-secretary-pick-placed-before-announcement-wsj-418222",
+      "pubDate": "Sat, 10 Oct 2026 18:35:25 +0000",
+      "summary": "Three bets totaling about $173 were placed before news outlets reported Zacharia's pick."
+    },
+    {
+      "source": "The Block",
+      "title": "Ether ETFs extend outflow streak to nine days as Solana funds snap record 14-week inflow run",
+      "url": "https://www.theblock.co/news/markets/2026-10-10-ether-etfs-extend-outflow-streak-to-nine-days-as-solana-funds-snap-record-14-week-inflow-run-418215",
+      "pubDate": "Sat, 10 Oct 2026 15:10:37 +0000",
+      "summary": "Spot bitcoin, solana, and ether ETFs all logged weekly outflows."
+    },
+    {
+      "source": "The Block",
+      "title": "Former FTX COO says Netflix's 'Altruists' trailer 'made me physically throw up'",
+      "url": "https://www.theblock.co/news/business/2026-10-10-former-ftx-coo-netflix-altruists-trailer-418210",
+      "pubDate": "Sat, 10 Oct 2026 13:45:12 +0000",
+      "summary": "Constance Wang reacted to the Netflix trailer about the FTX saga."
+    },
+    {
+      "source": "The Block",
+      "title": "Blockchain.com seeks CFTC greenlight for US prediction markets, crypto derivatives",
+      "url": "https://www.theblock.co/news/regulation/2026-10-10-blockchain-com-seeks-cftc-greenlight-prediction-markets-418205",
+      "pubDate": "Sat, 10 Oct 2026 12:20:00 +0000",
+      "summary": "The exchange is applying for CFTC approval to offer prediction markets and derivatives in the US."
+    },
+    {
+      "source": "The Block",
+      "title": "Ledger investigates wallet drains involving CryptoBilis buyers; estimate tops $86 million in losses",
+      "url": "https://www.theblock.co/news/business/2026-10-09-ledger-cryptobilis-fund-losses-418163",
+      "pubDate": "Fri, 09 Oct 2026 14:52:55 +0000",
+      "summary": "Ledger said it is investigating reports of fund losses from users in Southeast Asia who bought its products from reseller CryptoBilis."
+    },
+    {
+      "source": "The Block",
+      "title": "US targets $1 billion Iran-linked crypto seizure, Bessent says 'we know where it is'",
+      "url": "https://www.theblock.co/news/regulation/2026-10-09-us-targets-1-billion-iran-linked-crypto-seizure-418155",
+      "pubDate": "Fri, 09 Oct 2026 20:15:00 +0000",
+      "summary": "Treasury Secretary Scott Bessent said the US plans to seize about $1 billion in crypto linked to Iran."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "What happens when crypto trades stocks while Wall Street sleeps?",
+      "url": "https://cryptoslate.com/what-happens-when-crypto-trades-stocks-while-wall-street-sleeps/",
+      "pubDate": "Sat, 10 Oct 2026 21:00:00 +0000",
+      "summary": "Tokenized stocks on crypto rails create continuous trading that traditional markets cannot match."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "AI discovers XRP Ledger flaw that could mint 18 trillion tokens and put $94 billion at risk",
+      "url": "https://cryptoslate.com/ai-discovers-xrp-ledger-flaw-that-could-mint-18-trillion-tokens/",
+      "pubDate": "Sat, 10 Oct 2026 20:00:00 +0000",
+      "summary": "Researchers found a long-standing bug that could have allowed unlimited XRP creation."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin companies are learning that holding forever takes cash",
+      "url": "https://cryptoslate.com/bitcoin-companies-are-learning-that-holding-forever-takes-cash/",
+      "pubDate": "Sat, 10 Oct 2026 19:30:00 +0000",
+      "summary": "Public bitcoin treasury companies face ongoing cash needs even when they never sell."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "BTCPay Docker users must opt into Tor at their next update to keep onion access",
+      "url": "https://cryptoslate.com/btcpays-docker-servers-must-opt-into-tor-to-keep-onion-access/",
+      "pubDate": "Sat, 10 Oct 2026 19:00:26 +0000",
+      "summary": "Existing installations must explicitly select Tor at their next setup or update."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Newer AI models missed more payment fraud in Coinbase's benchmark",
+      "url": "https://cryptoslate.com/newer-ai-models-missed-more-payment-fraud-in-coinbases-benchmark/",
+      "pubDate": "Sat, 10 Oct 2026 18:00:00 +0000",
+      "summary": "Coinbase found that newer models performed worse on fraud detection in some tests."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Being right about Bitcoin won't save your 3x leveraged ETF position",
+      "url": "https://cryptoslate.com/being-right-about-bitcoin-wont-save-your-3x-leveraged-etf-position/",
+      "pubDate": "Sat, 10 Oct 2026 17:00:12 +0000",
+      "summary": "Bitcoin's next recovery could vindicate your investment thesis but leave your leveraged fund deep in the red because of the fund's daily reset."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "One year after 10/10 flash crash, bitcoin and ether liquidity have rebuilt, but altcoins still face risks",
+      "url": "https://www.coindesk.com/markets/2026/10/10/one-year-after-10-10-bitcoin-and-ether-liquidity-have-rebuilt-but-other-altcoins-still-face-risks",
+      "pubDate": "Sat, 10 Oct 2026 12:00:00 +0000",
+      "summary": "Bitcoin and ether order books are deeper than before the crash, while altcoin liquidity keeps eroding."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized commodities look beyond gold as lending and oil open new markets",
+      "url": "https://www.coindesk.com/business/2026/10/05/tokenized-commodities-look-beyond-gold-as-lending-and-oil-open-new-markets",
+      "pubDate": "Sat, 10 Oct 2026 12:00:00 +0000",
+      "summary": "Paxos Labs, Theo and Energy Substantiation execs see growth coming from putting physical assets to work."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's $19 billion wake-up call: One-year after flash crash, has crypto learned anything?",
+      "url": "https://www.coindesk.com/markets/2026/10/10/bitcoin-s-usd19-billion-wake-up-call-one-year-later-has-crypto-learned-anything",
+      "pubDate": "Sat, 10 Oct 2026 11:00:00 +0000",
+      "summary": "The Oct. 10, 2025 flash crash wiped out billions in leveraged crypto bets. Traders now have better tools to spot risks, but the forces behind the selloff remain."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's volatility has plunged, but extreme price swings are more frequent than in 2018",
+      "url": "https://www.coindesk.com/markets/2026/10/09/bitcoin-s-volatility-has-plunged-but-extreme-price-swings-are-more-frequent-than-in-2018",
+      "pubDate": "Sat, 10 Oct 2026 05:43:00 +0000",
+      "summary": "CoinDesk analysis finds 10 unusually large trading days in 2026, raising questions about how investors measure risk."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood Chain slowdown spreads from fees to trading as transactions fall more than 40%",
+      "url": "https://www.coindesk.com/markets/2026/10/10/robinhood-chain-slowdown-spreads-from-fees-to-trading-as-transactions-fall-more-than-40",
+      "pubDate": "Sat, 10 Oct 2026 04:44:35 +0000",
+      "summary": "Daily activity has dropped from 10.8 million transactions to 6.2 million since mid-September."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP Ledger patched decade-old bug that could create billions of dollars in XRP from nothing",
+      "url": "https://www.coindesk.com/tech/2026/10/10/xrp-ledger-patched-decade-old-bug-that-could-create-billions-of-dollars-in-xrp-from-nothing",
+      "pubDate": "Sat, 10 Oct 2026 04:20:07 +0000",
+      "summary": "Researchers demonstrated how a payment could create spendable XRP without the sender funding it, prompting an emergency software release."
+    }
   ]
 }
