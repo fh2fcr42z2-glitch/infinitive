@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-12T17:02:44Z",
+  "asof": "2026-10-12T18:01:49Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -117,88 +117,130 @@
       "summary": "The purchase lifts Strategy's holdings to 848,250 BTC and follows a $176 million repurchase of STRC preferred stock the week before."
     },
     {
-      "source": "TheBlock",
+      "source": "The Block",
+      "title": "StoneX raises Securitize price target 50% as tokenized stock platform opens new revenue stream",
+      "url": "https://www.theblock.co/news/markets/2026-10-12-stonex-raises-securitize-price-target-tokenized-stocks-418313",
+      "pubDate": "Mon, 12 Oct 2026 17:06:25 +0000",
+      "summary": "StoneX lifts SECZ price target to $18 from $12, citing new revenue from the Securitize Stocks tokenized trading platform on Solana."
+    },
+    {
+      "source": "The Block",
       "title": "DeFi Development grows SOL holdings 12% as CHAD hits record highs",
       "url": "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307",
       "pubDate": "Mon, 12 Oct 2026 14:53:25 +0000",
       "summary": "DFDV added 22,070 SOL last week, lifting holdings to 2.59 million SOL, as its CHAD preferred stock hit record highs despite a selloff."
     },
     {
-      "source": "TheBlock",
+      "source": "The Block",
       "title": "Bitmine adds 12,532 ETH as Tom Lee flags potential 'largest-ever' crypto bull market",
       "url": "https://www.theblock.co/news/business/2026-10-12-bitmine-eth-holdings-6-million-ether-treasury-418296",
       "pubDate": "Mon, 12 Oct 2026 13:43:32 +0000",
       "summary": "Bitmine (BMNR) added 12,532 ETH last week, lifting its Ethereum treasury to 6.03 million tokens, or 4.9% of supply, with 84% staked."
     },
     {
-      "source": "TheBlock",
+      "source": "The Block",
       "title": "'There's always room for more orange': Michael Saylor's Strategy scoops up another 250 bitcoin for $21.5 million as holdings reach 848,250 BTC",
       "url": "https://www.theblock.co/news/business/2026-10-12-theres-always-room-for-more-orange-michael-saylors-strategy-scoops-up-another-250-bitcoin-for-21-5-million-as-holdings-reach-848250-btc-418275",
       "pubDate": "Mon, 12 Oct 2026 12:13:45 +0000",
       "summary": "Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap - worth roughly $71 billion."
     },
     {
-      "source": "TheBlock",
+      "source": "The Block",
       "title": "Evernorth names former Coinbase investment exec to steer 473 million XRP treasury ahead of Nasdaq debut",
       "url": "https://www.theblock.co/news/business/2026-10-12-evernorth-former-coinbase-investment-chief-steer-473-million-xrp-treasury-nasdaq-debut-418225",
       "pubDate": "Mon, 12 Oct 2026 12:01:02 +0000",
       "summary": "Evernorth plans to put its XRP holdings to work through lending, liquidity provision and yield strategies."
     },
     {
-      "source": "TheBlock",
+      "source": "The Block",
       "title": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
       "url": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
       "pubDate": "Mon, 12 Oct 2026 10:10:13 +0000",
       "summary": "Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments."
     },
     {
-      "source": "TheBlock",
-      "title": "Standard Chartered launches custody for Ripple's RLUSD on XRP Ledger",
-      "url": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258",
-      "pubDate": "Mon, 12 Oct 2026 09:35:21 +0000",
-      "summary": "The bank is working with Ripple and LMAX Group to enable RLUSD as collateral for certain LMAX products under its collateral mirroring model."
+      "source": "CryptoSlate",
+      "title": "Solana's offline-signing proposal would keep approvals valid after failed transactions",
+      "url": "https://cryptoslate.com/solanas-cold-wallet-migration-plan-would-add-a-new-layer-between-keys-and-funds/",
+      "pubDate": "Mon, 12 Oct 2026 17:20:24 +0000",
+      "summary": "Proposed signer programs would preserve offline approval while requiring affected operators to reassess account authorities, application access and custody controls."
     },
     {
       "source": "CryptoSlate",
       "title": "Eclair merges fixes for Lightning flaws that could burn Bitcoin in fees",
       "url": "https://cryptoslate.com/eclair-merges-fixes-for-lightning-fee-losses-that-do-not-require-stolen-keys/",
       "pubDate": "Mon, 12 Oct 2026 16:20:36 +0000",
-      "summary": "October funding and splicing repairs limit peer fees and verify backend transactions, while the latest listed release remains September's v0.14.3. The post Eclair merges fixes for"
+      "summary": "October funding and splicing repairs limit peer fees and verify backend transactions, while the latest listed release remains September's v0.14.3."
     },
     {
       "source": "CryptoSlate",
       "title": "France's tax proposal would tax Bitcoin-to-USDC swaps before investors cash out",
       "url": "https://cryptoslate.com/frances-tax-proposal-would-make-bitcoin-to-usdc-swaps-taxable-before-cash-out/",
       "pubDate": "Mon, 12 Oct 2026 15:20:19 +0000",
-      "summary": "The committee-approved amendment would end deferral for swaps into MiCA e-money tokens and change the acquisition basis used to calculate gains. The post France's tax proposal woul"
+      "summary": "The committee-approved amendment would end deferral for swaps into MiCA e-money tokens and change the acquisition basis used to calculate gains."
     },
     {
       "source": "CryptoSlate",
       "title": "Bitcoin's rebound approaches the $85,000 zone where past buyers may sell",
       "url": "https://cryptoslate.com/bitcoin-approaches-an-85000-wall-as-ethereums-26-5-billion-derivatives-market-flashes-warning-signs/",
       "pubDate": "Mon, 12 Oct 2026 14:20:51 +0000",
-      "summary": "Bitcoin and Ethereum extended their weekend recovery, although on-chain indicators and derivatives positioning suggest the rebound faces significant obstacles. Data from CryptoSlat"
+      "summary": "Bitcoin and Ethereum extended their weekend recovery, although on-chain indicators and derivatives positioning suggest the rebound faces significant obstacles."
     },
     {
       "source": "CryptoSlate",
       "title": "EU targets MiCA loophole that lets crypto exchanges serve 27 countries with one license",
       "url": "https://cryptoslate.com/eu-targets-mica-loophole-that-lets-crypto-exchanges-serve-27-countries-with-one-license/",
       "pubDate": "Mon, 12 Oct 2026 13:20:55 +0000",
-      "summary": "The Council's selective ESMA model would address part of MiCA's cross-border supervision gap while retaining national oversight elsewhere. The post EU targets MiCA loophole that le"
+      "summary": "The Council's selective ESMA model would address part of MiCA's cross-border supervision gap while retaining national oversight elsewhere."
     },
     {
       "source": "CryptoSlate",
       "title": "Thailand wants a piece of the $120 billion Bitcoin and Ethereum ETF market, but on its own terms",
       "url": "https://cryptoslate.com/thailand-wants-a-piece-of-the-120-billion-bitcoin-and-ethereum-etf-market-but-on-its-own-terms/",
       "pubDate": "Mon, 12 Oct 2026 12:00:46 +0000",
-      "summary": "The SEC says the framework takes effect Oct. 16, with Bitcoin and Ethereum initially eligible and product-risk education required before trading. The post Thailand wants a piece of"
+      "summary": "The SEC says the framework takes effect Oct. 16, with Bitcoin and Ethereum initially eligible and product-risk education required before trading."
     },
     {
-      "source": "CryptoSlate",
-      "title": "A Solana wallet tested a fake address with $10, then sent it $30,750",
-      "url": "https://cryptoslate.com/fake-payment-addresses-targeted-4-5-million-solana-wallets-study-finds/",
-      "pubDate": "Mon, 12 Oct 2026 10:55:03 +0000",
-      "summary": "Bitquery's Solana research shows how a successful $10 test can precede a larger payment to the wrong recipient. The post A Solana wallet tested a fake address with $10, then sent i"
+      "source": "Bitcoin Magazine",
+      "title": "Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device",
+      "url": "https://bitcoinmagazine.com/news/ledger-investigates-fund-losses",
+      "pubDate": "Mon, 12 Oct 2026 17:19:33 +0000",
+      "summary": "Ledger has reassured users after people who bought signing devices from a Malaysia-based reseller reported losing funds."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Strategy Smash Buys $21.5M in Bitcoin as It Continues BTC Accumulation",
+      "url": "https://bitcoinmagazine.com/news/strategy-smash-buys-21-5m-in-bitcoin",
+      "pubDate": "Mon, 12 Oct 2026 15:00:00 +0000",
+      "summary": "Strategy continues its Bitcoin accumulation with a $21.5 million purchase."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Congressman Warren Davidson: The Future of Money Will Decide Western Civilization",
+      "url": "https://bitcoinmagazine.com/news/congressman-warren-davidson-future-of-money",
+      "pubDate": "Mon, 12 Oct 2026 14:00:00 +0000",
+      "summary": "Discussion on the future of money and its implications."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Ark Invest's Lorenzo Valente: Bitcoin's 5-Year Forecast - Stablecoin & Gold Impact",
+      "url": "https://bitcoinmagazine.com/news/ark-invest-lorenzo-valente-bitcoin-forecast",
+      "pubDate": "Mon, 12 Oct 2026 13:00:00 +0000",
+      "summary": "Analysis of Bitcoin's long-term outlook considering stablecoins and gold."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Willem Middelkoop: Bitcoin is the Fastest Horse - Why the Debasement Trade Takes",
+      "url": "https://bitcoinmagazine.com/news/willem-middelkoop-bitcoin-fastest-horse",
+      "pubDate": "Mon, 12 Oct 2026 12:00:00 +0000",
+      "summary": "Perspective on Bitcoin as a hedge against debasement."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Life Insurer Meanwhile Raises $37.5M as Wealthy Families Look to Pass On",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-life-insurer-meanwhile-raises",
+      "pubDate": "Mon, 12 Oct 2026 11:00:00 +0000",
+      "summary": "Meanwhile raises funds for Bitcoin-related insurance products."
     },
     {
       "source": "CoinDesk",
