@@ -1,43 +1,20 @@
 {
-  "asof": "2026-10-12T23:04:15Z",
+  "asof": "2026-10-12T23:07:18Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
-    {
-      "name": "CoinTelegraph",
-      "url": "https://cointelegraph.com/rss"
-    },
-    {
-      "name": "Decrypt",
-      "url": "https://decrypt.co/feed"
-    },
-    {
-      "name": "The Block",
-      "url": "https://www.theblock.co/rss.xml"
-    },
-    {
-      "name": "CryptoSlate",
-      "url": "https://cryptoslate.com/feed/"
-    },
-    {
-      "name": "Bitcoin Magazine",
-      "url": "https://bitcoinmagazine.com/.rss/full/"
-    },
-    {
-      "name": "CoinDesk",
-      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
-    },
-    {
-      "name": "Rekt",
-      "url": "https://rekt.news"
-    }
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
   ],
   "items": [
-    {
-      "source": "CoinTelegraph",
-      "title": "FTX's crypto mining venture is now used to advance AI",
-      "url": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center",
-      "pubDate": "Mon, 12 Oct 2026 21:11:26 +0000",
-      "summary": "The defunct exchange acquired a 20% stake in Genesis Digital Assets before FTX declared bankruptcy in November 2022."
-    }
+    {"source": "CoinTelegraph", "title": "FTX's crypto mining venture is now used to advance AI", "url": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center", "pubDate": "Mon, 12 Oct 2026 21:11:26 +0000", "summary": "The defunct exchange acquired a 20% stake in Genesis Digital Assets before FTX declared bankruptcy in November 2022."},
+    {"source": "CoinTelegraph", "title": "Here's what happened in crypto today", "url": "https://cointelegraph.com/news/what-happened-in-crypto-today", "pubDate": "Mon, 12 Oct 2026 19:26:13 +0000", "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."},
+    {"source": "The Block", "title": "Blur to shut down frontend next month as NFT trading volume dwindles", "url": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363", "pubDate": "Mon, 12 Oct 2026 21:49:02 +0000", "summary": "The NFT marketplace's frontend next month while the protocol stays onchain. The BLUR token fell more than 20%."},
+    {"source": "Bitcoin Magazine", "title": "Moscow Exchange to Launch Bitcoin Trading, Testing Underway", "url": "https://bitcoinmagazine.com/news/moscow-exchange-to-debut-bitcoin-trading", "pubDate": "Mon, 12 Oct 2026 22:10:39 +0000", "summary": "Russia in recent months has paved the way to allow its citizens to trade bitcoin."},
+    {"source": "CoinDesk", "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet", "url": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet", "pubDate": "Mon, 12 Oct 2026 16:18:03 +0000", "summary": "The Palantir UK chief said the U.S. is racing ahead on enterprise AI while Europe hesitates."}
   ]
 }
