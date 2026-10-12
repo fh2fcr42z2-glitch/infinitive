@@ -1,1 +1,246 @@
-PLACEHOLDER
+{
+  "asof": "2026-10-12T17:02:44Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
+      "url": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap",
+      "pubDate": "Mon, 12 Oct 2026 16:51:05 +0000",
+      "summary": "The Bitcoin mining industry needs roughly $50 billion to complete planned AI infrastructure projects, with IREN, Riot Platforms and HIVE Digital facing major funding gaps."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
+      "url": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high",
+      "pubDate": "Mon, 12 Oct 2026 16:30:21 +0000",
+      "summary": "Bitcoin price action stayed rangebound after failing to sustain above $84,000 into the Wall Street open on rising oil prices."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "XRP treasury Evernorth's shares rise 5% at Nasdaq opening print",
+      "url": "https://cointelegraph.com/news/xrp-treasury-evernorth-rise-nasdaq-opening",
+      "pubDate": "Mon, 12 Oct 2026 14:18:49 +0000",
+      "summary": "Evernorth's share price rose by 5% as investors welcomed the Nasdaq debut of the first pure-play XRP digital asset treasury."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ledger implant tests Bitcoin ETFs as safer custodial solutions than hardware wallets",
+      "url": "https://cointelegraph.com/news/ledger-implant-bitcoin-etfs-hardware-wallets",
+      "pubDate": "Mon, 12 Oct 2026 14:07:00 +0000",
+      "summary": "The discovery of an unauthorized Ledger hardware implant reignited debate on whether Bitcoin ETFs are safer than self-custodying Bitcoin via hardware wallet devices."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Mon, 12 Oct 2026 12:46:51 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strategy adds 250 Bitcoin as holdings reach 848,250 BTC",
+      "url": "https://cointelegraph.com/news/michael-saylor-strategy-250-btc-buy",
+      "pubDate": "Mon, 12 Oct 2026 12:31:51 +0000",
+      "summary": "Michael Saylor's Strategy said Bitcoin holdings reached 848,250 BTC after its latest purchase, while maintaining a $4.88 billion cash reserve."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Spooked? Crypto Fear and Greed Index Drops to Pre-Rally August Lows",
+      "url": "https://decrypt.co/380708/bitcoin-spooked-crypto-fear-greed-drops",
+      "pubDate": "Mon, 12 Oct 2026 16:41:34 +0000",
+      "summary": "The Crypto Fear and Greed Index has dropped to 56 from an August peak of 82, as oil, bond yields, and ETF outflows hit Bitcoin in October."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ledger Says All Confirmed Cases in Suspected $87M Drain Tied to Reseller CryptoBilis",
+      "url": "https://decrypt.co/380706/ledger-says-all-confirmed-cases-in-suspected-87m-drain-tied-to-reseller-cryptobilis",
+      "pubDate": "Mon, 12 Oct 2026 16:32:17 +0000",
+      "summary": "The wallet manufacturer said its own systems and direct sales are unaffected, and that the reseller has stopped selling hardware wallets."
+    },
+    {
+      "source": "Decrypt",
+      "title": "NEXTPredict Paid $12,000 to Hedge Its Conference on a Prediction Market",
+      "url": "https://decrypt.co/380484/nextpredict-paid-12000-to-hedge-its-conference-on-a-prediction-market",
+      "pubDate": "Mon, 12 Oct 2026 16:01:04 +0000",
+      "summary": "Where event insurance deals with scrapped shows and what happens inside the venue, NEXTPredict is focusing on flight cancellations."
+    },
+    {
+      "source": "Decrypt",
+      "title": "XRP Ledger's Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
+      "url": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
+      "pubDate": "Mon, 12 Oct 2026 15:56:35 +0000",
+      "summary": "An integer overflow in the payment engine, dormant since 2015, could have let an attacker mint spendable XRP beyond the token's total supply."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'",
+      "url": "https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking",
+      "pubDate": "Mon, 12 Oct 2026 13:33:28 +0000",
+      "summary": "The Ethereum treasury firm now holds 6.03 million ETH, 4.9% of supply, as Lee predicts the biggest crypto bull market yet."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Scoops Up $21.5M in Bitcoin, Buys Back $192M in STRC",
+      "url": "https://decrypt.co/380677/strategy-scoops-up-21-5m-in-bitcoin-buys-back-192m-in-strc",
+      "pubDate": "Mon, 12 Oct 2026 12:39:35 +0000",
+      "summary": "The purchase lifts Strategy's holdings to 848,250 BTC and follows a $176 million repurchase of STRC preferred stock the week before."
+    },
+    {
+      "source": "TheBlock",
+      "title": "DeFi Development grows SOL holdings 12% as CHAD hits record highs",
+      "url": "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-2-59-million-chad-418307",
+      "pubDate": "Mon, 12 Oct 2026 14:53:25 +0000",
+      "summary": "DFDV added 22,070 SOL last week, lifting holdings to 2.59 million SOL, as its CHAD preferred stock hit record highs despite a selloff."
+    },
+    {
+      "source": "TheBlock",
+      "title": "Bitmine adds 12,532 ETH as Tom Lee flags potential 'largest-ever' crypto bull market",
+      "url": "https://www.theblock.co/news/business/2026-10-12-bitmine-eth-holdings-6-million-ether-treasury-418296",
+      "pubDate": "Mon, 12 Oct 2026 13:43:32 +0000",
+      "summary": "Bitmine (BMNR) added 12,532 ETH last week, lifting its Ethereum treasury to 6.03 million tokens, or 4.9% of supply, with 84% staked."
+    },
+    {
+      "source": "TheBlock",
+      "title": "'There's always room for more orange': Michael Saylor's Strategy scoops up another 250 bitcoin for $21.5 million as holdings reach 848,250 BTC",
+      "url": "https://www.theblock.co/news/business/2026-10-12-theres-always-room-for-more-orange-michael-saylors-strategy-scoops-up-another-250-bitcoin-for-21-5-million-as-holdings-reach-848250-btc-418275",
+      "pubDate": "Mon, 12 Oct 2026 12:13:45 +0000",
+      "summary": "Strategy's total holdings account for around 4% of the 21 million bitcoin supply cap - worth roughly $71 billion."
+    },
+    {
+      "source": "TheBlock",
+      "title": "Evernorth names former Coinbase investment exec to steer 473 million XRP treasury ahead of Nasdaq debut",
+      "url": "https://www.theblock.co/news/business/2026-10-12-evernorth-former-coinbase-investment-chief-steer-473-million-xrp-treasury-nasdaq-debut-418225",
+      "pubDate": "Mon, 12 Oct 2026 12:01:02 +0000",
+      "summary": "Evernorth plans to put its XRP holdings to work through lending, liquidity provision and yield strategies."
+    },
+    {
+      "source": "TheBlock",
+      "title": "Morgan Stanley expects to support tokenized equities in Q1 2027, digital asset strategy head says",
+      "url": "https://www.theblock.co/news/markets/2026-10-12-morgan-stanley-tokenized-equities-q1-2027-418256",
+      "pubDate": "Mon, 12 Oct 2026 10:10:13 +0000",
+      "summary": "Morgan Stanley is actively building the necessary infrastructure for tokenized equities while monitoring industry developments."
+    },
+    {
+      "source": "TheBlock",
+      "title": "Standard Chartered launches custody for Ripple's RLUSD on XRP Ledger",
+      "url": "https://www.theblock.co/news/business/2026-10-12-standard-chartered-custody-ripple-rlusd-418258",
+      "pubDate": "Mon, 12 Oct 2026 09:35:21 +0000",
+      "summary": "The bank is working with Ripple and LMAX Group to enable RLUSD as collateral for certain LMAX products under its collateral mirroring model."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Eclair merges fixes for Lightning flaws that could burn Bitcoin in fees",
+      "url": "https://cryptoslate.com/eclair-merges-fixes-for-lightning-fee-losses-that-do-not-require-stolen-keys/",
+      "pubDate": "Mon, 12 Oct 2026 16:20:36 +0000",
+      "summary": "October funding and splicing repairs limit peer fees and verify backend transactions, while the latest listed release remains September's v0.14.3. The post Eclair merges fixes for"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "France's tax proposal would tax Bitcoin-to-USDC swaps before investors cash out",
+      "url": "https://cryptoslate.com/frances-tax-proposal-would-make-bitcoin-to-usdc-swaps-taxable-before-cash-out/",
+      "pubDate": "Mon, 12 Oct 2026 15:20:19 +0000",
+      "summary": "The committee-approved amendment would end deferral for swaps into MiCA e-money tokens and change the acquisition basis used to calculate gains. The post France's tax proposal woul"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin's rebound approaches the $85,000 zone where past buyers may sell",
+      "url": "https://cryptoslate.com/bitcoin-approaches-an-85000-wall-as-ethereums-26-5-billion-derivatives-market-flashes-warning-signs/",
+      "pubDate": "Mon, 12 Oct 2026 14:20:51 +0000",
+      "summary": "Bitcoin and Ethereum extended their weekend recovery, although on-chain indicators and derivatives positioning suggest the rebound faces significant obstacles. Data from CryptoSlat"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "EU targets MiCA loophole that lets crypto exchanges serve 27 countries with one license",
+      "url": "https://cryptoslate.com/eu-targets-mica-loophole-that-lets-crypto-exchanges-serve-27-countries-with-one-license/",
+      "pubDate": "Mon, 12 Oct 2026 13:20:55 +0000",
+      "summary": "The Council's selective ESMA model would address part of MiCA's cross-border supervision gap while retaining national oversight elsewhere. The post EU targets MiCA loophole that le"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Thailand wants a piece of the $120 billion Bitcoin and Ethereum ETF market, but on its own terms",
+      "url": "https://cryptoslate.com/thailand-wants-a-piece-of-the-120-billion-bitcoin-and-ethereum-etf-market-but-on-its-own-terms/",
+      "pubDate": "Mon, 12 Oct 2026 12:00:46 +0000",
+      "summary": "The SEC says the framework takes effect Oct. 16, with Bitcoin and Ethereum initially eligible and product-risk education required before trading. The post Thailand wants a piece of"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "A Solana wallet tested a fake address with $10, then sent it $30,750",
+      "url": "https://cryptoslate.com/fake-payment-addresses-targeted-4-5-million-solana-wallets-study-finds/",
+      "pubDate": "Mon, 12 Oct 2026 10:55:03 +0000",
+      "summary": "Bitquery's Solana research shows how a successful $10 test can precede a larger payment to the wrong recipient. The post A Solana wallet tested a fake address with $10, then sent i"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet",
+      "url": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
+      "pubDate": "Mon, 12 Oct 2026 16:18:03 +0000",
+      "summary": "The Palantir UK chief said the U.S. is racing ahead on enterprise AI while Europe hesitates, and explained why he thinks the company faces intense political attacks."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+      "url": "https://www.coindesk.com/business/2026/10/12/tom-lee-sees-usd2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
+      "pubDate": "Mon, 12 Oct 2026 15:27:09 +0000",
+      "summary": "The Bitmine chairman said he expects younger investors to drive demand for digital assets as his ether treasury company inches closer to owning 5% of the total supply."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
+      "url": "https://www.coindesk.com/business/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+      "pubDate": "Mon, 12 Oct 2026 15:00:00 +0000",
+      "summary": "A planned Bermuda issuance would put legal ownership onchain and seek capital for disaster risks that remain costly to insure."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
+      "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai-and-plans-lmax-collateral-link",
+      "pubDate": "Mon, 12 Oct 2026 12:09:09 +0000",
+      "summary": "Ripple previously gave LMAX $150 million in financing to integrate RLUSD into its institutional infrastructure."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
+      "url": "https://www.coindesk.com/tech/2026/10/12/ledger-claims-cryptobilis-cases-are-limited-as-up-to-usd93m-is-traced-usd10m-frozen",
+      "pubDate": "Mon, 12 Oct 2026 12:01:53 +0000",
+      "summary": "Ledger said every confirmed case involves devices sold by the Southeast Asian reseller, but critics say the hardware-wallet maker must answer for an authorized sales channel."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
+      "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge",
+      "pubDate": "Mon, 12 Oct 2026 11:21:11 +0000",
+      "summary": "Bitcoin and gold hold steady as a firm dollar and rising bond yields weigh on sentiment, while IREN secures a multiyear cloud services deal with Anthropic."
+    }
+  ]
+}
