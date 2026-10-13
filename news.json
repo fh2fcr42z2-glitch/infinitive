@@ -2,34 +2,20 @@
   "asof": "2026-10-13T13:04:59Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
-    {
-      "name": "CoinTelegraph",
-      "url": "https://cointelegraph.com/rss"
-    },
-    {
-      "name": "Decrypt",
-      "url": "https://decrypt.co/feed"
-    },
-    {
-      "name": "The Block",
-      "url": "https://www.theblock.co/rss.xml"
-    },
-    {
-      "name": "CryptoSlate",
-      "url": "https://cryptoslate.com/feed/"
-    },
-    {
-      "name": "Bitcoin Magazine",
-      "url": "https://bitcoinmagazine.com/.rss/full/"
-    },
-    {
-      "name": "CoinDesk",
-      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
-    },
-    {
-      "name": "Rekt",
-      "url": "https://rekt.news"
-    }
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
   ],
-  "items": []
+  "items": [
+    {"source": "CoinTelegraph", "title": "Russia clears Sberbank for crypto trading ahead of December launch", "url": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval", "pubDate": "Tue, 13 Oct 2026 12:22:24 +0000", "summary": "Russias largest bank, Sberbank, has secured crypto exchange authorization as it prepares to offer Bitcoin, Ether and Tether USDt trading."},
+    {"source": "Decrypt", "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain", "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain", "pubDate": "Tue, 13 Oct 2026 11:53:15 +0000", "summary": "Ledger says the hidden chip reads the 24-word phrase off the screen during setup, leaving the Secure Element and its software untouched."},
+    {"source": "The Block", "title": "Binance to shut down mining pool, cloud mining and related services", "url": "https://www.theblock.co/news/business/2026-10-13-binance-to-shut-down-mining-pool-cloud-mining-and-related-services-418410", "pubDate": "Tue, 13 Oct 2026 11:40:56 +0000", "summary": "Binance said it will shut down its mining pool, cloud mining, and Pool Savings services on Nov. 10."},
+    {"source": "CryptoSlate", "title": "Sky's $4.4 billion liquidity disclosure shows why USDS cash-outs need a separate bank route", "url": "https://cryptoslate.com/skys-4-4b-liquidity-disclosure-shows-why-stablecoin-supply-is-not-a-cash-ledger/", "pubDate": "Tue, 13 Oct 2026 13:00:58 +0000", "summary": "Sky's October 9 PSM disclosure highlights existing conversion liquidity, while borrowing and token migration need not bring matching new dollars into crypto."},
+    {"source": "Bitcoin Magazine", "title": "Now Accepting Bitcoin: Moonflower Coffee and 300+ Colorado Bitcoin Merchants", "url": "https://bitcoinmagazine.com/culture/moonflower-colorado-bitcoin-merchants", "pubDate": "Tue, 13 Oct 2026 11:00:00 +0000", "summary": "Delicious Bitcoin Latte at Moonflower, Steak and Eggs at Butcher Block Cafe, and Navigating 300+ Colorado Bitcoin Merchants."},
+    {"source": "CoinDesk", "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin", "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin", "pubDate": "Tue, 13 Oct 2026 11:58:04 +0000", "summary": "The country's regulators are stepping up their earlier restrictions on mobile apps to websites, targeting unregistered exchanges before investors report losses."}
+  ]
 }
