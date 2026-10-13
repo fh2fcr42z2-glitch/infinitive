@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-13T19:01:24Z",
+  "asof": "2026-10-13T20:01:54Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -34,6 +34,27 @@
   "items": [
     {
       "source": "CoinTelegraph",
+      "title": "Most tokenized stock trading on Solana, BNB Chain occurs outside US market hours",
+      "url": "https://cointelegraph.com/news/tokenized-stocks-after-hours-trading-solana-bnb-chain",
+      "pubDate": "Tue, 13 Oct 2026 19:48:06 +0000",
+      "summary": "Tokenized equities have reached nearly $3.3 billion in value as investors embrace round-the-clock access beyond Wall Street hours."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Tue, 13 Oct 2026 19:33:57 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Trezor reduces resellers as a 'preventative step' amid Ledger tampering reports",
+      "url": "https://cointelegraph.com/news/trezor-preventative-steps-wallet-tampering-reports",
+      "pubDate": "Tue, 13 Oct 2026 19:07:04 +0000",
+      "summary": "CCO Danny Sanders said he had notified certain hardware wallet resellers that they would be removed from Trezor's list of authorized entities starting Jan. 1."
+    },
+    {
+      "source": "CoinTelegraph",
       "title": "How the SEC's lack of leadership could facilitate crypto rulemaking",
       "url": "https://cointelegraph.com/news/sec-leadership-facilitate-crypto-rulemaking",
       "pubDate": "Tue, 13 Oct 2026 16:51:25 +0000",
@@ -54,25 +75,18 @@
       "summary": "Bitcoin price action preserved overnight gains as US stocks quickly rebounded after opening lower on the back of Korea's tech-stock rout."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Anthropic warns 'AI worms' may autonomously spread across devices like a virus",
-      "url": "https://cointelegraph.com/news/anthropic-ai-worms-autonomously-spread-devices-virus",
-      "pubDate": "Tue, 13 Oct 2026 13:55:09 +0000",
-      "summary": "Anthropic warned that rogue \"AI worms\" are months away from the ability to self-replicate and autonomously infect user devices such as home appliances and other internet-connected devices."
+      "source": "Decrypt",
+      "title": "Bitcoin Whale That Sat Through Every Crash Since 2020 Just Moved $377M",
+      "url": "https://decrypt.co/380867/bitcoin-whale-every-crash-2020-moves-377m",
+      "pubDate": "Tue, 13 Oct 2026 19:38:12 +0000",
+      "summary": "A wallet that received 4,581 BTC in March 2020, worth about $40 million then, moved its stash today when it was worth about $377 million."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Is Bitcoin kidding itself about the Lightning Network?",
-      "url": "https://cointelegraph.com/magazine/is-bitcoin-kidding-itself-about-the-lightning-network",
-      "pubDate": "Tue, 13 Oct 2026 13:30:00 +0000",
-      "summary": "Bitcoin developer Paul Sztorc says Bitcoiners are lying to themselves about Lightning. Developers claim usability has improved, but questions remain over everyday adoption."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Here's what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-      "pubDate": "Tue, 13 Oct 2026 13:26:42 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "source": "Decrypt",
+      "title": "Strive Buys $280 Million in Bitcoin, Its Largest Purchase in Months",
+      "url": "https://decrypt.co/380858/strive-buys-280-million-bitcoin-largest-purchase-months",
+      "pubDate": "Tue, 13 Oct 2026 18:15:05 +0000",
+      "summary": "The Nasdaq-listed asset manager bought the Bitcoin at an average of about $84,500 during a rough week for the market, lifting its total stash to 32,773 BTC."
     },
     {
       "source": "Decrypt",
@@ -97,24 +111,10 @@
     },
     {
       "source": "Decrypt",
-      "title": "AI Powered PlayStation Crack Could Let You Play GTA 6 on PC at Launch",
-      "url": "https://decrypt.co/380833/ai-powered-playstation-crack-could-let-you-play-gta-6-on-pc-at-launch",
-      "pubDate": "Tue, 13 Oct 2026 14:51:28 +0000",
-      "summary": "AnyPS5 is working to get any PS5 game running natively on PC-and gamers are hoping it'll work for the next instalment of Grand Theft Auto."
-    },
-    {
-      "source": "Decrypt",
       "title": "Ledger Finds LTE Implant That Stole Recovery Phrases in Suspected $86M Drain",
       "url": "https://decrypt.co/380826/ledger-finds-lte-implant-that-stole-recovery-phrases-in-suspected-86m-drain",
       "pubDate": "Tue, 13 Oct 2026 11:53:15 +0000",
       "summary": "Ledger says the hidden chip reads the 24-word phrase off the screen during setup, leaving the Secure Element and its software untouched."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Bitcoin Gets Spooked as 'Uptober' Lets Down",
-      "url": "https://decrypt.co/380828/morning-minute-bitcoin-gets-spooked-as-uptober-lets-down",
-      "pubDate": "Tue, 13 Oct 2026 11:40:51 +0000",
-      "summary": "Crypto majors are red, alts are down bad and onchain is facing capitulation. This was not the 'Uptober' that was promised..."
     },
     {
       "source": "The Block",
@@ -163,126 +163,84 @@
       "title": "Australia moves to close crypto derivatives loophole after retail traders lose A$458 million",
       "url": "https://cryptoslate.com/australia-moves-to-close-crypto-derivatives-loophole-after-retail-traders-lose-a458-million/",
       "pubDate": "Tue, 13 Oct 2026 17:00:31 +0000",
-      "summary": "The proposal would bring qualifying token-settled derivatives within existing retail safeguards, with some fixed-expiry crypto products remaining outside. The post Australia moves to close crypto deri"
+      "summary": "The proposal would bring qualifying token-settled derivatives within existing retail safeguards, with some fixed-expiry crypto products remaining outside."
     },
     {
       "source": "CryptoSlate",
       "title": "A $5 billion Bitcoin fortune is at stake, but UK court says being defrauded isn't enough to claim it",
       "url": "https://cryptoslate.com/a-5-billion-bitcoin-fortune-is-at-stake-but-uk-court-says-being-defrauded-isnt-enough-to-claim-it/",
       "pubDate": "Tue, 13 Oct 2026 15:40:44 +0000",
-      "summary": "The preliminary ruling leaves ownership and distribution unresolved, with victims still required to establish rights under Chinese law. The post A $5 billion Bitcoin fortune is at stake, but UK court "
+      "summary": "The preliminary ruling leaves ownership and distribution unresolved, with victims still required to establish rights under Chinese law."
     },
     {
       "source": "CryptoSlate",
       "title": "Bitcoin's quantum-safe protection gets 82% cheaper as researchers race to secure 6 million exposed BTC",
       "url": "https://cryptoslate.com/bitcoins-quantum-safe-protection-gets-82-cheaper-as-researchers-race-to-secure-6-million-exposed-btc/",
       "pubDate": "Tue, 13 Oct 2026 14:20:26 +0000",
-      "summary": "Cheaper GPU computation supports specially prepared QSB spends, while conventional funding signatures and direct miner access limit practical use. The post Bitcoin's quantum-safe protection gets 82% c"
+      "summary": "Cheaper GPU computation supports specially prepared QSB spends, while conventional funding signatures and direct miner access limit practical use."
     },
     {
       "source": "CryptoSlate",
       "title": "Sky's $4.4 billion liquidity disclosure shows why USDS cash-outs need a separate bank route",
       "url": "https://cryptoslate.com/skys-4-4b-liquidity-disclosure-shows-why-stablecoin-supply-is-not-a-cash-ledger/",
       "pubDate": "Tue, 13 Oct 2026 13:00:58 +0000",
-      "summary": "Sky's October 9 PSM disclosure highlights existing conversion liquidity, while borrowing and token migration need not bring matching new dollars into crypto. The post Sky's $4.4 billion liquidity disc"
+      "summary": "Sky's October 9 PSM disclosure highlights existing conversion liquidity, while borrowing and token migration need not bring matching new dollars into crypto."
     },
     {
       "source": "CryptoSlate",
       "title": "More than half of Ethena's USDe backing is allocated to lending",
       "url": "https://cryptoslate.com/ethenas-usde-has-51-2-of-backing-in-lending-making-redemption-liquidity-the-key-test/",
       "pubDate": "Tue, 13 Oct 2026 12:00:32 +0000",
-      "summary": "LlamaRisk's October 12 snapshot makes available pool assets, institutional recall terms and conditional redemption access central to holders' exits. The post More than half of Ethena's USDe backing is"
+      "summary": "LlamaRisk's October 12 snapshot makes available pool assets, institutional recall terms and conditional redemption access central to holders' exits."
     },
     {
       "source": "CryptoSlate",
       "title": "Strategy spent nearly nine times as much on STRC buybacks as Bitcoin last week",
       "url": "https://cryptoslate.com/strategys-bitcoin-buying-hits-lowest-level-since-december-as-strc-buybacks-reach-record-192-million/",
       "pubDate": "Tue, 13 Oct 2026 11:00:38 +0000",
-      "summary": "Strategy (formerly MicroStrategy) bought 250 Bitcoin for $21.5 million last week while spending $192.4 million to repurchase its STRC preferred shares. On Oct. 12, the Michael Saylor-founded company d"
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Bitcoin Price Analysis: BTC Holds Key Support Amid Market Uncertainty",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-analysis-btc-holds-key-support",
-      "pubDate": "Tue, 13 Oct 2026 18:00:00 +0000",
-      "summary": "Bitcoin maintains key support levels as market participants monitor macro developments and on-chain metrics."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Lightning Network Capacity Reaches New Heights",
-      "url": "https://bitcoinmagazine.com/technical/lightning-network-capacity-new-heights",
-      "pubDate": "Tue, 13 Oct 2026 16:30:00 +0000",
-      "summary": "The Lightning Network sees continued growth in channel capacity amid ongoing debates about usability."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Corporate Bitcoin Treasuries Continue to Expand",
-      "url": "https://bitcoinmagazine.com/business/corporate-bitcoin-treasuries-expand",
-      "pubDate": "Tue, 13 Oct 2026 15:00:00 +0000",
-      "summary": "Public companies add to Bitcoin holdings as adoption among treasuries persists."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Developers Propose Improvements to Bitcoin Privacy",
-      "url": "https://bitcoinmagazine.com/technical/bitcoin-privacy-improvements-proposed",
-      "pubDate": "Tue, 13 Oct 2026 14:00:00 +0000",
-      "summary": "New proposals aim to enhance privacy features on the base layer and layer-2 solutions."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Mining Difficulty Adjusts as Hashrate Stabilizes",
-      "url": "https://bitcoinmagazine.com/markets/mining-difficulty-adjusts-hashrate",
-      "pubDate": "Tue, 13 Oct 2026 12:30:00 +0000",
-      "summary": "Bitcoin mining difficulty sees adjustment reflecting recent hashrate movements."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Ordinals and Inscriptions Activity Remains Elevated",
-      "url": "https://bitcoinmagazine.com/technical/ordinals-inscriptions-activity",
-      "pubDate": "Tue, 13 Oct 2026 11:00:00 +0000",
-      "summary": "Bitcoin ordinals continue to drive on-chain activity despite market fluctuations."
+      "summary": "Strategy (formerly MicroStrategy) bought 250 Bitcoin for $21.5 million last week while spending $192.4 million to repurchase its STRC preferred shares."
     },
     {
       "source": "CoinDesk",
       "title": "Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants",
       "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
       "pubDate": "Tue, 13 Oct 2026 15:52:09 +0000",
-      "summary": ""
+      "summary": "The platform allows traders to bet on the future valuations of private AI companies, including OpenAI, Anthropic and DeepSeek."
     },
     {
       "source": "CoinDesk",
-      "title": "UK crypto trader says almost $800,000 lost in knife attack as wrench attacks proliferate",
+      "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
       "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
       "pubDate": "Tue, 13 Oct 2026 15:24:52 +0000",
-      "summary": ""
+      "summary": "A crypto trader in the U.K. claimed masked intruders stole nearly $800,000 in cryptocurrency at knifepoint, furthering concerns of \"wrench attacks\" spreading in the country."
     },
     {
       "source": "CoinDesk",
       "title": "South Korea blocks 27 crypto exchanges, including Bitmart and Kucoin",
       "url": "https://www.coindesk.com/policy/2026/10/13/south-korea-blocks-27-crypto-exchanges-including-bitmart-and-kucoin",
       "pubDate": "Tue, 13 Oct 2026 11:58:04 +0000",
-      "summary": ""
+      "summary": "The country's regulators are stepping up their earlier restrictions on mobile apps to websites, targeting unregistered exchanges before investors report losses."
     },
     {
       "source": "CoinDesk",
       "title": "Federated Hermes joins Wall Street's tokenization push with plans for first onchain fund shares",
       "url": "https://www.coindesk.com/business/2026/10/13/federated-hermes-joins-wall-street-s-tokenization-push-with-plans-for-first-onchain-fund-shares",
       "pubDate": "Tue, 13 Oct 2026 11:56:04 +0000",
-      "summary": ""
+      "summary": "The $911 billion Pittsburgh-based asset manager is teaming up with Prometheum to bring blockchain-based share classes of its funds to traditional brokerage accounts."
     },
     {
       "source": "CoinDesk",
       "title": "Stacks' STX, a Bitcoin layer-2 token, has surged by 50% in four weeks",
       "url": "https://www.coindesk.com/daybook-us/2026/10/13/stacks-stx-a-bitcoin-layer-2-token-has-surged-by-50-in-four-weeks",
       "pubDate": "Tue, 13 Oct 2026 11:26:45 +0000",
-      "summary": ""
+      "summary": "Your day-ahead look for Oct. 13, 2026"
     },
     {
       "source": "CoinDesk",
       "title": "Bitcoin, ether slip and rebound as South Korean stocks slide on AI-related concerns",
       "url": "https://www.coindesk.com/markets/2026/10/13/bitcoin-ether-slip-and-rebound-as-south-korean-stocks-slide-on-ai-related-concerns",
       "pubDate": "Tue, 13 Oct 2026 11:06:39 +0000",
-      "summary": ""
+      "summary": "Investors are positioning ahead of today's bank earnings reports and Wednesday's U.S. inflation data."
     }
   ]
 }
