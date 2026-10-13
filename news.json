@@ -2,42 +2,20 @@
   "asof": "2026-10-13T01:04:00Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
-    {
-      "name": "CoinTelegraph",
-      "url": "https://cointelegraph.com/rss"
-    },
-    {
-      "name": "Decrypt",
-      "url": "https://decrypt.co/feed"
-    },
-    {
-      "name": "The Block",
-      "url": "https://www.theblock.co/rss.xml"
-    },
-    {
-      "name": "CryptoSlate",
-      "url": "https://cryptoslate.com/feed/"
-    },
-    {
-      "name": "Bitcoin Magazine",
-      "url": "https://bitcoinmagazine.com/.rss/full/"
-    },
-    {
-      "name": "CoinDesk",
-      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
-    },
-    {
-      "name": "Rekt",
-      "url": "https://rekt.news"
-    }
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
   ],
   "items": [
-    {
-      "source": "CoinTelegraph",
-      "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks",
-      "url": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 13 Oct 2026 00:52:52 +0000",
-      "summary": "The optional feature hides transaction details until their order is finalized, preventing bots from exploiting pending trades."
-    }
+    {"source": "CoinTelegraph", "title": "Aptos rolls out Encrypted Mempool to curb frontrunning, sandwich attacks", "url": "https://cointelegraph.com/news/aptos-rolls-out-encrypted-mempool-to-curb-frontrunning-sandwich-attacks", "pubDate": "Tue, 13 Oct 2026 00:52:52 +0000", "summary": "The optional feature hides transaction details until their order is finalized, preventing bots from exploiting pending trades."},
+    {"source": "CoinTelegraph", "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals", "url": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap", "pubDate": "Mon, 12 Oct 2026 16:51:05 +0000", "summary": "The Bitcoin mining industry needs roughly $50 billion to complete planned AI infrastructure projects."},
+    {"source": "The Block", "title": "Bitmine adds 12,532 ETH as Tom Lee flags potential largest-ever crypto bull market", "url": "https://www.theblock.co/news/business/2026-10-12-bitmine-eth-holdings-6-million-ether-treasury-418296", "pubDate": "Mon, 12 Oct 2026 13:43:32 +0000", "summary": "Bitmine added 12,532 ETH last week, lifting its Ethereum treasury to 6.03 million tokens."},
+    {"source": "CryptoSlate", "title": "Bitcoin options price a quiet CPI week while shorts cluster at $76,000-$80,000", "url": "https://cryptoslate.com/bitcoin-options-price-a-quiet-cpi-week-while-shorts-cluster-at-76000-80000/", "pubDate": "Mon, 12 Oct 2026 19:45:12 +0000", "summary": "Bitcoin options expiring Friday carry substantial put exposure below the market price."},
+    {"source": "Bitcoin Magazine", "title": "Strategy Smash Buys $21.5M in BTC as It Continues Bitcoin Accumulation", "url": "https://bitcoinmagazine.com/markets/strategy-smash-buys-21-5m-in-btc", "pubDate": "Mon, 12 Oct 2026 15:22:18 +0000", "summary": "Bitcoin juggernaut Strategy has bought more BTC."},
+    {"source": "CoinDesk", "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge", "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-holds-usd83-000-as-dollar-strength-keeps-markets-on-edge", "pubDate": "Mon, 12 Oct 2026 11:21:11 +0000", "summary": "Bitcoin and gold hold steady as a firm dollar and rising bond yields weigh on sentiment."}
   ]
 }
