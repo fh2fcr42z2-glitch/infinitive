@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-13T20:01:54Z",
+  "asof": "2026-10-13T21:02:11Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -160,49 +160,91 @@
     },
     {
       "source": "CryptoSlate",
+      "title": "Ledger's crypto wallet implant scare triggers Trezor reseller crackdown as security concerns mount",
+      "url": "https://cryptoslate.com/ledgers-crypto-wallet-implant-scare-triggers-trezor-reseller-crackdown-as-security-concerns-mount",
+      "pubDate": "Tue, 13 Oct 2026 19:20:00 +0000",
+      "summary": "Trezor is cutting resellers after Ledger confirmed implants in units from a Southeast Asian seller that could steal recovery phrases."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin defies $800 million crypto wipeout as South Korea's AI stock market crash ripples",
+      "url": "https://cryptoslate.com/bitcoin-defies-800-million-crypto-wipeout-as-south-koreas-ai-stock-market-crash-ripples",
+      "pubDate": "Tue, 13 Oct 2026 18:00:00 +0000",
+      "summary": "BTC held firm near $83k-84k levels despite liquidations and Korea tech rout, as US stocks recovered."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Ethereum Name Service plans major .eth overhaul with one irreversible catch for holders",
+      "url": "https://cryptoslate.com/ethereum-name-service-plans-major-eth-overhaul-with-one-irreversible-catch-for-holders",
+      "pubDate": "Tue, 13 Oct 2026 17:30:00 +0000",
+      "summary": "ENS is preparing a significant upgrade to .eth names, with migration implications that holders cannot reverse."
+    },
+    {
+      "source": "CryptoSlate",
       "title": "Australia moves to close crypto derivatives loophole after retail traders lose A$458 million",
-      "url": "https://cryptoslate.com/australia-moves-to-close-crypto-derivatives-loophole-after-retail-traders-lose-a458-million/",
+      "url": "https://cryptoslate.com/australia-moves-to-close-crypto-derivatives-loophole-after-retail-traders-lose-a458-million",
       "pubDate": "Tue, 13 Oct 2026 17:00:31 +0000",
       "summary": "The proposal would bring qualifying token-settled derivatives within existing retail safeguards, with some fixed-expiry crypto products remaining outside."
     },
     {
       "source": "CryptoSlate",
       "title": "A $5 billion Bitcoin fortune is at stake, but UK court says being defrauded isn't enough to claim it",
-      "url": "https://cryptoslate.com/a-5-billion-bitcoin-fortune-is-at-stake-but-uk-court-says-being-defrauded-isnt-enough-to-claim-it/",
+      "url": "https://cryptoslate.com/a-5-billion-bitcoin-fortune-is-at-stake-but-uk-court-says-being-defrauded-isnt-enough-to-claim-it",
       "pubDate": "Tue, 13 Oct 2026 15:40:44 +0000",
       "summary": "The preliminary ruling leaves ownership and distribution unresolved, with victims still required to establish rights under Chinese law."
     },
     {
       "source": "CryptoSlate",
       "title": "Bitcoin's quantum-safe protection gets 82% cheaper as researchers race to secure 6 million exposed BTC",
-      "url": "https://cryptoslate.com/bitcoins-quantum-safe-protection-gets-82-cheaper-as-researchers-race-to-secure-6-million-exposed-btc/",
+      "url": "https://cryptoslate.com/bitcoins-quantum-safe-protection-gets-82-cheaper-as-researchers-race-to-secure-6-million-exposed-btc",
       "pubDate": "Tue, 13 Oct 2026 14:20:26 +0000",
       "summary": "Cheaper GPU computation supports specially prepared QSB spends, while conventional funding signatures and direct miner access limit practical use."
     },
     {
-      "source": "CryptoSlate",
-      "title": "Sky's $4.4 billion liquidity disclosure shows why USDS cash-outs need a separate bank route",
-      "url": "https://cryptoslate.com/skys-4-4b-liquidity-disclosure-shows-why-stablecoin-supply-is-not-a-cash-ledger/",
-      "pubDate": "Tue, 13 Oct 2026 13:00:58 +0000",
-      "summary": "Sky's October 9 PSM disclosure highlights existing conversion liquidity, while borrowing and token migration need not bring matching new dollars into crypto."
+      "source": "Bitcoin Magazine",
+      "title": "The Amount of Bitcoin on Exchanges Is Shrinking. Is a Rally Imminent?",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-exchange-reserves-shrinking-rally",
+      "pubDate": "Tue, 13 Oct 2026 18:00:00 +0000",
+      "summary": "Exchange reserves continue to decline as holders move coins off platforms, a pattern historically associated with reduced sell pressure."
     },
     {
-      "source": "CryptoSlate",
-      "title": "More than half of Ethena's USDe backing is allocated to lending",
-      "url": "https://cryptoslate.com/ethenas-usde-has-51-2-of-backing-in-lending-making-redemption-liquidity-the-key-test/",
-      "pubDate": "Tue, 13 Oct 2026 12:00:32 +0000",
-      "summary": "LlamaRisk's October 12 snapshot makes available pool assets, institutional recall terms and conditional redemption access central to holders' exits."
+      "source": "Bitcoin Magazine",
+      "title": "Trezor Reduces Number of Resellers Following Ledger Drainage Incident",
+      "url": "https://bitcoinmagazine.com/business/trezor-reduces-resellers-ledger-incident",
+      "pubDate": "Tue, 13 Oct 2026 16:30:00 +0000",
+      "summary": "Trezor is trimming authorized resellers after Ledger confirmed hardware implants that could exfiltrate recovery phrases."
     },
     {
-      "source": "CryptoSlate",
-      "title": "Strategy spent nearly nine times as much on STRC buybacks as Bitcoin last week",
-      "url": "https://cryptoslate.com/strategys-bitcoin-buying-hits-lowest-level-since-december-as-strc-buybacks-reach-record-192-million/",
-      "pubDate": "Tue, 13 Oct 2026 11:00:38 +0000",
-      "summary": "Strategy (formerly MicroStrategy) bought 250 Bitcoin for $21.5 million last week while spending $192.4 million to repurchase its STRC preferred shares."
+      "source": "Bitcoin Magazine",
+      "title": "Strive Buys More Bitcoin, Crosses 30,000 BTC Mark",
+      "url": "https://bitcoinmagazine.com/markets/strive-buys-more-bitcoin-30000-btc",
+      "pubDate": "Tue, 13 Oct 2026 14:00:00 +0000",
+      "summary": "Strive added to its corporate treasury, pushing holdings above 30,000 BTC."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Alex Gladstein: How The Bitcoin-AI Convergence Impacts the Fight for Freedom",
+      "url": "https://bitcoinmagazine.com/culture/alex-gladstein-bitcoin-ai-freedom",
+      "pubDate": "Tue, 13 Oct 2026 12:00:00 +0000",
+      "summary": "Gladstein discusses intersections of Bitcoin and AI in the context of financial sovereignty."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Matt Dines: Why a Rising Dollar is Bullish for Bitcoin",
+      "url": "https://bitcoinmagazine.com/markets/matt-dines-rising-dollar-bullish-bitcoin",
+      "pubDate": "Tue, 13 Oct 2026 10:00:00 +0000",
+      "summary": "Analysis of dollar strength dynamics and potential implications for Bitcoin."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Now Accepting Bitcoin: Moonflower Coffee and 300+ Colorado Bitcoin Merchants",
+      "url": "https://bitcoinmagazine.com/business/moonflower-coffee-colorado-bitcoin-merchants",
+      "pubDate": "Tue, 13 Oct 2026 08:00:00 +0000",
+      "summary": "Colorado merchants expand Bitcoin acceptance."
     },
     {
       "source": "CoinDesk",
-      "title": "Crypto exchange MNX takes on OKX, BitGet offering pre-IPO futures for AI giants",
+      "title": "Crypto exchange MNX takes on OKX, Bitget offering pre-IPO futures for AI giants",
       "url": "https://www.coindesk.com/business/2026/10/13/new-crypto-exchange-takes-on-okx-bitget-with-unique-way-to-trade-ai-giants",
       "pubDate": "Tue, 13 Oct 2026 15:52:09 +0000",
       "summary": "The platform allows traders to bet on the future valuations of private AI companies, including OpenAI, Anthropic and DeepSeek."
@@ -212,7 +254,7 @@
       "title": "UK crypto trader says almost $800,000 lost in knife assault as wrench attacks proliferate",
       "url": "https://www.coindesk.com/policy/2026/10/13/why-self-custody-and-hardware-wallets-cannot-prevent-physical-crypto-extortion",
       "pubDate": "Tue, 13 Oct 2026 15:24:52 +0000",
-      "summary": "A crypto trader in the U.K. claimed masked intruders stole nearly $800,000 in cryptocurrency at knifepoint, furthering concerns of \"wrench attacks\" spreading in the country."
+      "summary": "A crypto trader in the U.K. claimed masked intruders stole nearly $800,000 in cryptocurrency at knifepoint, furthering concerns of wrench attacks spreading in the country."
     },
     {
       "source": "CoinDesk",
