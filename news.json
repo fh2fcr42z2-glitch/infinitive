@@ -1,20 +1,232 @@
 {
-  "asof": "2026-10-12T23:07:18Z",
+  "asof": "2026-10-13T00:02:32Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
-    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
-    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
-    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
-    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
-    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
-    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
-    {"name": "Rekt", "url": "https://rekt.news"}
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
   ],
   "items": [
-    {"source": "CoinTelegraph", "title": "FTX's crypto mining venture is now used to advance AI", "url": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center", "pubDate": "Mon, 12 Oct 2026 21:11:26 +0000", "summary": "The defunct exchange acquired a 20% stake in Genesis Digital Assets before FTX declared bankruptcy in November 2022."},
-    {"source": "CoinTelegraph", "title": "Here's what happened in crypto today", "url": "https://cointelegraph.com/news/what-happened-in-crypto-today", "pubDate": "Mon, 12 Oct 2026 19:26:13 +0000", "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."},
-    {"source": "The Block", "title": "Blur to shut down frontend next month as NFT trading volume dwindles", "url": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363", "pubDate": "Mon, 12 Oct 2026 21:49:02 +0000", "summary": "The NFT marketplace's frontend next month while the protocol stays onchain. The BLUR token fell more than 20%."},
-    {"source": "Bitcoin Magazine", "title": "Moscow Exchange to Launch Bitcoin Trading, Testing Underway", "url": "https://bitcoinmagazine.com/news/moscow-exchange-to-debut-bitcoin-trading", "pubDate": "Mon, 12 Oct 2026 22:10:39 +0000", "summary": "Russia in recent months has paved the way to allow its citizens to trade bitcoin."},
-    {"source": "CoinDesk", "title": "Palantir's Europe head warns the region is 'missing the boat' on AI just as it did with the internet", "url": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet", "pubDate": "Mon, 12 Oct 2026 16:18:03 +0000", "summary": "The Palantir UK chief said the U.S. is racing ahead on enterprise AI while Europe hesitates."}
+    {
+      "source": "CoinTelegraph",
+      "title": "US accounting overhaul could make stablecoins more attractive to corporations: Tempo",
+      "url": "https://cointelegraph.com/news/fasb-stablecoin-accounting-rules-corporate-adoption?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 12 Oct 2026 18:38:14 +0000",
+      "summary": "A Tempo report examines how proposed US accounting rules could change corporate stablecoin holdings, with direct redemption rights determining which tokens qualify as cash."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin miners face widening AI financing costs as lenders scrutinize deals",
+      "url": "https://cointelegraph.com/news/bitcoin-miners-ai-financing-costs-debt-funding-gap?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 12 Oct 2026 16:51:05 +0000",
+      "summary": "The Bitcoin mining industry needs roughly $50 billion to complete planned AI infrastructure projects, with IREN, Riot Platforms and HIVE Digital facing major funding gaps."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin drops 2.2% as Ukraine, Iran strikes send oil toward one-month high",
+      "url": "https://cointelegraph.com/markets/bitcoin-drops-22-as-ukraine-iran-strikes-send-oil-toward-one-month-high?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 12 Oct 2026 16:30:21 +0000",
+      "summary": "Bitcoin price action stayed rangebound after failing to sustain above $84,000 into the Wall Street open on rising oil prices."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Standard Chartered Will Hold Ripple's Stablecoin in DubaiAnd Let Clients Trade With It Without Moving It",
+      "url": "https://decrypt.co/380776/standard-chartered-hold-ripple-rlusd-stablecoin-dubai",
+      "pubDate": "Mon, 12 Oct 2026 21:16:03 +0000",
+      "summary": "The bank's Dubai branch now offers custody for Ripple's RLUSD stablecoin and plans a link with LMAX that lets institutions post it as trading collateral while the coins stay put."
+    },
+    {
+      "source": "The Block",
+      "title": "Blur to shut down frontend next month as NFT trading volume dwindles",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-12-blur-nft-marketplace-shutting-down-frontend-blend-418363",
+      "pubDate": "Mon, 12 Oct 2026 21:49:02 +0000",
+      "summary": "The NFT marketplace's frontend next month while the protocol stays onchain. The BLUR token fell more than 20%."
+    },
+    {
+      "source": "The Block",
+      "title": "CFTCs new crypto framework could face 2028 election deadline, says TD Cowen",
+      "url": "https://www.theblock.co/news/regulation/2026-10-12-cftcs-new-crypto-framework-could-face-2028-election-deadline-td-cowen-418358",
+      "pubDate": "Mon, 12 Oct 2026 20:53:54 +0000",
+      "summary": "Newly proposed rules for leveraged and margined crypto trading may be too late as the 2028 election cycle looms, according to TD Cowen."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitmine adds 12,532 ETH as Tom Lee flags potential largest-ever crypto bull market",
+      "url": "https://www.theblock.co/news/business/2026-10-12-bitmine-eth-holdings-6-million-ether-treasury-418296",
+      "pubDate": "Mon, 12 Oct 2026 13:43:32 +0000",
+      "summary": "Bitmine (BMNR) added 12,532 ETH last week, lifting its Ethereum treasury to 6.03 million tokens, or 4.9% of supply, with 84% staked."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Global watchdog warns the $300 billion stablecoin market could face bank runs even with full reserves",
+      "url": "https://cryptoslate.com/global-watchdog-warns-the-300-billion-stablecoin-market-could-face-bank-runs-even-with-full-reserves/",
+      "pubDate": "Mon, 12 Oct 2026 22:10:30 +0000",
+      "summary": "For affiliated issuers with separate reserves, redemption demand could concentrate at one entity while moving backing across borders faces frictions."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "FTXs former Bitcoin mining bet gets new life as parent raises 800 million for AI",
+      "url": "https://cryptoslate.com/ftxs-former-bitcoin-mining-bet-gets-new-life-as-parent-raises-e800-million-for-ai/",
+      "pubDate": "Mon, 12 Oct 2026 21:30:00 +0000",
+      "summary": "The new equity backs a wider AI platform while SWI pursues its existing plan to reposition Genesis Digital Assets mining sites."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin options price a quiet CPI week while shorts cluster at $76,000$80,000",
+      "url": "https://cryptoslate.com/bitcoin-options-price-a-quiet-cpi-week-while-shorts-cluster-at-76000-80000/",
+      "pubDate": "Mon, 12 Oct 2026 19:45:12 +0000",
+      "summary": "Bitcoin options expiring Friday carry substantial put exposure below the market price, while short-term volatility pricing has fallen ahead of Wednesday."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Moscow Exchange to Launch Bitcoin Trading, Testing Underway",
+      "url": "https://bitcoinmagazine.com/news/moscow-exchange-to-debut-bitcoin-trading",
+      "pubDate": "Mon, 12 Oct 2026 22:10:39 +0000",
+      "summary": "Russia in recent months has paved the way to allow its citizens to trade bitcoin."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "South Korean Lender Jeonbuk Bank to Offer Bitcoin-Backed Loans",
+      "url": "https://bitcoinmagazine.com/business/south-korean-lender-jeonbuk-bank-to-offer-bitcoin-backed-loans",
+      "pubDate": "Mon, 12 Oct 2026 20:15:22 +0000",
+      "summary": "The South Korean bank has become the first in the country to offer the product."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Extends Slide Can Uptober 2026 Beat Last Years?",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-extends-slide-can-uptober-2026-beat-last-years",
+      "pubDate": "Mon, 12 Oct 2026 18:05:11 +0000",
+      "summary": "Bitcoin is off to a rough start so far this month. But things could still turn."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Ledger Investigates Fund Losses Tied to Southeast Asian Reseller After Implant Found in Device",
+      "url": "https://bitcoinmagazine.com/business/ledger-investigates-fund-losses-tied-to-southeast-asian-reseller",
+      "pubDate": "Mon, 12 Oct 2026 16:40:55 +0000",
+      "summary": "Ledger has reassured users after people reported losses linked to a reseller."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Strategy Smash Buys $21.5M in BTC as It Continues Bitcoin Accumulation",
+      "url": "https://bitcoinmagazine.com/markets/strategy-smash-buys-21-5m-in-btc",
+      "pubDate": "Mon, 12 Oct 2026 15:22:18 +0000",
+      "summary": "Bitcoin juggernaut Strategy has bought more BTC as it pivots."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Palantir's Europe head warns the region is missing the boat on AI just as it did with the internet",
+      "url": "https://www.coindesk.com/policy/2026/10/12/palantir-executive-warns-europe-is-missing-the-boat-on-ai-just-like-it-did-with-the-internet",
+      "pubDate": "Mon, 12 Oct 2026 16:18:03 +0000",
+      "summary": "The Palantir UK chief said the U.S. is racing ahead on enterprise AI while Europe hesitates."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tom Lee sees $2 trillion wealth transfer fueling crypto demand as Bitmine buys more ether",
+      "url": "https://www.coindesk.com/markets/2026/10/12/tom-lee-sees-2-trillion-wealth-transfer-fueling-crypto-demand-as-bitmine-buys-more-ether",
+      "pubDate": "Mon, 12 Oct 2026 14:55:41 +0000",
+      "summary": "The Bitmine chairman said he expects younger investors to drive demand for digital assets as his ether treasury company inches closer to owning 5% of supply."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized catastrophe bonds target the disaster-insurance gap",
+      "url": "https://www.coindesk.com/markets/2026/10/12/tokenized-catastrophe-bonds-target-the-disaster-insurance-gap",
+      "pubDate": "Mon, 12 Oct 2026 13:12:09 +0000",
+      "summary": "New products aim to bring more capital into catastrophe risk transfer."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered offers RLUSD custody in Dubai and plans LMAX collateral link",
+      "url": "https://www.coindesk.com/business/2026/10/12/standard-chartered-offers-rlusd-custody-in-dubai",
+      "pubDate": "Mon, 12 Oct 2026 12:40:33 +0000",
+      "summary": "The bank expands stablecoin services for institutional clients."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ledger claims CryptoBilis cases are limited as up to $93 million is traced, $10 million frozen",
+      "url": "https://www.coindesk.com/business/2026/10/12/ledger-claims-cryptobilis-cases-are-limited",
+      "pubDate": "Mon, 12 Oct 2026 11:25:17 +0000",
+      "summary": "Ledger said every confirmed case involves devices sold by the Southeast Asian reseller."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin falls below $83,000 as dollar strength keeps markets on edge",
+      "url": "https://www.coindesk.com/markets/2026/10/12/bitcoin-falls-below-83000-as-dollar-strength-keeps-markets-on-edge",
+      "pubDate": "Mon, 12 Oct 2026 10:08:55 +0000",
+      "summary": "Bitcoin and gold hold steady as a firm dollar and rising bond yields weigh on sentiment."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "FTXs crypto mining venture is now used to advance AI",
+      "url": "https://cointelegraph.com/news/ftx-crypto-mining-ai-data-center",
+      "pubDate": "Mon, 12 Oct 2026 21:11:26 +0000",
+      "summary": "The defunct exchange acquired a 20% stake in Genesis Digital Assets before FTX declared bankruptcy in November 2022."
+    },
+    {
+      "source": "The Block",
+      "title": "Binance launches AI trading tool after 150,000-user beta",
+      "url": "https://www.theblock.co/news/exchanges/2026-10-12-binance-launches-ai-trading-tool-418200",
+      "pubDate": "Mon, 12 Oct 2026 19:10:44 +0000",
+      "summary": "The exchange expands AI features for retail traders."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Solanas offline-signing proposal would keep approvals valid after failed transactions",
+      "url": "https://cryptoslate.com/solanas-offline-signing-proposal-would-keep-approvals-valid-after-failed-transactions/",
+      "pubDate": "Mon, 12 Oct 2026 17:22:08 +0000",
+      "summary": "A technical upgrade aims to improve reliability for Solana users."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana Treasury Firm DeFi Development Keeps Buying SOL as CHAD Preferred Stock Hits Record",
+      "url": "https://decrypt.co/380700/solana-treasury-firm-defi-development-keeps-buying-sol",
+      "pubDate": "Mon, 12 Oct 2026 18:30:15 +0000",
+      "summary": "The firm continues accumulation amid preferred stock activity."
+    },
+    {
+      "source": "The Block",
+      "title": "DeFi Development grows SOL holdings 12% as CHAD hits record highs",
+      "url": "https://www.theblock.co/news/business/2026-10-12-defi-development-sol-holdings-418250",
+      "pubDate": "Mon, 12 Oct 2026 15:55:29 +0000",
+      "summary": "Treasury firm adds to Solana position."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Congressman Warren Davidson: The Future of Money Will Decide Western Civilization",
+      "url": "https://bitcoinmagazine.com/culture/congressman-warren-davidson-future-of-money",
+      "pubDate": "Mon, 12 Oct 2026 12:18:41 +0000",
+      "summary": "The lawmaker discusses monetary policy and digital assets."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tokenized stocks platform Securitize sees price target raised by StoneX",
+      "url": "https://www.coindesk.com/markets/2026/10/12/securitize-price-target-raised",
+      "pubDate": "Mon, 12 Oct 2026 09:45:12 +0000",
+      "summary": "Analysts raise outlook as tokenized equity activity grows."
+    }
   ]
 }
