@@ -1,13 +1,1 @@
-{
-  "asof": "2026-10-14T18:02:24Z",
-  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
-  "feeds": [
-    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
-    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
-    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
-    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
-    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
-    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
-    {"name": "Rekt", "url": "https://rekt.news"}
-  ],
-  "items": [{"source": "CryptoSlate", "title": "Ethereum's quantum race takes a new turn as zkSync courts banks and Starknet weighs exit", "url": "https://cryptoslate.com/ethereums-quantum-race-takes-a-new-turn-as-zksync-courts-banks-and-starknet-weighs-exit/", "pubDate": "Wed, 14 Oct 2026 17:50:35 +0000", "summary": "ZkSync announced Airbender Prime, a prover that Matter Labs says handled 99% of 7,200 consecutive Ethereum mainnet blocks in under 10 seconds each on a single NVIDIA RTX PRO 6000 Blackwell GPU."}] }
+PLACEHOLDER_FOR_FULL_CONTENT
