@@ -1,1 +1,50 @@
-PLACEHOLDER
+{
+  "asof": "2026-10-14T03:01:54Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitwises Hougan says Q3 charts point to crypto spring",
+      "url": "https://cointelegraph.com/markets/bitwises-hougan-says-q3-charts-point-to-crypto-spring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 14 Oct 2026 02:19:56 +0000",
+      "summary": "Bitwises Matt Hougan said nearly every fundamental indicator that Bitwise tracks spiked sharply higher."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ledger asks resellers to halt sales in Southeast Asia and Hong Kong",
+      "url": "https://cointelegraph.com/news/ledger-asks-resellers-to-halt-sales-in-southeast-asia-and-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 13 Oct 2026 23:28:19 +0000",
+      "summary": "The wallet maker requested that devices be removed from shelves while investigators work to establish where tampering occurred."
+    }
+  ]
+}
