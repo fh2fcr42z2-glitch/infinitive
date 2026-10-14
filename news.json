@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-14T19:01:57Z",
+  "asof": "2026-10-14T20:02:33Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -34,6 +34,20 @@
   "items": [
     {
       "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Wed, 14 Oct 2026 19:13:24 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "EU authority classifies Circle's USDC as 'significant' under MiCA",
+      "url": "https://cointelegraph.com/news/eba-circle-usdc-stablecoin-significant-token-mica",
+      "pubDate": "Wed, 14 Oct 2026 19:03:52 +0000",
+      "summary": "The second-largest stablecoin by market cap will be overseen by French and EU authorities under its classification as a \"significant e-money token.\""
+    },
+    {
+      "source": "CoinTelegraph",
       "title": "US authorities dismantle crypto scam network that stole tens of millions",
       "url": "https://cointelegraph.com/news/fbi-brooklyn-crypto-scam-112-servers-241-websites",
       "pubDate": "Wed, 14 Oct 2026 17:56:45 +0000",
@@ -61,18 +75,18 @@
       "summary": "Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the back of hot US CPI inflation."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Here's what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-      "pubDate": "Wed, 14 Oct 2026 13:36:56 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "source": "Decrypt",
+      "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+      "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+      "pubDate": "Wed, 14 Oct 2026 19:46:03 +0000",
+      "summary": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Russia clears Sberbank for crypto trading ahead of December launch",
-      "url": "https://cointelegraph.com/news/sberbank-russia-crypto-trading-approval",
-      "pubDate": "Tue, 13 Oct 2026 12:22:24 +0000",
-      "summary": "Russia's largest bank, Sberbank, has secured crypto exchange authorization as it prepares to offer Bitcoin, Ether and Tether USDt trading."
+      "source": "Decrypt",
+      "title": "Solana Sets a Date for Its Next Major Upgrade",
+      "url": "https://decrypt.co/380974/solana-alpenglow-upgrade-date",
+      "pubDate": "Wed, 14 Oct 2026 19:16:04 +0000",
+      "summary": "Solana's Alpenglow upgrade replaces the TowerBFT voting system on October 21, cutting finality from 12.8 seconds to a target of 150ms and pulling vote transactions out of blocks entirely."
     },
     {
       "source": "Decrypt",
@@ -90,13 +104,6 @@
     },
     {
       "source": "Decrypt",
-      "title": "Ledger Asks Resellers in Seven Asian Markets to Pull Devices After Suspected $86M Drain",
-      "url": "https://decrypt.co/380940/ledger-asks-resellers-in-seven-asian-markets-to-pull-devices-after-suspected-86m-drain",
-      "pubDate": "Wed, 14 Oct 2026 13:47:44 +0000",
-      "summary": "European chain MediaMarkt Saturn halted Ledger sales after a customer reported a hardware implant."
-    },
-    {
-      "source": "Decrypt",
       "title": "Bitcoin Falls as Hot Inflation Puts a Fed Hike Back on the Table",
       "url": "https://decrypt.co/380950/bitcoin-falls-hot-inflation-fed-hike-odds",
       "pubDate": "Wed, 14 Oct 2026 14:51:44 +0000",
@@ -104,17 +111,10 @@
     },
     {
       "source": "Decrypt",
-      "title": "XRP Ledger's Payment Engine Had a Counterfeiting Bug Hiding Since 2015",
-      "url": "https://decrypt.co/380693/xrp-ledger-payment-engine-counterfeiting-bug-hiding",
-      "pubDate": "Mon, 12 Oct 2026 15:56:35 +0000",
-      "summary": "An integer overflow in the payment engine, dormant since 2015, could have let an attacker mint spendable XRP beyond the token's total supply."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitmine Adds $32M in Ethereum as Tom Lee Says Firm Is Nearly 'Done Stacking'",
-      "url": "https://decrypt.co/380685/bitmine-adds-32m-in-ethereum-as-tom-lee-says-firm-is-nearly-done-stacking",
-      "pubDate": "Mon, 12 Oct 2026 13:33:28 +0000",
-      "summary": "The Ethereum treasury firm now holds 6.03 million ETH, 4.9% of supply, as Lee predicts the biggest crypto bull market yet."
+      "title": "Hex Founder Richard Heart Detained in Istanbul on Interpol Red Notice: Report",
+      "url": "https://decrypt.co/380930/hex-richard-heart-detained-istanbul",
+      "pubDate": "Wed, 14 Oct 2026 13:00:00 +0000",
+      "summary": "Turkish authorities detained the Hex and PulseChain founder following an Interpol notice."
     },
     {
       "source": "The Block",
@@ -125,17 +125,31 @@
     },
     {
       "source": "The Block",
+      "title": "'You're committing crime in broad daylight': Kalshi CEO defends prediction markets amid insider trading concerns",
+      "url": "https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601",
+      "pubDate": "Wed, 14 Oct 2026 17:47:18 +0000",
+      "summary": "As insider trading concerns are accumulating, one of the biggest platforms said its markets make it easier to suss out bad actors."
+    },
+    {
+      "source": "The Block",
       "title": "Bitcoin falls below $82,000 as hotter core CPI revives Fed hike concerns",
       "url": "https://www.theblock.co/news/markets/2026-10-14-bitcoin-falls-below-82000-core-inflation-fed-rate-hike-418582",
       "pubDate": "Wed, 14 Oct 2026 16:51:54 +0000",
-      "summary": "Bitcoin dropped below $82,000 after September core CPI beat forecasts as analysts weigh price targets and an October hike."
+      "summary": "Bitcoin dropped below $82,000 after September's core CPI beat forecasts as analysts weigh price targets and an October hike."
     },
     {
       "source": "The Block",
       "title": "Hex and PulseChain founder Richard Heart detained in Istanbul: reports",
       "url": "https://www.theblock.co/news/regulation/2026-10-14-hex-pulsechain-founder-richard-heart-detained-istanbul-turkish-media-reports-418574",
       "pubDate": "Wed, 14 Oct 2026 15:53:15 +0000",
-      "summary": "Turkish reports say $4 million and 64 watches were seized."
+      "summary": "Turkish reports say $4 million and 64 watches were seized. Police have yet to confirm Heart's detention."
+    },
+    {
+      "source": "The Block",
+      "title": "Standard Chartered pushes $2 trillion stablecoin market forecast to 2030 as supply growth stalls",
+      "url": "https://www.theblock.co/news/web3/2026-10-14-standard-chartered-stablecoin-market-report-418578",
+      "pubDate": "Wed, 14 Oct 2026 15:47:18 +0000",
+      "summary": "Standard Chartered Bank has pushed its $2 trillion stablecoin market forecast to 2030 from 2028 because supply growth has stalled this year."
     },
     {
       "source": "The Block",
@@ -145,18 +159,11 @@
       "summary": "OffMarket allows Polymarket users to trade without publicly linking positions."
     },
     {
-      "source": "The Block",
-      "title": "Strive buys 3,311 bitcoin for $280 million in largest acquisition since January",
-      "url": "https://www.theblock.co/news/business/2026-10-13-strive-buys-3311-bitcoin-280-million-largest-acquisition-since-january-418430",
-      "pubDate": "Tue, 13 Oct 2026 13:42:25 +0000",
-      "summary": "Strive added 3,311 BTC between Oct. 5 and Oct. 9, bringing holdings to 32,773 BTC and narrowing the gap with MARA."
-    },
-    {
-      "source": "The Block",
-      "title": "Hardware implant in CryptoBilis-sold devices steals recovery phrases, MediaMarkt suspends sales",
-      "url": "https://www.theblock.co/news/security/2026-10-14-hardware-implant-cryptobilis-ledger-recovery-phrases-mediamarkt-suspends-sales-418590",
-      "pubDate": "Wed, 14 Oct 2026 17:30:00 +0000",
-      "summary": "A hardware implant in CryptoBilis-sold devices steals recovery phrases, as MediaMarkt suspends sales."
+      "source": "CryptoSlate",
+      "title": "Kraken moves to acquire $181 million European bank in major push beyond crypto trading",
+      "url": "https://cryptoslate.com/kraken-moves-to-acquire-181-million-european-bank/",
+      "pubDate": "Wed, 14 Oct 2026 19:10:00 +0000",
+      "summary": "Kraken parent Payward targets Saldo Bank acquisition to expand banking services."
     },
     {
       "source": "CryptoSlate",
@@ -167,38 +174,31 @@
     },
     {
       "source": "CryptoSlate",
-      "title": "Ethereum quantum race takes a new turn as zkSync courts banks and Starknet weighs exit",
+      "title": "Ethereum's quantum race takes a new turn as zkSync courts banks and Starknet weighs exit",
       "url": "https://cryptoslate.com/ethereums-quantum-race-takes-a-new-turn-as-zksync-courts-banks-and-starknet-weighs-exit/",
       "pubDate": "Wed, 14 Oct 2026 17:50:35 +0000",
       "summary": "ZkSync announced Airbender Prime prover. Starknet considering independent L1."
     },
     {
       "source": "CryptoSlate",
-      "title": "Strive new $500 million Bitcoin financing plan comes with $257 million annual dividend problem",
+      "title": "Strive's new $500 million Bitcoin financing plan comes with a $257 million annual dividend problem",
       "url": "https://cryptoslate.com/strives-new-500-million-bitcoin-financing-plan-comes-with-a-257-million-annual-dividend-problem/",
       "pubDate": "Wed, 14 Oct 2026 16:30:22 +0000",
       "summary": "Hypothetical $500 million SATS financing assigns $387.5 million to Bitcoin."
     },
     {
       "source": "CryptoSlate",
-      "title": "Bitcoin's projected 5.7% difficulty rise puts miners' 40% revenue under pressure",
-      "url": "https://cryptoslate.com/bitcoins-projected-5-7-difficulty-rise-puts-miners-40-revenue-under-pressure/",
-      "pubDate": "Wed, 14 Oct 2026 15:20:00 +0000",
-      "summary": "With price, subsidy and fees, the projected Oct. 16 retarget could push 20 J/TH equipment paying 8 cents/kWh below its electricity-only threshold."
+      "title": "HEX founder Richard Heart arrested with 'electronic devices' in Istanbul via Interpol",
+      "url": "https://cryptoslate.com/hex-founder-richard-heart-arrested-istanbul/",
+      "pubDate": "Wed, 14 Oct 2026 15:45:00 +0000",
+      "summary": "Reports of detention of Hex founder in Istanbul."
     },
     {
       "source": "CryptoSlate",
-      "title": "Strive bought $280 million in Bitcoin, but Bitcoin per common share rose just 1.72%",
-      "url": "https://cryptoslate.com/strives-bitcoin-buying-diverges-from-strategys-preferred-buyback-focus/",
-      "pubDate": "Wed, 14 Oct 2026 11:10:07 +0000",
-      "summary": "Strive added 3,311 BTC, but gross Bitcoin per effective common share increased just 1.72% as common and preferred share counts grew."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "US authorities dismantle crypto scam network that stole tens of millions",
-      "url": "https://cryptoslate.com/us-authorities-dismantle-crypto-scam-network/",
-      "pubDate": "Wed, 14 Oct 2026 17:00:00 +0000",
-      "summary": "FBI and prosecutors seized servers and shut down sites linked to investment scams."
+      "title": "Bitcoin Fog operator's conviction upheld without Chainalysis disclosing source code",
+      "url": "https://cryptoslate.com/bitcoin-fog-operators-conviction-upheld/",
+      "pubDate": "Wed, 14 Oct 2026 14:20:00 +0000",
+      "summary": "Court upheld conviction of Bitcoin Fog operator."
     },
     {
       "source": "Bitcoin Magazine",
@@ -209,6 +209,20 @@
     },
     {
       "source": "Bitcoin Magazine",
+      "title": "Standard Chartered Debuts Bitcoin Trading For Wealthy UAE Clients",
+      "url": "https://bitcoinmagazine.com/news/standard-chartered-bitcoin-trading-uae",
+      "pubDate": "Wed, 14 Oct 2026 17:30:00 +0000",
+      "summary": "Bank allows affluent clients to buy BTC and ETH from accounts."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "The Undercurrent: Three European Artists on Making Money Visible",
+      "url": "https://bitcoinmagazine.com/culture/undercurrent-european-artists",
+      "pubDate": "Wed, 14 Oct 2026 15:00:00 +0000",
+      "summary": "Artists explore money and Bitcoin themes."
+    },
+    {
+      "source": "Bitcoin Magazine",
       "title": "Bitcoin Slips Below $83,000 After Hotter-Than-Expected US Inflation Data",
       "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-on-cpi-inflation-data",
       "pubDate": "Wed, 14 Oct 2026 14:30:22 +0000",
@@ -216,38 +230,24 @@
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Strive Buys 3,311 Bitcoin for $280 Million in Largest Acquisition Since January",
-      "url": "https://bitcoinmagazine.com/news/strive-buys-3311-bitcoin-280-million",
-      "pubDate": "Tue, 13 Oct 2026 14:00:00 +0000",
-      "summary": "Strive added significant BTC holdings."
+      "title": "Capitalism is Broken and Bitcoin is the Great Equalizer | Natalie Brunell",
+      "url": "https://bitcoinmagazine.com/podcast/capitalism-broken-bitcoin-equalizer",
+      "pubDate": "Wed, 14 Oct 2026 12:00:00 +0000",
+      "summary": "Discussion on Bitcoin as equalizer."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Coinbase Presses for Bitcoin Quantum Migration to Start Now",
-      "url": "https://bitcoinmagazine.com/news/coinbase-bitcoin-quantum-migration",
-      "pubDate": "Wed, 14 Oct 2026 16:00:00 +0000",
-      "summary": "Exchange argues multi-year migration must begin."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Standard Chartered Opens Bitcoin and Ethereum Trading to Wealthy UAE Clients",
-      "url": "https://bitcoinmagazine.com/news/standard-chartered-bitcoin-ethereum-trading-uae",
-      "pubDate": "Wed, 14 Oct 2026 17:30:00 +0000",
-      "summary": "Bank allows affluent clients to buy BTC and ETH from accounts."
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "OCC Report Finds Debanking Efforts Tied to Crypto Activities",
-      "url": "https://bitcoinmagazine.com/news/occ-debanking-crypto",
-      "pubDate": "Wed, 14 Oct 2026 17:00:00 +0000",
-      "summary": "Regulator report mentions crypto alongside other sectors."
+      "title": "Blue Coin Capital CIO: MSTR'S BTC Buying Engine is About to IGNITE | Mike Treidel",
+      "url": "https://bitcoinmagazine.com/podcast/mstr-btc-buying-engine",
+      "pubDate": "Wed, 14 Oct 2026 11:00:00 +0000",
+      "summary": "Interview on MicroStrategy Bitcoin strategy."
     },
     {
       "source": "CoinDesk",
       "title": "Kalshi CEO says state-led oversight of U.S. prediction markets would push them out",
       "url": "https://www.coindesk.com/policy/2026/10/14/kalshi-ceo-says-state-led-oversight-of-u-s-prediction-markets-would-push-them-out",
       "pubDate": "Wed, 14 Oct 2026 16:34:53 +0000",
-      "summary": "CEO Tarek Mansour said he feels pretty good about the pending outcome of the current legal fight over who has the right to regulate prediction markets."
+      "summary": "CEO Tarek Mansour said he feels \"pretty good\" about the pending outcome of the current legal fight over who has the right to regulate prediction markets."
     },
     {
       "source": "CoinDesk",
