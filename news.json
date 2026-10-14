@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-14T17:01:59Z",
+  "asof": "2026-10-14T18:02:24Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
@@ -10,5 +10,4 @@
     {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
     {"name": "Rekt", "url": "https://rekt.news"}
   ],
-  "items": [{"source":"CoinTelegraph","title":"Bitcoin price dips below $82K as high oil prices spike US CPI inflation","url":"https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation","pubDate":"Wed, 14 Oct 2026 14:21:15 +0000","summary":"Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the back of hot US CPI inflation."}] 
-}
+  "items": [{"source": "CryptoSlate", "title": "Ethereum's quantum race takes a new turn as zkSync courts banks and Starknet weighs exit", "url": "https://cryptoslate.com/ethereums-quantum-race-takes-a-new-turn-as-zksync-courts-banks-and-starknet-weighs-exit/", "pubDate": "Wed, 14 Oct 2026 17:50:35 +0000", "summary": "ZkSync announced Airbender Prime, a prover that Matter Labs says handled 99% of 7,200 consecutive Ethereum mainnet blocks in under 10 seconds each on a single NVIDIA RTX PRO 6000 Blackwell GPU."}] }
