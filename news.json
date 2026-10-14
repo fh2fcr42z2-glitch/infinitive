@@ -1,1 +1,14 @@
-PLACEHOLDER
+{
+  "asof": "2026-10-14T17:01:59Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
+  ],
+  "items": [{"source":"CoinTelegraph","title":"Bitcoin price dips below $82K as high oil prices spike US CPI inflation","url":"https://cointelegraph.com/markets/bitcoin-price-dips-yields-surge-as-high-oil-prices-spike-us-cpi-inflation","pubDate":"Wed, 14 Oct 2026 14:21:15 +0000","summary":"Bitcoin fell below $82,000 while bond yields targeted new 24-year highs on the back of hot US CPI inflation."}] 
+}
