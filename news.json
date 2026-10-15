@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-15T19:01:37Z",
+  "asof": "2026-10-15T20:02:19Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -32,6 +32,13 @@
     }
   ],
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here\u2019s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 15 Oct 2026 19:37:27 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
     {
       "source": "CoinTelegraph",
       "title": "Ex-Trump crypto adviser profited after helping pass stablecoin bill: WSJ",
@@ -68,18 +75,18 @@
       "summary": "Russia plans to ban direct P2P crypto trades from July 1, 2027, while separate rules already prohibit transfers from digital accounts to self-custody wallets."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Nasdaq-listed Tron sets up $200M ATM share offering to fuel TRX acquisitions",
-      "url": "https://cointelegraph.com/news/nasdaq-tron-200m-atm-offering-fuel-trx-acquisitions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 15 Oct 2026 14:16:55 +0000",
-      "summary": "The Nasdaq-listed treasury company holds about $237 million in TRX tokens and plans to raise additional capital to fund its purchases, alongside its daily accumulation."
+      "source": "Decrypt",
+      "title": "Boom or Bust, Bitcoin Wins the AI Trade, Bitwise CIO Says",
+      "url": "https://decrypt.co/381077/bitwise-cio-bitcoin-wins-ai-boom-or-bust",
+      "pubDate": "Thu, 15 Oct 2026 19:16:04 +0000",
+      "summary": "In a note to investors, Matt Hougan used a \u201cChoose Your Own Adventure\u201d framework to argue that superabundance, an AI bust or a muddle-through economy all ultimately funnel to the same place: Bitcoi..."
     },
     {
       "source": "Decrypt",
       "title": "BlackRock\u2019s Larry Fink Warns AI Data Center Halt Could Tip US Into Recession",
       "url": "https://decrypt.co/381068/blackrock-larry-fink-ai-data-center-halt-recession",
       "pubDate": "Thu, 15 Oct 2026 18:16:04 +0000",
-      "summary": "Speaking after BlackRock\u2019s Q3 earnings, Fink said AI infrastructure spending has become so central to growth that a construction halt would be dangerous\u2014calling the backlash \u201cmisinformation\u201d as data centers become a midterm flashpoint."
+      "summary": "Speaking after BlackRock\u2019s Q3 earnings, Fink said AI infrastructure spending has become so central to growth that a construction halt would be dangerous\u2014calling the backlash \u201cmisinformation\u201d as dat..."
     },
     {
       "source": "Decrypt",
@@ -108,13 +115,6 @@
       "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures",
       "pubDate": "Thu, 15 Oct 2026 14:27:18 +0000",
       "summary": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Ledger Announces Atom Touchscreen Android Device",
-      "url": "https://decrypt.co/381023/ledger-announces-atom-touchscreen-android-device",
-      "pubDate": "Thu, 15 Oct 2026 13:32:21 +0000",
-      "summary": "Ledger says the Android-based Atom will carry anti-tamper protections and be sold only on its site, as it probes tampered resold wallets."
     },
     {
       "source": "The Block",
@@ -160,6 +160,13 @@
     },
     {
       "source": "CryptoSlate",
+      "title": "84 million XRP added to exchange wallets as price slipped toward $1.30",
+      "url": "https://cryptoslate.com/xrp-exchange-wallets-added-84-million-tokens-in-three-days-as-price-slipped-toward-1-30/",
+      "pubDate": "Thu, 15 Oct 2026 20:00:30 +0000",
+      "summary": "The October 12\u201315 custody build raises a supply question, but the balance data cannot establish completed sales. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
       "title": "Machi loses $269,000 on ETH, then opens another long seven minutes later",
       "url": "https://cryptoslate.com/machi-reopens-eth-long-seven-minutes-after-269000-liquidation-loss/",
       "pubDate": "Thu, 15 Oct 2026 18:00:37 +0000",
@@ -194,11 +201,46 @@
       "summary": "Chainalysis\u2019s rate covers wallets already active on multiple days, leaving overall retention and independent commercial demand unmeasured. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
     },
     {
-      "source": "CryptoSlate",
-      "title": "Ethereum\u2019s faster-exit plan would leave new validators waiting to earn",
-      "url": "https://cryptoslate.com/ethereums-faster-exit-plan-would-preserve-an-earnings-hurdle-for-new-stakers/",
-      "pubDate": "Thu, 15 Oct 2026 13:20:02 +0000",
-      "summary": "A dated three-week entry estimate shows how direct deposits and pooled holdings bear the cost of inactive staking capital. Read the full story on CryptoSlate Understand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+      "source": "Bitcoin Magazine",
+      "title": "US Hoovers up Bitcoin While the World Runs on Its Digital Dollars: Report",
+      "url": "https://bitcoinmagazine.com/news/us-keeps-buying-bitcoin-chainalysis",
+      "pubDate": "Thu, 15 Oct 2026 18:28:34 +0000",
+      "summary": "Bitcoin Magazine US Hoovers up Bitcoin While the World Runs on Its Digital Dollars: Report Chainalysis research shows that the U.S. is HODLing hard. This post US Hoovers up Bitcoin While the World Runs on Its Digital Dollars: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Latin America\u2019s MSTR: How OranjeBTC is Running the Saylor Playbook in Brazil | Gui Gomes",
+      "url": "https://bitcoinmagazine.com/videos/latin-americas-mstr-how-oranjebtc-is-running-the-saylor-playbook-in-brazil-gui-gomes",
+      "pubDate": "Thu, 15 Oct 2026 13:34:18 +0000",
+      "summary": "Bitcoin Magazine Latin America\u2019s MSTR: How OranjeBTC is Running the Saylor Playbook in Brazil | Gui Gomes Bitcoin is the best collateral, says OranjeBTC CEO Gui Gomes. He breaks down BTC-backed loans, Brazil's adoption, and the path to global reserve status. This post Latin America\u2019s MSTR: How OranjeBTC is Running the Saylor Playbook in Brazil | Gui Gomes first appeared on Bitcoin Magazine and is written by Patrick Green."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com",
+      "pubDate": "",
+      "summary": ""
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com",
+      "pubDate": "",
+      "summary": ""
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com",
+      "pubDate": "",
+      "summary": ""
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com",
+      "pubDate": "",
+      "summary": ""
     },
     {
       "source": "CoinDesk",
