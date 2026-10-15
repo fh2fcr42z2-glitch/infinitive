@@ -2,42 +2,36 @@
   "asof": "2026-10-15T14:03:14Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
-    {
-      "name": "CoinTelegraph",
-      "url": "https://cointelegraph.com/rss"
-    },
-    {
-      "name": "Decrypt",
-      "url": "https://decrypt.co/feed"
-    },
-    {
-      "name": "The Block",
-      "url": "https://www.theblock.co/rss.xml"
-    },
-    {
-      "name": "CryptoSlate",
-      "url": "https://cryptoslate.com/feed/"
-    },
-    {
-      "name": "Bitcoin Magazine",
-      "url": "https://bitcoinmagazine.com/.rss/full/"
-    },
-    {
-      "name": "CoinDesk",
-      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
-    },
-    {
-      "name": "Rekt",
-      "url": "https://rekt.news"
-    }
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
   ],
   "items": [
-    {
-      "title": "Can the SEC and CFTC's pro-crypto rules be overturned? Legal opinion",
-      "url": "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Thu, 15 Oct 2026 13:30:00 +0000",
-      "summary": "The SEC and the CFTC have issued a raft of pro-crypto rules recently. But will the rules hold up in court, and can they be easily rolled back by the \"anti-crypto army\"?",
-      "source": "CoinTelegraph"
-    }
+    {"title": "Can the SEC and CFTC's pro-crypto rules be overturned? Legal opinion", "url": "https://cointelegraph.com/magazine/can-the-sec-and-cftcs-pro-crypto-rules-be-overturned-legal-opinion", "pubDate": "Thu, 15 Oct 2026 13:30:00 +0000", "summary": "The SEC and the CFTC have issued a raft of pro-crypto rules recently.", "source": "CoinTelegraph"},
+    {"title": "HEX token sellers erase $160M following reports of founder Richard Schueler arrest", "url": "https://cointelegraph.com/news/hex-token-erases-160m-reports-founder-schuelers-arrest", "pubDate": "Thu, 15 Oct 2026 12:12:57 +0000", "summary": "The HEX token price declined by 30% following local media reports of the Istanbul arrest of founder Richard Schueler.", "source": "CoinTelegraph"},
+    {"title": "Ledger's answer to wallet tampering costs $849 and ships next year", "url": "https://cointelegraph.com/news/ledger-new-hardware-device-asia-wallet-tampering", "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000", "summary": "Ledgers new Atom combines crypto wallet security with everyday apps and is expected to ship in summer 2027.", "source": "CoinTelegraph"},
+    {"title": "White House crypto council chief Patrick Witt steps down", "url": "https://cointelegraph.com/news/white-house-crypto-council-director-steps-down", "pubDate": "Thu, 15 Oct 2026 10:41:09 +0000", "summary": "Witts departure leaves a leadership gap at the White House Crypto Council.", "source": "CoinTelegraph"},
+    {"title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks", "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1", "pubDate": "Thu, 15 Oct 2026 10:22:00 +0000", "summary": "Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain.", "source": "CoinTelegraph"},
+    {"title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B", "url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3", "pubDate": "Thu, 15 Oct 2026 10:00:00 +0000", "summary": "Compromised suppliers, developer tools and infrastructure components outside security audits drove about 77% of the quarters total losses.", "source": "CoinTelegraph"},
+    {"title": "Bitcoin dips to $80.1K as KOSPI closes at its lowest since April", "url": "https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april", "pubDate": "Thu, 15 Oct 2026 09:48:07 +0000", "summary": "Bitcoin price action continued to see contagion from a Korean tech sell-off after the KOSPI Index fell 7.5% on Thursday.", "source": "CoinTelegraph"},
+    {"title": "Zcash Tanks Double Digits After Meteoric Rise Sees Leverage Build Up", "url": "https://decrypt.co/381015/zcash-tanks-double-digits-after-meteoric-rise-sees-leverage-build-up", "pubDate": "Thu, 15 Oct 2026 12:42:30 +0000", "summary": "Experts blame a build up in leverage for Zcashs drop in value.", "source": "Decrypt"},
+    {"title": "Morning Minute: Solana Is About To Get Faster", "url": "https://decrypt.co/381018/morning-minute-solana-is-about-to-get-faster", "pubDate": "Thu, 15 Oct 2026 12:07:08 +0000", "summary": "Alpenglow is coming next week, slashing Solana finality from 12.8 seconds to a target of about 150 milliseconds.", "source": "Decrypt"},
+    {"title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data", "url": "https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data", "pubDate": "Thu, 15 Oct 2026 11:48:42 +0000", "summary": "Odds of an October Fed hike have climbed to 29% from 18% a week ago.", "source": "Decrypt"},
+    {"title": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers", "url": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers", "pubDate": "Thu, 15 Oct 2026 10:01:21 +0000", "summary": "The scammers also ran a fake recovery service.", "source": "Decrypt"},
+    {"title": "Helius CEO Mert Mumtaz joins NEAR Foundation Council", "url": "https://www.theblock.co/news/business/2026-10-15-helius-ceo-mert-mumtaz-joins-near-foundation-council-418656", "pubDate": "Thu, 15 Oct 2026 13:00:00 +0000", "summary": "Helius CEO Mert Mumtaz joined NEAR Foundations Council.", "source": "The Block"},
+    {"title": "Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections", "url": "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644", "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000", "summary": "Ledger unveiled Atom, an Android-based security device with Solana Mobile integration.", "source": "The Block"},
+    {"title": "EBA designates Circles USDC as the EUs first significant e-money token", "url": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637", "pubDate": "Thu, 15 Oct 2026 11:10:07 +0000", "summary": "The EBA classified Circles USDC as the EUs first significant e-money token.", "source": "The Block"},
+    {"title": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities", "url": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623", "pubDate": "Thu, 15 Oct 2026 04:38:48 +0000", "summary": "Asian equities tumbled on Thursday, with South Koreas Kospi losing 8%.", "source": "The Block"},
+    {"title": "Crypto scammers stole millions from victims, then returned pretending to help recover their money", "url": "https://cryptoslate.com/crypto-scammers-stole-millions-from-victims-then-returned-pretending-to-help-recover-their-money/", "pubDate": "Thu, 15 Oct 2026 12:20:40 +0000", "summary": "Prosecutors say recovered data showed the same scammers returning weeks later with false promises.", "source": "CryptoSlate"},
+    {"title": "Bitcoins AI-driven rally faces a hidden danger if the machines get richer but workers dont", "url": "https://cryptoslate.com/bitcoins-ai-driven-rally-faces-a-hidden-danger-if-the-machines-get-richer-but-workers-dont/", "pubDate": "Thu, 15 Oct 2026 11:00:07 +0000", "summary": "Bitwise CIO Matt Hougan argued that nearly every macroeconomic path ends with Bitcoin higher.", "source": "CryptoSlate"},
+    {"title": "Bitcoins $80,000 buy wall hides a liquidation trap that could send prices toward $78,000", "url": "https://cryptoslate.com/bitcoins-80000-buy-wall-hides-a-liquidation-trap-that-could-send-prices-toward-78000/", "pubDate": "Thu, 15 Oct 2026 09:40:18 +0000", "summary": "Bitcoin registered an intraday low near $81,500 on Oct. 14 as September CPI came in hotter than forecast.", "source": "CryptoSlate"},
+    {"title": "How Brooklyn prosecutors and the FBI took down a massive crypto fraud network targeting Russian speakers", "url": "https://www.coindesk.com/business/2026/10/15/how-brooklyn-prosecutors-and-the-fbi-took-down-a-massive-crypto-fraud-network-targeting-russian-speakers", "pubDate": "Thu, 15 Oct 2026 12:35:24 +0000", "summary": "The scheme allegedly stole tens of millions through Russian-language Facebook ads and fake advisers.", "source": "CoinDesk"},
+    {"title": "Under pressure Ledger unveils plan to turn its crypto hardware wallet into a smartphone", "url": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone", "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000", "summary": "Ledgers Atom will run apps like WhatsApp and Instagram and let users switch between smartphone functions and a protected mode.", "source": "CoinDesk"},
+    {"title": "Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower", "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower", "pubDate": "Thu, 15 Oct 2026 10:52:11 +0000", "summary": "Bitcoin fell to just above $80,000 as South Koreas Kospi plunged 8%.", "source": "CoinDesk"},
+    {"title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain", "url": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain", "pubDate": "Thu, 15 Oct 2026 10:00:56 +0000", "summary": "Jeff Yan told Bloomberg that U.S. regulatory oversight should apply to the firms using the blockchain, not to the underlying network itself.", "source": "CoinDesk"}
   ]
 }
