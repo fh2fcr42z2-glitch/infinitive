@@ -1,1 +1,246 @@
-PLACEHOLDER
+{
+  "asof": "2026-10-15T12:04:15Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "title": "White House crypto council chief Patrick Witt steps down",
+      "url": "https://cointelegraph.com/news/white-house-crypto-council-director-steps-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 15 Oct 2026 10:41:09 +0000",
+      "summary": "Witts departure leaves a leadership gap at the White House Crypto Council and marks the fourth high-profile exit from the advisory group.",
+      "source": "CoinTelegraph"
+    },
+    {
+      "title": "Starknet opens vote on potential Ethereum L2 exit over quantum risks",
+      "url": "https://cointelegraph.com/news/starknet-vote-ethereum-l2-exit-post-quantum-l1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 15 Oct 2026 10:22:00 +0000",
+      "summary": "Starknet is asking STRK holders whether to explore becoming an independent layer-1 blockchain to reduce its dependence on Ethereums quantum-security upgrade timeline.",
+      "source": "CoinTelegraph"
+    },
+    {
+      "title": "Bitget, Liquid exploits push Q3 crypto hacks toward $1.2B",
+      "url": "https://cointelegraph.com/news/bitget-liquid-exploits-push-crypto-hacks-near-12b-q3?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 15 Oct 2026 10:00:00 +0000",
+      "summary": "Compromised suppliers, developer tools and infrastructure components outside security audits drove about 77% of the quarters total losses, according to Hacken.",
+      "source": "CoinTelegraph"
+    },
+    {
+      "title": "Bitcoin dips to $80.1K as KOSPI closes at its lowest since April",
+      "url": "https://cointelegraph.com/markets/bitcoin-dips-korea-kospi-lowest-close-since-april?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 15 Oct 2026 09:48:07 +0000",
+      "summary": "Bitcoin price action continued to see contagion from a Korean tech sell-off after the KOSPI Index fell 7.5% on Thursday.",
+      "source": "CoinTelegraph"
+    },
+    {
+      "title": "Thailand crypto ETFs may see slow start despite new rules: CoinShares",
+      "url": "https://cointelegraph.com/news/thailand-crypto-etfs-slow-start-new-rules-coinshares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 15 Oct 2026 09:36:20 +0000",
+      "summary": "Thailands new Bitcoin and Ether ETF rules take effect Friday, but CoinShares expects modest initial inflows as existing investment options compete for demand.",
+      "source": "CoinTelegraph"
+    },
+    {
+      "title": "Babylon advances native Bitcoin lending proposal on Aave V4",
+      "url": "https://cointelegraph.com/news/babylon-native-bitcoin-collateral-aave-v4-proposal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 15 Oct 2026 09:14:28 +0000",
+      "summary": "Babylons proposal to bring native Bitcoin collateral to Aave V4 has entered a new governance stage, but further votes and security reviews remain before launch.",
+      "source": "CoinTelegraph"
+    },
+    {
+      "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data",
+      "url": "https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data",
+      "pubDate": "Thu, 15 Oct 2026 11:48:42 +0000",
+      "summary": "Odds of an October Fed hike have climbed to 29% from 18% a week ago, and analysts see Bitcoin range-bound until the picture clears.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Brooklyn Prosecutors Take Down 112 Servers Behind Crypto Scam Targeting Russian Speakers",
+      "url": "https://decrypt.co/381000/brooklyn-prosecutors-take-down-112-servers-behind-crypto-scam-targeting-russian-speakers",
+      "pubDate": "Thu, 15 Oct 2026 10:01:21 +0000",
+      "summary": "The scammers also ran a fake recovery service, contacting victims weeks later with promises to get their stolen crypto back.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Godfather of AI and 400 Scientists Want AI Models Cut Off From the Internet",
+      "url": "https://decrypt.co/380998/scientists-want-ai-cut-off-from-internet",
+      "pubDate": "Wed, 14 Oct 2026 21:46:04 +0000",
+      "summary": "After a summer of AI models escaping test environments and hacking real companies, hundreds of researchers say the internet itself should be treated as a security boundary.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Developer Who Cloned Photoshop With AI Just Did the Same to Microsoft Office",
+      "url": "https://decrypt.co/380991/developer-cloned-photoshop-ai-just-did-same-microsoft-office",
+      "pubDate": "Wed, 14 Oct 2026 21:16:03 +0000",
+      "summary": "Developer Brandon Thomas used Anthropic's Claude to build free, open-source replicas of Word, Excel and PowerPoint. They're rough, but they show how cheap cloning software has become.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "AI Agents Made 138 Million Crypto Payments in a Year. Most Were Tiny",
+      "url": "https://decrypt.co/380989/ai-agents-138-million-crypto-payments-one-year",
+      "pubDate": "Wed, 14 Oct 2026 20:16:05 +0000",
+      "summary": "A new Chainalysis report found payments through Coinbases x402 protocol surged from about 1,500 in mid-2025 to more than 138 million by Q3 2026, with U.S. wallets dominating spending on AI models.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Russia's Biggest Bank Sberbank Wins Approval to Trade Bitcoin",
+      "url": "https://decrypt.co/380981/sberbank-russia-bank-trade-crypto-bitcoin",
+      "pubDate": "Wed, 14 Oct 2026 19:46:03 +0000",
+      "summary": "Sberbank now holds both custody and exchange status under Russia's new crypto law, and plans to bring Bitcoin, Ethereum and USDT to apps used by 110 million retail clients.",
+      "source": "Decrypt"
+    },
+    {
+      "title": "Ledger unveils Atom Android device with Solana Mobile integration and new tamper protections amid investigation into modified wallets",
+      "url": "https://www.theblock.co/news/business/2026-10-15-ledger-atom-solana-mobile-418644",
+      "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
+      "summary": "Ledger unveiled Atom, an Android-based security device with Solana Mobile integration, AI-agent controls, and hardware-tampering protections.",
+      "source": "The Block"
+    },
+    {
+      "title": "EBA designates Circles USDC as the EUs first significant e-money token",
+      "url": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637",
+      "pubDate": "Thu, 15 Oct 2026 11:10:07 +0000",
+      "summary": "The EBA classified Circles USDC as the EUs first \"significant\" e-money token, with new supervisory responsibilities beginning Nov. 12.",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitcoin drops below $81,000 as risk-off sentiment weighs on Asian equities",
+      "url": "https://www.theblock.co/news/markets/2026-10-15-bitcoin-drops-asian-equities-tumble-418623",
+      "pubDate": "Thu, 15 Oct 2026 04:38:48 +0000",
+      "summary": "Asian equities tumbled on Thursday, with South Korea's Kospi losing 8% and Japan's Nikkei 225 declining 5% during morning trading.",
+      "source": "The Block"
+    },
+    {
+      "title": "Patrick Witt exits White House crypto role as Clarity Act stalls",
+      "url": "https://www.theblock.co/news/regulation/2026-10-14-white-house-crypto-adviser-patrick-witt-departs-418611",
+      "pubDate": "Wed, 14 Oct 2026 20:30:15 +0000",
+      "summary": "Leadership at the White House is shifting once again, as Patrick Witts tenure as the administrations top crypto adviser comes to an end.",
+      "source": "The Block"
+    },
+    {
+      "title": "Major shareholder presses SkyAI on Solana sales after treasury shrinks 70% in a month",
+      "url": "https://www.theblock.co/news/business/2026-10-14-solana-treasury-skyai-bastion-sol-sales-tender-offer-418598",
+      "pubDate": "Wed, 14 Oct 2026 18:25:54 +0000",
+      "summary": "SkyAI's SOL treasury fell 70% in under a month, with 400,000 SOL unexplained. Bastion Trading won't tender at $3 a share and wants $3.50.",
+      "source": "The Block"
+    },
+    {
+      "title": "Youre committing crime in broad daylight: Kalshi CEO defends prediction markets amid insider trading concerns",
+      "url": "https://www.theblock.co/news/regulation/2026-10-14-youre-committing-crime-broad-daylight-kalshi-ceo-defends-prediction-markets-insider-trading-concerns-418601",
+      "pubDate": "Wed, 14 Oct 2026 17:47:18 +0000",
+      "summary": "As insider trading concerns are accumulating, one of the biggest platforms said its markets make it easier to suss out bad actors.",
+      "source": "The Block"
+    },
+    {
+      "title": "Bitcoins AI-driven rally faces a hidden danger if the machines get richer but workers dont",
+      "url": "https://cryptoslate.com/bitcoins-ai-driven-rally-faces-a-hidden-danger-if-the-machines-get-richer-but-workers-dont/",
+      "pubDate": "Thu, 15 Oct 2026 11:00:07 +0000",
+      "summary": "Bitwise CIO Matt Hougan argued in an Oct. 14 memo that nearly every macroeconomic path ends with Bitcoin higher, including an extraordinary AI productivity boom that makes scarce assets more valuable.",
+      "source": "CryptoSlate"
+    },
+    {
+      "title": "Bitcoins $80,000 buy wall hides a liquidation trap that could send prices toward $78,000",
+      "url": "https://cryptoslate.com/bitcoins-80000-buy-wall-hides-a-liquidation-trap-that-could-send-prices-toward-78000/",
+      "pubDate": "Thu, 15 Oct 2026 09:40:18 +0000",
+      "summary": "Bitcoin registered an intraday low of $81,514.28 on Oct. 14 as September CPI came in hotter than forecast, with headline inflation at 3.7% year over year against 3.6% expected and core at 2.6% against",
+      "source": "CryptoSlate"
+    },
+    {
+      "title": "9 mega banks block crypto accounts, but new OCC rules bite back",
+      "url": "https://cryptoslate.com/9-mega-banks-block-crypto-accounts-but-new-occ-rules-bite-back/",
+      "pubDate": "Thu, 15 Oct 2026 08:20:16 +0000",
+      "summary": "New OCC findings put crypto restrictions in a nine-bank record, while AML, sanctions and operational assessments still shape access. Read the full story on CryptoSlateUnderstand the crypto stories tha",
+      "source": "CryptoSlate"
+    },
+    {
+      "title": "USDC splits global reserves as EBA enforces Nov 12 handover",
+      "url": "https://cryptoslate.com/usdc-splits-global-reserves-as-eba-enforces-nov-12-handover/",
+      "pubDate": "Thu, 15 Oct 2026 06:30:14 +0000",
+      "summary": "The EBA's designation brings dual supervision of Circle's EU issuer, while its Oct. 1 response seeks more flexible reserve requirements. Read the full story on CryptoSlateUnderstand the cryp",
+      "source": "CryptoSlate"
+    },
+    {
+      "title": "Qivalis wins Dutch EMI license, but MiCA rules block launch",
+      "url": "https://cryptoslate.com/qivalis-wins-dutch-emi-license-but-mica-rules-block-launch/",
+      "pubDate": "Thu, 15 Oct 2026 04:40:28 +0000",
+      "summary": "The company says issuance is planned in the coming months, subject to MiCA requirements and white-paper publication. Read the full story on CryptoSlateUnderstand the crypto stories that matter and wha",
+      "source": "CryptoSlate"
+    },
+    {
+      "title": "Firelight forces XRP-linked tokens lockup as withdrawal delay queue grows",
+      "url": "https://cryptoslate.com/firelight-forces-xrp-linked-tokens-lockup-as-withdrawal-delay-queue-grows/",
+      "pubDate": "Thu, 15 Oct 2026 01:30:51 +0000",
+      "summary": "The October 6 activation moved existing FXRP stakes automatically into pooled cover backing, pairing fee income with claim exposure and longer withdrawals. Read the full story on CryptoSlateUnderstand",
+      "source": "CryptoSlate"
+    },
+    {
+      "title": "Under pressure Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
+      "url": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
+      "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
+      "summary": "Ledgers Atom will run apps like WhatsApp and Instragram and let users switch between smartphone functions and a protected mode for managing digital assets.",
+      "source": "CoinDesk"
+    },
+    {
+      "title": "Bitcoin, copper, stocks, yields all fall; gold rises",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/15/bitcoin-copper-stocks-yields-all-fall-gold-rises",
+      "pubDate": "Thu, 15 Oct 2026 11:15:00 +0000",
+      "summary": "Your day-ahead look for Oct. 15, 2026",
+      "source": "CoinDesk"
+    },
+    {
+      "title": "Bitcoin holds above $80,000 as Asian stock rout drags altcoins lower",
+      "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower",
+      "pubDate": "Thu, 15 Oct 2026 10:52:11 +0000",
+      "summary": "Bitcoin fell to just above $80,000 as South Koreas Kospi plunged 8%, while the CoinDesk 80 fell 2.2% and all but six CoinDesk 100 members declined.",
+      "source": "CoinDesk"
+    },
+    {
+      "title": "Live updates: Bitcoin trades near $81,000 as South Korea's chip-heavy Kospi continues to plunge",
+      "url": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens",
+      "pubDate": "Thu, 15 Oct 2026 10:16:15 +0000",
+      "summary": "Jitters across equity markets are sending money into fixed income, with Western bond markets rallying strongly on Thursday.",
+      "source": "CoinDesk"
+    },
+    {
+      "title": "Hyperliquid founder wants U.S. oversight of trading platforms, not his blockchain",
+      "url": "https://www.coindesk.com/policy/2026/10/15/hyperliquid-founder-wants-u-s-oversight-of-trading-platforms-not-his-blockchain",
+      "pubDate": "Thu, 15 Oct 2026 10:00:56 +0000",
+      "summary": "Jeff Yan told Bloomberg that U.S. regulatory oversight should apply to the firms using the blockchain, not to the underlying network itself.",
+      "source": "CoinDesk"
+    },
+    {
+      "title": "Australias financial watchdog seeks stiffer rules for crypto exchanges ahead of licensing deadline",
+      "url": "https://www.coindesk.com/policy/2026/10/15/australia-s-financial-watchdog-seeks-stiffer-rules-for-crypto-exchanges-ahead-of-licensing-deadline",
+      "pubDate": "Thu, 15 Oct 2026 09:53:37 +0000",
+      "summary": "The countrys regulator, ASIC, has proposed tougher rules to protect users digital assets, crypto trading and to safeguard the countrys financial stability.",
+      "source": "CoinDesk"
+    }
+  ]
+}
