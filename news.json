@@ -1,1 +1,25 @@
-PLACEHOLDER
+{
+  "asof": "2026-10-15T16:03:09Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
+  ],
+  "items": [
+    {"source": "CoinTelegraph", "title": "Mastercard brings stablecoin balances into traditional banking and card payments", "url": "https://cointelegraph.com/news/mastercard-bvnk-global-money-platform-stablecoins", "pubDate": "Thu, 15 Oct 2026 15:46:05 +0000", "summary": "The launch of Global Money Platform marks Mastercards first major integration with BVNK since its August acquisition."},
+    {"source": "CoinTelegraph", "title": "Bitcoin slips under $80K after US PPI gains most in four years", "url": "https://cointelegraph.com/markets/bitcoin-price-breaks-under-80k-after-us-ppi-gains-most-in-over-4-years", "pubDate": "Thu, 15 Oct 2026 15:10:44 +0000", "summary": "BTC buyers attempted to defend $80,000 support after September US producer inflation overshot expectations."},
+    {"source": "CoinTelegraph", "title": "Russia to ban direct peer-to-peer crypto trades starting July 2027", "url": "https://cointelegraph.com/news/russia-ban-p2p-crypto-trades-july-2027", "pubDate": "Thu, 15 Oct 2026 14:22:43 +0000", "summary": "Russia plans to ban direct P2P crypto trades from July 1, 2027."},
+    {"source": "Decrypt", "title": "Ethereum, Altcoins See Outsized Drawdowns Due to Macro Pressures", "url": "https://decrypt.co/381034/ethereum-altcoins-see-outsized-drawdowns-due-to-macro-pressures", "pubDate": "Thu, 15 Oct 2026 14:27:18 +0000", "summary": "Market analysts say that macro factors are pushing altcoin prices down, after ETH, XRP, and SOL all dropped on the day."},
+    {"source": "Decrypt", "title": "Bitcoin Tests $81,000 as Rate Hike Fears Linger After Hot Inflation Data", "url": "https://decrypt.co/381008/bitcoin-tests-81000-as-rate-hike-fears-linger-after-hot-inflation-data", "pubDate": "Thu, 15 Oct 2026 11:48:42 +0000", "summary": "Odds of an October Fed hike have climbed, analysts see Bitcoin range-bound until the picture clears."},
+    {"source": "The Block", "title": "Ripple Prime adds RWA swaps referencing perpetual futures listed on Hyperliquid", "url": "https://www.theblock.co/news/business/2026-10-15-ripple-prime-rwa-swaps-perpetual-futures-hyperliquid-418681", "pubDate": "Thu, 15 Oct 2026 14:43:35 +0000", "summary": "Ripple Prime has added RWA perpetual swaps tied to equities, ETFs, metals, energy and currencies."},
+    {"source": "The Block", "title": "EBA designates Circle's USDC as the EU's first significant e-money token", "url": "https://www.theblock.co/news/regulation/2026-10-15-eba-designates-circles-usdc-as-the-eus-first-significant-e-money-token-418637", "pubDate": "Thu, 15 Oct 2026 11:10:07 +0000", "summary": "The EBA classified Circle's USDC as the EU's first significant e-money token."},
+    {"source": "CryptoSlate", "title": "Bitcoin's $80,000 buy wall hides a liquidation trap that could send prices toward $78,000", "url": "https://cryptoslate.com/bitcoins-80000-buy-wall-hides-a-liquidation-trap-that-could-send-prices-toward-78000/", "pubDate": "Thu, 15 Oct 2026 09:40:18 +0000", "summary": "Bitcoin registered an intraday low near $81,500 on Oct. 14 as September CPI came in hotter than forecast."},
+    {"source": "CoinDesk", "title": "Altcoins lead crypto declines as Asian stocks drop; bitcoin little changed since midnight", "url": "https://www.coindesk.com/markets/2026/10/15/bitcoin-holds-above-usd80-000-as-an-asian-stock-rout-drags-altcoins-lower", "pubDate": "Thu, 15 Oct 2026 10:52:11 +0000", "summary": "Bitcoin fell to just above $80,000 as South Koreas Kospi plunged 8%."},
+    {"source": "CoinDesk", "title": "Live updates: Bitcoin bounces after first fall below $80,000 in one month", "url": "https://www.coindesk.com/business/2026/10/15/live-updates-bitcoin-back-under-usd81-000-as-ai-selloff-worsens", "pubDate": "Thu, 15 Oct 2026 10:16:15 +0000", "summary": "Stocks have also turned positive after big early losses."}
+  ]
+}
