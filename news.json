@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-16T02:01:33Z",
+  "asof": "2026-10-16T03:01:30Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -86,7 +86,7 @@
       "title": "Google Says It Just Cracked One of Quantum Computing's Biggest Bottlenecks",
       "url": "https://decrypt.co/381102/google-cracked-quantum-computing-biggest-bottlenecks",
       "pubDate": "Thu, 15 Oct 2026 21:46:04 +0000",
-      "summary": "Google's Willow chip cut errors 40x on the scarce \"magic states\" quantum computers burn through, a step toward smaller, useful machines-and toward ones that could threaten today's encryption."
+      "summary": "Google's Willow chip cut errors 40x on the scarce magic states quantum computers burn through, a step toward smaller, useful machines-and toward ones that could threaten today's encryption."
     },
     {
       "source": "Decrypt",
@@ -160,6 +160,13 @@
     },
     {
       "source": "CryptoSlate",
+      "title": "82 criminal charges follow armed crypto abduction in Toronto",
+      "url": "https://cryptoslate.com/82-criminal-charges-follow-armed-crypto-abduction-in-toronto/",
+      "pubDate": "Fri, 16 Oct 2026 01:00:00 +0000",
+      "summary": "Police say the victim was held for hours while attackers demanded wallet access and seed phrases."
+    },
+    {
+      "source": "CryptoSlate",
       "title": "Ledger wants customers to trust its new $849 device as criminals compromise existing wallets",
       "url": "https://cryptoslate.com/ledger-wants-customers-to-trust-its-new-849-device-as-criminals-compromise-existing-wallets/",
       "pubDate": "Fri, 16 Oct 2026 00:00:02 +0000",
@@ -194,53 +201,46 @@
       "summary": "Streami and Pravang are among 16 affected financial companies as the FSC outlines plans for a wider security overhaul."
     },
     {
-      "source": "CryptoSlate",
-      "title": "Machi loses $269,000 on ETH, then opens another long seven minutes later",
-      "url": "https://cryptoslate.com/machi-reopens-eth-long-seven-minutes-after-269000-liquidation-loss/",
-      "pubDate": "Thu, 15 Oct 2026 18:00:37 +0000",
-      "summary": "Hyperliquid force-liquidated 1,650 ETH early on Oct. 15, and the tracked wallet held a new 2,500 ETH long by 13:16 BST."
+      "source": "Bitcoin Magazine",
+      "title": "Brooklyn DA Pulls the Plug on Crypto Scam Network",
+      "url": "https://bitcoinmagazine.com/news/brooklyn-da-pulls-plug-on-crypto-scam",
+      "pubDate": "Thu, 15 Oct 2026 23:03:27 +0000",
+      "summary": "Brooklyn DA Pulls the Plug on Crypto Scam Network 112 servers and 241 fake sites knocked offline in one of the largest cyber takedowns ever by a local prosecutor."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Bitcoin Magazine",
-      "url": "https://bitcoinmagazine.com/",
-      "pubDate": "",
-      "summary": ""
+      "title": "Bitcoin's Volatility Has Fallen Within S&P 500 Ranks, Study Shows",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-volatility-fallen-within-sp-500-ranks",
+      "pubDate": "Thu, 15 Oct 2026 21:30:00 +0000",
+      "summary": "Grayscale research finds Bitcoin's realized volatility has declined into the range of large-cap equities."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Bitcoin Magazine",
-      "url": "https://bitcoinmagazine.com/",
-      "pubDate": "",
-      "summary": ""
+      "title": "US Hoovers up Bitcoin While the World Runs on Its Digital Dollars: Report",
+      "url": "https://bitcoinmagazine.com/markets/us-hoovers-bitcoin-world-runs-digital-dollars",
+      "pubDate": "Thu, 15 Oct 2026 20:15:00 +0000",
+      "summary": "Chainalysis data shows continued US accumulation of Bitcoin even as stablecoin usage expands globally."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Bitcoin Magazine",
-      "url": "https://bitcoinmagazine.com/",
-      "pubDate": "",
-      "summary": ""
+      "title": "Ledger Says Organized Crime Group Spent Millions Targeting Hardware Wallet Users",
+      "url": "https://bitcoinmagazine.com/tech/ledger-organized-crime-targeting-hardware-wallets",
+      "pubDate": "Thu, 15 Oct 2026 18:45:00 +0000",
+      "summary": "Hardware wallet maker reports a sophisticated campaign against users, urging verification of devices."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Bitcoin Magazine",
-      "url": "https://bitcoinmagazine.com/",
-      "pubDate": "",
-      "summary": ""
+      "title": "Bitcoin Briefly Slides Below $80,000 On More Hot Inflation Data",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-slides-below-80000-hot-inflation",
+      "pubDate": "Thu, 15 Oct 2026 16:20:00 +0000",
+      "summary": "Bitcoin recovered after a brief dip below $80,000 following hotter-than-expected inflation prints."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Bitcoin Magazine",
-      "url": "https://bitcoinmagazine.com/",
-      "pubDate": "",
-      "summary": ""
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Bitcoin Magazine",
-      "url": "https://bitcoinmagazine.com/",
-      "pubDate": "",
-      "summary": ""
+      "title": "Latin America's MSTR: How OranjeBTC is Running the Saylor Playbook in Brazil",
+      "url": "https://bitcoinmagazine.com/business/oranjebtc-saylor-playbook-brazil",
+      "pubDate": "Thu, 15 Oct 2026 15:00:00 +0000",
+      "summary": "Brazilian firm OranjeBTC is accumulating Bitcoin using a strategy modeled on MicroStrategy."
     },
     {
       "source": "CoinDesk",
@@ -254,7 +254,7 @@
       "title": "Crypto for Advisors: Wall Street is done waiting on Congress for crypto rules",
       "url": "https://www.coindesk.com/coindesk-indices/2026/10/15/crypto-for-advisors-wall-street-is-done-waiting-on-congress-for-crypto-rules",
       "pubDate": "Thu, 15 Oct 2026 15:00:00 +0000",
-      "summary": ""
+      "summary": "Market participants are advancing product development despite legislative delays."
     },
     {
       "source": "CoinDesk",
@@ -268,7 +268,7 @@
       "title": "Under pressure, Ledger unveils plan to turn its crypto hardware wallet into a smartphone",
       "url": "https://www.coindesk.com/tech/2026/10/15/under-pressure-ledger-unveils-plan-to-turn-its-crypto-hardware-wallet-into-a-smartphone",
       "pubDate": "Thu, 15 Oct 2026 12:00:00 +0000",
-      "summary": "Ledger's Atom will run apps like WhatsApp and Instragram and let users switch between smartphone functions and a protected mode for managing digital assets."
+      "summary": "Ledger's Atom will run apps like WhatsApp and Instagram and let users switch between smartphone functions and a protected mode for managing digital assets."
     },
     {
       "source": "CoinDesk",
