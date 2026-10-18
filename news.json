@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-18T12:03:00Z",
+  "asof": "2026-10-18T16:02:27Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -34,52 +34,52 @@
   "items": [
     {
       "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 18 Oct 2026 13:54:00 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Most Americans polled oppose betting on elections: Reuters",
+      "url": "https://cointelegraph.com/news/most-americans-polled-oppose-betting-on-elections-reuters?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 18 Oct 2026 13:48:00 +0000",
+      "summary": "The prediction market industry enables people to bet on US elections and sporting events."
+    },
+    {
+      "source": "CoinTelegraph",
       "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
-      "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys",
-      "pubDate": "Sun, 18 Oct 2026 10:43:12 +0000",
+      "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 18 Oct 2026 10:46:00 +0000",
       "summary": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems."
     },
     {
       "source": "CoinTelegraph",
       "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
-      "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok",
+      "url": "https://cointelegraph.com/news/chinese-suspect-75m-international-crime-network-arrested-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Sun, 18 Oct 2026 09:14:26 +0000",
       "summary": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts."
     },
     {
       "source": "CoinTelegraph",
       "title": "Tether backs AIsa as strategic investor, completing seed extension round",
-      "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round",
+      "url": "https://cointelegraph.com/news/tether-backs-aisa-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Sun, 18 Oct 2026 06:26:53 +0000",
       "summary": "The round brings AIsas total funding to more than $9 million."
     },
     {
       "source": "CoinTelegraph",
-      "title": "Heres what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
-      "pubDate": "Sat, 17 Oct 2026 13:29:00 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "source": "CoinTelegraph",
       "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
-      "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says",
+      "url": "https://cointelegraph.com/news/solana-shows-resilience-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Sat, 17 Oct 2026 13:01:00 +0000",
       "summary": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Circles Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
-      "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report",
-      "pubDate": "Sat, 17 Oct 2026 10:03:00 +0000",
-      "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins."
     },
     {
       "source": "Decrypt",
       "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
       "url": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
       "pubDate": "Sat, 17 Oct 2026 17:01:03 +0000",
-      "summary": "An FEC filing shows the Fairshake affiliate Defend American Jobs disclosed roughly $7 million more in ads against the Ohio Democrat, pushing its total past $46 milliondays after the PAC expanded its map to 32 House races."
+      "summary": "An FEC filing shows the Fairshake affiliate Defend American Jobs disclosed roughly $7 million more in ads against the Ohio Democrat, pushing its total past $46 million days after the PAC expanded its map to 32 House races."
     },
     {
       "source": "Decrypt",
@@ -156,91 +156,91 @@
       "title": "How Ethereum Works",
       "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
       "pubDate": "Fri, 16 Oct 2026 13:31:07 +0000",
-      "summary": "The focus is how Ethereum works under the hood: how it tracks and updates state, how transactions flow through the network, how computation is priced through gas, how smart contracts and token standards make Ethereum programmable, and how other Layer 1 blockchains approach the same problems in diffe"
+      "summary": "The focus is how Ethereum works under the hood: how it tracks and updates state, how transactions flow through the network, how computation is priced through gas, how smart contracts and token standards make Ethereum programmable, and how other Layer 1 blockchains approach the same problems in different ways."
     },
     {
       "source": "CryptoSlate",
       "title": "Prediction markets have a major problem as most Americans reject betting on elections",
       "url": "https://cryptoslate.com/prediction-markets-have-a-major-problem-as-most-americans-reject-betting-on-elections/",
       "pubDate": "Sun, 18 Oct 2026 12:00:10 +0000",
-      "summary": "Prediction markets want you to see them (and use them) as one of the best possible instruments for finding out whats happening in the world. Open any election market, and youre immediately given a probability that shifts in real time as people trade. Its a single number, easy to check in a few secon"
+      "summary": "Prediction markets want you to see them (and use them) as one of the best possible instruments for finding out what's happening in the world. Open any election market, and you're immediately given a probability that shifts in real time as people trade. It's a single number, easy to check in a few seconds."
     },
     {
       "source": "CryptoSlate",
       "title": "BitTorrent Ushers in Next-Gen Web3 Infrastructure with Strategic Rebrand and Inaugural BTT Burn",
       "url": "https://cryptoslate.com/bittorrent-ushers-in-next-gen-web3-infrastructure-with-strategic-rebrand-and-inaugural-btt-burn/",
       "pubDate": "Sun, 18 Oct 2026 11:58:10 +0000",
-      "summary": "Overview: The first round of BTT repurchased with decentralized service revenue has been completely burned, as BitTorrent leverages its reimagined architecture to pivot toward Web3 and AI infrastructure. BitTorrent, a cornerstone of decentralized infrastructure in the TRON ecosystem, entered a new p"
+      "summary": "Overview: The first round of BTT repurchased with decentralized service revenue has been completely burned, as BitTorrent leverages its reimagined architecture to pivot toward Web3 and AI infrastructure. BitTorrent, a cornerstone of decentralized infrastructure in the TRON ecosystem, entered a new phase."
     },
     {
       "source": "CryptoSlate",
       "title": "The crypto privacy rule Trumps Treasury proposed, and Trumps Treasury buried",
       "url": "https://cryptoslate.com/the-crypto-privacy-rule-trumps-treasury-proposed-and-trumps-treasury-buried/",
       "pubDate": "Sun, 18 Oct 2026 07:00:23 +0000",
-      "summary": "On Dec. 18, 2020, with Christmas a week away and Donald Trump preparing to leave the White House, Steven Mnuchin's Treasury Department announced a plan that would require crypto exchanges and other financial institutions to collect more information about transactions involving wallets people control"
+      "summary": "On Dec. 18, 2020, with Christmas a week away and Donald Trump preparing to leave the White House, Steven Mnuchin's Treasury Department announced a plan that would require crypto exchanges and other financial institutions to collect more information about transactions involving wallets people control."
     },
     {
       "source": "CryptoSlate",
       "title": "TRON moved $2.2 trillion in stablecoins while TRX supply grew for 108 straight days",
       "url": "https://cryptoslate.com/trons-stablecoin-growth-has-not-made-trx-deflationary/",
       "pubDate": "Sat, 17 Oct 2026 21:00:59 +0000",
-      "summary": "TRX supply grew on all 108 days from July 1 through October 16 as burns fell short of newly issued rewards. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+      "summary": "TRX supply grew on all 108 days from July 1 through October 16 as burns fell short of newly issued rewards. Read the full story on CryptoSlate."
     },
     {
       "source": "CryptoSlate",
       "title": "Who opened your crypto wallet before it reached your hands?",
       "url": "https://cryptoslate.com/who-handled-your-wallet-before-you-did/",
       "pubDate": "Sat, 17 Oct 2026 19:00:25 +0000",
-      "summary": "In early October, customers in Southeast Asia discovered that their crypto had disappeared from Ledger hardware wallets that still seemed to be working normally. They bought the devices through CryptoBilis, an authorized reseller, and believed their private keys were protected inside a device built "
+      "summary": "In early October, customers in Southeast Asia discovered that their crypto had disappeared from Ledger hardware wallets that still seemed to be working normally. They bought the devices through CryptoBilis, an authorized reseller, and believed their private keys were protected inside a device built for security."
     },
     {
       "source": "CryptoSlate",
       "title": "Ethereum sets October 26 for Hoodis 200 million gas test",
       "url": "https://cryptoslate.com/ethereum-sets-october-26-scaling-test-with-hoodi-node-upgrades-required/",
       "pubDate": "Sat, 17 Oct 2026 17:00:52 +0000",
-      "summary": "Hoodis Glamsterdam test schedules a 200 million gas target, while the mainnet activation date remains undecided. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+      "summary": "Hoodis Glamsterdam test schedules a 200 million gas target, while the mainnet activation date remains undecided. Read the full story on CryptoSlate."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
       "url": "https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves",
       "pubDate": "Fri, 16 Oct 2026 22:12:36 +0000",
-      "summary": "Bitcoin Magazine Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves Chainalysis has revealed that a victim of last weeks Ledger theft was a scammer themself. This post Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves first appeared on"
+      "summary": "Bitcoin Magazine Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves Chainalysis has revealed that a victim of last weeks Ledger theft was a scammer themself."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
       "url": "https://bitcoinmagazine.com/press-releases/bffs26-denver-joseph-kelly-on-bitcoin-custody-and-credit-alan-lane-on-banking-lessons",
       "pubDate": "Fri, 16 Oct 2026 19:44:29 +0000",
-      "summary": "Bitcoin Magazine BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons CPAs, wealth advisors, and lenders gather in Denver for BFFS26, featuring Patrick Lowry on public-company Bitcoin treasury reserves and Wyoming Deputy Secretary of State Colin Crossman on regulat"
+      "summary": "Bitcoin Magazine BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons CPAs, wealth advisors, and lenders gather in Denver for BFFS26."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Sazmining Now Sells Jack Dorseys Proto Immersion Hashboards",
       "url": "https://bitcoinmagazine.com/news/sazmining-now-sells-proto-hashboards",
       "pubDate": "Fri, 16 Oct 2026 19:19:40 +0000",
-      "summary": "Bitcoin Magazine Sazmining Now Sells Jack Dorseys Proto Immersion Hashboards Blocks Proto mining hashboards are now available on Sazminings mining-as-a-service platform. This post Sazmining Now Sells Jack Dorseys Proto Immersion Hashboards first appeared on Bitcoin Magazine and is written by Mathew "
+      "summary": "Bitcoin Magazine Sazmining Now Sells Jack Dorseys Proto Immersion Hashboards Blocks Proto mining hashboards are now available on Sazminings mining-as-a-service platform."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Hot Inflation Data Puts Bitcoin Under Pressure, but Difficult Isnt Bearish: CoinShares",
       "url": "https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares",
       "pubDate": "Fri, 16 Oct 2026 18:30:57 +0000",
-      "summary": "Bitcoin Magazine Hot Inflation Data Puts Bitcoin Under Pressure, but Difficult Isnt Bearish: CoinShares Bitcoin is still reacting to weekly data but long-term investors shouldnt be worried, according to the European asset manager. This post Hot Inflation Data Puts Bitcoin Under Pressure, but Difficu"
+      "summary": "Bitcoin Magazine Hot Inflation Data Puts Bitcoin Under Pressure, but Difficult Isnt Bearish: CoinShares Bitcoin is still reacting to weekly data but long-term investors shouldnt be worried, according to the European asset manager."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report",
       "url": "https://bitcoinmagazine.com/news/deutsche-bank-will-debut-bitcoin-custody",
       "pubDate": "Fri, 16 Oct 2026 16:35:55 +0000",
-      "summary": "Bitcoin Magazine Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report The German lender is moving fast with its crypto custody service. This post Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo."
+      "summary": "Bitcoin Magazine Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report The German lender is moving fast with its crypto custody service."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "MSCI To Move Forward With Proposal That Could Exclude Strategy From Index",
       "url": "https://bitcoinmagazine.com/news/msci-could-exclude-strategy-from-index",
       "pubDate": "Fri, 16 Oct 2026 16:32:41 +0000",
-      "summary": "Bitcoin Magazine MSCI To Move Forward With Proposal That Could Exclude Strategy From Index MSCI has adopted new rules that could push Bitcoin treasury Strategy out of its global equity benchmarks. This post MSCI To Move Forward With Proposal That Could Exclude Strategy From Index first appeared on B"
+      "summary": "Bitcoin Magazine MSCI To Move Forward With Proposal That Could Exclude Strategy From Index MSCI has adopted new rules that could push Bitcoin treasury Strategy out of its global equity benchmarks."
     },
     {
       "source": "CoinDesk",
@@ -272,17 +272,17 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Citrini sees a tokenization boom. The harder question is who profits",
-      "url": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
+      "title": "Citrini sees a tokenization wave reshaping markets",
+      "url": "https://www.coindesk.com/markets/2026/10/16/citrini-sees-tokenization-wave",
       "pubDate": "Sat, 17 Oct 2026 15:00:00 +0000",
-      "summary": "The influential research firm says real-world assets could finally give blockchains a clear role in finance. For investors, the next challenge is figuring out which companies, networks and protocols capture the revenue."
+      "summary": "Analyst notes on tokenization trends and market structure shifts."
     },
     {
       "source": "CoinDesk",
-      "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
-      "url": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
-      "pubDate": "Sat, 17 Oct 2026 14:00:00 +0000",
-      "summary": "CEO Marc Boiron said the Coinme acquisition will help Polygon control customer relationships and capture revenue that previously went to payment intermediaries."
+      "title": "Bitcoin holds above key level amid mixed macro signals",
+      "url": "https://www.coindesk.com/markets/2026/10/16/bitcoin-holds-key-level",
+      "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000",
+      "summary": "BTC consolidates as inflation data and institutional flows remain in focus."
     }
   ]
 }
