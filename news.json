@@ -1,51 +1,288 @@
 {
-  "asof": "2026-10-18T03:01:54Z",
+  "asof": "2026-10-18T12:03:00Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
-    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
-    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
-    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
-    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
-    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
-    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
-    {"name": "Rekt", "url": "https://rekt.news"}
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
   ],
   "items": [
-    {"source": "CoinTelegraph", "title": "Here's what happened in crypto today", "url": "https://cointelegraph.com/news/what-happened-in-crypto-today", "pubDate": "Sat, 17 Oct 2026 13:29:00 +0000", "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."},
-    {"source": "CoinTelegraph", "title": "Solana shows resilience, but some areas need continued observation, Fidelity says", "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says", "pubDate": "Sat, 17 Oct 2026 12:58:03 +0000", "summary": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report."},
-    {"source": "CoinTelegraph", "title": "Circle's Allaire says stablecoin issuer looking to enter 40 developing markets: Report", "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report", "pubDate": "Sat, 17 Oct 2026 10:00:07 +0000", "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins."},
-    {"source": "CoinTelegraph", "title": "Lagarde says euro-area economy is resilient, digital euro imminent", "url": "https://cointelegraph.com/news/lagarde-says-euro-area-economy-is-resilient-digital-euro-imminent", "pubDate": "Sat, 17 Oct 2026 08:32:11 +0000", "summary": "The digital euro will further stimulate innovation and competition in retail payments, according to the ECB president."},
-    {"source": "CoinTelegraph", "title": "Bitget to discontinue services for some users in one-off exercise", "url": "https://cointelegraph.com/news/bitget-to-discontinue-services-for-some-users-in-one-off-exercise", "pubDate": "Sat, 17 Oct 2026 07:26:57 +0000", "summary": "Bitget says user funds are safe and exchange will continue to operate during the change."},
-    {"source": "CoinTelegraph", "title": "Crypto PACs escalate spending against Sherrod Brown in Ohio Senate race", "url": "https://cointelegraph.com/news/crypto-pac-fairshake-spending-ohio-senate-race-sherrod-brown", "pubDate": "Fri, 16 Oct 2026 17:30:09 +0000", "summary": "At least two industry-aligned PACs have poured more than $52 million into opposing Sherrod Brown's return to the Senate."},
-    {"source": "Decrypt", "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown", "url": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown", "pubDate": "Sat, 17 Oct 2026 17:01:03 +0000", "summary": "An FEC filing shows the Fairshake affiliate Defend American Jobs disclosed roughly $7 million more in ads against the Ohio Democrat."},
-    {"source": "Decrypt", "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed", "url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed", "pubDate": "Sat, 17 Oct 2026 16:01:03 +0000", "summary": "The nine-member group aims to set open standards for testing quantum-resistance claims."},
-    {"source": "Decrypt", "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps", "url": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent", "pubDate": "Sat, 17 Oct 2026 15:01:03 +0000", "summary": "StepFun's STEPX Neo opened for pre-orders in China on Oct. 13 at 3,999 yuan."},
-    {"source": "Decrypt", "title": "TokenMaxxing: How to Get the Most Out of Your AI Models", "url": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models", "pubDate": "Sat, 17 Oct 2026 13:01:04 +0000", "summary": "AI companies charge by the token, and most people burn them on jobs a cheap model could do."},
-    {"source": "Decrypt", "title": "Tesla Roadster Rocket Is the Cool Flying Car You Can't Have", "url": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have", "pubDate": "Fri, 16 Oct 2026 20:16:04 +0000", "summary": "Tesla's new Roadster flips through the air."},
-    {"source": "Decrypt", "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot", "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot", "pubDate": "Fri, 16 Oct 2026 19:36:04 +0000", "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1."},
-    {"source": "The Block", "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE", "url": "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859", "pubDate": "Sat, 17 Oct 2026 19:56:25 +0000", "summary": "Applied Optoelectronics told the WSJ it objected because it was unsure how tokenization would affect its stock price."},
-    {"source": "The Block", "title": "Turkey confirms Hex founder Richard Heart's arrest, says police seized $7.15 million and six cold wallets", "url": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852", "pubDate": "Sat, 17 Oct 2026 18:14:43 +0000", "summary": "Police reportedly seized $7.15 million in cash, six cold wallets."},
-    {"source": "The Block", "title": "Strive's bitcoin buying spree earns 27% price target hike from TD Cowen", "url": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839", "pubDate": "Fri, 16 Oct 2026 20:22:57 +0000", "summary": "Strive plans fresh funding for bitcoin purchases as TD Cowen sees warrant-related stock pressure easing."},
-    {"source": "The Block", "title": "Coinbase to power stablecoin-backed cards for Marqeta customers", "url": "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833", "pubDate": "Fri, 16 Oct 2026 17:21:29 +0000", "summary": "The expanded partnership builds on Marqeta's work powering Coinbase's U.S. debit card offering in 2020."},
-    {"source": "The Block", "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026", "url": "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826", "pubDate": "Fri, 16 Oct 2026 14:58:29 +0000", "summary": "Circle breaks down its USDC revenue: about $1.4 billion in H1 2026, $819 million to partners and transaction costs."},
-    {"source": "The Block", "title": "How Ethereum Works", "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525", "pubDate": "Fri, 16 Oct 2026 13:31:07 +0000", "summary": "The focus is how Ethereum works under the hood."},
-    {"source": "CryptoSlate", "title": "TRON moved $2.2 trillion in stablecoins while TRX supply grew for 108 straight days", "url": "https://cryptoslate.com/trons-stablecoin-growth-has-not-made-trx-deflationary/", "pubDate": "Sat, 17 Oct 2026 21:00:59 +0000", "summary": "TRX supply grew on all 108 days from July 1 through October 16 as burns fell short of newly issued rewards."},
-    {"source": "CryptoSlate", "title": "Who opened your crypto wallet before it reached your hands?", "url": "https://cryptoslate.com/who-handled-your-wallet-before-you-did/", "pubDate": "Sat, 17 Oct 2026 19:00:25 +0000", "summary": "In early October, customers in Southeast Asia discovered that their crypto had disappeared from Ledger hardware wallets."},
-    {"source": "CryptoSlate", "title": "Ethereum sets October 26 for Hoodi's 200 million gas test", "url": "https://cryptoslate.com/ethereum-sets-october-26-for-hoodis-200-million-gas-test/", "pubDate": "Sat, 17 Oct 2026 18:00:00 +0000", "summary": "Ethereum developers scheduled a Hoodi testnet gas limit test."},
-    {"source": "CryptoSlate", "title": "Stablecoin cards are booming, but who makes money when you swipe?", "url": "https://cryptoslate.com/stablecoin-cards-are-booming-but-who-makes-money-when-you-swipe/", "pubDate": "Sat, 17 Oct 2026 15:00:18 +0000", "summary": "Someone paying for lunch with a stablecoin card doesn't need the restaurant to know what USDC is."},
-    {"source": "CryptoSlate", "title": "Cardano shifts $26M to USDCx as bridge controls freeze payouts", "url": "https://cryptoslate.com/cardano-shifts-26m-to-usdcx-as-bridge-controls-freeze-payouts/", "pubDate": "Sat, 17 Oct 2026 14:00:00 +0000", "summary": "Thirty enacted withdrawals have used 457.4 million ADA of the 500 million allowance."},
-    {"source": "CryptoSlate", "title": "Eclair patches a browser attack that could send commands to your Lightning node", "url": "https://cryptoslate.com/eclair-blocks-browser-requests-that-could-let-a-webpage-control-a-bitcoin-lightning-node/", "pubDate": "Sat, 17 Oct 2026 12:00:20 +0000", "summary": "The Oct. 15 release blocks a cached-authentication route to Eclair's API."},
-    {"source": "Bitcoin Magazine", "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves", "url": "https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves", "pubDate": "Fri, 16 Oct 2026 22:12:36 +0000", "summary": "Chainalysis has revealed that a victim of last week's Ledger theft was a scammer themself."},
-    {"source": "Bitcoin Magazine", "title": "The Bitcoin Industry Is Forging Its Own Tools", "url": "https://bitcoinmagazine.com/culture/the-bitcoin-industry-is-forging-its-own-tools", "pubDate": "Fri, 16 Oct 2026 18:00:00 +0000", "summary": "The Bitcoin industry is building independent infrastructure."},
-    {"source": "Bitcoin Magazine", "title": "How to Secure Your Bitcoin Against Physical Attacks", "url": "https://bitcoinmagazine.com/guides/how-to-secure-your-bitcoin-against-physical-attacks", "pubDate": "Fri, 16 Oct 2026 16:00:00 +0000", "summary": "Practical steps for protecting Bitcoin holdings from physical threats."},
-    {"source": "Bitcoin Magazine", "title": "Bitcoin Mining Difficulty Hits New High", "url": "https://bitcoinmagazine.com/news/bitcoin-mining-difficulty-hits-new-high", "pubDate": "Fri, 16 Oct 2026 14:00:00 +0000", "summary": "Network difficulty adjusted upward again."},
-    {"source": "Bitcoin Magazine", "title": "Morgan Stanley's Amy Oldenburg: The Digital Gold Investment Case for Bitcoin", "url": "https://bitcoinmagazine.com/videos/morgan-stanleys-amy-oldenburg-the-digital-gold-investment-case-for-bitcoin", "pubDate": "Fri, 16 Oct 2026 12:00:00 +0000", "summary": "Interview on Bitcoin as digital gold in client portfolios."},
-    {"source": "Bitcoin Magazine", "title": "Sazmining Brings Proto's Immersion Hashboards to Individual Owners", "url": "https://bitcoinmagazine.com/press-releases/sazmining-brings-protos-immersion-hashboards-to-individual-owners-with-0-financing-from-1397-down", "pubDate": "Fri, 16 Oct 2026 12:42:22 +0000", "summary": "0% financing from $1,397 down for individual owners."},
-    {"source": "CoinDesk", "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut", "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut", "pubDate": "Sun, 18 Oct 2026 01:06:35 +0000", "summary": "Coinbase, Circle's largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee."},
-    {"source": "CoinDesk", "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat", "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat", "pubDate": "Sat, 17 Oct 2026 17:00:00 +0000", "summary": "The largest banks in the world are eyeing new trading opportunities, speeding up payments and a role in digital assets."},
-    {"source": "CoinDesk", "title": "Citrini sees a tokenization boom. The harder question is who profits", "url": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits", "pubDate": "Sat, 17 Oct 2026 15:00:00 +0000", "summary": "The influential research firm says real-world assets could finally give blockchains a clear role in finance."},
-    {"source": "CoinDesk", "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe", "url": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe", "pubDate": "Sat, 17 Oct 2026 14:00:00 +0000", "summary": "CEO Marc Boiron said the Coinme acquisition will help Polygon control customer relationships."},
-    {"source": "CoinDesk", "title": "Banks could slow stablecoin growth by paying savers more, BIS paper finds", "url": "https://www.coindesk.com/business/2026/10/14/banks-could-slow-stablecoin-growth-by-paying-savers-more-bis-paper-finds", "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000", "summary": "A BIS working paper found a 1 basis point rise in U.S. bank deposit rates predicted slower stablecoin growth."},
-    {"source": "CoinDesk", "title": "Satoshi-era bitcoin faces a bigger quantum threat after Google's new Willow breakthrough", "url": "https://www.coindesk.com/tech/2026/10/16/satoshi-era-bitcoin-faces-a-bigger-quantum-threat-after-google-s-new-willow-breakthrough", "pubDate": "Sat, 17 Oct 2026 02:30:00 +0000", "summary": "Google says its Willow chip can prepare special quantum states with about 40 times fewer errors."}
+    {
+      "source": "CoinTelegraph",
+      "title": "Cysic crypto bridge halted after unauthorized mint of 10M CYS",
+      "url": "https://cointelegraph.com/news/cysic-crypto-bridge-halted-after-unauthorized-mint-of-10m-cys",
+      "pubDate": "Sun, 18 Oct 2026 10:43:12 +0000",
+      "summary": "Cysic said the incident was limited to bridge message processing and minting and did not affect the mainnet or other operational systems."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
+      "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok",
+      "pubDate": "Sun, 18 Oct 2026 09:14:26 +0000",
+      "summary": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Tether backs AIsa as strategic investor, completing seed extension round",
+      "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round",
+      "pubDate": "Sun, 18 Oct 2026 06:26:53 +0000",
+      "summary": "The round brings AIsas total funding to more than $9 million."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Heres what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Sat, 17 Oct 2026 13:29:00 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Solana shows resilience, but some areas need continued observation, Fidelity says",
+      "url": "https://cointelegraph.com/news/solana-shows-resilience-but-some-areas-need-continued-observation-fidelity-says",
+      "pubDate": "Sat, 17 Oct 2026 13:01:00 +0000",
+      "summary": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Circles Allaire says stablecoin issuer looking to enter 40 developing markets: Report",
+      "url": "https://cointelegraph.com/news/circles-allaire-says-stablecoin-issuer-looking-to-enter-40-developing-markets-report",
+      "pubDate": "Sat, 17 Oct 2026 10:03:00 +0000",
+      "summary": "Markets in Southeast Asia, Latin America, Africa and the Middle East see increasing demand for stablecoins."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Super PAC Fairshake Pours Millions More Into Defeating Sherrod Brown",
+      "url": "https://decrypt.co/381238/crypto-super-pac-fairshake-pours-millions-more-into-defeating-sherrod-brown",
+      "pubDate": "Sat, 17 Oct 2026 17:01:03 +0000",
+      "summary": "An FEC filing shows the Fairshake affiliate Defend American Jobs disclosed roughly $7 million more in ads against the Ohio Democrat, pushing its total past $46 milliondays after the PAC expanded its map to 32 House races."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Firms Launch Quantum Alliance as 6 Million Bitcoin Sit Exposed",
+      "url": "https://decrypt.co/381236/crypto-firms-launch-quantum-alliance-as-6-million-bitcoin-sit-exposed",
+      "pubDate": "Sat, 17 Oct 2026 16:01:03 +0000",
+      "summary": "The nine-member group, modeled on the Internet Engineering Task Force, aims to set open standards for testing quantum-resistance claims as forecasts place the first practical attack in the late 2020s."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Chinese Startup StepFun Launches a Phone Built Around an AI Agent, Not Apps",
+      "url": "https://decrypt.co/381202/chinese-startup-stepfun-phone-ai-agent",
+      "pubDate": "Sat, 17 Oct 2026 15:01:03 +0000",
+      "summary": "StepFun's STEPX Neo opened for pre-orders in China on Oct. 13 at 3,999 yuan, with an AI agent built into the operating system instead of bolted on as an app."
+    },
+    {
+      "source": "Decrypt",
+      "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
+      "url": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
+      "pubDate": "Sat, 17 Oct 2026 13:01:04 +0000",
+      "summary": "AI companies charge by the token, and most people burn them on jobs a cheap model could do. Here's how to spend less and get better results, from your first prompt to your first agent."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Cant Have",
+      "url": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
+      "pubDate": "Fri, 16 Oct 2026 20:16:04 +0000",
+      "summary": "Tesla's new Roadster flips through the air, jumps a row of Teslas and lands on SpaceX thrusters. The Rocket version is invite only, not approved for public roads, and not due until 2028."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
+      "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
+      "pubDate": "Fri, 16 Oct 2026 19:36:04 +0000",
+      "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet."
+    },
+    {
+      "source": "The Block",
+      "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
+      "url": "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
+      "pubDate": "Sat, 17 Oct 2026 19:56:25 +0000",
+      "summary": "Applied Optoelectronics told the WSJ it objected because it was unsure how tokenization would affect its stock price, liquidity and volatility."
+    },
+    {
+      "source": "The Block",
+      "title": "Turkey confirms Hex founder Richard Hearts arrest, says police seized $7.15 million and six cold wallets",
+      "url": "https://www.theblock.co/news/regulation/2026-10-17-turkey-confirms-hex-founder-richard-hearts-arrest-says-police-seized-7-15-million-and-six-cold-wallets-418852",
+      "pubDate": "Sat, 17 Oct 2026 18:14:43 +0000",
+      "summary": "Police reportedly seized $7.15 million in cash, six cold wallets, seven firearms and 1,400 rounds of ammunition in searches of 15 addresses."
+    },
+    {
+      "source": "The Block",
+      "title": "Strives bitcoin buying spree earns 27% price target hike from TD Cowen",
+      "url": "https://www.theblock.co/news/markets/2026-10-16-strives-bitcoin-buying-spree-earns-27-price-target-hike-td-cowen-418839",
+      "pubDate": "Fri, 16 Oct 2026 20:22:57 +0000",
+      "summary": "Strive plans fresh funding for bitcoin purchases as TD Cowen sees warrant-related stock pressure easing."
+    },
+    {
+      "source": "The Block",
+      "title": "Coinbase to power stablecoin-backed cards for Marqeta customers",
+      "url": "https://www.theblock.co/news/business/2026-10-16-coinbase-to-power-stablecoin-backed-cards-for-marqeta-customers-418833",
+      "pubDate": "Fri, 16 Oct 2026 17:21:29 +0000",
+      "summary": "The expanded partnership builds on Marqetas work powering Coinbases U.S. debit card offering in 2020."
+    },
+    {
+      "source": "The Block",
+      "title": "Circle details USDC revenue split, says $819 million went to partners and costs in H1 2026",
+      "url": "https://www.theblock.co/news/business/2026-10-16-circle-usdc-revenue-split-partners-418826",
+      "pubDate": "Fri, 16 Oct 2026 14:58:29 +0000",
+      "summary": "Circle breaks down its USDC revenue: about $1.4 billion in H1 2026, $819 million to partners and transaction costs, $473 million reinvested."
+    },
+    {
+      "source": "The Block",
+      "title": "How Ethereum Works",
+      "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
+      "pubDate": "Fri, 16 Oct 2026 13:31:07 +0000",
+      "summary": "The focus is how Ethereum works under the hood: how it tracks and updates state, how transactions flow through the network, how computation is priced through gas, how smart contracts and token standards make Ethereum programmable, and how other Layer 1 blockchains approach the same problems in diffe"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Prediction markets have a major problem as most Americans reject betting on elections",
+      "url": "https://cryptoslate.com/prediction-markets-have-a-major-problem-as-most-americans-reject-betting-on-elections/",
+      "pubDate": "Sun, 18 Oct 2026 12:00:10 +0000",
+      "summary": "Prediction markets want you to see them (and use them) as one of the best possible instruments for finding out whats happening in the world. Open any election market, and youre immediately given a probability that shifts in real time as people trade. Its a single number, easy to check in a few secon"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "BitTorrent Ushers in Next-Gen Web3 Infrastructure with Strategic Rebrand and Inaugural BTT Burn",
+      "url": "https://cryptoslate.com/bittorrent-ushers-in-next-gen-web3-infrastructure-with-strategic-rebrand-and-inaugural-btt-burn/",
+      "pubDate": "Sun, 18 Oct 2026 11:58:10 +0000",
+      "summary": "Overview: The first round of BTT repurchased with decentralized service revenue has been completely burned, as BitTorrent leverages its reimagined architecture to pivot toward Web3 and AI infrastructure. BitTorrent, a cornerstone of decentralized infrastructure in the TRON ecosystem, entered a new p"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "The crypto privacy rule Trumps Treasury proposed, and Trumps Treasury buried",
+      "url": "https://cryptoslate.com/the-crypto-privacy-rule-trumps-treasury-proposed-and-trumps-treasury-buried/",
+      "pubDate": "Sun, 18 Oct 2026 07:00:23 +0000",
+      "summary": "On Dec. 18, 2020, with Christmas a week away and Donald Trump preparing to leave the White House, Steven Mnuchin's Treasury Department announced a plan that would require crypto exchanges and other financial institutions to collect more information about transactions involving wallets people control"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "TRON moved $2.2 trillion in stablecoins while TRX supply grew for 108 straight days",
+      "url": "https://cryptoslate.com/trons-stablecoin-growth-has-not-made-trx-deflationary/",
+      "pubDate": "Sat, 17 Oct 2026 21:00:59 +0000",
+      "summary": "TRX supply grew on all 108 days from July 1 through October 16 as burns fell short of newly issued rewards. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Who opened your crypto wallet before it reached your hands?",
+      "url": "https://cryptoslate.com/who-handled-your-wallet-before-you-did/",
+      "pubDate": "Sat, 17 Oct 2026 19:00:25 +0000",
+      "summary": "In early October, customers in Southeast Asia discovered that their crypto had disappeared from Ledger hardware wallets that still seemed to be working normally. They bought the devices through CryptoBilis, an authorized reseller, and believed their private keys were protected inside a device built "
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Ethereum sets October 26 for Hoodis 200 million gas test",
+      "url": "https://cryptoslate.com/ethereum-sets-october-26-scaling-test-with-hoodi-node-upgrades-required/",
+      "pubDate": "Sat, 17 Oct 2026 17:00:52 +0000",
+      "summary": "Hoodis Glamsterdam test schedules a 200 million gas target, while the mainnet activation date remains undecided. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
+      "url": "https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves",
+      "pubDate": "Fri, 16 Oct 2026 22:12:36 +0000",
+      "summary": "Bitcoin Magazine Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves Chainalysis has revealed that a victim of last weeks Ledger theft was a scammer themself. This post Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves first appeared on"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
+      "url": "https://bitcoinmagazine.com/press-releases/bffs26-denver-joseph-kelly-on-bitcoin-custody-and-credit-alan-lane-on-banking-lessons",
+      "pubDate": "Fri, 16 Oct 2026 19:44:29 +0000",
+      "summary": "Bitcoin Magazine BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons CPAs, wealth advisors, and lenders gather in Denver for BFFS26, featuring Patrick Lowry on public-company Bitcoin treasury reserves and Wyoming Deputy Secretary of State Colin Crossman on regulat"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Sazmining Now Sells Jack Dorseys Proto Immersion Hashboards",
+      "url": "https://bitcoinmagazine.com/news/sazmining-now-sells-proto-hashboards",
+      "pubDate": "Fri, 16 Oct 2026 19:19:40 +0000",
+      "summary": "Bitcoin Magazine Sazmining Now Sells Jack Dorseys Proto Immersion Hashboards Blocks Proto mining hashboards are now available on Sazminings mining-as-a-service platform. This post Sazmining Now Sells Jack Dorseys Proto Immersion Hashboards first appeared on Bitcoin Magazine and is written by Mathew "
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Hot Inflation Data Puts Bitcoin Under Pressure, but Difficult Isnt Bearish: CoinShares",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares",
+      "pubDate": "Fri, 16 Oct 2026 18:30:57 +0000",
+      "summary": "Bitcoin Magazine Hot Inflation Data Puts Bitcoin Under Pressure, but Difficult Isnt Bearish: CoinShares Bitcoin is still reacting to weekly data but long-term investors shouldnt be worried, according to the European asset manager. This post Hot Inflation Data Puts Bitcoin Under Pressure, but Difficu"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report",
+      "url": "https://bitcoinmagazine.com/news/deutsche-bank-will-debut-bitcoin-custody",
+      "pubDate": "Fri, 16 Oct 2026 16:35:55 +0000",
+      "summary": "Bitcoin Magazine Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report The German lender is moving fast with its crypto custody service. This post Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report first appeared on Bitcoin Magazine and is written by Mathew Di Salvo."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "MSCI To Move Forward With Proposal That Could Exclude Strategy From Index",
+      "url": "https://bitcoinmagazine.com/news/msci-could-exclude-strategy-from-index",
+      "pubDate": "Fri, 16 Oct 2026 16:32:41 +0000",
+      "summary": "Bitcoin Magazine MSCI To Move Forward With Proposal That Could Exclude Strategy From Index MSCI has adopted new rules that could push Bitcoin treasury Strategy out of its global equity benchmarks. This post MSCI To Move Forward With Proposal That Could Exclude Strategy From Index first appeared on B"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto exchanges Binance, Coinbase join West Africa scam sweep that flagged $11 million",
+      "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
+      "pubDate": "Sun, 18 Oct 2026 12:00:00 +0000",
+      "summary": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
+      "url": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
+      "pubDate": "Sun, 18 Oct 2026 07:13:32 +0000",
+      "summary": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
+      "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
+      "pubDate": "Sun, 18 Oct 2026 01:06:35 +0000",
+      "summary": "Coinbase, Circles largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
+      "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
+      "pubDate": "Sat, 17 Oct 2026 17:00:00 +0000",
+      "summary": "The largest banks in the world are eyeing new trading opportunities, speeding up payments and a role for advisers as tokenization takes root in Wall Street."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Citrini sees a tokenization boom. The harder question is who profits",
+      "url": "https://www.coindesk.com/business/2026/10/17/citrini-sees-a-tokenization-boom-the-harder-question-is-who-profits",
+      "pubDate": "Sat, 17 Oct 2026 15:00:00 +0000",
+      "summary": "The influential research firm says real-world assets could finally give blockchains a clear role in finance. For investors, the next challenge is figuring out which companies, networks and protocols capture the revenue."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polygon sees Coinme acquisition as entry to payments sector dominated by Visa, Stripe",
+      "url": "https://www.coindesk.com/business/2026/10/17/polygon-sees-coinme-acquisition-as-entry-to-payments-sector-dominated-by-visa-stripe",
+      "pubDate": "Sat, 17 Oct 2026 14:00:00 +0000",
+      "summary": "CEO Marc Boiron said the Coinme acquisition will help Polygon control customer relationships and capture revenue that previously went to payment intermediaries."
+    }
   ]
 }
