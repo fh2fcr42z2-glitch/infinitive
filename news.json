@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-18T16:02:27Z",
+  "asof": "2026-10-18T17:01:00Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -56,15 +56,15 @@
     {
       "source": "CoinTelegraph",
       "title": "Chinese suspect in $75M international crime network arrested in Bangkok",
-      "url": "https://cointelegraph.com/news/chinese-suspect-75m-international-crime-network-arrested-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/chinese-suspect-in-75m-international-crime-network-arrested-in-bangkok?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Sun, 18 Oct 2026 09:14:26 +0000",
       "summary": "Police alleged the suspect was involved in cryptocurrency and foreign-currency exchanges for criminal groups across more than 133 accounts."
     },
     {
       "source": "CoinTelegraph",
       "title": "Tether backs AIsa as strategic investor, completing seed extension round",
-      "url": "https://cointelegraph.com/news/tether-backs-aisa-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 18 Oct 2026 06:26:53 +0000",
+      "url": "https://cointelegraph.com/news/tether-backs-aisa-as-strategic-investor-completing-seed-extension-round?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 18 Oct 2026 06:29:00 +0000",
       "summary": "The round brings AIsas total funding to more than $9 million."
     },
     {
@@ -73,6 +73,27 @@
       "url": "https://cointelegraph.com/news/solana-shows-resilience-some-areas-need-continued-observation-fidelity-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Sat, 17 Oct 2026 13:01:00 +0000",
       "summary": "Solana has had no reported mainnet outages in two years, but concentrations in stake, hosting and client software should be monitored, according to a report."
+    },
+    {
+      "source": "Decrypt",
+      "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
+      "url": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
+      "pubDate": "Sun, 18 Oct 2026 16:31:03 +0000",
+      "summary": "MapQuests app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the cameras grows."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+      "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+      "pubDate": "Sun, 18 Oct 2026 15:01:04 +0000",
+      "summary": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+      "url": "https://decrypt.co/381239/banks-hold-lever-over-stablecoin-adoption-bis-economists-say",
+      "pubDate": "Sun, 18 Oct 2026 14:01:03 +0000",
+      "summary": "Bank for International Settlements economists say commercial banks can slow stablecoin growth by restricting access to payment rails and deposit accounts."
     },
     {
       "source": "Decrypt",
@@ -96,25 +117,11 @@
       "summary": "StepFun's STEPX Neo opened for pre-orders in China on Oct. 13 at 3,999 yuan, with an AI agent built into the operating system instead of bolted on as an app."
     },
     {
-      "source": "Decrypt",
-      "title": "TokenMaxxing: How to Get the Most Out of Your AI Models",
-      "url": "https://decrypt.co/381213/tokenmaxxing-how-get-most-out-your-ai-models",
-      "pubDate": "Sat, 17 Oct 2026 13:01:04 +0000",
-      "summary": "AI companies charge by the token, and most people burn them on jobs a cheap model could do. Here's how to spend less and get better results, from your first prompt to your first agent."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Tesla Roadster Rocket Is the Cool 'Flying' Car You Cant Have",
-      "url": "https://decrypt.co/381184/tesla-roadster-rocket-cool-flying-car-you-cant-have",
-      "pubDate": "Fri, 16 Oct 2026 20:16:04 +0000",
-      "summary": "Tesla's new Roadster flips through the air, jumps a row of Teslas and lands on SpaceX thrusters. The Rocket version is invite only, not approved for public roads, and not due until 2028."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Hackers Jailbreak iPhone 18 Pro on Stage, and It Survives a Reboot",
-      "url": "https://decrypt.co/381177/hackers-jailbreak-iphone-18-pro-survives-reboot",
-      "pubDate": "Fri, 16 Oct 2026 19:36:04 +0000",
-      "summary": "Calif showed an untethered jailbreak on an iPhone 18 Pro running iOS 27.0.1 at Hexacon in Paris. It survived a reboot, but no tool or bug details are public yet."
+      "source": "The Block",
+      "title": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
+      "url": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
+      "pubDate": "Sun, 18 Oct 2026 16:07:43 +0000",
+      "summary": "The attacker, after minting 10 million CYS, managed to bridge about $727,000 in proceeds to Ethereum through Mayan, deBridge and SWFT's Bridgers."
     },
     {
       "source": "The Block",
@@ -152,95 +159,123 @@
       "summary": "Circle breaks down its USDC revenue: about $1.4 billion in H1 2026, $819 million to partners and transaction costs, $473 million reinvested."
     },
     {
-      "source": "The Block",
-      "title": "How Ethereum Works",
-      "url": "https://www.theblock.co/learn/ethereum/how-ethereum-works-418525",
-      "pubDate": "Fri, 16 Oct 2026 13:31:07 +0000",
-      "summary": "The focus is how Ethereum works under the hood: how it tracks and updates state, how transactions flow through the network, how computation is priced through gas, how smart contracts and token standards make Ethereum programmable, and how other Layer 1 blockchains approach the same problems in different ways."
+      "source": "CryptoSlate",
+      "title": "Crypto doesnt need your party to win, just its candidates",
+      "url": "https://cryptoslate.com/crypto-doesnt-need-your-party-to-win-just-its-candidates/",
+      "pubDate": "Sun, 18 Oct 2026 17:00:57 +0000",
+      "summary": "The crypto industry has finally found a way to participate in Americas partisan warfare without committing to either of the (only) two available parties: help elect people who agree with it about crypto, then let them argue about everything else. Fairshakes latest House spending plans cover 32 candidates, with 19 Republicans and 13 Democrats on the list."
     },
     {
       "source": "CryptoSlate",
-      "title": "Prediction markets have a major problem as most Americans reject betting on elections",
-      "url": "https://cryptoslate.com/prediction-markets-have-a-major-problem-as-most-americans-reject-betting-on-elections/",
+      "title": "Two Aave stablecoin backstops shrank $12.4 million as reward rates rose",
+      "url": "https://cryptoslate.com/two-aave-stablecoin-backstops-shrank-12-4-million-as-reward-rates-rose/",
+      "pubDate": "Sun, 18 Oct 2026 15:00:11 +0000",
+      "summary": "Aave's GHO and GHO-related stablecoin backstops declined by $12.4 million as reward rates increased."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "JUST Completes 5th JST Buyback & Burn: Over 170M Tokens (~$23.53M) Burned Ahead of Major Deflationary Milestone",
+      "url": "https://cryptoslate.com/just-completes-5th-jst-buyback-burn-over-170m-tokens-23-53m-burned-ahead-of-major-deflationary-milestone/",
+      "pubDate": "Sun, 18 Oct 2026 14:00:10 +0000",
+      "summary": "JUST completed its 5th JST buyback and burn, removing over 170 million tokens worth approximately $23.53 million."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "SEC approves Coinbase earnings bets that stay settled when the numbers change",
+      "url": "https://cryptoslate.com/sec-approves-coinbase-earnings-bets-that-stay-settled-when-the-numbers-change/",
+      "pubDate": "Sun, 18 Oct 2026 13:00:10 +0000",
+      "summary": "The SEC approved prediction markets on Coinbase earnings that remain settled even if the reported numbers are revised later."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Claude unpicks an NSA mystery behind Ethereum passkey security",
+      "url": "https://cryptoslate.com/claude-unpicks-an-nsa-mystery-behind-ethereum-passkey-security/",
       "pubDate": "Sun, 18 Oct 2026 12:00:10 +0000",
-      "summary": "Prediction markets want you to see them (and use them) as one of the best possible instruments for finding out what's happening in the world. Open any election market, and you're immediately given a probability that shifts in real time as people trade. It's a single number, easy to check in a few seconds."
+      "summary": "Analysis of Ethereum passkey security involving NSA-related cryptographic mysteries."
     },
     {
       "source": "CryptoSlate",
-      "title": "BitTorrent Ushers in Next-Gen Web3 Infrastructure with Strategic Rebrand and Inaugural BTT Burn",
-      "url": "https://cryptoslate.com/bittorrent-ushers-in-next-gen-web3-infrastructure-with-strategic-rebrand-and-inaugural-btt-burn/",
-      "pubDate": "Sun, 18 Oct 2026 11:58:10 +0000",
-      "summary": "Overview: The first round of BTT repurchased with decentralized service revenue has been completely burned, as BitTorrent leverages its reimagined architecture to pivot toward Web3 and AI infrastructure. BitTorrent, a cornerstone of decentralized infrastructure in the TRON ecosystem, entered a new phase."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "The crypto privacy rule Trumps Treasury proposed, and Trumps Treasury buried",
-      "url": "https://cryptoslate.com/the-crypto-privacy-rule-trumps-treasury-proposed-and-trumps-treasury-buried/",
-      "pubDate": "Sun, 18 Oct 2026 07:00:23 +0000",
-      "summary": "On Dec. 18, 2020, with Christmas a week away and Donald Trump preparing to leave the White House, Steven Mnuchin's Treasury Department announced a plan that would require crypto exchanges and other financial institutions to collect more information about transactions involving wallets people control."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "TRON moved $2.2 trillion in stablecoins while TRX supply grew for 108 straight days",
-      "url": "https://cryptoslate.com/trons-stablecoin-growth-has-not-made-trx-deflationary/",
-      "pubDate": "Sat, 17 Oct 2026 21:00:59 +0000",
-      "summary": "TRX supply grew on all 108 days from July 1 through October 16 as burns fell short of newly issued rewards. Read the full story on CryptoSlate."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Who opened your crypto wallet before it reached your hands?",
-      "url": "https://cryptoslate.com/who-handled-your-wallet-before-you-did/",
-      "pubDate": "Sat, 17 Oct 2026 19:00:25 +0000",
-      "summary": "In early October, customers in Southeast Asia discovered that their crypto had disappeared from Ledger hardware wallets that still seemed to be working normally. They bought the devices through CryptoBilis, an authorized reseller, and believed their private keys were protected inside a device built for security."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Ethereum sets October 26 for Hoodis 200 million gas test",
-      "url": "https://cryptoslate.com/ethereum-sets-october-26-scaling-test-with-hoodi-node-upgrades-required/",
-      "pubDate": "Sat, 17 Oct 2026 17:00:52 +0000",
-      "summary": "Hoodis Glamsterdam test schedules a 200 million gas target, while the mainnet activation date remains undecided. Read the full story on CryptoSlate."
+      "title": "Trump waives new Russia tariffs as October 18 oil deadline arrives",
+      "url": "https://cryptoslate.com/trump-waives-new-russia-tariffs-as-october-18-oil-deadline-arrives/",
+      "pubDate": "Sun, 18 Oct 2026 11:00:10 +0000",
+      "summary": "Trump administration waives additional Russia tariffs as the October 18 oil-related deadline arrives."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
       "url": "https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves",
       "pubDate": "Fri, 16 Oct 2026 22:12:36 +0000",
-      "summary": "Bitcoin Magazine Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves Chainalysis has revealed that a victim of last weeks Ledger theft was a scammer themself."
+      "summary": "Chainalysis has revealed that a victim of last weeks Ledger theft was a scammer themself."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
       "url": "https://bitcoinmagazine.com/press-releases/bffs26-denver-joseph-kelly-on-bitcoin-custody-and-credit-alan-lane-on-banking-lessons",
       "pubDate": "Fri, 16 Oct 2026 19:44:29 +0000",
-      "summary": "Bitcoin Magazine BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons CPAs, wealth advisors, and lenders gather in Denver for BFFS26."
+      "summary": "CPAs, wealth advisors, and lenders gather in Denver for BFFS26."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Sazmining Now Sells Jack Dorseys Proto Immersion Hashboards",
       "url": "https://bitcoinmagazine.com/news/sazmining-now-sells-proto-hashboards",
       "pubDate": "Fri, 16 Oct 2026 19:19:40 +0000",
-      "summary": "Bitcoin Magazine Sazmining Now Sells Jack Dorseys Proto Immersion Hashboards Blocks Proto mining hashboards are now available on Sazminings mining-as-a-service platform."
+      "summary": "Blocks Proto mining hashboards are now available on Sazminings mining-as-a-service platform."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Hot Inflation Data Puts Bitcoin Under Pressure, but Difficult Isnt Bearish: CoinShares",
       "url": "https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares",
       "pubDate": "Fri, 16 Oct 2026 18:30:57 +0000",
-      "summary": "Bitcoin Magazine Hot Inflation Data Puts Bitcoin Under Pressure, but Difficult Isnt Bearish: CoinShares Bitcoin is still reacting to weekly data but long-term investors shouldnt be worried, according to the European asset manager."
+      "summary": "Bitcoin is still reacting to weekly data but long-term investors shouldnt be worried, according to the European asset manager."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report",
       "url": "https://bitcoinmagazine.com/news/deutsche-bank-will-debut-bitcoin-custody",
       "pubDate": "Fri, 16 Oct 2026 16:35:55 +0000",
-      "summary": "Bitcoin Magazine Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report The German lender is moving fast with its crypto custody service."
+      "summary": "The German lender is moving fast with its crypto custody service."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "MSCI To Move Forward With Proposal That Could Exclude Strategy From Index",
       "url": "https://bitcoinmagazine.com/news/msci-could-exclude-strategy-from-index",
       "pubDate": "Fri, 16 Oct 2026 16:32:41 +0000",
-      "summary": "Bitcoin Magazine MSCI To Move Forward With Proposal That Could Exclude Strategy From Index MSCI has adopted new rules that could push Bitcoin treasury Strategy out of its global equity benchmarks."
+      "summary": "MSCI has adopted new rules that could push Bitcoin treasury Strategy out of its global equity benchmarks."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday.",
+      "url": "https://www.coindesk.com/markets/2026/10/18/wall-street-freaked-out-friday-vix-and-bitcoin-say-it-may-not-last",
+      "pubDate": "Sun, 18 Oct 2026 16:33:00 +0000",
+      "summary": "Wall Streets fear gauge, the VIX index, spiked on Friday as stocks dropped. History says Friday panics usually fade on Monday. Seasonality and calm bitcoin suggest the same."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Latvia eyes crypto tax payments in 2027 as parliament overhauls crypto taxation",
+      "url": "https://www.coindesk.com/policy/2026/10/18/latvia-eyes-crypto-tax-payments-in-2027-as-parliament-overhauls-crypto-taxation",
+      "pubDate": "Sun, 18 Oct 2026 16:00:00 +0000",
+      "summary": "Parliament passed a law taxing crypto withdrawals above deposits rather than individual trades, featuring a one-time declaration mechanism."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Stablecoin supply stalls, but payments jump 45% as Visa, Mastercard and Stripe connect crypto to cash",
+      "url": "https://www.coindesk.com/business/2026/10/18/stablecoin-supply-stalls-but-payments-jump-45-as-visa-mastercard-and-stripe-connect-crypto-to-cash",
+      "pubDate": "Sun, 18 Oct 2026 14:00:00 +0000",
+      "summary": "Analytics firm Allium said stablecoin payments hit $482 billion this year so far, up 45%, as card spending surges and global payment firms add crypto rails."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoins $100,000 year-end hope divides analysts as inflation clouds outlook",
+      "url": "https://www.coindesk.com/markets/2026/10/18/bitcoin-s-usd100-000-year-end-hope-divides-analysts-as-inflation-clouds-outlook",
+      "pubDate": "Sun, 18 Oct 2026 13:00:00 +0000",
+      "summary": "Bitwise sees a potential return above $100,000, while LO:TECH expects a narrower trading range as interest-rate uncertainty weighs on the market."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto audits give investors false sense of security as Q3 hacks cost $1.18 billion, Hacken says",
+      "url": "https://www.coindesk.com/tech/2026/10/18/crypto-audits-give-investors-false-sense-of-security-as-q3-hacks-cost-usd1-18-billion-hacken-says",
+      "pubDate": "Sun, 18 Oct 2026 13:00:00 +0000",
+      "summary": "The security firm found that 77% of third-quarter losses involved compromised suppliers, delayed fixes or systems outside the latest security reviews."
     },
     {
       "source": "CoinDesk",
@@ -248,41 +283,6 @@
       "url": "https://www.coindesk.com/business/2026/10/14/crypto-exchanges-binance-coinbase-join-west-africa-scam-sweep-that-flagged-usd11-million",
       "pubDate": "Sun, 18 Oct 2026 12:00:00 +0000",
       "summary": "Private-sector partners flagged $11 million in funds that could be frozen, while officials reported cryptocurrency seizures without disclosing their value."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Chip-stock bets lost $52 million in 10 minutes with Wall Street shut",
-      "url": "https://www.coindesk.com/markets/2026/10/18/chip-stock-bets-lost-usd52-million-in-10-minutes-with-wall-street-shut",
-      "pubDate": "Sun, 18 Oct 2026 07:13:32 +0000",
-      "summary": "A 10-minute flush hit round-the-clock chip-stock contracts while U.S. markets were shut, leaving traders with no real share price to lean on."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Circle defends USDC economics as stablecoin rivals court its partners with bigger cut",
-      "url": "https://www.coindesk.com/business/2026/10/17/circle-defends-usdc-economics-as-stablecoin-rivals-court-its-partners-with-bigger-cut",
-      "pubDate": "Sun, 18 Oct 2026 01:06:35 +0000",
-      "summary": "Coinbase, Circles largest USDC partner, also backs Open USD, a rival network that passes reserve income to partners after a management fee."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Goldman, Wells Fargo, Morgan Stanley see tokenization as a growth play, not a threat",
-      "url": "https://www.coindesk.com/business/2026/10/17/goldman-wells-fargo-morgan-stanley-see-tokenization-as-a-growth-play-not-a-threat",
-      "pubDate": "Sat, 17 Oct 2026 17:00:00 +0000",
-      "summary": "The largest banks in the world are eyeing new trading opportunities, speeding up payments and a role for advisers as tokenization takes root in Wall Street."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Citrini sees a tokenization wave reshaping markets",
-      "url": "https://www.coindesk.com/markets/2026/10/16/citrini-sees-tokenization-wave",
-      "pubDate": "Sat, 17 Oct 2026 15:00:00 +0000",
-      "summary": "Analyst notes on tokenization trends and market structure shifts."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin holds above key level amid mixed macro signals",
-      "url": "https://www.coindesk.com/markets/2026/10/16/bitcoin-holds-key-level",
-      "pubDate": "Sat, 17 Oct 2026 12:00:00 +0000",
-      "summary": "BTC consolidates as inflation data and institutional flows remain in focus."
     }
   ]
 }
