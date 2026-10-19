@@ -38,6 +38,251 @@
       "url": "https://cointelegraph.com/news/world-liberty-usd1-stablecoin-market-cap-drops-400-million",
       "pubDate": "Mon, 19 Oct 2026 11:57:58 +0000",
       "summary": "World Liberty Financial's USD1 stablecoin saw its market cap decrease more than $400 million over two weeks of large redemptions on Ethereum and BNB Chain."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BingX, YouHodler added to ESMA MiCA register in latest update",
+      "url": "https://cointelegraph.com/news/bingx-youhodler-esma-mica-register-friday-update",
+      "pubDate": "Mon, 19 Oct 2026 11:32:00 +0000",
+      "summary": "ESMA's latest MiCA register update includes BingX, YouHodler and Banco Santander's Openbank, bringing the total to 375 unique CASPs."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "France advances stablecoin tax, eyes self-custodial wallets and exit tax proposals",
+      "url": "https://cointelegraph.com/news/france-stablecoin-tax-eyes-self-custodial-wallets-exit-tax",
+      "pubDate": "Mon, 19 Oct 2026 10:22:30 +0000",
+      "summary": "France's National Assembly adopted a crypto tax amendment targeting certain stablecoin swaps, while separate proposals on exit taxes and self-custodial wallet reporting remain under consideration."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Stocks rebound into key tech earnings: Three things to know in Bitcoin this week",
+      "url": "https://cointelegraph.com/markets/stocks-rebound-into-key-tech-earnings-three-things-to-know-in-bitcoin-this-week",
+      "pubDate": "Mon, 19 Oct 2026 10:20:00 +0000",
+      "summary": "Analysts expect Bitcoin to retest $80,000 support again as stock markets attempt to recover last week's losses."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "JPMorgan takes JPM Coin to Ethereum for institutional clients: Report",
+      "url": "https://cointelegraph.com/news/jpmorgan-jpm-coin-ethereum-institutional-clients",
+      "pubDate": "Mon, 19 Oct 2026 08:58:45 +0000",
+      "summary": "JPMorgan is reportedly expanding its JPM Coin deposit token to Ethereum, allowing institutional clients to make payments and settle tokenized asset transactions."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin, Ether ETFs shed $549M as October ETH outflows near $1B",
+      "url": "https://cointelegraph.com/markets/bitcoin-ether-etfs-549-million-weekly-outflows",
+      "pubDate": "Mon, 19 Oct 2026 07:54:13 +0000",
+      "summary": "US spot Ether ETFs recorded around $955 million in October net outflows so far, while Bitcoin funds extended their weekly withdrawal streak to two weeks."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Sam Altman's World Takes Proof-of-Human IDs to Banks, Citing $40B AI Fraud Risk",
+      "url": "https://decrypt.co/381288/sam-altmans-world-takes-proof-of-human-ids-to-banks-citing-40b-ai-fraud-risk",
+      "pubDate": "Mon, 19 Oct 2026 11:40:40 +0000",
+      "summary": "Bain Capital, VanEck and Pantera Capital are among design partners for the offering, which also lets users delegate proofs to AI agents."
+    },
+    {
+      "source": "Decrypt",
+      "title": "UK Trio Jailed Over Home Invasion in Failed Crypto Theft Attempt",
+      "url": "https://decrypt.co/381281/uk-trio-jailed-over-home-invasion-in-failed-crypto-theft-attempt",
+      "pubDate": "Mon, 19 Oct 2026 10:31:09 +0000",
+      "summary": "The victim was hit over the head before his teenage sister alerted police, who arrested all three men at the scene in May."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash Developer Zakura Proposes Fix to Stop Quantum Computers Linking Shielded Swaps",
+      "url": "https://decrypt.co/381257/zcash-developer-zakura-proposes-fix-to-stop-quantum-computers-linking-shielded-swaps",
+      "pubDate": "Mon, 19 Oct 2026 10:11:21 +0000",
+      "summary": "Zakura says a single published Zcash address could let a future quantum attacker link every payment a wallet has ever received."
+    },
+    {
+      "source": "Decrypt",
+      "title": "MapQuest Now Shows Drivers Where Flock Cameras Are Watching",
+      "url": "https://decrypt.co/381255/mapquest-shows-drivers-where-flock-cameras-watching",
+      "pubDate": "Sun, 18 Oct 2026 16:31:03 +0000",
+      "summary": "MapQuest's app now offers an optional map layer that plots known license plate readers from Flock Safety and other vendors, as backlash against the cameras grows."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Shed Nearly $1 Billion in Two Weeks as Uptober Stays Red",
+      "url": "https://decrypt.co/381246/bitcoin-etfs-shed-nearly-1-billion-two-weeks-uptober-red",
+      "pubDate": "Sun, 18 Oct 2026 15:01:04 +0000",
+      "summary": "Bitcoin ETFs lost a net $228.6 million this week, following a $681.1 million drain the week before and pushing October deep into the red."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Banks Hold a Lever Over Stablecoin Adoption, BIS Economists Say",
+      "url": "https://decrypt.co/381253/banks-hold-a-lever-over-stablecoin-adoption-bis-economists-say",
+      "pubDate": "Sun, 18 Oct 2026 13:01:04 +0000",
+      "summary": "A Bank for International Settlements working paper found that stablecoin growth slows when U.S. banks raise deposit rates, with Circle's USDC most sensitive."
+    },
+    {
+      "source": "The Block",
+      "title": "Revolut secures Gibraltar crypto licence to support international expansion plans",
+      "url": "https://www.theblock.co/news/regulation/2026-10-19-revolut-secures-gibraltar-crypto-licence-to-support-international-expansion-plans-418889",
+      "pubDate": "Mon, 19 Oct 2026 10:42:07 +0000",
+      "summary": "Revolut secured a Gibraltar DLT licence for a new entity to support its international crypto expansion strategy."
+    },
+    {
+      "source": "The Block",
+      "title": "JPMorgan expands 'JPM Coin' deposit token to Ethereum for institutional clients",
+      "url": "https://www.theblock.co/news/business/2026-10-19-jpmorgan-jpm-coin-deposit-token-ethereum-418874",
+      "pubDate": "Mon, 19 Oct 2026 08:31:31 +0000",
+      "summary": "The USD-denominated deposit token now supports peer-to-peer transfers within the Ethereum Virtual Machine ecosystem, including Base."
+    },
+    {
+      "source": "The Block",
+      "title": "World launches World ID suite for banks, makes Zoom deepfake check generally available",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-18-world-launches-world-id-suite-banks-418869",
+      "pubDate": "Mon, 19 Oct 2026 01:10:00 +0000",
+      "summary": "World ID for Zoom is generally available after a beta that began in April, and is designed to spot deepfaked participants on Zoom calls."
+    },
+    {
+      "source": "The Block",
+      "title": "Crypto.com, Novig sue Missouri over sports event contracts; Kalshi, Polymarket, Robinhood hold off",
+      "url": "https://www.theblock.co/news/regulation/2026-10-18-crypto-com-novig-sue-missouri-over-sports-event-contracts-kalshi-polymarket-robinhood-hold-off-418866",
+      "pubDate": "Sun, 18 Oct 2026 19:50:28 +0000",
+      "summary": "Kalshi, Polymarket, Robinhood and Underdog, which also received cease-and-desist orders, have not filed suits in Missouri, according to court records."
+    },
+    {
+      "source": "The Block",
+      "title": "Cysic suspends bridge after attacker mints tokens and moves $727,000 to Ethereum",
+      "url": "https://www.theblock.co/news/defi/2026-10-18-cysic-suspends-bridge-after-attacker-mints-tokens-and-moves-727000-to-ethereum-418863",
+      "pubDate": "Sun, 18 Oct 2026 16:07:43 +0000",
+      "summary": "The attacker, after minting 10 million CYS, managed to bridge about $727,000 in proceeds to Ethereum through Mayan, deBridge and SWFT's Bridgers."
+    },
+    {
+      "source": "The Block",
+      "title": "CoreWeave, Broadcom, Verizon among nine companies objecting to tokenized trading of their shares on OKXICE",
+      "url": "https://www.theblock.co/news/markets/2026-10-17-coreweave-broadcom-verizon-among-nine-companies-objecting-to-tokenized-trading-of-their-shares-on-okxice-418859",
+      "pubDate": "Sat, 17 Oct 2026 19:56:25 +0000",
+      "summary": "Applied Optoelectronics told the WSJ it objected because it was unsure how tokenization would affect its stock price, liquidity and volatility."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "XRP holders can now earn fees from Kraken's DeFi customers, but there is a catch",
+      "url": "https://cryptoslate.com/xrp-holders-can-now-earn-fees-from-krakens-defi-customers-but-there-is-a-catch/",
+      "pubDate": "Mon, 19 Oct 2026 11:20:50 +0000",
+      "summary": "Sentora's Firelight coverage pays premiums from vault yield, while FXRP providers' shared backing can absorb validated losses after a stablecoin buffer. Read the full story on CryptoSlate Understand t"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "XRP's 13-week ETF inflow streak ends as Bitcoin and Ethereum withdrawals continue",
+      "url": "https://cryptoslate.com/xrp-etf-inflow-streak-ends-as-bitcoin-and-ethereum-outflows-continue/",
+      "pubDate": "Mon, 19 Oct 2026 10:30:55 +0000",
+      "summary": "US-listed XRP exchange-traded funds ended a 13-week inflow streak as investors withdrew nearly $576 million from four major cryptocurrency ETF categories. Data from SoSoValue showed that XRP funds rec"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Cipher's $850 million AI bet deepens investor scrutiny as Bitcoin miner's stock plunges 52%",
+      "url": "https://cryptoslate.com/ciphers-850-million-ai-bet-deepens-investor-scrutiny-as-bitcoin-miners-stock-plunges-52/",
+      "pubDate": "Mon, 19 Oct 2026 10:00:14 +0000",
+      "summary": "The completed exchange expands Cipher&#039;s share base as it adds $850 million in zero-coupon debt to support data-center development. Read the full story on CryptoSlate Understand the crypto stories"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Mt. Gox creditors face another year of waiting as repayment deadline slips to 2027",
+      "url": "https://cryptoslate.com/mt-gox-creditors-face-another-year-of-waiting-as-repayment-deadline-slips-to-2027/",
+      "pubDate": "Mon, 19 Oct 2026 08:40:29 +0000",
+      "summary": "The Oct. 16 notice cites unfinished creditor procedures and payment-processing issues, without assigning individual distribution dates. Read the full story on CryptoSlate Understand the crypto stories"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Zcash's planned Sprout freeze would leave private keys unable to move funds",
+      "url": "https://cryptoslate.com/zcashs-planned-sprout-freeze-would-leave-private-keys-unable-to-move-funds/",
+      "pubDate": "Sun, 18 Oct 2026 19:00:34 +0000",
+      "summary": "NU7 would leave legacy funds issued but unspendable, even with intact keys, while the mainnet activation decision remains pending. Read the full story on CryptoSlate Understand the crypto stories that"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Fidelity's $500,000 crypto settlement leaves IRAs outside wallet-transfer terms",
+      "url": "https://cryptoslate.com/fidelitys-500000-crypto-settlement-leaves-iras-outside-wallet-transfer-terms/",
+      "pubDate": "Sun, 18 Oct 2026 18:00:10 +0000",
+      "summary": "The California agreement requires notice if Fidelity ends its retail transfer feature, while preserving security restrictions and IRA exclusions. Read the full story on CryptoSlate Understand the cryp"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves",
+      "url": "https://bitcoinmagazine.com/news/scammer-lost-bitcoin-to-ledger-thieves",
+      "pubDate": "Fri, 16 Oct 2026 22:12:36 +0000",
+      "summary": "Bitcoin Magazine Poetic Justice: Scammer Lost $5M in Bitcoin After Being Targeted by Ledger Thieves Chainalysis has revealed that a victim of last week's Ledger theft was a scammer themself. This post"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons",
+      "url": "https://bitcoinmagazine.com/press-releases/bffs26-denver-joseph-kelly-on-bitcoin-custody-and-credit-alan-lane-on-banking-lessons",
+      "pubDate": "Fri, 16 Oct 2026 19:44:29 +0000",
+      "summary": "Bitcoin Magazine BFFS26 Denver: Joseph Kelly on Bitcoin Custody and Credit; Alan Lane on Banking Lessons CPAs, wealth advisors, and lenders gather in Denver for BFFS26, featuring Patrick Lowry on publ"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Sazmining Now Sells Jack Dorsey's Proto Immersion Hashboards",
+      "url": "https://bitcoinmagazine.com/news/sazmining-now-sells-proto-hashboards",
+      "pubDate": "Fri, 16 Oct 2026 19:19:40 +0000",
+      "summary": "Bitcoin Magazine Sazmining Now Sells Jack Dorsey's Proto Immersion Hashboards Block's Proto mining hashboards are now available on Sazmining's mining-as-a-service platform. This post Sazmining Now Sel"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Hot Inflation Data Puts Bitcoin Under Pressure, but 'Difficult' Isn't 'Bearish': CoinShares",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-under-pressure-says-coinshares",
+      "pubDate": "Fri, 16 Oct 2026 18:30:57 +0000",
+      "summary": "Bitcoin Magazine Hot Inflation Data Puts Bitcoin Under Pressure, but 'Difficult' Isn't 'Bearish': CoinShares Bitcoin is still reacting to weekly data but long-term investors shouldn't be worried, acco"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report",
+      "url": "https://bitcoinmagazine.com/news/deutsche-bank-will-debut-bitcoin-custody",
+      "pubDate": "Fri, 16 Oct 2026 16:35:55 +0000",
+      "summary": "Bitcoin Magazine Deutsche Bank To Debut Bitcoin Custody Within Weeks: Report The German lender is moving fast with its crypto custody service. This post Deutsche Bank To Debut Bitcoin Custody Within W"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "MSCI To Move Forward With Proposal That Could Exclude Strategy From Index",
+      "url": "https://bitcoinmagazine.com/news/msci-could-exclude-strategy-from-index",
+      "pubDate": "Fri, 16 Oct 2026 16:32:41 +0000",
+      "summary": "Bitcoin Magazine MSCI To Move Forward With Proposal That Could Exclude Strategy From Index MSCI has adopted new rules that could push Bitcoin treasury Strategy out of its global equity benchmarks. Thi"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy on verge of golden cross, just weeks after bitcoin flashed same bullish signal",
+      "url": "https://www.coindesk.com/daybook-us/2026/10/19/strategy-on-verge-of-golden-cross-just-weeks-after-bitcoin-flashed-same-bullish-signal",
+      "pubDate": "Mon, 19 Oct 2026 11:15:00 +0000",
+      "summary": "See article for details."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin tags $83,000 and slips back as chip stocks lead market rebound",
+      "url": "https://www.coindesk.com/markets/2026/10/19/live-updates-bitcoin-tags-usd83-000-and-slips-back-as-chip-stocks-lead-a-rebound",
+      "pubDate": "Mon, 19 Oct 2026 11:05:54 +0000",
+      "summary": "See article for details."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin extends bounce above $82,000 as stocks rebound, DeFi tokens lead altcoin gains",
+      "url": "https://www.coindesk.com/markets/2026/10/19/bitcoin-extends-bounce-above-usd82-000-as-stocks-rebound-defi-tokens-lead-altcoin-gains",
+      "pubDate": "Mon, 19 Oct 2026 10:26:33 +0000",
+      "summary": "See article for details."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "JPMorgan's JPM Coin, representing dollar deposits, is coming to Ethereum: Bloomberg",
+      "url": "https://www.coindesk.com/markets/2026/10/19/jpmorgan-s-jpm-coin-representing-dollar-deposits-is-coming-to-ethereum-bloomberg",
+      "pubDate": "Mon, 19 Oct 2026 10:03:47 +0000",
+      "summary": "See article for details."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto vault deposits top $10 billion as lending risks draw regulatory scrutiny",
+      "url": "https://www.coindesk.com/markets/2026/10/19/crypto-vault-deposits-top-usd10-billion-as-lending-risks-draw-regulatory-scrutiny",
+      "pubDate": "Mon, 19 Oct 2026 09:32:38 +0000",
+      "summary": "See article for details."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin mining offshoot Nscale loses Microsoft AI deal as power delay stretches into 2030s",
+      "url": "https://www.coindesk.com/tech/2026/10/19/bitcoin-mining-offshoot-nscale-loses-microsoft-ai-deal-as-power-delay-stretches-into-2030s",
+      "pubDate": "Mon, 19 Oct 2026 09:15:00 +0000",
+      "summary": "See article for details."
     }
   ]
 }
