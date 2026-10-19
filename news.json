@@ -1,1 +1,43 @@
-$(cat /tmp/news.json)
+{
+  "asof": "2026-10-19T23:02:10Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "source": "CryptoSlate",
+      "title": "Crypto hacks surge 55% to $1.2B, but key theft drops by 30%",
+      "url": "https://cryptoslate.com/crypto-hacks-surge-55-to-1-2b-but-key-theft-drops-by-30/",
+      "pubDate": "Mon, 19 Oct 2026 22:30:40 +0000",
+      "summary": "The quarterly shift toward contract losses and September's Bitget and Liquid failures challenge a fixed hierarchy of security controls."
+    }
+  ]
+}
