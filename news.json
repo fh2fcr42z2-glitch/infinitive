@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-20T20:01:44Z",
+  "asof": "2026-10-20T21:01:33Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -34,7 +34,21 @@
   "items": [
     {
       "source": "CoinTelegraph",
-      "title": "Here's what happened in crypto today",
+      "title": "Bitwise, Hyperliquid seek SEC rule changes for token trading, airdrops",
+      "url": "https://cointelegraph.com/news/bitwise-hyperliquid-seek-sec-rule-changes-for-token-trading-airdrops",
+      "pubDate": "Tue, 20 Oct 2026 20:38:00 +0000",
+      "summary": "The firms are seeking clearer guidance on the classification of crypto assets and secondary-market trading as the SEC\u2019s public comment period comes to a close."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto\u2019s 2026 shutdown wave claims 82 projects. What went wrong?",
+      "url": "https://cointelegraph.com/news/crypto-project-shutdowns-2026-what-went-wrong",
+      "pubDate": "Tue, 20 Oct 2026 19:59:39 +0000",
+      "summary": "Crypto projects are struggling to survive as falling revenues, depleted funding and security breaches force closures across DeFi, blockchain infrastructure and gaming."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here\u2019s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
       "pubDate": "Tue, 20 Oct 2026 19:17:40 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
@@ -61,18 +75,18 @@
       "summary": "Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains largely unchanged over the past year."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
-      "url": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock",
-      "pubDate": "Tue, 20 Oct 2026 16:23:17 +0000",
-      "summary": "About 25% of the US-listed companies in OKXICE's initial tokenized stock platform proposal are asking to opt-out of the venture."
+      "source": "Decrypt",
+      "title": "Wallet Linked to Drift Exploit Sends $61 Million in Ethereum to Tornado Cash",
+      "url": "https://decrypt.co/381450/wallet-drift-exploit-sends-61-million-ethereum-tornado-cash",
+      "pubDate": "Tue, 20 Oct 2026 20:46:04 +0000",
+      "summary": "The North Korea-linked attacker behind April's $295 million Drift heist pushed 25,700 ETH through the mixer in two hours, and still controls roughly $198 million more."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls",
-      "url": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls",
-      "pubDate": "Tue, 20 Oct 2026 16:14:09 +0000",
-      "summary": "High US corporate earnings reports boosted stock markets and saw BTC price hit $83,300 before reversing at a 21-day trend line."
+      "source": "Decrypt",
+      "title": "Microsoft, Alphabet, Goldman Sachs Join Growing List of Companies Objecting to Tokenized Stocks",
+      "url": "https://decrypt.co/381448/microsoft-alphabet-goldman-sachs-growing-list-objecting-tokenized-stocks",
+      "pubDate": "Tue, 20 Oct 2026 20:16:04 +0000",
+      "summary": "Sixteen companies have now objected to the OKX-ICE tokenized stock platform proposal as the SEC comment period closes."
     },
     {
       "source": "Decrypt",
@@ -103,29 +117,15 @@
       "summary": "Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounded, with Bitcoin up 1.6% and ETF money flowing back in."
     },
     {
-      "source": "Decrypt",
-      "title": "The Midterms Are the First Real Test of Whether Markets Beat Pollsters",
-      "url": "https://decrypt.co/380966/the-midterms-are-the-first-real-test-of-whether-markets-beat-pollsters",
-      "pubDate": "Tue, 20 Oct 2026 16:26:58 +0000",
-      "summary": "Former NBC News political director Chuck Todd is hosting NEXTPredict two weeks before the vote, and has yet to pick a side."
-    },
-    {
-      "source": "Decrypt",
-      "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
-      "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
-      "pubDate": "Tue, 20 Oct 2026 16:17:02 +0000",
-      "summary": "Strategy's co-founder Michael Saylor pioneered the Bitcoin treasury playbook. Here's what you need to know."
-    },
-    {
       "source": "The Block",
       "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
       "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
       "pubDate": "Tue, 20 Oct 2026 19:19:54 +0000",
-      "summary": "As the SEC's comment period on a cryptocurrency proposal draws to a close, digital asset firms and Wall Street institutions have thoughts."
+      "summary": "As the SEC\u2019s comment period on a cryptocurrency proposal draws to a close, digital asset firms and Wall Street institutions have thoughts."
     },
     {
       "source": "The Block",
-      "title": "Utah likens Kalshi to a 'back-alley gambling den' in lawsuit naming Susquehanna firms",
+      "title": "Utah likens Kalshi to a \u2018back-alley gambling den\u2019 in lawsuit naming Susquehanna firms",
       "url": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
       "pubDate": "Tue, 20 Oct 2026 19:12:38 +0000",
       "summary": "Utah seeks to recover alleged gambling profits and block Kalshi bets across sports, politics and culture."
@@ -159,130 +159,46 @@
       "summary": "OKX debuted OKX Shield in the U.S. on Tuesday, in what former New York Gov. Andrew Cuomo says is a sign of trust."
     },
     {
-      "source": "CryptoSlate",
-      "title": "US orders DeepSeek purge from federal systems as Chinese AI rival opens its technology to the world",
-      "url": "https://cryptoslate.com/us-orders-deepseek-purge-from-federal-systems-as-chinese-ai-rival-opens-its-technology-to-the-world/",
-      "pubDate": "Tue, 20 Oct 2026 19:10:30 +0000",
-      "summary": "The October 20 notice covers tools built using DeepSeek implementations, with a 60-day exception period tied to July issuance. Read the full story on CryptoSlateUnderstand the cryp"
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Elon Musk and Anthropic unveil AI wealth-sharing plans that could reach over $110 billion",
-      "url": "https://cryptoslate.com/elon-musk-and-anthropic-unveil-ai-wealth-sharing-plans-that-could-reach-over-110-billion/",
-      "pubDate": "Tue, 20 Oct 2026 18:00:52 +0000",
-      "summary": "Musk&#039;s 2027 promise concerns his own holdings, while Anthropic&#039;s initial allocation needs stockholder approval and future additions remain discretionary. Read the full st"
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Bitcoin's next selloff could be amplified by the traders still betting on its recovery",
-      "url": "https://cryptoslate.com/bitcoins-next-selloff-could-be-amplified-by-the-traders-still-betting-on-its-recovery/",
-      "pubDate": "Tue, 20 Oct 2026 16:40:45 +0000",
-      "summary": "Glassnode's spread crossed zero as downside skew rose, but the figures establish neither higher dollar hedge costs nor an option-selling profit. Read the full story on CryptoSlateU"
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "XRP Ledger's booming activity faces scrutiny as 110 bot wallets dominate RLUSD payments",
-      "url": "https://cryptoslate.com/xrp-ledgers-booming-activity-faces-scrutiny-as-110-bot-wallets-dominate-rlusd-payments/",
-      "pubDate": "Tue, 20 Oct 2026 15:20:21 +0000",
-      "summary": "Bitquery&#039;s September 19-October 18 study separates automated counts from billions in larger transfers, including issuer flows. Read the full story on CryptoSlateUnderstand the"
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Crypto wallet security crisis deepens as NGRAVE users face $2.65 million phishing attack",
-      "url": "https://cryptoslate.com/crypto-wallet-security-crisis-deepens-as-ngrave-users-face-2-65-million-phishing-attack/",
-      "pubDate": "Tue, 20 Oct 2026 14:00:51 +0000",
-      "summary": "Bitquery follows funds into XMR1 purchases on Hyperliquid, but cannot confirm every wallet belonged to an NGRAVE user. Read the full story on CryptoSlateUnderstand the crypto stori"
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Super League shareholders approve Metaplanet's 2,100 BTC investment",
-      "url": "https://cryptoslate.com/metaplanets-3-4-billion-bitcoin-financing-plan-takes-major-step-toward-wall-street/",
-      "pubDate": "Tue, 20 Oct 2026 12:50:21 +0000",
-      "summary": "Shareholders cleared a condition for Metaplanet&#039;s investment, with the Superplanet name and SUPA ticker contingent on a fourth-quarter closing. Read the full story on CryptoSl"
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Bitcoin Could Outperform Most Assets, JPMorgan Says - But the Bank Still Won't Recommend It",
-      "url": "https://bitcoinmagazine.com/news/jpmorgan-says-bitcoin-could-outperform",
-      "pubDate": "Tue, 20 Oct 2026 17:27:14 +0000",
-      "summary": "Bitcoin Magazine Bitcoin Could Outperform Most Assets, JPMorgan Says - But the Bank Still Won't Recommend It The bank has said bitcoin could do better than stocks and bonds over th"
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "BlackRock Files for Bitcoin ETF With Downside Buffer and Capped Upside",
-      "url": "https://bitcoinmagazine.com/news/blackrock-files-for-new-bitcoin-etf",
-      "pubDate": "Tue, 20 Oct 2026 16:26:29 +0000",
-      "summary": "Bitcoin Magazine BlackRock Files for Bitcoin ETF With Downside Buffer and Capped Upside A new filing with the SEC shows BlackRock wants to release an exchange-traded fund that offe"
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Sam Callahan: Bitcoin Doesn't Need Rate Cuts to Succeed",
-      "url": "https://bitcoinmagazine.com/videos/sam-callahan-bitcoin-doesnt-need-rate-cuts-to-succeed",
-      "pubDate": "Tue, 20 Oct 2026 12:40:11 +0000",
-      "summary": "Watch VideoBitcoin Magazine Sam Callahan: Bitcoin Doesn&#8217;t Need Rate Cuts to Succeed The USD lost 20% purchasing power in 5 years. Sam Callahan breaks down financial repress"
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Michael Howell: Bitcoin as the Apex Liquidity Asset",
-      "url": "https://bitcoinmagazine.com/videos/michael-howell-bitcoin-as-the-apex-liquidity-asset",
-      "pubDate": "Tue, 20 Oct 2026 12:33:35 +0000",
-      "summary": "Watch VideoBitcoin Magazine Michael Howell: Bitcoin as the Apex Liquidity Asset CrossBorder Capital's Michael Howell explains why global liquidity drives markets and why Bitcoin"
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
-      "url": "https://bitcoinmagazine.com/culture/pita-cafe-arizona-bitcoin",
-      "pubDate": "Tue, 20 Oct 2026 03:54:15 +0000",
-      "summary": "Bitcoin Magazine Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants Setting up a Lightning wallet took seconds, so we sent first-time users in Scottsdale to see"
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
-      "url": "https://bitcoinmagazine.com/news/anchorwatch-debuts-nevada-trust-company",
-      "pubDate": "Mon, 19 Oct 2026 22:28:17 +0000",
-      "summary": "Bitcoin Magazine AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month AnchorWatch's AnchorWatch Trust Company has now opened its custody service."
-    },
-    {
       "source": "CoinDesk",
-      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a 'natural response' to tokenized stock plans",
+      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a \u2018natural response\u2019 to tokenized stock plans",
       "url": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
       "pubDate": "Tue, 20 Oct 2026 18:26:29 +0000",
-      "summary": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a 'natural response' to tokenized stock pla"
+      "summary": "The former NY governor, who co-chairs the joint venture between the crypto exchange and Intercontinental Exchange, said companies were expected to take a wait-and-see approach."
     },
     {
       "source": "CoinDesk",
       "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
       "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
       "pubDate": "Tue, 20 Oct 2026 17:02:31 +0000",
-      "summary": "The Coinbase allegations expose Bitcoin's corporate governance gap"
+      "summary": "Corporate adoption of bitcoin will stall as long as companies can't show who controls the money, who approves its movement, or whether it's still there, argues Onramp CEO Michael Tanguma."
     },
     {
       "source": "CoinDesk",
       "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
       "url": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
       "pubDate": "Tue, 20 Oct 2026 14:28:39 +0000",
-      "summary": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash"
+      "summary": "BlackRock's proposed fund follows similar products from Calamos that helped investors avoid steep losses during bitcoin's selloff."
     },
     {
       "source": "CoinDesk",
       "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
       "url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
       "pubDate": "Tue, 20 Oct 2026 13:35:08 +0000",
-      "summary": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International "
+      "summary": "The court injunctions apply strictly to users within the AIFC and do not extend across the rest of Kazakhstan."
     },
     {
       "source": "CoinDesk",
       "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
       "url": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
       "pubDate": "Tue, 20 Oct 2026 12:40:17 +0000",
-      "summary": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading"
+      "summary": "Seven more issuers have opted out of being listed on the planned tokenized stock venue under the SEC's framework, bringing its disclosed objection count to 16."
     },
     {
       "source": "CoinDesk",
       "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
       "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
       "pubDate": "Tue, 20 Oct 2026 11:25:00 +0000",
-      "summary": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax"
+      "summary": "Amendment I-3898 removes tax deferral for MiCA-compliant stablecoins starting January 2027."
     }
   ]
 }
