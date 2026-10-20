@@ -2,13 +2,287 @@
   "asof": "2026-10-20T20:01:44Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
-    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
-    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
-    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
-    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
-    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
-    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
-    {"name": "Rekt", "url": "https://rekt.news"}
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
   ],
-  "items": []
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Tue, 20 Oct 2026 19:17:40 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strive closes $630M SATS IPO, leaves Bitcoin allocation unspecified",
+      "url": "https://cointelegraph.com/news/strive-closes-630m-sats-ipo-leaves-bitcoin-allocation-unspecified",
+      "pubDate": "Tue, 20 Oct 2026 17:40:00 +0000",
+      "summary": "The Bitcoin treasury company could acquire an estimated 7,372 BTC with its net proceeds, potentially surpassing Metaplanet's holdings if it allocates the full amount."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Injective, BDACS plan Korean won stablecoin settlement for tokenized assets",
+      "url": "https://cointelegraph.com/news/injective-bdacs-korean-won-stablecoin-tokenized-assets",
+      "pubDate": "Tue, 20 Oct 2026 16:47:48 +0000",
+      "summary": "Injective and BDACS plan to bring won-backed stablecoin KRW1 to tokenized asset markets as South Korea develops a regulatory framework for local currency stablecoins."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Stablecoin transfers quadruple to $891B as US banks expand adoption: Report",
+      "url": "https://cointelegraph.com/news/stablecoins-move-400m-an-hour-as-73-of-volume-occurs-outside-banking-hours-coinbase-report",
+      "pubDate": "Tue, 20 Oct 2026 16:38:13 +0000",
+      "summary": "Coinbase reports growing adoption by banks and businesses, even as stablecoin market capitalization remains largely unchanged over the past year."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Alphabet, Microsoft add objections to OKX-ICE proposed tokenized stock platform",
+      "url": "https://cointelegraph.com/news/alphabet-microsoft-goldman-object-okx-ice-tokenized-stock",
+      "pubDate": "Tue, 20 Oct 2026 16:23:17 +0000",
+      "summary": "About 25% of the US-listed companies in OKXICE's initial tokenized stock platform proposal are asking to opt-out of the venture."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price spikes to $83.3K as US stocks rise on Q3 earnings, oil falls",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-spikes-to-833k-as-us-stocks-rise-on-q3-earnings-oil-falls",
+      "pubDate": "Tue, 20 Oct 2026 16:14:09 +0000",
+      "summary": "High US corporate earnings reports boosted stock markets and saw BTC price hit $83,300 before reversing at a 21-day trend line."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Swiss Regulator Approves First Retail Fund That Holds Bitcoin Directly",
+      "url": "https://decrypt.co/381446/swiss-regulator-first-retail-fund-holds-bitcoin-directly",
+      "pubDate": "Tue, 20 Oct 2026 19:31:04 +0000",
+      "summary": "FINMA waived the diversification rules for the fund but leaned hard on custody and investor-protection safeguards."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Post Their Best Day in Nearly a Month as BlackRock Does All the Buying",
+      "url": "https://decrypt.co/381444/bitcoin-etfs-best-day-nearly-month-blackrock-does-most-buying",
+      "pubDate": "Tue, 20 Oct 2026 18:31:04 +0000",
+      "summary": "U.S. spot Bitcoin ETFs took in $526.7 million on Monday, their biggest day since Sept. 22. BlackRock's IBIT supplied all of it while Fidelity and Grayscale funds bled."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin's Next Move: Here's What to Watch",
+      "url": "https://decrypt.co/381435/bitcoins-next-move-heres-what-to-watch",
+      "pubDate": "Tue, 20 Oct 2026 17:45:04 +0000",
+      "summary": "Bitcoin trades just below $83,000, above both the short-term and long-term moving averages. Here are the levels traders are watching."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash Leads Crypto Bounce, Surging 8.5% as Bitcoin Reclaims $83,000",
+      "url": "https://decrypt.co/381424/zcash-crypto-bounce-surging-bitcoin-reclaims",
+      "pubDate": "Tue, 20 Oct 2026 17:03:26 +0000",
+      "summary": "Zcash jumped 8.5% in 24 hours to $1,215.85 as the broader crypto market rebounded, with Bitcoin up 1.6% and ETF money flowing back in."
+    },
+    {
+      "source": "Decrypt",
+      "title": "The Midterms Are the First Real Test of Whether Markets Beat Pollsters",
+      "url": "https://decrypt.co/380966/the-midterms-are-the-first-real-test-of-whether-markets-beat-pollsters",
+      "pubDate": "Tue, 20 Oct 2026 16:26:58 +0000",
+      "summary": "Former NBC News political director Chuck Todd is hosting NEXTPredict two weeks before the vote, and has yet to pick a side."
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Is Strategy (MSTR)? The Bitcoin Treasury Company",
+      "url": "https://decrypt.co/resources/what-is-strategy-microstrategy-mstr-the-bitcoin-treasury-company",
+      "pubDate": "Tue, 20 Oct 2026 16:17:02 +0000",
+      "summary": "Strategy's co-founder Michael Saylor pioneered the Bitcoin treasury playbook. Here's what you need to know."
+    },
+    {
+      "source": "The Block",
+      "title": "Crypto firms, Wall Street push SEC to revise Regulation Crypto Assets as comments close",
+      "url": "https://www.theblock.co/news/regulation/2026-10-20-sec-regulation-crypto-assets-comment-period-hyperliquid-sifma-aima-421444",
+      "pubDate": "Tue, 20 Oct 2026 19:19:54 +0000",
+      "summary": "As the SEC's comment period on a cryptocurrency proposal draws to a close, digital asset firms and Wall Street institutions have thoughts."
+    },
+    {
+      "source": "The Block",
+      "title": "Utah likens Kalshi to a 'back-alley gambling den' in lawsuit naming Susquehanna firms",
+      "url": "https://www.theblock.co/news/regulation/2026-10-20-utah-likens-kalshi-back-alley-gambling-den-lawsuit-naming-susquehanna-firms-421442",
+      "pubDate": "Tue, 20 Oct 2026 19:12:38 +0000",
+      "summary": "Utah seeks to recover alleged gambling profits and block Kalshi bets across sports, politics and culture."
+    },
+    {
+      "source": "The Block",
+      "title": "JPMorgan issues first long-term bitcoin return forecast, projecting 10% annually",
+      "url": "https://www.theblock.co/news/markets/2026-10-20-jpmorgan-bitcoin-10-year-return-forecast-ltcma-421436",
+      "pubDate": "Tue, 20 Oct 2026 18:14:28 +0000",
+      "summary": "J.P. Morgan Asset Management's first long-term bitcoin forecast projects a 10% annual return but flags 55% volatility as a barrier to portfolio adoption."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin yield platform HoneyB developer raises $5 million at $30 million valuation",
+      "url": "https://www.theblock.co/news/deals/2026-10-20-bitcoin-yield-platform-honeyb-funding-valuation-421430",
+      "pubDate": "Tue, 20 Oct 2026 17:11:47 +0000",
+      "summary": "Nectar Group, the developer of bitcoin income platform HoneyB, has raised $5 million in a seed funding round."
+    },
+    {
+      "source": "The Block",
+      "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-20-ethereum-solana-staking-record-yields-fall-bitwise-q3-421414",
+      "pubDate": "Tue, 20 Oct 2026 16:31:24 +0000",
+      "summary": "A record 43.8 million ETH, nearly 36% of supply, was staked in Q3 as yields fell to 2.63%. Solana staking hit a record 440.5 million SOL."
+    },
+    {
+      "source": "The Block",
+      "title": "OKX is putting its money where its mouth is with new protection plan: Former NY Gov. Cuomo",
+      "url": "https://www.theblock.co/news/regulation/2026-10-20-okx-putting-money-where-mouth-is-new-protection-plan-former-ny-gov-cuomo-421421",
+      "pubDate": "Tue, 20 Oct 2026 16:20:40 +0000",
+      "summary": "OKX debuted OKX Shield in the U.S. on Tuesday, in what former New York Gov. Andrew Cuomo says is a sign of trust."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "US orders DeepSeek purge from federal systems as Chinese AI rival opens its technology to the world",
+      "url": "https://cryptoslate.com/us-orders-deepseek-purge-from-federal-systems-as-chinese-ai-rival-opens-its-technology-to-the-world/",
+      "pubDate": "Tue, 20 Oct 2026 19:10:30 +0000",
+      "summary": "The October 20 notice covers tools built using DeepSeek implementations, with a 60-day exception period tied to July issuance. Read the full story on CryptoSlateUnderstand the cryp"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Elon Musk and Anthropic unveil AI wealth-sharing plans that could reach over $110 billion",
+      "url": "https://cryptoslate.com/elon-musk-and-anthropic-unveil-ai-wealth-sharing-plans-that-could-reach-over-110-billion/",
+      "pubDate": "Tue, 20 Oct 2026 18:00:52 +0000",
+      "summary": "Musk&#039;s 2027 promise concerns his own holdings, while Anthropic&#039;s initial allocation needs stockholder approval and future additions remain discretionary. Read the full st"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin's next selloff could be amplified by the traders still betting on its recovery",
+      "url": "https://cryptoslate.com/bitcoins-next-selloff-could-be-amplified-by-the-traders-still-betting-on-its-recovery/",
+      "pubDate": "Tue, 20 Oct 2026 16:40:45 +0000",
+      "summary": "Glassnode's spread crossed zero as downside skew rose, but the figures establish neither higher dollar hedge costs nor an option-selling profit. Read the full story on CryptoSlateU"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "XRP Ledger's booming activity faces scrutiny as 110 bot wallets dominate RLUSD payments",
+      "url": "https://cryptoslate.com/xrp-ledgers-booming-activity-faces-scrutiny-as-110-bot-wallets-dominate-rlusd-payments/",
+      "pubDate": "Tue, 20 Oct 2026 15:20:21 +0000",
+      "summary": "Bitquery&#039;s September 19-October 18 study separates automated counts from billions in larger transfers, including issuer flows. Read the full story on CryptoSlateUnderstand the"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Crypto wallet security crisis deepens as NGRAVE users face $2.65 million phishing attack",
+      "url": "https://cryptoslate.com/crypto-wallet-security-crisis-deepens-as-ngrave-users-face-2-65-million-phishing-attack/",
+      "pubDate": "Tue, 20 Oct 2026 14:00:51 +0000",
+      "summary": "Bitquery follows funds into XMR1 purchases on Hyperliquid, but cannot confirm every wallet belonged to an NGRAVE user. Read the full story on CryptoSlateUnderstand the crypto stori"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Super League shareholders approve Metaplanet's 2,100 BTC investment",
+      "url": "https://cryptoslate.com/metaplanets-3-4-billion-bitcoin-financing-plan-takes-major-step-toward-wall-street/",
+      "pubDate": "Tue, 20 Oct 2026 12:50:21 +0000",
+      "summary": "Shareholders cleared a condition for Metaplanet&#039;s investment, with the Superplanet name and SUPA ticker contingent on a fourth-quarter closing. Read the full story on CryptoSl"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Could Outperform Most Assets, JPMorgan Says - But the Bank Still Won't Recommend It",
+      "url": "https://bitcoinmagazine.com/news/jpmorgan-says-bitcoin-could-outperform",
+      "pubDate": "Tue, 20 Oct 2026 17:27:14 +0000",
+      "summary": "Bitcoin Magazine Bitcoin Could Outperform Most Assets, JPMorgan Says - But the Bank Still Won't Recommend It The bank has said bitcoin could do better than stocks and bonds over th"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "BlackRock Files for Bitcoin ETF With Downside Buffer and Capped Upside",
+      "url": "https://bitcoinmagazine.com/news/blackrock-files-for-new-bitcoin-etf",
+      "pubDate": "Tue, 20 Oct 2026 16:26:29 +0000",
+      "summary": "Bitcoin Magazine BlackRock Files for Bitcoin ETF With Downside Buffer and Capped Upside A new filing with the SEC shows BlackRock wants to release an exchange-traded fund that offe"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Sam Callahan: Bitcoin Doesn't Need Rate Cuts to Succeed",
+      "url": "https://bitcoinmagazine.com/videos/sam-callahan-bitcoin-doesnt-need-rate-cuts-to-succeed",
+      "pubDate": "Tue, 20 Oct 2026 12:40:11 +0000",
+      "summary": "Watch VideoBitcoin Magazine Sam Callahan: Bitcoin Doesn&#8217;t Need Rate Cuts to Succeed The USD lost 20% purchasing power in 5 years. Sam Callahan breaks down financial repress"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Michael Howell: Bitcoin as the Apex Liquidity Asset",
+      "url": "https://bitcoinmagazine.com/videos/michael-howell-bitcoin-as-the-apex-liquidity-asset",
+      "pubDate": "Tue, 20 Oct 2026 12:33:35 +0000",
+      "summary": "Watch VideoBitcoin Magazine Michael Howell: Bitcoin as the Apex Liquidity Asset CrossBorder Capital's Michael Howell explains why global liquidity drives markets and why Bitcoin"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants",
+      "url": "https://bitcoinmagazine.com/culture/pita-cafe-arizona-bitcoin",
+      "pubDate": "Tue, 20 Oct 2026 03:54:15 +0000",
+      "summary": "Bitcoin Magazine Now Accepting Bitcoin: Gyros, Cocas, and 219 Arizona Bitcoin Merchants Setting up a Lightning wallet took seconds, so we sent first-time users in Scottsdale to see"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month",
+      "url": "https://bitcoinmagazine.com/news/anchorwatch-debuts-nevada-trust-company",
+      "pubDate": "Mon, 19 Oct 2026 22:28:17 +0000",
+      "summary": "Bitcoin Magazine AnchorWatch Launches Nevada Trust Company, Caps Bitcoin Custody Fees at $10,000 a Month AnchorWatch's AnchorWatch Trust Company has now opened its custody service."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a 'natural response' to tokenized stock plans",
+      "url": "https://www.coindesk.com/business/2026/10/20/okx-ice-s-andrew-cuomo-calls-issuer-objections-a-natural-response-to-tokenized-stock-plans",
+      "pubDate": "Tue, 20 Oct 2026 18:26:29 +0000",
+      "summary": "OKX-ICE co-chair Andrew Cuomo calls corporate objections a 'natural response' to tokenized stock pla"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The Coinbase allegations expose Bitcoin's corporate governance gap",
+      "url": "https://www.coindesk.com/opinion/2026/10/20/the-coinbase-allegations-expose-bitcoin-s-corporate-governance-gap",
+      "pubDate": "Tue, 20 Oct 2026 17:02:31 +0000",
+      "summary": "The Coinbase allegations expose Bitcoin's corporate governance gap"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
+      "url": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
+      "pubDate": "Tue, 20 Oct 2026 14:28:39 +0000",
+      "summary": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International Financial Centre",
+      "url": "https://www.coindesk.com/business/2026/10/20/kazakhstan-court-bars-coinbase-five-others-from-unlicensed-crypto-services-in-astana-international-financial-centre",
+      "pubDate": "Tue, 20 Oct 2026 13:35:08 +0000",
+      "summary": "Kazakhstan court bars Coinbase, five others from unlicensed crypto services in Astana International "
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading",
+      "url": "https://www.coindesk.com/business/2026/10/19/microsoft-alphabet-and-goldman-sachs-join-objections-to-okx-ice-tokenized-stock-trading",
+      "pubDate": "Tue, 20 Oct 2026 12:40:17 +0000",
+      "summary": "Microsoft, Alphabet and Goldman Sachs join objections to OKX-ICE tokenized stock trading"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
+      "url": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
+      "pubDate": "Tue, 20 Oct 2026 11:25:00 +0000",
+      "summary": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax"
+    }
+  ]
 }
