@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-20T02:01:56Z",
+  "asof": "2026-10-20T03:01:39Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
@@ -10,24 +10,5 @@
     {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
     {"name": "Rekt", "url": "https://rekt.news"}
   ],
-  "items": [
-    {"source": "CoinTelegraph", "title": "Bitcoin rally could revive treasury buying, but easy-money days over", "url": "https://cointelegraph.com/markets/bitcoin-rally-could-revive-treasury-buying-but-easy-money-days-over", "pubDate": "Tue, 20 Oct 2026 01:35:00 +0000", "summary": "A return to last year's indiscriminate capital raising looks unlikely."},
-    {"source": "CoinTelegraph", "title": "Solana treasury firm SkyAI sells all SOL holdings, launches $201M buyback", "url": "https://cointelegraph.com/news/solana-treasury-skyai-sells-all-sol-holdings-launches-201m-buyback", "pubDate": "Mon, 19 Oct 2026 21:04:34 +0000", "summary": "Liquidated Solana treasury, launching buyback with $223.8M cash."},
-    {"source": "CoinTelegraph", "title": "Crypto PAC pours $362K into California race", "url": "https://cointelegraph.com/news/crypto-pac-california-race-voters-special-election", "pubDate": "Mon, 19 Oct 2026 20:22:41 +0000", "summary": "Fairshake supporting incumbent in decided race."},
-    {"source": "Decrypt", "title": "Strive Buys $335 Million in Bitcoin", "url": "https://decrypt.co/381382/strive-buys-335-million-bitcoin", "pubDate": "Mon, 19 Oct 2026 21:46:05 +0000", "summary": "Bought after $369M from warrants, plans more preferred."},
-    {"source": "Decrypt", "title": "XRP Ledger Repairs Its Lending Protocol", "url": "https://decrypt.co/381358/xrp-ledger-repairs-lending-protocol-before-live", "pubDate": "Mon, 19 Oct 2026 20:46:05 +0000", "summary": "Second amendment for uncollateralized lending."},
-    {"source": "The Block", "title": "BlackRock files for bitcoin ETF with downside protection", "url": "https://www.theblock.co/news/regulation/2026-10-19-blackrock-files-bitcoin-managed-protect-etf-downside-protection-ibit-421087", "pubDate": "Mon, 19 Oct 2026 22:00:53 +0000", "summary": "New fund offering downside protection and IBIT upside."},
-    {"source": "The Block", "title": "Mesh taps Visa to let users spend crypto without a card", "url": "https://www.theblock.co/news/business/2026-10-19-mesh-taps-visa-let-users-spend-crypto-without-separate-card-421061", "pubDate": "Mon, 19 Oct 2026 20:30:00 +0000", "summary": "Crypto and stablecoin spending at merchants."},
-    {"source": "CryptoSlate", "title": "Binance opens free AI trading, yet user liability remains 100%", "url": "https://cryptoslate.com/binance-opens-free-ai-trading-yet-user-liability-remains-100/", "pubDate": "Tue, 20 Oct 2026 01:50:08 +0000", "summary": "AI trading with user liability and approval required."},
-    {"source": "CryptoSlate", "title": "Crypto hacks surge 55% to $1.2B, but key theft drops by 30%", "url": "https://cryptoslate.com/crypto-hacks-surge-55-to-1-2b-but-key-theft-drops-by-30/", "pubDate": "Mon, 19 Oct 2026 22:30:40 +0000", "summary": "Shift toward contract losses; Bitget and Liquid failures noted."},
-    {"source": "Bitcoin Magazine", "title": "AnchorWatch Launches Nevada Trust Company", "url": "https://bitcoinmagazine.com/news/anchorwatch-debuts-nevada-trust-company", "pubDate": "Mon, 19 Oct 2026 22:28:17 +0000", "summary": "Insured bitcoin custody with fee caps."},
-    {"source": "Bitcoin Magazine", "title": "Strategy Keeps Buying: Third Purchase This Month", "url": "https://bitcoinmagazine.com/news/strategy-third-october-bitcoin-buy", "pubDate": "Mon, 19 Oct 2026 16:14:02 +0000", "summary": "Third October BTC buy, $73M spent."},
-    {"source": "CoinDesk", "title": "Tether: Senator's investigation misses positive work", "url": "https://www.coindesk.com/policy/2026/10/19/tether-senator-s-investigation-misses-positive-work-that-s-led-to-lower-iran-volumes", "pubDate": "Mon, 19 Oct 2026 20:21:13 +0000", "summary": "Ardoino defends against Iran volume accusations."},
-    {"source": "CoinDesk", "title": "U.S. CFTC rebuffs CME legal stance on perpetual futures", "url": "https://www.coindesk.com/policy/2026/10/19/u-s-cftc-rebuffs-cme-legal-stance-in-consequential-fight-over-perpetual-futures", "pubDate": "Mon, 19 Oct 2026 16:47:00 +0000", "summary": "Dispute over perpetual futures trading."},
-    {"source": "The Block", "title": "SkyAI sells off entire Solana treasury as it launches $201 million buyback", "url": "https://www.theblock.co/news/business/2026-10-19-skyai-sells-off-entire-solana-treasury-launches-201-million-buyback-421037", "pubDate": "Mon, 19 Oct 2026 15:28:43 +0000", "summary": "Holds $223.8M cash after SOL sale."},
-    {"source": "Bitcoin Magazine", "title": "No 'Uptober' Yet: Bitcoin Slips 2%", "url": "https://bitcoinmagazine.com/markets/no-uptober-yet-as-bitcoin-slips", "pubDate": "Mon, 19 Oct 2026 16:18:41 +0000", "summary": "BTC down ~2% in historically strong October."},
-    {"source": "Decrypt", "title": "Mastercard Brings Its Fraud-Fighting Tools to Stablecoin Payments", "url": "https://decrypt.co/381365/mastercard-brings-its-fraud-fighting-tools-to-stablecoin-payments", "pubDate": "Mon, 19 Oct 2026 19:16:04 +0000", "summary": "API tool for fraud and sanctions before on-chain."},
-    {"source": "CoinTelegraph", "title": "Visa, Mesh partner to enable crypto spending at 175M merchant locations", "url": "https://cointelegraph.com/news/visa-mesh-partner-crypto-spending-175m-merchant-locations", "pubDate": "Mon, 19 Oct 2026 19:16:19 +0000", "summary": "Spend digital assets without separate card."},
-    {"source": "CryptoSlate", "title": "Whale loses $469,000 in hours on Hyperliquid, yet re-enters with $16M ETH short", "url": "https://cryptoslate.com/hyperliquid-wallet-adds-to-eth-short-after-19-8m-in-forced-closures/", "pubDate": "Mon, 19 Oct 2026 23:40:46 +0000", "summary": "Trader adds to ETH short after losses."}
-  ]
+  "items": []
 }
