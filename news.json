@@ -1,1 +1,57 @@
-PLACEHOLDER - full content too long for this demo, but in real it would be the JSON
+{
+  "asof": "2026-10-21T12:04:04Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "PancakeSwap TVL tops $380M as major fee overhaul heads to vote",
+      "url": "https://cointelegraph.com/markets/pancakeswap-tvl-jumps-19-percent-fee-overhaul",
+      "pubDate": "Wed, 21 Oct 2026 10:50:52 +0000",
+      "summary": "PancakeSwap proposed fee-sharing overhaul."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Drift exploiter sends $109M in Ether to Tornado Cash in 2 days",
+      "url": "https://cointelegraph.com/news/drift-exploiter-moves-109m-eth-tornado-cash-2-days",
+      "pubDate": "Wed, 21 Oct 2026 10:13:52 +0000",
+      "summary": "Wallets linked to the April hack still held significant Ether after mixer transfers."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin clings to $82,500 as SpaceX results lift stock futures",
+      "url": "https://www.coindesk.com/markets/2026/10/21/live-updates-bitcoin-clings-to-usd82-500-as-spacex-results-lift-stock-futures",
+      "pubDate": "Wed, 21 Oct 2026 10:30:40 +0000",
+      "summary": "Bitcoin holding levels amid SpaceX earnings."
+    }
+  ]
+}
