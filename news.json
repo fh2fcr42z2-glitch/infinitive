@@ -1,1 +1,43 @@
-PLACEHOLDER
+{
+  "asof": "2026-10-21T15:02:02Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Solana's Alpenglow launches on mainnet, targets 99% faster finality",
+      "url": "https://cointelegraph.com/news/solanas-alpenglow-launches-mainnet-99-faster-finality",
+      "pubDate": "Wed, 21 Oct 2026 13:57:14 +0000",
+      "summary": "Solana's first major consensus upgrade is targeting 99% finality reduction, seeking to offer users near-immediate transaction settlement and more responsive applications."
+    }
+  ]
+}
