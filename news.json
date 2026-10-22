@@ -1,1 +1,18 @@
-$(cat /tmp/news.json)
+{
+  "asof": "2026-10-22T03:01:47Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
+  ],
+  "items": [
+    {"source": "CoinTelegraph", "title": "PHP Foundation admits 'structural failure' delayed critical security fix", "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound", "pubDate": "Thu, 22 Oct 2026 00:44:00 +0000", "summary": "Government websites and online services were disrupted after concerns about a PHP bug that could allow attackers to take control of vulnerable servers."},
+    {"source": "The Block", "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks", "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514", "pubDate": "Thu, 22 Oct 2026 00:00:00 +0000", "summary": "Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum."},
+    {"source": "Bitcoin Magazine", "title": "Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite", "url": "https://bitcoinmagazine.com/news/bitcoin-price-nears-85000-spacex-earnings", "pubDate": "Wed, 21 Oct 2026 15:46:14 +0000", "summary": "The price of bitcoin is rising fast with the stock market as investors feel bullish on tech."}
+  ]
+}
