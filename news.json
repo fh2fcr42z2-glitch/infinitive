@@ -1,23 +1,246 @@
 {
-  "asof": "2026-10-21T22:02:06Z",
+  "asof": "2026-10-22T02:01:40Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
-    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
-    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
-    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
-    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
-    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
-    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
-    {"name": "Rekt", "url": "https://rekt.news"}
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
   ],
   "items": [
-    {"source": "CoinTelegraph", "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking", "url": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking", "pubDate": "Wed, 21 Oct 2026 20:26:07 +0000", "summary": "The investment will support Peso's expansion across four Latin American markets, where it connects stablecoin payments to merchant services and local banking networks."},
-    {"source": "CoinTelegraph", "title": "Trump didn't mention 'crypto' once in White House cybercrime roundtable", "url": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures", "pubDate": "Wed, 21 Oct 2026 20:19:39 +0000", "summary": "The US President detailed many schemes defrauding Americans, but referred only to \"cybercurrency\" related to scams."},
-    {"source": "CoinTelegraph", "title": "Here's what happened in crypto today", "url": "https://cointelegraph.com/news/what-happened-in-crypto-today", "pubDate": "Wed, 21 Oct 2026 20:10:47 +0000", "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."},
-    {"source": "Decrypt", "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds", "url": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds", "pubDate": "Wed, 21 Oct 2026 17:31:03 +0000", "summary": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from October's slide, putting \"Uptober\" back on the table."},
-    {"source": "The Block", "title": "Robinhood single-stock perps could be a 'strong positive' for HOOD shares, Mizuho says", "url": "https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639", "pubDate": "Wed, 21 Oct 2026 18:54:36 +0000", "summary": "A Mizuho survey of 600+ Robinhood users finds 94% would trade single-stock perpetual futures, mostly with new money."},
-    {"source": "CryptoSlate", "title": "Tesla-SpaceX merger talks could put 30,221 Bitcoin under one roof", "url": "https://cryptoslate.com/tesla-spacex-merger-talks-bitcoin/", "pubDate": "Wed, 21 Oct 2026 21:00:13 +0000", "summary": "Elon Musk confirmed that Tesla and SpaceX are exploring a merger that could combine their existing Bitcoin holdings under one company."},
-    {"source": "Bitcoin Magazine", "title": "Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite", "url": "https://bitcoinmagazine.com/news/bitcoin-price-nears-85000-spacex-earnings", "pubDate": "Wed, 21 Oct 2026 15:46:14 +0000", "summary": "The price of bitcoin is rising fast - with the stock market - as investors feel bullish on tech."},
-    {"source": "CoinDesk", "title": "Trump to throw spotlight on overseas crypto abuses at White House event", "url": "https://www.coindesk.com/policy/2026/10/21/trump-to-throw-spotlight-on-overseas-crypto-abuses-in-white-house-event", "pubDate": "Wed, 21 Oct 2026 16:23:44 +0000", "summary": "The president is hosting a cybercrime event that will highlight U.S. authorities' efforts to crack down on crypto scams run by foreign criminal organizations."}
+    {
+      "source": "CoinTelegraph",
+      "title": "PHP Foundation admits structural failure delayed critical security fix",
+      "url": "https://cointelegraph.com/news/php-foundation-admits-structural-failure-delayed-critical-security-fix?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 22 Oct 2026 00:44:00 +0000",
+      "summary": "Government websites and online services were disrupted after concerns about a PHP bug that could allow attackers to take control of vulnerable servers."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "American Bankers Association: OCCs GENIUS rules undermine US Congress",
+      "url": "https://cointelegraph.com/news/american-bankers-association-occ-genius-rules-stablecoins?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 21 Oct 2026 21:53:48 +0000",
+      "summary": "Banking advocacy organizations are pushing back against the OCCs finalized rules on a stablecoin law, arguing against changes to provisions on yield."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Tether backs Bolivian fintech bringing USDT payments to food delivery and banking",
+      "url": "https://cointelegraph.com/news/tether-backs-bolivian-fintech-bringing-usdt-payments-to-food-delivery-and-banking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 21 Oct 2026 20:26:07 +0000",
+      "summary": "The investment will support Pesos expansion across four Latin American markets, where it connects stablecoin payments to merchant services and local banking networks."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Trump didnt mention crypto once in White House cybercrime roundtable",
+      "url": "https://cointelegraph.com/news/white-house-cybercrime-roundtable-donald-trump-crypto-ventures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 21 Oct 2026 20:19:39 +0000",
+      "summary": "The US President detailed many schemes defrauding Americans, but referred only to cybercurrency related to scams."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Heres what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 21 Oct 2026 20:10:47 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Cardano Foundation urges EU against expanding MiCA rules to DeFi and staking",
+      "url": "https://cointelegraph.com/news/cardano-foundation-eu-mica-defi-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 21 Oct 2026 19:00:00 +0000",
+      "summary": "The Cardano Foundation has submitted feedback to the European Commission opposing the potential expansion of MiCA regulations to cover DeFi protocols and staking services."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ken Griffin Says AI Is Almost Certainly in a BubbleAnd Compares GPUs to Airline Seats",
+      "url": "https://decrypt.co/381578/ken-griffin-ai-bubble-gpus-airline-seats",
+      "pubDate": "Wed, 21 Oct 2026 21:31:02 +0000",
+      "summary": "Citadels founder says investors are almost certainly in an AI bubble, warns a chip glut could crash prices like empty airline seats, yet expects the survivors to lead for decades."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia Unveils Its Full-Stack Blueprint to Contain and Monitor AI Agents",
+      "url": "https://decrypt.co/381570/nvidia-ai-agent-containment-tools-full-stack-blueprint",
+      "pubDate": "Wed, 21 Oct 2026 20:16:02 +0000",
+      "summary": "Nvidias OpenShell Reference Architecture pairs a software sandbox on Vera CPUs with Sentry monitoring on BlueField-4 chips, aiming to let companies run AI agents more safely."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Who Found the PHP Bug That Made Governments Unplug Their Websites? ChatGPT, Of Course",
+      "url": "https://decrypt.co/381567/who-found-php-bug-governments-unplug-websites-chatgpt",
+      "pubDate": "Wed, 21 Oct 2026 18:46:08 +0000",
+      "summary": "OpenAI says its models found PHP2Shell and led a two-month coalition to fix it. Its the same AI that broke into Hugging Face and an Australian government system."
+    },
+    {
+      "source": "Decrypt",
+      "title": "How a SpaceX and Tesla Merger Would Reshape Musks AI Empire",
+      "url": "https://decrypt.co/381543/elon-musk-spacex-tesla-merger-ai-empire",
+      "pubDate": "Wed, 21 Oct 2026 18:16:03 +0000",
+      "summary": "Both boards are now studying a tie-up that would put Grok, X, Starlink, orbital data centers, a chip megafactory and Optimus robots under one roof."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Hits Weekly High as Crypto Market Rebounds",
+      "url": "https://decrypt.co/381555/bitcoin-price-weekly-high-crypto-rebounds",
+      "pubDate": "Wed, 21 Oct 2026 17:31:03 +0000",
+      "summary": "Bitcoin is back near $84,500 as XRP and Zcash lead a broad crypto rebound from Octobers slide, putting Uptober back on the table."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Dogecoin Gets a Dedicated Company to Build Out Its Ecosystem",
+      "url": "https://decrypt.co/381541/dogecoin-gets-dedicated-company-build-ecosystem",
+      "pubDate": "Wed, 21 Oct 2026 16:46:04 +0000",
+      "summary": "Formed with the Dogecoin Foundation and led by MyDoge founder Jordan Jefferson, the new company consolidates the MyDoge wallet, DogeOS app platform."
+    },
+    {
+      "source": "The Block",
+      "title": "Aerodrome and Velodrome merge to launch Aero across seven blockchain networks",
+      "url": "https://www.theblock.co/news/defi/2026-10-21-aerodrome-velodrome-merge-aero-421514",
+      "pubDate": "Thu, 22 Oct 2026 00:00:00 +0000",
+      "summary": "Aerodrome and Velodrome have merged to launch Aero across Ethereum mainnet, Base, Robinhood Chain, Ink, OP Mainnet, Arc, and Arbitrum."
+    },
+    {
+      "source": "The Block",
+      "title": "Robinhood single-stock perps could be a strong positive for HOOD shares, Mizuho says",
+      "url": "https://www.theblock.co/news/business/2026-10-21-robinhood-single-stock-perpetual-futures-mizuho-survey-421639",
+      "pubDate": "Wed, 21 Oct 2026 18:54:36 +0000",
+      "summary": "A Mizuho survey of 600+ Robinhood users finds 94% would trade single-stock perpetual futures, mostly with new money."
+    },
+    {
+      "source": "The Block",
+      "title": "American Bankers Association accuses OCC of undermining Congress with final stablecoin rules",
+      "url": "https://www.theblock.co/news/policy/2026-10-21-aba-occ-genius-stablecoin-rules-421600",
+      "pubDate": "Wed, 21 Oct 2026 16:30:00 +0000",
+      "summary": "The ABA argues the OCCs final rules on the GENIUS Act expand the scope of stablecoin activities beyond what Congress intended."
+    },
+    {
+      "source": "The Block",
+      "title": "Dataline raises $10.6 million for decentralized data network for AI agents, plans token",
+      "url": "https://www.theblock.co/news/startups/2026-10-21-dataline-raises-10-6-million-decentralized-data-network-ai-agents-421550",
+      "pubDate": "Wed, 21 Oct 2026 15:00:00 +0000",
+      "summary": "The startup is building a decentralized network for AI agents to access and contribute data, with a token planned."
+    },
+    {
+      "source": "The Block",
+      "title": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
+      "url": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-crypto-etfs-421500",
+      "pubDate": "Wed, 21 Oct 2026 14:00:00 +0000",
+      "summary": "Grayscale now allows in-kind creations and redemptions for more of its crypto products."
+    },
+    {
+      "source": "The Block",
+      "title": "Anzas Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
+      "url": "https://www.theblock.co/news/infrastructure/2026-10-21-anza-alpenglow-solana-finality-421480",
+      "pubDate": "Wed, 21 Oct 2026 13:00:00 +0000",
+      "summary": "The upgrade improves Solana consensus speed and finality times significantly."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Irish drug lords lost Bitcoin fortune comes back to life as $41 million moves to Coinbase",
+      "url": "https://cryptoslate.com/irish-drug-lords-lost-bitcoin-fortune-comes-back-to-life-as-41-million-moves-to-coinbase/",
+      "pubDate": "Wed, 21 Oct 2026 23:10:19 +0000",
+      "summary": "The net receipt reached an address Arkham labels a Coinbase Prime deposit, a destination also used in July and August."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Why earning XRP yield through this wallet could actually cost you money",
+      "url": "https://cryptoslate.com/why-earning-xrp-yield-through-this-wallet-could-actually-cost-you-money/",
+      "pubDate": "Wed, 21 Oct 2026 20:00:00 +0000",
+      "summary": "Analysis of yield opportunities and associated risks or costs for XRP holders."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "TeslaSpaceX merger talks could put 30,221 Bitcoin under one roof",
+      "url": "https://cryptoslate.com/tesla-spacex-merger-talks-bitcoin/",
+      "pubDate": "Wed, 21 Oct 2026 21:00:13 +0000",
+      "summary": "Elon Musk confirmed that Tesla and SpaceX are exploring a merger that could combine their existing Bitcoin holdings under one company."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "SECs $75 million crypto fundraising plan faces bank backlash and threats of legal action",
+      "url": "https://cryptoslate.com/secs-75-million-crypto-fundraising-plan-faces-bank-backlash/",
+      "pubDate": "Wed, 21 Oct 2026 18:00:00 +0000",
+      "summary": "Banks push back against proposed SEC plans involving crypto fundraising."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "OpenAI reveals AI agents disabled safety monitors, with one falsely denying its actions",
+      "url": "https://cryptoslate.com/openai-reveals-ai-agents-disabled-safety-monitors/",
+      "pubDate": "Wed, 21 Oct 2026 16:00:00 +0000",
+      "summary": "Report on AI agent behavior during testing."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Declining a Bitcoin loan may not spare a cash purchase from futures rules, CFTC says",
+      "url": "https://cryptoslate.com/declining-a-bitcoin-loan-may-not-spare-a-cash-purchase-from-futures-rules-cftc-says/",
+      "pubDate": "Wed, 21 Oct 2026 14:00:00 +0000",
+      "summary": "CFTC guidance on crypto lending and related regulatory treatment."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Three Companies Have Notified the SEC of Intention To Start Tokenized Stocks Trading",
+      "url": "https://bitcoinmagazine.com/news/three-companies-notified-sec-tokenized-stocks",
+      "pubDate": "Wed, 21 Oct 2026 20:00:00 +0000",
+      "summary": "Companies signal plans for tokenized equity trading under evolving regulations."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Standard Chartered Signs Agreement To Acquire Crypto Custodian Zodia Custody",
+      "url": "https://bitcoinmagazine.com/news/standard-chartered-acquire-zodia-custody",
+      "pubDate": "Wed, 21 Oct 2026 18:00:00 +0000",
+      "summary": "Bank expands crypto custody capabilities through acquisition."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Beyond HODLing: How Bitcoin-Backed Loans Can Unlock New Financial Opportunities",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-backed-loans-opportunities",
+      "pubDate": "Wed, 21 Oct 2026 16:00:00 +0000",
+      "summary": "Exploration of Bitcoin-collateralized lending products and use cases."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Kalshi Pushes Deeper Into Crypto Derivatives With Bitcoin-Backed Margin Loans",
+      "url": "https://bitcoinmagazine.com/news/kalshi-bitcoin-backed-margin-loans",
+      "pubDate": "Wed, 21 Oct 2026 15:00:00 +0000",
+      "summary": "Prediction market platform expands crypto derivatives offering."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Nears $85,000 as SpaceX Earnings Reignite Risk Appetite",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-price-nears-85000-spacex-earnings",
+      "pubDate": "Wed, 21 Oct 2026 15:46:14 +0000",
+      "summary": "The price of bitcoin is rising fast - with the stock market - as investors feel bullish on tech."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "President Trump to Highlight Crackdown on Overseas Crypto Scams",
+      "url": "https://bitcoinmagazine.com/news/trump-highlight-crackdown-overseas-crypto-scams",
+      "pubDate": "Wed, 21 Oct 2026 14:00:00 +0000",
+      "summary": "White House event focuses on crypto-related cybercrime and scams."
+    }
   ]
 }
