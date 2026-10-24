@@ -1,1 +1,21 @@
-PLACEHOLDER
+{
+  "asof": "2026-10-24T17:01:12Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
+  ],
+  "items": [
+    {"source": "CoinTelegraph", "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report", "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice", "pubDate": "Fri, 23 Oct 2026 21:32:16 +0000", "summary": "As of Friday, 22 companies had filed objections as part of the joint ventures proposed tokenized stock platform under the SECs innovation exemption."},
+    {"source": "CoinTelegraph", "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes", "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports", "pubDate": "Fri, 23 Oct 2026 20:54:17 +0000", "summary": "The US tax agency is targeting faster resolutions and more flexible payment options for taxpayers voluntarily disclosing past tax violations under a planned program overhaul."},
+    {"source": "CoinTelegraph", "title": "Initia halts blockchain after exploit reportedly drains over $2.6M", "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained", "pubDate": "Fri, 23 Oct 2026 18:39:02 +0000", "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum."},
+    {"source": "CoinDesk", "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations", "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations", "pubDate": "Sat, 24 Oct 2026 15:11:24 +0000", "summary": "Bitcoin has sunk to its weakest level in more than one month."},
+    {"source": "Decrypt", "title": "Hong Kongs Biggest Bank Puts a Stablecoin in 3 Million Wallets", "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets", "pubDate": "Sat, 24 Oct 2026 13:01:02 +0000", "summary": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money."},
+    {"source": "The Block", "title": "Bitcoin ETFs swing back to net outflows as $636 million in withdrawals erase previous days inflows", "url": "https://www.theblock.co/news/markets/2026-10-23-bitcoin-etfs-swing-back-to-net-outflows-erase-previous-day-inflows-426483", "pubDate": "Fri, 23 Oct 2026 11:39:45 +0000", "summary": "BlackRock's IBIT led Thursday's net outflows with $254.1 million."}
+  ]
+}
