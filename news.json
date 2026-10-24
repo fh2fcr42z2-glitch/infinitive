@@ -1,1 +1,16 @@
-PLACEHOLDER
+{
+  "asof": "2026-10-24T21:02:43Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
+  ],
+  "items": [
+    {"source": "CoinTelegraph", "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report", "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice", "pubDate": "Fri, 23 Oct 2026 21:32:16 +0000", "summary": "As of Friday, 22 companies had filed objections as part of the joint venture's proposed tokenized stock platform under the SEC's innovation exemption."}
+  ]
+}
