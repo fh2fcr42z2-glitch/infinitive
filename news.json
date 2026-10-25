@@ -1,1 +1,24 @@
-PLACEHOLDER_WILL_BE_REPLACED
+{
+  "asof": "2026-10-25T20:02:41Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
+  ],
+  "items": [
+    {"source": "CoinTelegraph", "title": "ECB official sees digital euro as key to protecting EU sovereignty", "url": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound", "pubDate": "Sun, 25 Oct 2026 15:11:00 +0000", "summary": "Piero Cipollone said the bloc is on track to test real transactions in 2027 and roll out a digital euro as early as 2029, pending legislation this year."},
+    {"source": "CoinTelegraph", "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions", "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound", "pubDate": "Sun, 25 Oct 2026 11:42:00 +0000", "summary": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions."},
+    {"source": "CoinTelegraph", "title": "Initia halts blockchain after exploit reportedly drains over $2.6M", "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound", "pubDate": "Fri, 23 Oct 2026 18:39:02 +0000", "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum."},
+    {"source": "Decrypt", "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide", "url": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide", "pubDate": "Sun, 25 Oct 2026 14:01:03 +0000", "summary": "Spot Bitcoin ETFs finished the week with about $301 million in net inflows, ending a two-week losing streak."},
+    {"source": "The Block", "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000", "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608", "pubDate": "Sat, 24 Oct 2026 17:44:36 +0000", "summary": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows."},
+    {"source": "The Block", "title": "CoinDCX confirms $16 million loss from retired wallets", "url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617", "pubDate": "Sun, 25 Oct 2026 18:46:21 +0000", "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like a false alarm."},
+    {"source": "CryptoSlate", "title": "Pump.fun's biggest winners may be impossible to copy as $752 million study exposes hidden trading gap", "url": "https://cryptoslate.com/pump-funs-biggest-winners-may-be-impossible-to-copy-as-752-million-study-exposes-hidden-trading-gap/", "pubDate": "Sun, 25 Oct 2026 15:50:20 +0000", "summary": "Bitquery's transfer-aware analysis shows why a large address gain can conceal an acquisition a follower cannot reproduce."},
+    {"source": "CryptoSlate", "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales", "url": "https://cryptoslate.com/arthur-hayes-exits-crypto-trading-positions-as-analysts-track-26-million-in-sales/", "pubDate": "Sat, 24 Oct 2026 18:00:27 +0000", "summary": "Arthur Hayes has exited Maelstrom's directional crypto positions, tracking about $26 million in token sales including ETH, ENA, UNI."},
+    {"source": "CoinDesk", "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations", "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations", "pubDate": "Sat, 24 Oct 2026 15:11:24 +0000", "summary": "Bitcoin has sunk to its weakest level in more than one month."}
+  ]
+}
