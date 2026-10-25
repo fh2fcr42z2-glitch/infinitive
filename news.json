@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-25T00:01:32Z",
+  "asof": "2026-10-25T01:01:43Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -33,179 +33,11 @@
   ],
   "items": [
     {
-      "source": "CoinTelegraph",
-      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
-      "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice",
-      "pubDate": "Fri, 23 Oct 2026 21:32:16 +0000",
-      "summary": "As of Friday, 22 companies had filed objections as part of the joint venture's proposed tokenized stock platform under the SEC's innovation exemption."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
-      "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports",
-      "pubDate": "Fri, 23 Oct 2026 20:54:17 +0000",
-      "summary": "The US tax agency is targeting faster resolutions and more flexible payment options for taxpayers voluntarily disclosing past tax violations under a planned program overhaul."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-      "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained",
-      "pubDate": "Fri, 23 Oct 2026 18:39:02 +0000",
-      "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
-      "url": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal",
-      "pubDate": "Fri, 23 Oct 2026 17:42:12 +0000",
-      "summary": "The Democratic senator is seeking details on a reported agreement involving Bo Hines and Tether."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin seeks support above $81K as Brent crude oil hits highest level since March",
-      "url": "https://cointelegraph.com/markets/bitcoin-seeks-support-above-81k-as-brent-crude-oil-hits-highest-level-since-march",
-      "pubDate": "Fri, 23 Oct 2026 15:39:17 +0000",
-      "summary": "Bitcoin dipped below $81,000 as stocks fell and Brent crude hit its highest level since March."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Tether to open physical gold vaults in three new countries",
-      "url": "https://cointelegraph.com/news/tether-physical-gold-vaults-three-countries",
-      "pubDate": "Fri, 23 Oct 2026 14:15:00 +0000",
-      "summary": "The stablecoin issuer is expanding its physical gold storage footprint."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Ethereum Foundation unveils new roadmap focusing on scaling and privacy",
-      "url": "https://decrypt.co/ethereum-foundation-roadmap-scaling-privacy",
-      "pubDate": "Sat, 24 Oct 2026 20:15:00 +0000",
-      "summary": "The foundation outlined priorities for the next phase of Ethereum development."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Solana memecoin activity cools as traders shift to majors",
-      "url": "https://decrypt.co/solana-memecoin-activity-cools",
-      "pubDate": "Sat, 24 Oct 2026 18:40:00 +0000",
-      "summary": "Volume on Solana meme tokens declined over the weekend."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitget reports security incident involving hot wallet",
-      "url": "https://decrypt.co/bitget-security-incident-hot-wallet",
-      "pubDate": "Sat, 24 Oct 2026 16:22:00 +0000",
-      "summary": "Exchange says user funds are safe after detecting unusual activity."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Arthur Hayes reduces crypto exposure amid macro uncertainty",
-      "url": "https://decrypt.co/arthur-hayes-reduces-crypto-exposure",
-      "pubDate": "Sat, 24 Oct 2026 15:05:00 +0000",
-      "summary": "On-chain data shows sales across several holdings."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Stablecoin legislation advances in Senate committee",
-      "url": "https://decrypt.co/stablecoin-legislation-senate",
-      "pubDate": "Fri, 23 Oct 2026 22:10:00 +0000",
-      "summary": "Bipartisan markup session focused on reserve requirements."
-    },
-    {
-      "source": "Decrypt",
-      "title": "NFT market sees modest rebound in weekly volume",
-      "url": "https://decrypt.co/nft-market-rebound",
-      "pubDate": "Fri, 23 Oct 2026 19:30:00 +0000",
-      "summary": "Collections tied to major chains led the recovery."
-    },
-    {
       "source": "The Block",
       "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
-      "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-four-hours-bitcoin-briefly-slips-below-80k",
+      "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
       "pubDate": "Sat, 24 Oct 2026 17:44:36 +0000",
-      "summary": "Liquidations accelerated as bitcoin tested sub-80k levels on weekend geopolitical news."
-    },
-    {
-      "source": "The Block",
-      "title": "Ethereum gas fees drop to multi-month lows",
-      "url": "https://www.theblock.co/news/ethereum-gas-fees-low",
-      "pubDate": "Sat, 24 Oct 2026 16:10:00 +0000",
-      "summary": "Network activity remains subdued over the weekend."
-    },
-    {
-      "source": "The Block",
-      "title": "AERO token sees elevated trading on Base",
-      "url": "https://www.theblock.co/news/aero-token-base",
-      "pubDate": "Sat, 24 Oct 2026 14:55:00 +0000",
-      "summary": "Aerodrome activity picked up relative to other DEX tokens."
-    },
-    {
-      "source": "The Block",
-      "title": "ENA holders monitor liquidations after price dip",
-      "url": "https://www.theblock.co/news/ena-liquidations",
-      "pubDate": "Sat, 24 Oct 2026 13:20:00 +0000",
-      "summary": "Ethena's synthetic dollar token faced pressure with broader market."
-    },
-    {
-      "source": "The Block",
-      "title": "PUMP protocol TVL holds steady despite volatility",
-      "url": "https://www.theblock.co/news/pump-tvl",
-      "pubDate": "Fri, 23 Oct 2026 21:00:00 +0000",
-      "summary": "No major outflows reported in the last 24 hours."
-    },
-    {
-      "source": "The Block",
-      "title": "DRV perpetual volume rises on Hyperliquid",
-      "url": "https://www.theblock.co/news/drv-hyperliquid",
-      "pubDate": "Fri, 23 Oct 2026 18:45:00 +0000",
-      "summary": "Traders positioned around macro headlines."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
-      "url": "https://cryptoslate.com/arthur-hayes-exits-crypto-trading-positions-as-analysts-track-26-million-in-sales/",
-      "pubDate": "Sat, 24 Oct 2026 18:00:27 +0000",
-      "summary": "On-chain tracking shows reductions across multiple holdings."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Bitcoin ETFs record net outflows for third consecutive day",
-      "url": "https://cryptoslate.com/bitcoin-etfs-outflows/",
-      "pubDate": "Sat, 24 Oct 2026 17:15:00 +0000",
-      "summary": "Flows turned negative amid oil price spike and risk-off tone."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "SNAP token community discusses treasury allocation",
-      "url": "https://cryptoslate.com/snap-treasury/",
-      "pubDate": "Sat, 24 Oct 2026 15:40:00 +0000",
-      "summary": "Governance proposal under review for reserve diversification."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Bitget-style exploits remain a concern for CEX hot wallets",
-      "url": "https://cryptoslate.com/bitget-style-exploits/",
-      "pubDate": "Sat, 24 Oct 2026 12:30:00 +0000",
-      "summary": "Security researchers highlight recurring patterns in recent incidents."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Ethereum staking yields hold near 3%",
-      "url": "https://cryptoslate.com/ethereum-staking-yields/",
-      "pubDate": "Fri, 23 Oct 2026 20:00:00 +0000",
-      "summary": "Validator participation remains high."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Market makers adjust inventory after weekend liquidations",
-      "url": "https://cryptoslate.com/market-makers-inventory/",
-      "pubDate": "Fri, 23 Oct 2026 16:25:00 +0000",
-      "summary": "Order book depth thinned temporarily on major pairs."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
-      "url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
-      "pubDate": "Sat, 24 Oct 2026 15:21:06 +0000",
-      "summary": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children's education."
+      "summary": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows, per SoSoValue data."
     },
     {
       "source": "CoinDesk",
@@ -216,17 +48,45 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
-      "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
-      "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "summary": "Some of the world's biggest companies objected to being listed on the first tokenized securities trading venue under the SEC's innovation exemption. But the early pushback may say more about issuer caution than about rejection of tokenization itself."
+      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+      "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+      "pubDate": "Sat, 24 Oct 2026 16:00:00 +0000",
+      "summary": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market."
     },
     {
-      "source": "CoinDesk",
-      "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
-      "url": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
-      "pubDate": "Sat, 24 Oct 2026 14:38:47 +0000",
-      "summary": "The judge found that Milei's promotion of LIBRA did not constitute fraud, despite the attention his support drew to the token."
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million",
+      "pubDate": "Fri, 23 Oct 2026 16:46:36 +0000",
+      "summary": "Bitcoin ETFs recorded heavy outflows after an oil price spike."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained",
+      "pubDate": "Fri, 23 Oct 2026 18:39:02 +0000",
+      "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum."
+    },
+    {
+      "source": "The Block",
+      "title": "Initia halts network after security incident as attacker reportedly mints tokens",
+      "url": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755",
+      "pubDate": "Fri, 23 Oct 2026 17:03:56 +0000",
+      "summary": "Onchain data shows a $2.7 million ether transfer as Initia investigates the scope of a security incident."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
+      "url": "https://cryptoslate.com/arthur-hayes-exits-crypto-trading-positions-as-analysts-track-26-million-in-sales/",
+      "pubDate": "Sat, 24 Oct 2026 18:00:27 +0000",
+      "summary": "Arthur Hayes has exited Maelstrom's directional crypto positions, and on-chain analysts are tracking about $26 million in token sales."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+      "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice",
+      "pubDate": "Fri, 23 Oct 2026 21:32:16 +0000",
+      "summary": "As of Friday, 22 companies had filed objections as part of the joint venture's proposed tokenized stock platform under the SEC's innovation exemption."
     },
     {
       "source": "CoinDesk",
@@ -236,11 +96,109 @@
       "summary": "Six more companies have objected to listing tokenized versions of their stock on the venue, Reuters reported, bringing the total to 22."
     },
     {
+      "source": "Decrypt",
+      "title": "Hong Kong's Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+      "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+      "pubDate": "Sat, 24 Oct 2026 13:01:02 +0000",
+      "summary": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money."
+    },
+    {
+      "source": "The Block",
+      "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no 'criminally relevant deception'",
+      "url": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
+      "pubDate": "Sat, 24 Oct 2026 16:24:13 +0000",
+      "summary": "The judge's 60-page ruling concluded Argentine President Javier Milei's post promoting the LIBRA token did not, by itself, establish fraud."
+    },
+    {
       "source": "CoinDesk",
-      "title": "HSBC rolls out its first stablecoin to over 3 million everyday app users",
-      "url": "https://www.coindesk.com/business/2026/10/23/hsbc-rolls-out-its-first-stablecoin-to-over-3-million-everyday-app-users",
-      "pubDate": "Fri, 23 Oct 2026 10:22:56 +0000",
-      "summary": "HSBC and Standard Chartered-led Anchorpoint received Hong Kong's first stablecoin issuer licenses in April. Anchorpoint began rolling out HKDAP in August."
+      "title": "Argentina drops criminal probe into President Milei over crashed memecoin LIBRA",
+      "url": "https://www.coindesk.com/business/2026/10/24/argentina-drops-criminal-probe-into-president-milei-over-crashed-memecoin-libra",
+      "pubDate": "Sat, 24 Oct 2026 14:38:47 +0000",
+      "summary": "The judge found that Milei's promotion of LIBRA did not constitute fraud, despite the attention his support drew to the token."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Firedancer makes bounty hunters burn 1 SOL even for duplicate bug reports",
+      "url": "https://cryptoslate.com/firedancer-makes-bounty-hunters-burn-1-sol-even-for-duplicate-bug-reports/",
+      "pubDate": "Sat, 24 Oct 2026 21:00:59 +0000",
+      "summary": "The spring contest allowed eligible duplicates to earn rewards, while a retrospective links repeated discoveries partly to slow review."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Circle's new USDC auctions let institutions collect the fees others pay to cash out",
+      "url": "https://cryptoslate.com/circles-new-usdc-auctions-let-institutions-collect-the-fees-others-pay-to-cash-out/",
+      "pubDate": "Sat, 24 Oct 2026 20:00:46 +0000",
+      "summary": "Eligible institutions can collect rebates funded by matched redeemers, whose auction fees are capped at the Express rate."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Kraken drops Monero spending questions but keeps a $1,500 rolling 30-day withdrawal cap for individuals",
+      "url": "https://cryptoslate.com/kraken-drops-monero-spending-questions-but-keeps-a-1500-rolling-30-day-withdrawal-cap-for-individuals/",
+      "pubDate": "Sat, 24 Oct 2026 19:00:37 +0000",
+      "summary": "Crypto exchange Kraken has withdrawn intrusive compliance demands sent to Monero customers after its co-CEO admitted the requests were unjustified."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+      "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports",
+      "pubDate": "Fri, 23 Oct 2026 20:54:17 +0000",
+      "summary": "The US tax agency is targeting faster resolutions and more flexible payment options for taxpayers voluntarily disclosing past tax violations under a planned program overhaul."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Netanyahu Considering Crypto Plan to Dodge Banking Sanctions on Israel",
+      "url": "https://decrypt.co/381758/netanyahu-crypto-plan-banking-sanctions-israel",
+      "pubDate": "Fri, 23 Oct 2026 21:16:03 +0000",
+      "summary": "Days before Israel's election, Netanyahu said he has asked for a blockchain plan in case banks are hit with sanctions."
+    },
+    {
+      "source": "The Block",
+      "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
+      "url": "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792",
+      "pubDate": "Fri, 23 Oct 2026 18:15:55 +0000",
+      "summary": "Netanyahu says blockchain could help Israel prepare for possible sanctions targeting its banking system."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "NY Seeks $1.37 Billion Judgment Against Operators of NovaTech Crypto Ponzi Scheme",
+      "url": "https://bitcoinmagazine.com/news/ny-seeks-1-37-b-judgement-novatech",
+      "pubDate": "Fri, 23 Oct 2026 21:21:46 +0000",
+      "summary": "Two successive crypto frauds took investors for more than $1.1 billion. New York's attorney general is asking a court to make the operators pay it back with interest."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Blockstream Launches Institutional Consulting Services, Opens Lugano Office",
+      "url": "https://bitcoinmagazine.com/news/blockstream-launches-institutional-service",
+      "pubDate": "Fri, 23 Oct 2026 21:20:39 +0000",
+      "summary": "Blockstream will offer its engineering expertise to banks and asset managers from a new Swiss base."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Core Ends Long Embargoes for Bugs AI Can Rediscover",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-core-ends-long-embargoes",
+      "pubDate": "Fri, 23 Oct 2026 17:06:32 +0000",
+      "summary": "Bitcoin Core is adjusting disclosure timelines for vulnerabilities that AI tools can more easily rediscover."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+      "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+      "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
+      "summary": "Some of the world's biggest companies objected to being listed on the first tokenized securities trading venue under the SEC's innovation exemption."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US senator probes Tether after reported deal with ex-Trump crypto adviser",
+      "url": "https://cointelegraph.com/news/us-senator-probe-bo-hines-trump-crypto-adviser-tether-deal",
+      "pubDate": "Fri, 23 Oct 2026 17:42:12 +0000",
+      "summary": "The Democratic senator is seeking details on a reported agreement involving Bo Hines and Tether."
+    },
+    {
+      "source": "The Block",
+      "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+      "url": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
+      "pubDate": "Fri, 23 Oct 2026 17:46:09 +0000",
+      "summary": "Sen. Blumenthal said he wants answers from Tether following reports that it paid millions to a firm started by a former WH crypto adviser."
     }
   ]
 }
