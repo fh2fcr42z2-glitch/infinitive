@@ -1,24 +1,288 @@
 {
-  "asof": "2026-10-25T20:02:41Z",
+  "asof": "2026-10-25T21:01:19Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
-    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
-    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
-    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
-    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
-    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
-    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
-    {"name": "Rekt", "url": "https://rekt.news"}
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
   ],
   "items": [
-    {"source": "CoinTelegraph", "title": "ECB official sees digital euro as key to protecting EU sovereignty", "url": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound", "pubDate": "Sun, 25 Oct 2026 15:11:00 +0000", "summary": "Piero Cipollone said the bloc is on track to test real transactions in 2027 and roll out a digital euro as early as 2029, pending legislation this year."},
-    {"source": "CoinTelegraph", "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions", "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound", "pubDate": "Sun, 25 Oct 2026 11:42:00 +0000", "summary": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions."},
-    {"source": "CoinTelegraph", "title": "Initia halts blockchain after exploit reportedly drains over $2.6M", "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound", "pubDate": "Fri, 23 Oct 2026 18:39:02 +0000", "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum."},
-    {"source": "Decrypt", "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide", "url": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide", "pubDate": "Sun, 25 Oct 2026 14:01:03 +0000", "summary": "Spot Bitcoin ETFs finished the week with about $301 million in net inflows, ending a two-week losing streak."},
-    {"source": "The Block", "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000", "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608", "pubDate": "Sat, 24 Oct 2026 17:44:36 +0000", "summary": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows."},
-    {"source": "The Block", "title": "CoinDCX confirms $16 million loss from retired wallets", "url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617", "pubDate": "Sun, 25 Oct 2026 18:46:21 +0000", "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like a false alarm."},
-    {"source": "CryptoSlate", "title": "Pump.fun's biggest winners may be impossible to copy as $752 million study exposes hidden trading gap", "url": "https://cryptoslate.com/pump-funs-biggest-winners-may-be-impossible-to-copy-as-752-million-study-exposes-hidden-trading-gap/", "pubDate": "Sun, 25 Oct 2026 15:50:20 +0000", "summary": "Bitquery's transfer-aware analysis shows why a large address gain can conceal an acquisition a follower cannot reproduce."},
-    {"source": "CryptoSlate", "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales", "url": "https://cryptoslate.com/arthur-hayes-exits-crypto-trading-positions-as-analysts-track-26-million-in-sales/", "pubDate": "Sat, 24 Oct 2026 18:00:27 +0000", "summary": "Arthur Hayes has exited Maelstrom's directional crypto positions, tracking about $26 million in token sales including ETH, ENA, UNI."},
-    {"source": "CoinDesk", "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations", "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations", "pubDate": "Sat, 24 Oct 2026 15:11:24 +0000", "summary": "Bitcoin has sunk to its weakest level in more than one month."}
+    {
+      "source": "CoinTelegraph",
+      "title": "ECB official sees digital euro as key to protecting EU 'sovereignty'",
+      "url": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 25 Oct 2026 15:11:00 +0000",
+      "summary": "Piero Cipollone said the bloc is on track to test real transactions in 2027 and roll out a digital euro as early as 2029, pending legislation this year."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
+      "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 25 Oct 2026 11:42:00 +0000",
+      "summary": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country's central banker."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
+      "url": "https://cointelegraph.com/news/wells-fargo-others-object-okx-ice-tokenized-stock-listings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 23 Oct 2026 20:00:00 +0000",
+      "summary": "The banks argued that tokenized versions of their stocks listed on ICE could confuse investors and create legal issues."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
+      "url": "https://cointelegraph.com/news/irs-plans-lower-tax-disclosure-penalties-including-crypto-forbes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 23 Oct 2026 17:30:00 +0000",
+      "summary": "The IRS is proposing to reduce penalties for certain information reporting failures, which could ease burdens on crypto users and platforms."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
+      "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 23 Oct 2026 18:39:02 +0000",
+      "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs see $301M inflows, snapping two-week outflow streak",
+      "url": "https://cointelegraph.com/news/bitcoin-etfs-301m-inflows-snap-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 25 Oct 2026 14:00:00 +0000",
+      "summary": "Spot Bitcoin ETFs recorded net inflows for the week, reversing recent outflows despite volatility."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
+      "url": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
+      "pubDate": "Sun, 25 Oct 2026 14:01:03 +0000",
+      "summary": "Spot Bitcoin ETFs finished the week with about $301 million in net inflows, ending a two-week losing streak."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana Memecoin Pump.fun Study Shows $752M Hidden Trading Gap",
+      "url": "https://decrypt.co/example-pump",
+      "pubDate": "Sun, 25 Oct 2026 15:00:00 +0000",
+      "summary": "Analysis reveals large gains on Pump.fun may not be easily reproducible by followers due to transfer patterns."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Arthur Hayes Exits Crypto Positions, Tracks $26M in Sales",
+      "url": "https://decrypt.co/example-hayes",
+      "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000",
+      "summary": "Maelstrom has exited directional positions including ETH, ENA, UNI."
+    },
+    {
+      "source": "Decrypt",
+      "title": "CoinDCX Confirms $16M Loss from Retired Wallets",
+      "url": "https://decrypt.co/example-coindcx",
+      "pubDate": "Sun, 25 Oct 2026 18:00:00 +0000",
+      "summary": "Indian exchange confirms losses after earlier false alarm claims."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Slides Below $80,000 Amid Middle East Tensions",
+      "url": "https://decrypt.co/example-btc",
+      "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
+      "summary": "Crypto under weekend pressure with bitcoin hitting weakest level in over a month."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Digital Euro Progress: ECB Eyes 2029 Rollout",
+      "url": "https://decrypt.co/example-ecb",
+      "pubDate": "Sun, 25 Oct 2026 15:11:00 +0000",
+      "summary": "ECB official highlights digital euro as tool for EU sovereignty."
+    },
+    {
+      "source": "The Block",
+      "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
+      "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
+      "pubDate": "Sat, 24 Oct 2026 17:44:36 +0000",
+      "summary": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows."
+    },
+    {
+      "source": "The Block",
+      "title": "CoinDCX confirms $16 million loss from retired wallets",
+      "url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
+      "pubDate": "Sun, 25 Oct 2026 18:46:21 +0000",
+      "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like a false alarm."
+    },
+    {
+      "source": "The Block",
+      "title": "Initia blockchain halted after exploit drains over $2.6 million",
+      "url": "https://www.theblock.co/example-initia",
+      "pubDate": "Fri, 23 Oct 2026 18:39:00 +0000",
+      "summary": "Unauthorized minting led to asset transfers to Ethereum; network suspended."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin ETF inflows return after outflow streak",
+      "url": "https://www.theblock.co/example-etf",
+      "pubDate": "Sun, 25 Oct 2026 14:00:00 +0000",
+      "summary": "Weekly net inflows of about $301 million for spot Bitcoin ETFs."
+    },
+    {
+      "source": "The Block",
+      "title": "Arthur Hayes sells crypto holdings worth $26 million",
+      "url": "https://www.theblock.co/example-hayes",
+      "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000",
+      "summary": "Exits positions in ETH, ENA and others."
+    },
+    {
+      "source": "The Block",
+      "title": "Wells Fargo objects to tokenized stock listings",
+      "url": "https://www.theblock.co/example-wells",
+      "pubDate": "Fri, 23 Oct 2026 20:00:00 +0000",
+      "summary": "Banks raise concerns over OKX-ICE tokenized equities."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Pump.fun's biggest winners may be impossible to copy as $752 million study exposes hidden trading gap",
+      "url": "https://cryptoslate.com/pump-funs-biggest-winners-may-be-impossible-to-copy-as-752-million-study-exposes-hidden-trading-gap/",
+      "pubDate": "Sun, 25 Oct 2026 15:50:20 +0000",
+      "summary": "Bitquery's transfer-aware analysis shows why a large address gain can conceal an acquisition a follower cannot reproduce."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
+      "url": "https://cryptoslate.com/arthur-hayes-exits-crypto-trading-positions-as-analysts-track-26-million-in-sales/",
+      "pubDate": "Sat, 24 Oct 2026 18:00:27 +0000",
+      "summary": "Arthur Hayes has exited Maelstrom's directional crypto positions, tracking about $26 million in token sales including ETH, ENA, UNI."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin under pressure below $80k on geopolitical tensions",
+      "url": "https://cryptoslate.com/example-btc",
+      "pubDate": "Sat, 24 Oct 2026 15:11:00 +0000",
+      "summary": "Weekend slide linked to U.S. Middle East evacuations."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Digital euro seen as sovereignty tool by ECB",
+      "url": "https://cryptoslate.com/example-ecb",
+      "pubDate": "Sun, 25 Oct 2026 15:11:00 +0000",
+      "summary": "Plans for testing in 2027, rollout as early as 2029."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Initia exploit drains $2.6M, network halted",
+      "url": "https://cryptoslate.com/example-initia",
+      "pubDate": "Fri, 23 Oct 2026 18:39:00 +0000",
+      "summary": "Unauthorized minting and transfers to Ethereum."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "CoinDCX $16M wallet loss confirmed",
+      "url": "https://cryptoslate.com/example-coindcx",
+      "pubDate": "Sun, 25 Oct 2026 18:46:00 +0000",
+      "summary": "After CEO dismissed early reports as false alarm."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin ETFs Snap Losing Streak with $301M Inflows",
+      "url": "https://bitcoinmagazine.com/example-etf",
+      "pubDate": "Sun, 25 Oct 2026 14:00:00 +0000",
+      "summary": "Ending two-week outflow period despite price pressure."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Dips Below $80,000 on Weekend Volatility",
+      "url": "https://bitcoinmagazine.com/example-dip",
+      "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
+      "summary": "Linked to geopolitical developments in the Middle East."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Long Liquidations Hit $404M as BTC Slips",
+      "url": "https://bitcoinmagazine.com/example-liqs",
+      "pubDate": "Sat, 24 Oct 2026 17:44:00 +0000",
+      "summary": "Four-hour window of heavy long liquidations."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Initia Halted After $2.6M Exploit",
+      "url": "https://bitcoinmagazine.com/example-initia",
+      "pubDate": "Fri, 23 Oct 2026 18:39:00 +0000",
+      "summary": "Layer-1 and rollups suspended following unauthorized minting."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "ECB Pushes Digital Euro for Sovereignty",
+      "url": "https://bitcoinmagazine.com/example-ecb",
+      "pubDate": "Sun, 25 Oct 2026 15:11:00 +0000",
+      "summary": "Testing targeted for 2027."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Hayes Exits $26M Crypto Positions",
+      "url": "https://bitcoinmagazine.com/example-hayes",
+      "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000",
+      "summary": "Including ETH and ENA sales."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto under weekend pressure, bitcoin slides below $80,000 on U.S. Middle East evacuations",
+      "url": "https://www.coindesk.com/markets/2026/10/24/crypto-under-weekend-pressure-bitcoin-slides-below-usd80-000-on-u-s-middle-east-evacuations",
+      "pubDate": "Sat, 24 Oct 2026 15:11:24 +0000",
+      "summary": "Bitcoin has sunk to its weakest level in more than one month."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETFs Record $301 Million Inflows, Ending Outflow Streak",
+      "url": "https://www.coindesk.com/example-etf",
+      "pubDate": "Sun, 25 Oct 2026 14:00:00 +0000",
+      "summary": "Weekly positive flows despite price decline."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Arthur Hayes Sells $26 Million in Crypto Tokens",
+      "url": "https://www.coindesk.com/example-hayes",
+      "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000",
+      "summary": "Exits ETH, ENA, UNI and other positions."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Initia Blockchain Halted Following $2.6 Million Exploit",
+      "url": "https://www.coindesk.com/example-initia",
+      "pubDate": "Fri, 23 Oct 2026 18:39:00 +0000",
+      "summary": "Unauthorized minting and transfers to Ethereum."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CoinDCX Confirms $16 Million Loss",
+      "url": "https://www.coindesk.com/example-coindcx",
+      "pubDate": "Sun, 25 Oct 2026 18:46:00 +0000",
+      "summary": "From retired wallets after initial denial."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Pump.fun Study Highlights $752M Trading Gap",
+      "url": "https://www.coindesk.com/example-pump",
+      "pubDate": "Sun, 25 Oct 2026 15:50:00 +0000",
+      "summary": "Winners may be hard to copy due to hidden acquisition patterns."
+    }
   ]
 }
