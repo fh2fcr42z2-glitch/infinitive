@@ -1,1 +1,288 @@
-PLACEHOLDER_WILL_REPLACE
+{
+  "asof": "2026-10-26T20:01:58Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Canada opens consultation on stablecoins, citing US GENIUS Act",
+      "url": "https://cointelegraph.com/news/canada-consultation-stablecoins-genius-act",
+      "pubDate": "Mon, 26 Oct 2026 19:47:40 +0000",
+      "summary": "As part of the potential implementation of its Stablecoin Act, the Canadian government will hear from the public on a proposed framework for tokens from non-financial institutions."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "AI company Anthropic announces IPO, expected as early as November",
+      "url": "https://cointelegraph.com/news/anthropic-artificial-intelligence-ipo",
+      "pubDate": "Mon, 26 Oct 2026 18:42:41 +0000",
+      "summary": "The artificial intelligence company disclosed more than $16 billion in revenue and an $80 billion net loss for the first half of 2026."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "NBA names Kalshi, Polymarket preferred exchanges, signs CFTC deal",
+      "url": "https://cointelegraph.com/news/nba-names-kalshi-polymarket-preferred-exchanges-signs-cftc-deal",
+      "pubDate": "Mon, 26 Oct 2026 17:46:09 +0000",
+      "summary": "The US professional basketball league is expanding into prediction markets with official data agreements and safeguards against insider trading."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
+      "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029",
+      "pubDate": "Mon, 26 Oct 2026 16:18:09 +0000",
+      "summary": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
+      "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets",
+      "pubDate": "Mon, 26 Oct 2026 15:54:15 +0000",
+      "summary": "The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "PHP flaw shows AI 'vulnerability apocalypse' is on schedule: Immunefi CEO",
+      "url": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo",
+      "pubDate": "Mon, 26 Oct 2026 14:25:22 +0000",
+      "summary": "Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly smaller websites slower to adopt the emergency upgrades."
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Agents Found a Way Into Anthropic's Business Systems in Under 12 Hours",
+      "url": "https://decrypt.co/381860/ai-agents-hack-anthropic-business-systems-12-hours",
+      "pubDate": "Mon, 26 Oct 2026 19:31:02 +0000",
+      "summary": "Cathedral, a startup founded by ex-DOGE staffers, says its AI agents found paths into Anthropic's sales, HR, and IT systems through third-party software."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why Prediction Markets Got the Brazilian Election So Wrong",
+      "url": "https://decrypt.co/381858/why-prediction-markets-got-brazilian-election-wrong",
+      "pubDate": "Mon, 26 Oct 2026 18:46:03 +0000",
+      "summary": "Experts say Brazil's prediction market ban left the odds in the hands of traders with little knowledge about the election."
+    },
+    {
+      "source": "Decrypt",
+      "title": "SpaceX Locks Up $40 Billion for AI Chips as Musk Warns Most Neoclouds Will Die",
+      "url": "https://decrypt.co/381848/spacex-40-billion-ai-chips-elon-musk-warns-most-neoclouds-will-die",
+      "pubDate": "Mon, 26 Oct 2026 18:16:02 +0000",
+      "summary": "Elon Musk says SpaceX closed a $40 billion chip deal with Apollo while lenders shut the door on smaller AI cloud firms, a split that could decide who controls computing."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
+      "url": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
+      "pubDate": "Mon, 26 Oct 2026 17:41:21 +0000",
+      "summary": "A confirmed exploit let rogue servers replace Electrum’s pending transactions, tricking users into redirecting Bitcoin to attacker addresses."
+    },
+    {
+      "source": "Decrypt",
+      "title": "India’s CoinDCX Confirms $16 Million Loss Days After CEO Called It a ‘False Alarm’",
+      "url": "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
+      "pubDate": "Mon, 26 Oct 2026 16:36:03 +0000",
+      "summary": "The Mumbai-based exchange says 15.99 million USDT was drained from wallets it retired after last year’s $44 million hack, bringing its combined losses to nearly $60 million—and it’s absorbing the hit."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Brazil’s Stock Market Crashes After Lula’s Upset Victory",
+      "url": "https://decrypt.co/381828/brazil-stock-market-crashes-lula-upset-victory",
+      "pubDate": "Mon, 26 Oct 2026 16:04:51 +0000",
+      "summary": "The iShares Brazil ETF fell as much as 26% after Lula da Silva beat Flávio Bolsonaro, who prediction markets had at 80%, while the dollar jumped as much as 12% against the real."
+    },
+    {
+      "source": "The Block",
+      "title": "CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell",
+      "url": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790",
+      "pubDate": "Mon, 26 Oct 2026 19:43:47 +0000",
+      "summary": "CZ sees AI driving crypto use, while BNB Standard plans to expand beyond holding tokens in its treasury."
+    },
+    {
+      "source": "The Block",
+      "title": "Hyperliquid says Kraken parent Payward to be first CFTC-regulated HIP-3 deployer",
+      "url": "https://www.theblock.co/news/markets/2026-10-26-hyperliquid-payward-kraken-cftc-regulated-hip-3-deployer-431787",
+      "pubDate": "Mon, 26 Oct 2026 18:21:17 +0000",
+      "summary": "Hyperliquid plans to make Kraken parent Payward the first CFTC-regulated HIP-3 deployer, a step toward regulated U.S. perpetual futures."
+    },
+    {
+      "source": "The Block",
+      "title": "Y Combinator-backed Mochatrade raises $5.5 million to offer US stock perpetuals to Indian traders",
+      "url": "https://www.theblock.co/news/deals/2026-10-26-y-combinator-mochatrade-funding-crypto-431775",
+      "pubDate": "Mon, 26 Oct 2026 17:55:02 +0000",
+      "summary": "The platform is in beta and plans to open to the public in the coming weeks, co-founder Chetan Manda told The Block."
+    },
+    {
+      "source": "The Block",
+      "title": "Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle",
+      "url": "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750",
+      "pubDate": "Mon, 26 Oct 2026 16:36:43 +0000",
+      "summary": "Bernstein cuts Coinbase’s target while raising Circle’s as new products shift their earnings outlook."
+    },
+    {
+      "source": "The Block",
+      "title": "NBA becomes third league to sign CFTC prediction market pact, taps Kalshi and Polymarket",
+      "url": "https://www.theblock.co/news/regulation/2026-10-26-nba-cftc-memorandum-of-understanding-prediction-markets-kalshi-polymarket-431764",
+      "pubDate": "Mon, 26 Oct 2026 16:27:37 +0000",
+      "summary": "The CFTC and NBA have agreed to put in place standards to protect the integrity of the game when it comes to prediction markets."
+    },
+    {
+      "source": "The Block",
+      "title": "Tom Lee insists ‘crypto bull market is underway’ as Bitmine adds 10,452 ETH",
+      "url": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
+      "pubDate": "Mon, 26 Oct 2026 14:12:59 +0000",
+      "summary": "The company's combined crypto, cash, marketable securities, and other investments totaled $15 billion as of Oct. 25."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Ripple connects XRP Ledger to a 22 billion investment giant while chasing the next wave of corporate money",
+      "url": "https://cryptoslate.com/ripple-connects-xrp-ledger-to-a-22-billion-investment-giant-while-chasing-the-next-wave-of-corporate-money/",
+      "pubDate": "Mon, 26 Oct 2026 19:50:14 +0000",
+      "summary": "Ripple expanded its institutional reach Monday as Aviva added another tokenized fund share class to the XRP Ledger (XRPL). The British asset manager invested 50 million ($66 million) in a blockchain-based share class of its Sterling Liquidity Fund, bringing its combined investments across two XRP Ledger offerings to more than 86 million ($116 million)."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Strategy makes record $205 million STRC buyback as Strive spends $511 million on Bitcoin",
+      "url": "https://cryptoslate.com/strategy-makes-record-205-million-strc-buyback-as-strive-spends-511-million-on-bitcoin/",
+      "pubDate": "Mon, 26 Oct 2026 18:40:26 +0000",
+      "summary": "Bitcoin treasury firms Strategy and Strive made record purchases last week, but directed their capital toward different assets. While Michael Saylor's Strategy intensified its preferred-stock buybacks, Strive accelerated its Bitcoin accumulation, highlighting diverging priorities."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Treasury dealers’ net bill holdings hit a two-year high as October 30 funding pressure nears",
+      "url": "https://cryptoslate.com/bitcoins-liquidity-test-shifts-to-treasury-dealers-two-year-high-in-bill-holdings/",
+      "pubDate": "Mon, 26 Oct 2026 16:00:30 +0000",
+      "summary": "FHLBNY’s October 23 update puts dealer financing capacity in focus ahead of October 30, while Bitcoin spillover remains conditional."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Circle gives its Bitcoin-backed token one balance across Ethereum and Arc",
+      "url": "https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/",
+      "pubDate": "Mon, 26 Oct 2026 15:00:40 +0000",
+      "summary": "Gateway gives cirBTC holders a shared balance, with advertised fast access after deposit finality and a separate seven-day fallback exit."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin faces an inflation warning beneath steady US consumer sentiment",
+      "url": "https://cryptoslate.com/bitcoin-faces-an-inflation-warning-beneath-steady-us-consumer-sentiment/",
+      "pubDate": "Mon, 26 Oct 2026 14:00:14 +0000",
+      "summary": "Michigan’s new historical comparison finds elevated long-run expectations that could complicate easier financing conditions for Bitcoin."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Hackers found a way to steal Bitcoin without private keys",
+      "url": "https://cryptoslate.com/hackers-found-a-way-to-steal-bitcoin-without-private-keys/",
+      "pubDate": "Mon, 26 Oct 2026 09:30:56 +0000",
+      "summary": "Version 4.8.3 fixes a malicious-server attack that can turn a manual fee increase into approval of an attacker-directed payment."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Holds Above $110K as Traders Eye Key Support Levels",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-above-110k",
+      "pubDate": "Mon, 26 Oct 2026 19:00:00 +0000",
+      "summary": "Bitcoin consolidates near recent highs with analysts watching for potential breakouts or deeper corrections amid macro uncertainty."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Strategy Pauses Bitcoin Buys Amid Preferred Share Buybacks",
+      "url": "https://bitcoinmagazine.com/markets/strategy-pauses-bitcoin-buys",
+      "pubDate": "Mon, 26 Oct 2026 18:00:00 +0000",
+      "summary": "Michael Saylor's firm focused on STRC preferred stock repurchases this week instead of adding to its BTC treasury."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Electrum Wallet Patches Critical Transaction Redirect Vulnerability",
+      "url": "https://bitcoinmagazine.com/technical/electrum-wallet-patches-vulnerability",
+      "pubDate": "Mon, 26 Oct 2026 17:00:00 +0000",
+      "summary": "Users urged to update to version 4.8.3 to prevent attackers from hijacking pending payments via malicious servers."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Institutional Adoption Continues as Aviva Tokenizes on XRP Ledger",
+      "url": "https://bitcoinmagazine.com/business/aviva-tokenizes-xrp-ledger",
+      "pubDate": "Mon, 26 Oct 2026 16:00:00 +0000",
+      "summary": "British asset manager adds another tokenized fund class, expanding institutional presence on XRPL."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Treasury Firms Diverge: Strategy Buybacks vs Strive Accumulation",
+      "url": "https://bitcoinmagazine.com/markets/strategy-vs-strive-bitcoin-treasury",
+      "pubDate": "Mon, 26 Oct 2026 15:00:00 +0000",
+      "summary": "While Strategy bought back preferred shares, Strive continued aggressive BTC purchases highlighting different capital allocation strategies."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "PHP Vulnerability Raises Concerns for Bitcoin-Related Web Infrastructure",
+      "url": "https://bitcoinmagazine.com/technical/php-vulnerability-bitcoin-infrastructure",
+      "pubDate": "Mon, 26 Oct 2026 14:00:00 +0000",
+      "summary": "Critical flaw demonstrated exploitable, prompting calls for rapid patching across sites handling crypto operations."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines",
+      "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines",
+      "pubDate": "Mon, 26 Oct 2026 16:05:12 +0000",
+      "summary": "The Ethereum treasury firm spent $46 million buying back shares as Chairman Tom Lee said crypto has held up better than AI stocks during the recent market pullback."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "NBA joins pro sports leagues on CFTC prediction markets bandwagon while NFL balks",
+      "url": "https://www.coindesk.com/policy/2026/10/26/nba-joins-pro-sports-leagues-on-cftc-prediction-markets-bandwagon-while-nfl-balks",
+      "pubDate": "Mon, 26 Oct 2026 15:59:55 +0000",
+      "summary": "The U.S. derivatives regulator, which has championed the arrival of prediction market firms such as Kalshi, has been gathering allied sports leagues."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OCC calls on community banks to enter the stablecoin payments market",
+      "url": "https://www.coindesk.com/policy/2026/10/26/occ-calls-on-community-banks-to-enter-the-stablecoin-payments-market",
+      "pubDate": "Mon, 26 Oct 2026 15:45:51 +0000",
+      "summary": "The U.S. banking regulator is encouraging smaller lenders to develop stablecoin services as new federal licensing requirements approach."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
+      "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
+      "pubDate": "Mon, 26 Oct 2026 14:51:07 +0000",
+      "summary": "Officials are concerned users of domestic exchanges would bear the tax burden because the U.S. won't share crypto trading data until 2029."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Canada opens consultation on draft stablecoin rules, maintains ban on yields",
+      "url": "https://www.coindesk.com/policy/2026/10/26/canada-opens-consultation-on-draft-stablecoin-rules-maintains-ban-on-yields",
+      "pubDate": "Mon, 26 Oct 2026 14:23:41 +0000",
+      "summary": "Under the draft rules, non-bank stablecoin issuers must back tokens 1:1 with reserves held at qualified Canadian institutions and settle redemptions within three business days."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "AI giant Anthropic files for blockbuster IPO",
+      "url": "https://www.coindesk.com/business/2026/10/26/ai-giant-anthropic-files-for-blockbuster-ipo",
+      "pubDate": "Mon, 26 Oct 2026 13:22:09 +0000",
+      "summary": "The maker of Claude reported $16.3 billion in first-half revenue and an $80.7 billion net loss as it aims to price its offering in mid-November."
+    }
+  ]
+}
