@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-26T20:01:58Z",
+  "asof": "2026-10-26T21:01:40Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -69,10 +69,24 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "PHP flaw shows AI 'vulnerability apocalypse' is on schedule: Immunefi CEO",
+      "title": "PHP flaw shows AI \u2018vulnerability apocalypse\u2019 is on schedule: Immunefi CEO",
       "url": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo",
       "pubDate": "Mon, 26 Oct 2026 14:25:22 +0000",
       "summary": "Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly smaller websites slower to adopt the emergency upgrades."
+    },
+    {
+      "source": "Decrypt",
+      "title": "NBA Embraces the CFTC on Prediction Markets as the NFL Fights It in Court",
+      "url": "https://decrypt.co/381864/nba-cftc-prediction-markets-nfl-fights-court",
+      "pubDate": "Mon, 26 Oct 2026 20:36:03 +0000",
+      "summary": "The agreement, which follows similar deals with MLB and NHL, establishes information-sharing to guard against insider trading as sports betting migrates to CFTC-regulated venues."
+    },
+    {
+      "source": "Decrypt",
+      "title": "South Korea Arrests Seven in First Big AI-Assisted Hacking Case",
+      "url": "https://decrypt.co/381862/south-korea-arrests-seven-first-big-ai-hacking-case",
+      "pubDate": "Mon, 26 Oct 2026 20:06:02 +0000",
+      "summary": "Police in Seoul say a 32-year-old with no IT background used AI tools to break into about 90 hospitals, schools and companies, then pressed victims for roughly $270,000 combined."
     },
     {
       "source": "Decrypt",
@@ -100,25 +114,11 @@
       "title": "Bitcoin Wallet Fixes Critical Flaw That Redirected Funds to Attackers",
       "url": "https://decrypt.co/381844/bitcoin-wallet-flaw-trick-users-paying-attackers",
       "pubDate": "Mon, 26 Oct 2026 17:41:21 +0000",
-      "summary": "A confirmed exploit let rogue servers replace Electrum’s pending transactions, tricking users into redirecting Bitcoin to attacker addresses."
-    },
-    {
-      "source": "Decrypt",
-      "title": "India’s CoinDCX Confirms $16 Million Loss Days After CEO Called It a ‘False Alarm’",
-      "url": "https://decrypt.co/381834/india-coindcx-confirms-16-million-loss-ceo-called-false-alarm",
-      "pubDate": "Mon, 26 Oct 2026 16:36:03 +0000",
-      "summary": "The Mumbai-based exchange says 15.99 million USDT was drained from wallets it retired after last year’s $44 million hack, bringing its combined losses to nearly $60 million—and it’s absorbing the hit."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Brazil’s Stock Market Crashes After Lula’s Upset Victory",
-      "url": "https://decrypt.co/381828/brazil-stock-market-crashes-lula-upset-victory",
-      "pubDate": "Mon, 26 Oct 2026 16:04:51 +0000",
-      "summary": "The iShares Brazil ETF fell as much as 26% after Lula da Silva beat Flávio Bolsonaro, who prediction markets had at 80%, while the dollar jumped as much as 12% against the real."
+      "summary": "A confirmed exploit let rogue servers replace Electrum\u2019s pending transactions, tricking users into redirecting Bitcoin to attacker addresses."
     },
     {
       "source": "The Block",
-      "title": "CZ pitches BNB Chain’s role in AI as BNB Standard rings Nasdaq bell",
+      "title": "CZ pitches BNB Chain\u2019s role in AI as BNB Standard rings Nasdaq bell",
       "url": "https://www.theblock.co/news/ecosystems/2026-10-26-cz-pitches-bnb-chains-role-ai-bnb-standard-rings-nasdaq-bell-431790",
       "pubDate": "Mon, 26 Oct 2026 19:43:47 +0000",
       "summary": "CZ sees AI driving crypto use, while BNB Standard plans to expand beyond holding tokens in its treasury."
@@ -139,10 +139,10 @@
     },
     {
       "source": "The Block",
-      "title": "Prediction markets and derivatives drive Bernstein’s crypto stock outlook for Coinbase, Robinhood and Circle",
+      "title": "Prediction markets and derivatives drive Bernstein\u2019s crypto stock outlook for Coinbase, Robinhood and Circle",
       "url": "https://www.theblock.co/news/markets/2026-10-26-prediction-markets-derivatives-drive-bernstein-crypto-stock-outlook-coinbase-robinhood-circle-431750",
       "pubDate": "Mon, 26 Oct 2026 16:36:43 +0000",
-      "summary": "Bernstein cuts Coinbase’s target while raising Circle’s as new products shift their earnings outlook."
+      "summary": "Bernstein cuts Coinbase\u2019s target while raising Circle\u2019s as new products shift their earnings outlook."
     },
     {
       "source": "The Block",
@@ -153,7 +153,7 @@
     },
     {
       "source": "The Block",
-      "title": "Tom Lee insists ‘crypto bull market is underway’ as Bitmine adds 10,452 ETH",
+      "title": "Tom Lee insists \u2018crypto bull market is underway\u2019 as Bitmine adds 10,452 ETH",
       "url": "https://www.theblock.co/news/business/2026-10-26-tom-lee-insists-crypto-bull-market-is-underway-as-bitmine-adds-10452-eth-431743",
       "pubDate": "Mon, 26 Oct 2026 14:12:59 +0000",
       "summary": "The company's combined crypto, cash, marketable securities, and other investments totaled $15 billion as of Oct. 25."
@@ -174,10 +174,10 @@
     },
     {
       "source": "CryptoSlate",
-      "title": "Treasury dealers’ net bill holdings hit a two-year high as October 30 funding pressure nears",
+      "title": "Treasury dealers\u2019 net bill holdings hit a two-year high as October 30 funding pressure nears",
       "url": "https://cryptoslate.com/bitcoins-liquidity-test-shifts-to-treasury-dealers-two-year-high-in-bill-holdings/",
       "pubDate": "Mon, 26 Oct 2026 16:00:30 +0000",
-      "summary": "FHLBNY’s October 23 update puts dealer financing capacity in focus ahead of October 30, while Bitcoin spillover remains conditional."
+      "summary": "FHLBNY\u2019s October 23 update puts dealer financing capacity in focus ahead of October 30, while Bitcoin spillover remains conditional."
     },
     {
       "source": "CryptoSlate",
@@ -191,56 +191,56 @@
       "title": "Bitcoin faces an inflation warning beneath steady US consumer sentiment",
       "url": "https://cryptoslate.com/bitcoin-faces-an-inflation-warning-beneath-steady-us-consumer-sentiment/",
       "pubDate": "Mon, 26 Oct 2026 14:00:14 +0000",
-      "summary": "Michigan’s new historical comparison finds elevated long-run expectations that could complicate easier financing conditions for Bitcoin."
+      "summary": "Michigan\u2019s new historical comparison finds elevated long-run expectations that could complicate easier financing conditions for Bitcoin."
     },
     {
       "source": "CryptoSlate",
-      "title": "Hackers found a way to steal Bitcoin without private keys",
-      "url": "https://cryptoslate.com/hackers-found-a-way-to-steal-bitcoin-without-private-keys/",
+      "title": "BTCPay\u2019s API key fix is merged, but its latest release still predates the patch",
+      "url": "https://cryptoslate.com/btcpay-api-key-fix-merged-latest-release-predates-patch/",
       "pubDate": "Mon, 26 Oct 2026 09:30:56 +0000",
-      "summary": "Version 4.8.3 fixes a malicious-server attack that can turn a manual fee increase into approval of an attacker-directed payment."
+      "summary": "The October 19 merge restricts broad store-scoped grants, while the latest listed release still predates the change."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Bitcoin Price Holds Above $110K as Traders Eye Key Support Levels",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-above-110k",
+      "title": "Coinbase Institutional Co-CEO: Bitcoin\u2019s \u201cSecond Wave\u201d of Institutional Capital has Arrived",
+      "url": "https://bitcoinmagazine.com/markets/coinbase-institutional-bitcoin-second-wave",
       "pubDate": "Mon, 26 Oct 2026 19:00:00 +0000",
-      "summary": "Bitcoin consolidates near recent highs with analysts watching for potential breakouts or deeper corrections amid macro uncertainty."
+      "summary": "Seven mega banks and asset managers are now allocating to Bitcoin, according to Coinbase Institutional."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Strategy Pauses Bitcoin Buys Amid Preferred Share Buybacks",
-      "url": "https://bitcoinmagazine.com/markets/strategy-pauses-bitcoin-buys",
+      "title": "Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-hovers-near-80000",
       "pubDate": "Mon, 26 Oct 2026 18:00:00 +0000",
-      "summary": "Michael Saylor's firm focused on STRC preferred stock repurchases this week instead of adding to its BTC treasury."
+      "summary": "Bitcoin price hovers near $80,000 as traders wait on this week\u2019s Fed decision amid mixed macro signals."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Electrum Wallet Patches Critical Transaction Redirect Vulnerability",
-      "url": "https://bitcoinmagazine.com/technical/electrum-wallet-patches-vulnerability",
+      "title": "Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock",
+      "url": "https://bitcoinmagazine.com/markets/strategy-pauses-bitcoin-buying-preferred-stock",
       "pubDate": "Mon, 26 Oct 2026 17:00:00 +0000",
-      "summary": "Users urged to update to version 4.8.3 to prevent attackers from hijacking pending payments via malicious servers."
+      "summary": "Strategy skipped bitcoin buys for the week of October 20 and instead spent $205 million repurchasing preferred shares."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Institutional Adoption Continues as Aviva Tokenizes on XRP Ledger",
-      "url": "https://bitcoinmagazine.com/business/aviva-tokenizes-xrp-ledger",
+      "title": "Bitcoin\u2019s Bear Market Is Over, Galaxy Says",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-bear-market-over-galaxy",
       "pubDate": "Mon, 26 Oct 2026 16:00:00 +0000",
-      "summary": "British asset manager adds another tokenized fund class, expanding institutional presence on XRPL."
+      "summary": "Galaxy Research says that bitcoin\u2019s bear market ended at the June low."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Bitcoin Treasury Firms Diverge: Strategy Buybacks vs Strive Accumulation",
-      "url": "https://bitcoinmagazine.com/markets/strategy-vs-strive-bitcoin-treasury",
+      "title": "South Korea Weighs Fourth Delay of Crypto Tax, With 2029 Start Tied to U.S. Data Sharing",
+      "url": "https://bitcoinmagazine.com/policy/south-korea-crypto-tax-delay-2029",
       "pubDate": "Mon, 26 Oct 2026 15:00:00 +0000",
-      "summary": "While Strategy bought back preferred shares, Strive continued aggressive BTC purchases highlighting different capital allocation strategies."
+      "summary": "South Korea is weighing a fourth delay of its crypto gains tax, with a possible 2029 start date linked to U.S. data sharing."
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "PHP Vulnerability Raises Concerns for Bitcoin-Related Web Infrastructure",
-      "url": "https://bitcoinmagazine.com/technical/php-vulnerability-bitcoin-infrastructure",
+      "title": "Leon Wankum: The Insane Math Behind Bitcoin Demonetizing Real Estate",
+      "url": "https://bitcoinmagazine.com/culture/leon-wankum-bitcoin-demonetizing-real-estate",
       "pubDate": "Mon, 26 Oct 2026 14:00:00 +0000",
-      "summary": "Critical flaw demonstrated exploitable, prompting calls for rapid patching across sites handling crypto operations."
+      "summary": "Leon Wankum argues real estate's $300T+ monetary premium is vulnerable to Bitcoin as a superior store of value."
     },
     {
       "source": "CoinDesk",
@@ -268,7 +268,7 @@
       "title": "South Korea weighs fourth delay on its crypto gains tax, pushing it to 2029",
       "url": "https://www.coindesk.com/policy/2026/10/26/south-korea-weighs-fourth-delay-on-its-crypto-gains-tax-pushing-it-to-2029",
       "pubDate": "Mon, 26 Oct 2026 14:51:07 +0000",
-      "summary": "Officials are concerned users of domestic exchanges would bear the tax burden because the U.S. won't share crypto trading data until 2029."
+      "summary": "Officials are concerned users of domestic exchanges would bear the tax burden because the U.S. won\u2019t share crypto trading data until 2029."
     },
     {
       "source": "CoinDesk",
