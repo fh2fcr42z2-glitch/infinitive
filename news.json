@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-26T17:01:37Z",
+  "asof": "2026-10-26T18:02:57Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -31,48 +31,5 @@
       "url": "https://rekt.news"
     }
   ],
-  "items": [
-    {
-      "source": "CoinTelegraph",
-      "title": "South Korea lawmakers mull pushing crypto tax implementation to 2029",
-      "url": "https://cointelegraph.com/news/south-korea-implementation-crypto-tax-2029?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 26 Oct 2026 16:18:09 +0000",
-      "summary": "The Seoul government is reportedly weighing another delay for a 2020 income tax policy on digital assets, citing concerns with receiving data from US officials."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Kalshi strikes deal with S&P Dow Jones Indices to expand financial event contracts",
-      "url": "https://cointelegraph.com/news/sp-dow-jones-partners-with-kalshi-to-bring-financial-benchmarks-to-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 26 Oct 2026 15:54:15 +0000",
-      "summary": "The agreement adds S&P Dow Jones gauges to a growing list of Wall Street firms expanding their involvement in prediction markets."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "PHP flaw shows AI vulnerability apocalypse is on schedule: Immunefi CEO",
-      "url": "https://cointelegraph.com/news/php-flaw-ai-vulnerability-apocalypse-immunefi-ceo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 26 Oct 2026 14:25:22 +0000",
-      "summary": "Mitchell Amador warned internet users that websites could remain compromised for weeks, particularly smaller websites slower to adopt the emergency upgrades."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Strategy skips Bitcoin purchases, spends $205M on STRC buybacks",
-      "url": "https://cointelegraph.com/news/strategy-skips-btc-buy-205-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 26 Oct 2026 13:27:38 +0000",
-      "summary": "Strategy made no Bitcoin purchases or sales last week, as its STRC preferred stock buybacks reduced its USD Cash balance by 46% to $242.4 million."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Heres what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 26 Oct 2026 13:26:47 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "HOODs prediction markets to add $1.7B to revenue, exceed crypto by 2028: Bernstein",
-      "url": "https://cointelegraph.com/news/prediction-markets-17b-robinhood-exceed-crypto-revenue-2028-bernstein?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Mon, 26 Oct 2026 13:12:41 +0000",
-      "summary": "Bernstein analysts raised Robinhoods revenue estimates through 2026 and 2028, while maintaining their HOOD price target unchanged at $160."
-    }
-  ]
+  "items": []
 }
