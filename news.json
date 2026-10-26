@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-25T21:01:19Z",
+  "asof": "2026-10-26T00:03:19Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -34,213 +34,241 @@
   "items": [
     {
       "source": "CoinTelegraph",
+      "title": "AI agents help rescue ETH's Glamsterdam fork, 'Steal My Bitcoin' site: Hodler's Digest",
+      "url": "https://cointelegraph.com/magazine/ai-agents-help-rescue-eths-glamsterdam-fork-steal-my-bitcoin-site-hodlers-digest",
+      "pubDate": "Sun, 25 Oct 2026 22:48:40 +0000",
+      "summary": "Similar to the Hugging Face hack, Ethereum researchers have set up an AI Agent message board to help rescue the Glamsterdam fork. New site says 'Steal My Bitcoin'... if you can."
+    },
+    {
+      "source": "CoinTelegraph",
       "title": "ECB official sees digital euro as key to protecting EU 'sovereignty'",
-      "url": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/ecb-official-sees-digital-euro-tool-to-protect-eu-sovereignty",
       "pubDate": "Sun, 25 Oct 2026 15:11:00 +0000",
       "summary": "Piero Cipollone said the bloc is on track to test real transactions in 2027 and roll out a digital euro as early as 2029, pending legislation this year."
     },
     {
       "source": "CoinTelegraph",
       "title": "Netanyahu floats use of blockchain as solution to potential financial sanctions",
-      "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/netanyahu-floats-use-of-blockchain-as-solution-to-potential-financial-sanctions",
       "pubDate": "Sun, 25 Oct 2026 11:42:00 +0000",
       "summary": "Ahead of elections, Prime Minister Benjamin Netanyahu said Israel could turn to blockchain and crypto to skirt potential international sanctions, to the dismay of opponents and the country's central banker."
     },
     {
       "source": "CoinTelegraph",
       "title": "Wells Fargo and five others object to OKX-ICE tokenized stock listings: Report",
-      "url": "https://cointelegraph.com/news/wells-fargo-others-object-okx-ice-tokenized-stock-listings-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 23 Oct 2026 20:00:00 +0000",
-      "summary": "The banks argued that tokenized versions of their stocks listed on ICE could confuse investors and create legal issues."
+      "url": "https://cointelegraph.com/news/nasdaq-companies-object-tokenized-stock-listings-okx-ice",
+      "pubDate": "Fri, 23 Oct 2026 21:32:16 +0000",
+      "summary": "As of Friday, 22 companies had filed objections as part of the joint venture's proposed tokenized stock platform under the SEC's innovation exemption."
     },
     {
       "source": "CoinTelegraph",
       "title": "IRS plans lower tax disclosure penalties, including for crypto: Forbes",
-      "url": "https://cointelegraph.com/news/irs-plans-lower-tax-disclosure-penalties-including-crypto-forbes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Fri, 23 Oct 2026 17:30:00 +0000",
-      "summary": "The IRS is proposing to reduce penalties for certain information reporting failures, which could ease burdens on crypto users and platforms."
+      "url": "https://cointelegraph.com/news/irs-plans-lower-penalties-for-crypto-tax-disclosures-forbes-reports",
+      "pubDate": "Fri, 23 Oct 2026 20:54:17 +0000",
+      "summary": "The US tax agency is targeting faster resolutions and more flexible payment options for taxpayers voluntarily disclosing past tax violations under a planned program overhaul."
     },
     {
       "source": "CoinTelegraph",
       "title": "Initia halts blockchain after exploit reportedly drains over $2.6M",
-      "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/initia-halts-blockchain-exploit-drained",
       "pubDate": "Fri, 23 Oct 2026 18:39:02 +0000",
       "summary": "The blockchain suspended its layer-1 network and rollups after security researchers identified unauthorized token minting and millions in assets transferred to Ethereum."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin ETFs see $301M inflows, snapping two-week outflow streak",
-      "url": "https://cointelegraph.com/news/bitcoin-etfs-301m-inflows-snap-outflow-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Sun, 25 Oct 2026 14:00:00 +0000",
-      "summary": "Spot Bitcoin ETFs recorded net inflows for the week, reversing recent outflows despite volatility."
+      "source": "Decrypt",
+      "title": "Wells Fargo, Cisco, Intuit Among 6 More Companies Objecting to Tokenized Stocks",
+      "url": "https://decrypt.co/381784/wells-fargo-cisco-intuit-more-companies-object-tokenized-stocks",
+      "pubDate": "Sun, 25 Oct 2026 16:01:03 +0000",
+      "summary": "Twenty-two companies have now objected to having their shares traded on the planned OKX-ICE tokenized stock venue, after Wells Fargo, Cisco, Marvell, Arm, Moderna. and Intuit joined the list."
     },
     {
       "source": "Decrypt",
       "title": "Bitcoin ETFs Snap Two-Week Losing Streak Despite Late-Week Slide",
       "url": "https://decrypt.co/381777/bitcoin-etfs-snap-two-week-losing-streak-despite-late-week-slide",
       "pubDate": "Sun, 25 Oct 2026 14:01:03 +0000",
-      "summary": "Spot Bitcoin ETFs finished the week with about $301 million in net inflows, ending a two-week losing streak."
+      "summary": "Spot Bitcoin ETFs finished the week with about $301 million in net inflows, ending a two-week losing streak, even as two straight days of outflows kept October in the red."
     },
     {
       "source": "Decrypt",
-      "title": "Solana Memecoin Pump.fun Study Shows $752M Hidden Trading Gap",
-      "url": "https://decrypt.co/example-pump",
-      "pubDate": "Sun, 25 Oct 2026 15:00:00 +0000",
-      "summary": "Analysis reveals large gains on Pump.fun may not be easily reproducible by followers due to transfer patterns."
+      "title": "Google Quietly Updates Privacy Policy to Let Gmail and Photos Data Feed Ads",
+      "url": "https://decrypt.co/381775/google-quietly-updates-privacy-policy-gmail-photos-ads",
+      "pubDate": "Sat, 24 Oct 2026 17:01:02 +0000",
+      "summary": "A policy change effective Oct. 16 carves out an exception to Google's long-standing pledge-letting connected Gmail, Drive, and Photos data personalize ads through its Personal Intelligence AI features."
     },
     {
       "source": "Decrypt",
-      "title": "Arthur Hayes Exits Crypto Positions, Tracks $26M in Sales",
-      "url": "https://decrypt.co/example-hayes",
-      "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000",
-      "summary": "Maelstrom has exited directional positions including ETH, ENA, UNI."
+      "title": "Sweden's Government Offices Block ChatGPT and Claude, Keep Microsoft Copilot",
+      "url": "https://decrypt.co/381763/sweden-government-offices-block-chatgpt-claude",
+      "pubDate": "Sat, 24 Oct 2026 16:01:03 +0000",
+      "summary": "Sweden's Government Offices will block ChatGPT and Claude on staff computers from Monday, steering civil servants to Microsoft Copilot as the only AI that passed its security review."
     },
     {
       "source": "Decrypt",
-      "title": "CoinDCX Confirms $16M Loss from Retired Wallets",
-      "url": "https://decrypt.co/example-coindcx",
-      "pubDate": "Sun, 25 Oct 2026 18:00:00 +0000",
-      "summary": "Indian exchange confirms losses after earlier false alarm claims."
+      "title": "Game Publishers Have Pushed to Cut Discs Since 2007, Infinity Ward Veteran Says",
+      "url": "https://decrypt.co/381674/game-publishers-have-pushed-to-cut-discs-since-2007-infinity-ward-veteran-says",
+      "pubDate": "Sat, 24 Oct 2026 15:01:02 +0000",
+      "summary": "Robert Bowling, who spent six years working on Call of Duty, told Decrypt that Activision suggested cutting discs nearly two decades ago."
     },
     {
       "source": "Decrypt",
-      "title": "Bitcoin Slides Below $80,000 Amid Middle East Tensions",
-      "url": "https://decrypt.co/example-btc",
-      "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "summary": "Crypto under weekend pressure with bitcoin hitting weakest level in over a month."
+      "title": "Hong Kong's Biggest Bank Puts a Stablecoin in 3 Million Wallets",
+      "url": "https://decrypt.co/381760/hong-kong-bank-hsbc-stablecoin-3-million-wallets",
+      "pubDate": "Sat, 24 Oct 2026 13:01:02 +0000",
+      "summary": "HSBC switched on its Hong Kong dollar stablecoin inside PayMe on Friday, testing whether a bank-issued token can become everyday money."
     },
     {
-      "source": "Decrypt",
-      "title": "Digital Euro Progress: ECB Eyes 2029 Rollout",
-      "url": "https://decrypt.co/example-ecb",
-      "pubDate": "Sun, 25 Oct 2026 15:11:00 +0000",
-      "summary": "ECB official highlights digital euro as tool for EU sovereignty."
+      "source": "The Block",
+      "title": "CoinDCX confirms $16 million loss from retired wallets days after CEO called breach reports a 'false alarm'",
+      "url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
+      "pubDate": "Sun, 25 Oct 2026 18:46:21 +0000",
+      "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like \"a false alarm.\""
+    },
+    {
+      "source": "The Block",
+      "title": "Keystone customers say breach exposed data the hardware wallet maker promised to delete",
+      "url": "https://www.theblock.co/news/business/2026-10-25-keystone-customers-say-breach-exposed-data-the-hardware-wallet-maker-promised-to-delete-431613",
+      "pubDate": "Sun, 25 Oct 2026 15:56:30 +0000",
+      "summary": "Keystone has said it deletes customer information 180 days after their orders in most cases, though X users have cast doubt on that claim."
     },
     {
       "source": "The Block",
       "title": "Crypto longs lose $404 million in four hours as bitcoin briefly slips below $80,000",
       "url": "https://www.theblock.co/news/markets/2026-10-24-crypto-longs-lose-404-million-in-four-hours-as-bitcoin-briefly-slips-below-80000-431608",
       "pubDate": "Sat, 24 Oct 2026 17:44:36 +0000",
-      "summary": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows."
+      "summary": "Spot bitcoin ETFs lost $773 million on Thursday and Friday after three days of net inflows, per SoSoValue data."
     },
     {
       "source": "The Block",
-      "title": "CoinDCX confirms $16 million loss from retired wallets",
-      "url": "https://www.theblock.co/news/business/2026-10-25-coindcx-confirms-16-million-loss-from-retired-wallets-days-after-ceo-called-breach-reports-a-false-alarm-431617",
-      "pubDate": "Sun, 25 Oct 2026 18:46:21 +0000",
-      "summary": "CEO Sumit Gupta had told X users on Wednesday that early reports of a breach sounded like a false alarm."
+      "title": "Argentine judge clears Milei and 10 others in LIBRA case, finding no 'criminally relevant deception'",
+      "url": "https://www.theblock.co/news/regulation/2026-10-24-argentine-judge-clears-milei-and-10-others-in-libra-case-finding-no-criminally-relevant-deception-431606",
+      "pubDate": "Sat, 24 Oct 2026 16:24:13 +0000",
+      "summary": "The judge's 60-page ruling concluded Argentine President Javier Milei's post promoting the LIBRA token did not, by itself, establish fraud."
     },
     {
       "source": "The Block",
-      "title": "Initia blockchain halted after exploit drains over $2.6 million",
-      "url": "https://www.theblock.co/example-initia",
-      "pubDate": "Fri, 23 Oct 2026 18:39:00 +0000",
-      "summary": "Unauthorized minting led to asset transfers to Ethereum; network suspended."
+      "title": "Netanyahu seeking blockchain plan to prepare for possible sanctions",
+      "url": "https://www.theblock.co/news/markets/2026-10-23-netanyahu-israel-blockchain-plan-possible-sanctions-427792",
+      "pubDate": "Fri, 23 Oct 2026 18:15:55 +0000",
+      "summary": "Netanyahu says blockchain could help Israel prepare for possible sanctions targeting its banking system."
     },
     {
       "source": "The Block",
-      "title": "Bitcoin ETF inflows return after outflow streak",
-      "url": "https://www.theblock.co/example-etf",
-      "pubDate": "Sun, 25 Oct 2026 14:00:00 +0000",
-      "summary": "Weekly net inflows of about $301 million for spot Bitcoin ETFs."
+      "title": "Sen. Blumenthal seeks answers from Tether over payments to firm founded by ex-White House crypto adviser",
+      "url": "https://www.theblock.co/news/regulation/2026-10-23-sen-blumenthal-seeks-answers-tether-payments-firm-founded-ex-white-house-crypto-adviser-427785",
+      "pubDate": "Fri, 23 Oct 2026 17:46:09 +0000",
+      "summary": "Sen. Blumenthal said he wants answers from Tether following reports that it paid millions to a firm started by a former WH crypto adviser."
     },
     {
-      "source": "The Block",
-      "title": "Arthur Hayes sells crypto holdings worth $26 million",
-      "url": "https://www.theblock.co/example-hayes",
-      "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000",
-      "summary": "Exits positions in ETH, ENA and others."
+      "source": "CryptoSlate",
+      "title": "Paolo Ardoino wants AI to run Bitcoin mines. Who gets permission to act?",
+      "url": "https://cryptoslate.com/paolo-ardoino-wants-ai-to-run-bitcoin-mines-who-gets-permission-to-act/",
+      "pubDate": "Sun, 25 Oct 2026 21:30:07 +0000",
+      "summary": "The MDK v0.11 reference agent requires human approval, while site identity and command controls determine who may act. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
     },
     {
-      "source": "The Block",
-      "title": "Wells Fargo objects to tokenized stock listings",
-      "url": "https://www.theblock.co/example-wells",
-      "pubDate": "Fri, 23 Oct 2026 20:00:00 +0000",
-      "summary": "Banks raise concerns over OKX-ICE tokenized equities."
+      "source": "CryptoSlate",
+      "title": "Initia hack drove its USDC bridge reserve down to $63 as withdrawals failed",
+      "url": "https://cryptoslate.com/initia-hack-drove-its-usdc-bridge-reserve-down-to-63-as-withdrawals-failed/",
+      "pubDate": "Sun, 25 Oct 2026 19:45:11 +0000",
+      "summary": "Bitquery linked failed exits to depleted backing for Initia balances as the project outlined a patch and ongoing recovery work. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "How $37 million stolen from Americans moved through a Bahamas bank into Tether's USDT",
+      "url": "https://cryptoslate.com/how-37-million-stolen-from-americans-moved-through-a-bahamas-bank-into-tethers-usdt/",
+      "pubDate": "Sun, 25 Oct 2026 18:40:29 +0000",
+      "summary": "Prosecutors allege a bank-to-USDT laundering role in a case involving 174 identified US victims; no new repayment figure was announced. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
     },
     {
       "source": "CryptoSlate",
       "title": "Pump.fun's biggest winners may be impossible to copy as $752 million study exposes hidden trading gap",
       "url": "https://cryptoslate.com/pump-funs-biggest-winners-may-be-impossible-to-copy-as-752-million-study-exposes-hidden-trading-gap/",
       "pubDate": "Sun, 25 Oct 2026 15:50:20 +0000",
-      "summary": "Bitquery's transfer-aware analysis shows why a large address gain can conceal an acquisition a follower cannot reproduce."
+      "summary": "Bitquery&#039;s transfer-aware analysis shows why a large address gain can conceal an acquisition a follower cannot reproduce. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
     },
     {
       "source": "CryptoSlate",
-      "title": "Arthur Hayes exits crypto trading positions as analysts track $26 million in sales",
-      "url": "https://cryptoslate.com/arthur-hayes-exits-crypto-trading-positions-as-analysts-track-26-million-in-sales/",
-      "pubDate": "Sat, 24 Oct 2026 18:00:27 +0000",
-      "summary": "Arthur Hayes has exited Maelstrom's directional crypto positions, tracking about $26 million in token sales including ETH, ENA, UNI."
+      "title": "Evernorth takes a page from Michael Saylor's Bitcoin playbook with new $80 million XRP funding plan",
+      "url": "https://cryptoslate.com/evernorth-takes-a-page-from-michael-saylors-bitcoin-playbook-with-new-80-million-xrp-funding-plan/",
+      "pubDate": "Sun, 25 Oct 2026 14:30:16 +0000",
+      "summary": "Cantor's ordinary share purchases track eligible XRPN volume, while registration, fees and allocation govern potential XRP spending. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
     },
     {
       "source": "CryptoSlate",
-      "title": "Bitcoin under pressure below $80k on geopolitical tensions",
-      "url": "https://cryptoslate.com/example-btc",
-      "pubDate": "Sat, 24 Oct 2026 15:11:00 +0000",
-      "summary": "Weekend slide linked to U.S. Middle East evacuations."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Digital euro seen as sovereignty tool by ECB",
-      "url": "https://cryptoslate.com/example-ecb",
-      "pubDate": "Sun, 25 Oct 2026 15:11:00 +0000",
-      "summary": "Plans for testing in 2027, rollout as early as 2029."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Initia exploit drains $2.6M, network halted",
-      "url": "https://cryptoslate.com/example-initia",
-      "pubDate": "Fri, 23 Oct 2026 18:39:00 +0000",
-      "summary": "Unauthorized minting and transfers to Ethereum."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "CoinDCX $16M wallet loss confirmed",
-      "url": "https://cryptoslate.com/example-coindcx",
-      "pubDate": "Sun, 25 Oct 2026 18:46:00 +0000",
-      "summary": "After CEO dismissed early reports as false alarm."
+      "title": "Hedge funds hold $2 trillion in US debt, but their next trade could require fewer bonds",
+      "url": "https://cryptoslate.com/hedge-funds-hold-2-trillion-in-us-debt-but-their-next-trade-could-require-fewer-bonds/",
+      "pubDate": "Sun, 25 Oct 2026 13:00:52 +0000",
+      "summary": "Hedge funds held an estimated $2 trillion in cash US Treasuries at the end of 2025, or about 7% of the marketable debt outstanding, according to the Office of Financial Research. Much of that buying is tied to trades designed to earn small differences between bond and derivatives"
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Bitcoin ETFs Snap Losing Streak with $301M Inflows",
-      "url": "https://bitcoinmagazine.com/example-etf",
-      "pubDate": "Sun, 25 Oct 2026 14:00:00 +0000",
-      "summary": "Ending two-week outflow period despite price pressure."
+      "title": "NY Seeks $1.37 Billion Judgment Against Operators of NovaTech Crypto Ponzi Scheme",
+      "url": "https://bitcoinmagazine.com/news/ny-seeks-1-37-b-judgement-novatech",
+      "pubDate": "Fri, 23 Oct 2026 21:21:46 +0000",
+      "summary": "Bitcoin Magazine NY Seeks $1.37 Billion Judgment Against Operators of NovaTech Crypto Ponzi Scheme Two successive crypto frauds took investors for more than $1.1 billion. Now New York's attorney general is asking a court to make the operators pay it back-with interest. This post "
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Bitcoin Dips Below $80,000 on Weekend Volatility",
-      "url": "https://bitcoinmagazine.com/example-dip",
-      "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
-      "summary": "Linked to geopolitical developments in the Middle East."
+      "title": "Blockstream Launches Institutional Consulting Services, Opens Lugano Office",
+      "url": "https://bitcoinmagazine.com/news/blockstream-launches-institutional-service",
+      "pubDate": "Fri, 23 Oct 2026 21:20:39 +0000",
+      "summary": "Bitcoin Magazine Blockstream Launches Institutional Consulting Services, Opens Lugano Office Blockstream will offer its engineering expertise to banks and asset managers from a new Swiss base. This post Blockstream Launches Institutional Consulting Services, Opens Lugano Office f"
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Long Liquidations Hit $404M as BTC Slips",
-      "url": "https://bitcoinmagazine.com/example-liqs",
-      "pubDate": "Sat, 24 Oct 2026 17:44:00 +0000",
-      "summary": "Four-hour window of heavy long liquidations."
+      "title": "Bitcoin Core Ends Long Embargoes for Bugs AI Can Rediscover",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-core-ends-long-embargoes",
+      "pubDate": "Fri, 23 Oct 2026 17:06:32 +0000",
+      "summary": "Bitcoin Magazine Bitcoin Core Ends Long Embargoes for Bugs AI Can Rediscover Bitcoin Core now fast-tracks fixes and disclosures for vulnerabilities that AI can easily rediscover, ending the long embargoes those bugs once received. This post Bitcoin Core Ends Long Embargoes for Bu"
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Initia Halted After $2.6M Exploit",
-      "url": "https://bitcoinmagazine.com/example-initia",
-      "pubDate": "Fri, 23 Oct 2026 18:39:00 +0000",
-      "summary": "Layer-1 and rollups suspended following unauthorized minting."
+      "title": "Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-etfs-lose-over-635-million",
+      "pubDate": "Fri, 23 Oct 2026 16:46:36 +0000",
+      "summary": "Bitcoin Magazine Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike Investors this week were buying bitcoin ETFs but that all changed on Thursday. This post Bitcoin ETFs Lose Over $635M In One Day Following Oil Price Spike first appeared on Bitcoin Magazine and is "
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "ECB Pushes Digital Euro for Sovereignty",
-      "url": "https://bitcoinmagazine.com/example-ecb",
-      "pubDate": "Sun, 25 Oct 2026 15:11:00 +0000",
-      "summary": "Testing targeted for 2027."
+      "title": "Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin",
+      "url": "https://bitcoinmagazine.com/news/franklin-templeton-clears-final-hurdle",
+      "pubDate": "Fri, 23 Oct 2026 15:40:05 +0000",
+      "summary": "Bitcoin Magazine Franklin Templeton Clears Final Hurdle For ETFs That Turn Stock Dividends Into Bitcoin Franklin Templeton, the $1.7 trillion asset manager, registered two Nasdaq-listed funds yesterday. Both launch with a 95/5 split between U.S. stocks and bitcoin, and every divi"
     },
     {
       "source": "Bitcoin Magazine",
-      "title": "Hayes Exits $26M Crypto Positions",
-      "url": "https://bitcoinmagazine.com/example-hayes",
-      "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000",
-      "summary": "Including ETH and ENA sales."
+      "title": "Bank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head",
+      "url": "https://bitcoinmagazine.com/news/bank-of-korea-crypto-bill-and-tax",
+      "pubDate": "Fri, 23 Oct 2026 14:01:41 +0000",
+      "summary": "Bitcoin Magazine Bank of Korea Wants Stablecoins Written Into Forex Law as Crypto Bill and Tax Fight Come to a Head The Bank of Korea told lawmakers it will draft a forex law amendment this year to regulate stablecoins as a means of payment, a plan that points to tighter cross-bo"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Latvia targets tokenization rules in 2027 with commercial property in focus",
+      "url": "https://www.coindesk.com/business/2026/10/25/latvia-targets-tokenization-rules-in-2027-with-commercial-property-in-focus",
+      "pubDate": "Sun, 25 Oct 2026 15:00:00 +0000",
+      "summary": "Economics Minister Viktors Valainis says rules could arrive in the first half of next year, but an overdue assessment remains unfinished and no sovereign-bond issuance was identified."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK banks face 10,000 complaints in 3 months over crypto restrictions",
+      "url": "https://www.coindesk.com/policy/2026/10/22/uk-banks-face-10-000-complaints-in-3-months-over-crypto-restrictions",
+      "pubDate": "Sun, 25 Oct 2026 13:00:00 +0000",
+      "summary": "The U.K. claims to aspire to become a global cryptocurrency hub, an ambition that would appear to be at odds with the attitude to crypto purchases of its major banks."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Strategy, Strive face balancing act between bitcoin buying and preferred stock dividends",
+      "url": "https://www.coindesk.com/business/2026/10/24/strategy-strive-face-balancing-act-between-bitcoin-buying-and-preferred-stock-dividends",
+      "pubDate": "Sat, 24 Oct 2026 16:00:00 +0000",
+      "summary": "The securities have financed purchases of nearly 136,000 bitcoin, opening a funding channel that analysts expect to complement the larger ETF market."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Block's new voice AI sounds eerily human, sparking awe and scam fears",
+      "url": "https://www.coindesk.com/tech/2026/10/24/block-s-new-voice-ai-sounds-eerily-human-sparking-awe-and-scam-fears",
+      "pubDate": "Sat, 24 Oct 2026 15:21:06 +0000",
+      "summary": "Reactions split between amazement at how human it sounds and fears it could fuel scams and deception, with CZ eyeing uses in children's education."
     },
     {
       "source": "CoinDesk",
@@ -251,38 +279,10 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin ETFs Record $301 Million Inflows, Ending Outflow Streak",
-      "url": "https://www.coindesk.com/example-etf",
-      "pubDate": "Sun, 25 Oct 2026 14:00:00 +0000",
-      "summary": "Weekly positive flows despite price decline."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Arthur Hayes Sells $26 Million in Crypto Tokens",
-      "url": "https://www.coindesk.com/example-hayes",
-      "pubDate": "Sat, 24 Oct 2026 18:00:00 +0000",
-      "summary": "Exits ETH, ENA, UNI and other positions."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Initia Blockchain Halted Following $2.6 Million Exploit",
-      "url": "https://www.coindesk.com/example-initia",
-      "pubDate": "Fri, 23 Oct 2026 18:39:00 +0000",
-      "summary": "Unauthorized minting and transfers to Ethereum."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "CoinDCX Confirms $16 Million Loss",
-      "url": "https://www.coindesk.com/example-coindcx",
-      "pubDate": "Sun, 25 Oct 2026 18:46:00 +0000",
-      "summary": "From retired wallets after initial denial."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Pump.fun Study Highlights $752M Trading Gap",
-      "url": "https://www.coindesk.com/example-pump",
-      "pubDate": "Sun, 25 Oct 2026 15:50:00 +0000",
-      "summary": "Winners may be hard to copy due to hidden acquisition patterns."
+      "title": "Why McDonalds, Microsoft and Google saying no to tokenized stocks isn't a dealbreaker",
+      "url": "https://www.coindesk.com/business/2026/10/23/why-mcdonalds-microsoft-and-google-saying-no-to-tokenized-stocks-isn-t-a-dealbreaker",
+      "pubDate": "Sat, 24 Oct 2026 15:00:00 +0000",
+      "summary": "Some of the world's biggest companies objected to being listed on the first tokenized securities trading venue under the SEC's innovation exemption. But the early pushback may say more about issuer caution than about rejection of tokenization itself."
     }
   ]
 }
