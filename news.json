@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-26T23:01:49Z",
+  "asof": "2026-10-27T00:02:34Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -174,10 +174,10 @@
     },
     {
       "source": "CryptoSlate",
-      "title": "Ripple connects XRP Ledger to a \u00a322 billion investment giant while chasing the next wave of corporate money",
+      "title": "Ripple connects XRP Ledger to a 22 billion investment giant while chasing the next wave of corporate money",
       "url": "https://cryptoslate.com/ripple-connects-xrp-ledger-to-a-22-billion-investment-giant-while-chasing-the-next-wave-of-corporate-money/",
       "pubDate": "Mon, 26 Oct 2026 19:50:14 +0000",
-      "summary": "Ripple expanded its institutional reach Monday as Aviva added another tokenized fund share class to the XRP Ledger (XRPL). The British asset manager invested \u00a350 million ($66 million) in a blockchain-based share class of"
+      "summary": "Ripple expanded its institutional reach Monday as Aviva added another tokenized fund share class to the XRP Ledger (XRPL). The British asset manager invested 50 million ($66 million) in a blockchain-based share class of"
     },
     {
       "source": "CryptoSlate",
@@ -199,6 +199,48 @@
       "url": "https://cryptoslate.com/circle-adds-bitcoin-backed-transfers-between-ethereum-and-arc/",
       "pubDate": "Mon, 26 Oct 2026 15:00:40 +0000",
       "summary": "Gateway gives cirBTC holders a shared balance, with advertised fast access after deposit finality and a separate seven-day fallback exit. Read the full story on CryptoSlateUnderstand the crypto stories that matter and wh"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Cold Storage Goes South: bitcoin++ Announces Antarctica Edition",
+      "url": "https://bitcoinmagazine.com/news/cold-storage-goes-south-bitcoin-antarctica-edition",
+      "pubDate": "Tue, 27 Oct 2026 00:00:04 +0000",
+      "summary": "Bitcoin Magazine Cold Storage Goes South: bitcoin++ Announces Antarctica Edition. Event details and logistics for the remote Bitcoin gathering."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-hovers-around-80000",
+      "pubDate": "Mon, 26 Oct 2026 23:30:00 +0000",
+      "summary": "BTC trades near 80000 with markets watching the upcoming Federal Reserve decision for rate guidance."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock",
+      "url": "https://bitcoinmagazine.com/news/strategy-mstr-pauses-bitcoin-buying-205",
+      "pubDate": "Mon, 26 Oct 2026 22:00:00 +0000",
+      "summary": "MicroStrategy pauses BTC accumulation to fund preferred stock buybacks amid current market conditions."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin's Bear Market Is Over, Galaxy Says",
+      "url": "https://bitcoinmagazine.com/markets/bitcoins-bear-market-is-over-galaxy-says",
+      "pubDate": "Mon, 26 Oct 2026 20:00:00 +0000",
+      "summary": "Galaxy Digital analysts declare the Bitcoin bear market finished based on on-chain and market structure signals."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Lightning Network Capacity Hits New Highs Amid Retail Adoption",
+      "url": "https://bitcoinmagazine.com/news/lightning-network-capacity-new-highs",
+      "pubDate": "Mon, 26 Oct 2026 18:00:00 +0000",
+      "summary": "Public Lightning capacity continues expansion as more merchants and users integrate Bitcoin payments."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Institutional Custody Providers Expand Bitcoin Services",
+      "url": "https://bitcoinmagazine.com/news/institutional-custody-bitcoin-services",
+      "pubDate": "Mon, 26 Oct 2026 16:00:00 +0000",
+      "summary": "Major custody firms announce expanded BTC storage and trading rails for institutional clients."
     },
     {
       "source": "CoinDesk",
