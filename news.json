@@ -10,5 +10,12 @@
     {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
     {"name": "Rekt", "url": "https://rekt.news"}
   ],
-  "items": []
+  "items": [
+    {"source": "CoinTelegraph", "title": "Keystone breach deepens: Hackers stole key used to verify wallets as genuine", "url": "https://cointelegraph.com/news/keystone-breach-deepens-hackers-stole-key-used-to-verify-wallets-as-genuine", "pubDate": "Tue, 27 Oct 2026 01:55:03 +0000", "summary": "Hackers stole a key that could allow counterfeit wallets to pass authenticity checks."},
+    {"source": "CoinDesk", "title": "Tom Lee's Bitmine favors share buybacks to ether purchases as crypto declines", "url": "https://www.coindesk.com/business/2026/10/26/tom-lee-s-bitmine-favors-share-buybacks-to-ether-purchases-as-crypto-declines", "pubDate": "Mon, 26 Oct 2026 16:05:12 +0000", "summary": "Ethereum treasury firm spent on share buybacks as crypto declines."},
+    {"source": "Bitcoin Magazine", "title": "Bitcoin Price Hovers Near $80,000 as Traders Await Fed Decision", "url": "https://bitcoinmagazine.com/markets/bitcoin-price-hovers-around-80000", "pubDate": "Mon, 26 Oct 2026 17:43:18 +0000", "summary": "Bitcoin price hovers near $80,000 as traders wait on this week's Fed decision."},
+    {"source": "Bitcoin Magazine", "title": "Strategy (MSTR) Pauses Bitcoin Buying and Spends $205 Million on Preferred Stock", "url": "https://bitcoinmagazine.com/news/strategy-mstr-pauses-bitcoin-buying-205", "pubDate": "Mon, 26 Oct 2026 15:39:53 +0000", "summary": "Strategy skipped bitcoin buys and spent on preferred stock."},
+    {"source": "The Block", "title": "Initia halts network after security incident as attacker reportedly mints tokens", "url": "https://www.theblock.co/news/defi/2026-10-23-initia-halts-network-after-security-incident-attacker-reportedly-mints-tokens-427755", "pubDate": "Fri, 23 Oct 2026 17:03:56 +0000", "summary": "Onchain data shows a $2.7 million ether transfer as Initia investigates the security incident."},
+    {"source": "CryptoSlate", "title": "August updates block critical private key leak in crypto wallet Vultisig", "url": "https://cryptoslate.com/august-updates-block-critical-private-key-leak-in-crypto-wallet-vultisig/", "pubDate": "Mon, 26 Oct 2026 21:10:35 +0000", "summary": "Critical private key leak blocked in Vultisig wallet update."}
+  ]
 }
