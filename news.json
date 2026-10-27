@@ -1,5 +1,5 @@
 {
-  "asof": "2026-10-27T17:01:45Z",
+  "asof": "2026-10-27T20:02:14Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -34,6 +34,27 @@
   "items": [
     {
       "source": "CoinTelegraph",
+      "title": "Heres what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 27 Oct 2026 19:36:13 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CFTC sues Utah to block action against prediction markets",
+      "url": "https://cointelegraph.com/news/cftc-lawsuit-utah-action-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 27 Oct 2026 19:21:59 +0000",
+      "summary": "The US state filed a lawsuit against Kalshi last week, seeking to recover up to $60 million in profits related to event contracts on prediction markets."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Majority of Americans want candidates who support US-based financial technology: Poll",
+      "url": "https://cointelegraph.com/news/us-voters-candidates-support-financial-technology-poll?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 27 Oct 2026 18:08:00 +0000",
+      "summary": "The September survey offered a possible window into US voters who could consider fintech and digital asset policies on Election Day."
+    },
+    {
+      "source": "CoinTelegraph",
       "title": "Janus Henderson, Centrifuge launch tokenized Nasdaq-100 fund on Stellar",
       "url": "https://cointelegraph.com/news/janus-henderson-centrifuge-launch-tokenized-nasdaq-100-fund-on-stellar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Tue, 27 Oct 2026 16:37:15 +0000",
@@ -54,74 +75,67 @@
       "summary": "Former Morgan Stanley and Weiss executive Jordi Visser says AI agents are boosting demand for crypto as he expands his holdings beyond Bitcoin, Ether and Solana."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Heres what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 27 Oct 2026 13:17:24 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "source": "Decrypt",
+      "title": "Anchorage Positions Itself as Custody Backbone of US-Mexico Stablecoin Corridor",
+      "url": "https://decrypt.co/381988/anchorage-custody-backbone-us-mexico-stablecoin-corridor",
+      "pubDate": "Tue, 27 Oct 2026 19:46:02 +0000",
+      "summary": "An expanded deal with Bitso puts Anchorage Digital Banks custody beneath both sides of the US-Mexico remittance route."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Hayes details FLOPs AI compute derivatives vision after selling his altcoins",
-      "url": "https://cointelegraph.com/news/hayes-flop-ai-compute-vision-selling-altcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 27 Oct 2026 13:01:10 +0000",
-      "summary": "Arthur Hayes revealed the derivatives market design for Flop Network and how he expects its native token could transform AI compute into a tradable commodity."
+      "source": "Decrypt",
+      "title": "AI Agents Are Creating a New Layer of Cybersecurity Spending",
+      "url": "https://decrypt.co/381987/ai-agents-creating-new-layer-cybersecurity-spending",
+      "pubDate": "Tue, 27 Oct 2026 19:16:03 +0000",
+      "summary": "Akamai launched a locked box for AI agents on Tuesday as companies prepare for autonomous systems that can act without human oversight."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Luxor raises $16M from CMT Digital amid AI-Bitcoin miner convergence",
-      "url": "https://cointelegraph.com/news/luxor-raises-16m-ai-bitcoin-miner-convergence?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 27 Oct 2026 13:01:00 +0000",
-      "summary": "Luxor aims to use the proceeds to scale its existing AI infrastructure business and expand its GPU sourcing services as global chip supply chains become constrained."
+      "source": "Decrypt",
+      "title": "Intel, Oracle, IBM Join Objections to OKX-ICE Tokenized Stock Venue, Bringing Total to 26",
+      "url": "https://decrypt.co/381972/intel-oracle-ibm-join-objections-okx-ice-tokenized-stock-venue",
+      "pubDate": "Tue, 27 Oct 2026 18:01:04 +0000",
+      "summary": "The tech giants joined banks and exchanges in objecting to a planned venue that would list tokenized stocks outside traditional market hours."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Wallet Maker Keystone Pulls Devices as Stolen Key Opens Door to Fakes",
+      "url": "https://decrypt.co/381960/bitcoin-wallet-maker-keystone-pulls-devices-stolen-key-fakes",
+      "pubDate": "Tue, 27 Oct 2026 17:31:03 +0000",
+      "summary": "Keystone said a compromised signing key allowed counterfeit devices into the supply chain and has pulled affected units."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Circle Pushes Deeper Into Latin America With USDC Settlement in Colombia",
+      "url": "https://decrypt.co/381950/circle-pushes-deeper-latin-america-usdc-settlement-colombia",
+      "pubDate": "Tue, 27 Oct 2026 17:01:02 +0000",
+      "summary": "Circle is expanding USDC settlement rails in Colombia as part of a broader push into Latin American payment corridors."
     },
     {
       "source": "Decrypt",
       "title": "A $3M Hedge, a Midterm Test and Retail's Rise: Prediction Markets at NEXTPredict",
       "url": "https://decrypt.co/381955/a-3m-hedge-a-midterm-test-and-retails-rise-prediction-markets-at-nextpredict",
       "pubDate": "Tue, 27 Oct 2026 16:53:44 +0000",
-      "summary": "Chuck Todd called markets a 'fact checker' for journalism, as Kalshi, Polymarket and Robinhood pitched contracts well beyond elections."
+      "summary": "Chuck Todd called markets a fact checker for journalism, as Kalshi, Polymarket and Robinhood pitched contracts well beyond elections."
     },
     {
-      "source": "Decrypt",
-      "title": "OpenAI Proves ETH Is False, and Crypto Twitter Has Questions",
-      "url": "https://decrypt.co/381956/opena-eth-false-crypto-twitter-has-questions",
-      "pubDate": "Tue, 27 Oct 2026 16:53:13 +0000",
-      "summary": "A new OpenAI paper declares ETH false, a claim that hundreds of research papers lean on. Crypto Twitter degens and serious mathematicians are abuzz."
+      "source": "The Block",
+      "title": "CFTC sues Utah as battle over prediction market regulation intensifies",
+      "url": "https://www.theblock.co/news/regulation/2026-10-27-cftc-sues-utah-battle-over-prediction-market-regulation-intensifies-431922",
+      "pubDate": "Tue, 27 Oct 2026 18:51:46 +0000",
+      "summary": "The CFTC is escalating its legal fight with states, suing Utah after the state filed a lawsuit against prediction market platform Kalshi."
     },
     {
-      "source": "Decrypt",
-      "title": "McDonald's McRib Doesn't Actually Boost Bitcoin's Price, Sorry Everyone",
-      "url": "https://decrypt.co/381909/mcdonalds-mcrib-doesnt-actually-boost-bitcoins-price-sorry-everyone",
-      "pubDate": "Tue, 27 Oct 2026 14:31:02 +0000",
-      "summary": "Crypto traders think the McRibs return to McDonald's means a Bitcoin pump is coming. Experts say there is 'no correlation at all.'"
-    },
-    {
-      "source": "Decrypt",
-      "title": "Polymarket Has Investigated 'Dozens' of Midterm Election Bets: Report",
-      "url": "https://decrypt.co/381936/polymarket-has-investigated-dozens-of-midterm-election-bets-report",
-      "pubDate": "Tue, 27 Oct 2026 13:52:58 +0000",
-      "summary": "The firm's new head of investigations says its surveillance system flags hundreds of alerts a day, with at least two cases sent to the CFTC."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale Its AI Compute Push",
-      "url": "https://decrypt.co/381847/bitcoin-mining-firm-luxor-raises-16-million-ai-compute",
-      "pubDate": "Tue, 27 Oct 2026 13:01:08 +0000",
-      "summary": "The CMT Digital-led round, which drew mining-hardware makers Canaan and MicroBT, will fund Luxors expansion into AI compute trading, hardware and derivatives."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Morning Minute: Tokenized Stock Battle Looms Over Robinhoods Earnings Call",
-      "url": "https://decrypt.co/381907/morning-minute-tokenized-stock-battle-looms-over-robinhoods-earnings-call",
-      "pubDate": "Tue, 27 Oct 2026 12:59:58 +0000",
-      "summary": "One of cryptos primary growth sectors for this upcoming cycle is under attack. Will Vlad Tenev speak up on todays Robinhood earnings call?"
+      "source": "The Block",
+      "title": "Crypto.com and OG.com launch US crypto perps with up to 5x leverage",
+      "url": "https://www.theblock.co/news/markets/2026-10-27-cryptocom-ogcom-launch-us-crypto-perps-5x-leverage-431918",
+      "pubDate": "Tue, 27 Oct 2026 17:45:12 +0000",
+      "summary": "The platforms are offering crypto perpetual futures to US users with leverage capped at 5x under the current regulatory setup."
     },
     {
       "source": "The Block",
       "title": "Canton-based trading platform Cancore raises $7.2 million at $60 million token valuation",
       "url": "https://www.theblock.co/news/deals/2026-10-27-canton-based-trading-platform-cancore-raises-7-2-million-60-million-token-valuation-431906",
       "pubDate": "Tue, 27 Oct 2026 16:59:10 +0000",
-      "summary": "Cancore, a Canton-based trading platform connecting assets on the network with liquidity on public blockchains, has raised $7.2 million in seed funding. Paper Ventures, dao5, ArkStream Capital, X Ventures, MH Ventures and Proof of Talk backed the round. There was no formal lead i"
+      "summary": "Cancore, a Canton-based trading platform connecting assets on the network with liquidity on public blockchains, has raised $7.2 million in seed funding."
     },
     {
       "source": "The Block",
@@ -145,102 +159,102 @@
       "summary": "Galaxy returned to profitability in the third quarter as trading volumes and lending increased, with a new $200 million buyback authorized."
     },
     {
-      "source": "The Block",
-      "title": "Bitcoin mining infrastructure firm Luxor raises $16 million to expand AI business",
-      "url": "https://www.theblock.co/news/deals/2026-10-27-bitcoin-mining-ai-luxor-technology-funding-431858",
-      "pubDate": "Tue, 27 Oct 2026 14:32:08 +0000",
-      "summary": "The company plans to expand its AI business and hire about 12 people by year-end, COO Ethan Vera told The Block."
+      "source": "CryptoSlate",
+      "title": "Ripple gets final US trust bank approval. What does XRP gain?",
+      "url": "https://cryptoslate.com/ripple-gets-final-us-trust-bank-approval-what-does-xrp-gain/",
+      "pubDate": "Tue, 27 Oct 2026 19:30:00 +0000",
+      "summary": "Ripple secured final approval for a US trust bank charter, potentially opening new pathways for RLUSD and XRP utility in institutional settlement."
     },
     {
-      "source": "The Block",
-      "title": "Crypto Market Structure Explained",
-      "url": "https://www.theblock.co/learn/campus/crypto-market-structure-explained-426489",
-      "pubDate": "Tue, 27 Oct 2026 14:14:08 +0000",
-      "summary": "Crypto market structure is the architecture behind digital asset markets. It explains who participates, where trades happen, how liquidity forms, how prices are discovered, how derivatives and funding rates work, and how market design affects execution, fairness, risk, and resili"
+      "source": "CryptoSlate",
+      "title": "Lightning tightens invoice rules after reported attack made Bitcoin withdrawals look unpaid",
+      "url": "https://cryptoslate.com/lightning-tightens-invoice-rules-after-reported-attack-made-bitcoin-withdrawals-look-unpaid/",
+      "pubDate": "Tue, 27 Oct 2026 19:00:10 +0000",
+      "summary": "BOLT11 now requires one payment hash and one payment secret, while operators must check how their software records withdrawals."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Iran-linked Bitcoin activity fell about 80%, then rebounded during the blackout",
+      "url": "https://cryptoslate.com/iran-linked-bitcoin-activity-fell-about-80-then-rebounded-during-the-blackout/",
+      "pubDate": "Tue, 27 Oct 2026 18:20:15 +0000",
+      "summary": "On-chain data shows Iranian-linked Bitcoin flows dropped sharply during internet restrictions before recovering once connectivity returned."
     },
     {
       "source": "CryptoSlate",
       "title": "Kraken opens Bitcoin and Ethereum options to eligible European traders",
       "url": "https://cryptoslate.com/kraken-opens-bitcoin-and-ether-options-to-eligible-european-traders/",
       "pubDate": "Tue, 27 Oct 2026 17:00:57 +0000",
-      "summary": "The EEA rollout adds USD-settled contracts to existing derivatives accounts, with shared futures collateral and portfolio margin on by default.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+      "summary": "The EEA rollout adds USD-settled contracts to existing derivatives accounts, with shared futures collateral and portfolio margin on by default."
     },
     {
       "source": "CryptoSlate",
       "title": "Japans services inflation split complicates the BOJ outlook before Fridays decision",
       "url": "https://cryptoslate.com/japans-services-inflation-split-complicates-the-boj-outlook-before-fridays-decision/",
       "pubDate": "Tue, 27 Oct 2026 16:00:16 +0000",
-      "summary": "Business-service inflation reached 3.7%, while the transport-excluded rate held steady and labor-sensitive price growth eased before Fridays BOJ decision.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your "
+      "summary": "Business-service inflation reached 3.7%, while the transport-excluded rate held steady and labor-sensitive price growth eased before Fridays BOJ decision."
     },
     {
       "source": "CryptoSlate",
       "title": "Bitcoins next rally could trigger selling from holders of 874,000 BTC",
       "url": "https://cryptoslate.com/bitcoins-next-rally-could-trigger-selling-from-holders-of-874000-btc/",
       "pubDate": "Tue, 27 Oct 2026 15:00:26 +0000",
-      "summary": "Bitfinex maps potential overhead supply as ETF inflows return through IBIT alone, leaving spot buyers to prove a durable reclaim.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+      "summary": "Bitfinex maps potential overhead supply as ETF inflows return through IBIT alone, leaving spot buyers to prove a durable reclaim."
     },
     {
-      "source": "CryptoSlate",
-      "title": "Bitcoin simulations show why a return to $126,000 would not last",
-      "url": "https://cryptoslate.com/bitcoin-simulations-show-why-a-return-to-126000-may-not-last/",
-      "pubDate": "Tue, 27 Oct 2026 13:40:40 +0000",
-      "summary": "A separate daily-close model crosses the record in 50.4% of paths but finishes above in 34.8%, exposing a gap that a terminal price target cannot show.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inb"
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Rests Near $80,500 as Midterms, Fed Decision Loom",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-rests-near-80500-midterms",
+      "pubDate": "Tue, 27 Oct 2026 19:48:48 +0000",
+      "summary": "Bitcoin price recovered from an early-morning low near $79,400 to trade around $80,500 on Tuesday, holding above $80,000 ahead of this weeks Fed decision and the November midterms."
     },
     {
-      "source": "CryptoSlate",
-      "title": "Bitcoin moves over $5 billion in value but miners collect just $185,000 in transaction fees",
-      "url": "https://cryptoslate.com/bitcoin-moves-over-5-billion-in-value-but-miners-collect-just-185000-in-transaction-fees/",
-      "pubDate": "Tue, 27 Oct 2026 12:40:41 +0000",
-      "summary": "Glassnodes October 26 snapshot shows higher estimated settlement value alongside lower fees and active addresses.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+      "source": "Bitcoin Magazine",
+      "title": "VanEck Launches All-in-One Wealth Builder ETF With Bitcoin Exposure",
+      "url": "https://bitcoinmagazine.com/markets/vaneck-launches-all-in-one-wealth-builder-etf-bitcoin",
+      "pubDate": "Tue, 27 Oct 2026 18:30:00 +0000",
+      "summary": "VanEck launched a multi-asset ETF that includes Bitcoin exposure as part of a broader wealth-building allocation."
     },
     {
-      "source": "CryptoSlate",
-      "title": "Coinbase sets 3-day MiCA deadline for USDT, PayPal and Trump-linked stablecoins",
-      "url": "https://cryptoslate.com/coinbase-sets-3-day-mica-deadline-for-usdt-paypal-and-trump-linked-stablecoins/",
-      "pubDate": "Tue, 27 Oct 2026 11:20:33 +0000",
-      "summary": "Affected retail balances will convert at market rates, with USDC used where suitable and late deposits excluded.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+      "source": "Bitcoin Magazine",
+      "title": "27-Year-Old Missouri Man Admits Role in Failed Bitcoin Kidnapping Plot",
+      "url": "https://bitcoinmagazine.com/news/missouri-man-admits-role-bitcoin-kidnapping",
+      "pubDate": "Tue, 27 Oct 2026 17:15:00 +0000",
+      "summary": "A Missouri man pleaded guilty to participating in a plot to kidnap a Bitcoin holder for ransom that was disrupted by law enforcement."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "CFTC Again Probes Polymarket Over Whether It Let Americans Trade",
+      "url": "https://bitcoinmagazine.com/news/cftc-probes-polymarket-americans-trade",
+      "pubDate": "Tue, 27 Oct 2026 16:00:00 +0000",
+      "summary": "The CFTC is once again examining whether Polymarket allowed US persons to trade on its prediction markets in violation of prior agreements."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Next Weeks Midterms Could Stall the CLARITY Act and Test Cryptos Political Clout: TD Cowen",
+      "url": "https://bitcoinmagazine.com/news/midterms-could-stall-clarity-act-td-cowen",
+      "pubDate": "Tue, 27 Oct 2026 15:20:00 +0000",
+      "summary": "TD Cowen analysts say the midterm elections could delay the CLARITY Act and serve as a test of the crypto industrys lobbying power."
     },
     {
       "source": "Bitcoin Magazine",
       "title": "Ten Decrees: Old Masters, New Money",
       "url": "https://bitcoinmagazine.com/culture/ten-decrees-old-masters-new-money",
       "pubDate": "Tue, 27 Oct 2026 16:42:23 +0000",
-      "summary": "Bitcoin Magazine\n\nTen Decrees: Old Masters, New Money\nLucho Poletti on redrawing Hieronymus Bosch and Pieter Bruegel the Elder around money, Nixons 1971 decree, and why bitcoin art keeps returning to the old masters.\nThis post Ten Decrees: Old Masters, New Money first appeared on"
+      "summary": "Lucho Poletti on redrawing Hieronymus Bosch and Pieter Bruegel the Elder around money, Nixons 1971 decree, and why bitcoin art keeps returning to the old masters."
     },
     {
-      "source": "Bitcoin Magazine",
-      "title": "SoFi Stock (SOFI) Soars 15% on Record Quarter, Crypto Reaches 503,000 Products",
-      "url": "https://bitcoinmagazine.com/news/sofi-stock-sofi-soars-15-on-record-quarter",
-      "pubDate": "Tue, 27 Oct 2026 15:56:57 +0000",
-      "summary": "Bitcoin Magazine\n\nSoFi Stock (SOFI) Soars 15% on Record Quarter, Crypto Reaches 503,000 Products\nSoFi shares jumped 14.6% to $16.56 after a record third quarter, with crypto reaching 503,070 products and adjusted EPS of $0.18 beating estimates.\nThis post SoFi Stock (SOFI) Soars 1"
+      "source": "CoinDesk",
+      "title": "U.S. agency hits Utah with lawsuit to shield Kalshi's ability to offer betting there",
+      "url": "https://www.coindesk.com/policy/2026/10/27/u-s-agency-hits-utah-with-lawsuit-to-shield-kalshi-s-ability-to-offer-betting-there",
+      "pubDate": "Tue, 27 Oct 2026 19:07:59 +0000",
+      "summary": "The U.S. Commodity Futures Trading Commission has pursued more than a dozen legal actions to protect what its chief sees as its sole power over prediction markets."
     },
     {
-      "source": "Bitcoin Magazine",
-      "title": "Crypto Midterm Election Spending Reaches $176 Million as Industry Builds for the Next Congress",
-      "url": "https://bitcoinmagazine.com/news/crypto-midterm-spending-176-million",
-      "pubDate": "Tue, 27 Oct 2026 14:34:47 +0000",
-      "summary": "Bitcoin Magazine\n\nCrypto Midterm Election Spending Reaches $176 Million as Industry Builds for the Next Congress\nThe crypto industry has spent about $176 million on more than 100 midterm races to build a bipartisan bloc in Congress that can protect its interests after Trump leave"
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Bitcoin Mining Firm Luxor Raises $16 Million to Scale AI Compute Trading and Hardware",
-      "url": "https://bitcoinmagazine.com/news/bitcoin-mining-firm-luxor-16-million",
-      "pubDate": "Tue, 27 Oct 2026 13:53:32 +0000",
-      "summary": "Bitcoin Magazine\n\nBitcoin Mining Firm Luxor Raises $16 Million to Scale AI Compute Trading and Hardware\nLuxor, a bitcoin miner turned AI compute firm, raised $16 million led by CMT Digital to expand its AI hardware brokerage and compute trading business.\nThis post Bitcoin Mining "
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Deloittes Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance",
-      "url": "https://bitcoinmagazine.com/videos/deloittes-rob-massey-what-bitcoin-investors-need-to-know-about-the-changing-irs-tax-guidance",
-      "pubDate": "Tue, 27 Oct 2026 13:22:05 +0000",
-      "summary": "&#9654;Bitcoin Magazine\n\nDeloittes Rob Massey: What Bitcoin Investors Need to Know About The Changing IRS Tax Guidance\nDeloitte's Rob Massey explains crypto tax compliance, realization events in wallet moves, why 1099s fall short, and what Bitcoiners should advocate for.\nThis pos"
-    },
-    {
-      "source": "Bitcoin Magazine",
-      "title": "Bitcoin Security Expert Jameson Lopp: Cyberattacks on Exponential Path",
-      "url": "https://bitcoinmagazine.com/videos/bitcoin-security-expert-jameson-lopp-cyberattacks-on-exponential-path",
-      "pubDate": "Tue, 27 Oct 2026 13:16:56 +0000",
-      "summary": "&#9654;Bitcoin Magazine\n\nBitcoin Security Expert Jameson Lopp: Cyberattacks on Exponential Path\nBitcoin Core updates security as AI automates bug hunting. Jameson Lopp explains the shift to real-time defense, uncensored exploit models, and the PHP flaw.\nThis post Bitcoin Security"
+      "source": "CoinDesk",
+      "title": "Intel, Oracle, IBM join growing list of firms objecting to OKXICE tokenized stock plans",
+      "url": "https://www.coindesk.com/policy/2026/10/27/intel-oracle-ibm-join-growing-list-of-firms-objecting-to-okx-ice-tokenized-stock-plans",
+      "pubDate": "Tue, 27 Oct 2026 18:45:00 +0000",
+      "summary": "Major tech firms joined the list of objectors to a proposed tokenized stock trading venue involving OKX and ICE."
     },
     {
       "source": "CoinDesk",
@@ -248,6 +262,13 @@
       "url": "https://www.coindesk.com/business/2026/10/27/brazilian-companies-turned-to-stablecoins-on-election-day-to-dodge-a-currency-crash",
       "pubDate": "Tue, 27 Oct 2026 16:59:07 +0000",
       "summary": "USDT volume on crypto exchange Mercado Bitcoin jumped nearly 800% and bitcoin volume surged 865%. Binances USDT/BRL market tripled while the global BTC/USDT pair fell."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Robinhood taps Ripples $2.5 billion RLUSD stablecoin despite backing rival USDG",
+      "url": "https://www.coindesk.com/business/2026/10/27/robinhood-taps-ripples-2-5-billion-rlusd-stablecoin-despite-backing-rival-usdg",
+      "pubDate": "Tue, 27 Oct 2026 15:30:00 +0000",
+      "summary": "Robinhood is integrating Ripples RLUSD for certain settlement flows even while supporting a competing stablecoin product."
     },
     {
       "source": "CoinDesk",
@@ -262,27 +283,6 @@
       "url": "https://www.coindesk.com/markets/2026/10/27/cf-benchmarks-brings-wall-street-pricing-infrastructure-onchain-including-data-used-by-blackrock",
       "pubDate": "Tue, 27 Oct 2026 14:00:00 +0000",
       "summary": "The new service could help developers build blockchain-based index funds, tokenized portfolios and derivatives using established financial benchmarks."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin miners' move into AI is creating a new market for trading computing power",
-      "url": "https://www.coindesk.com/business/2026/10/27/bitcoin-miners-move-into-ai-is-creating-a-new-market-for-trading-computing-power",
-      "pubDate": "Tue, 27 Oct 2026 13:13:50 +0000",
-      "summary": "Luxor raised $16 million to expand into AI hardware and trading, betting that computing power will become a market where companies can hedge costs and prices."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin shows signs of weakness while Ripple's bank win fails to bolster XRP",
-      "url": "https://www.coindesk.com/daybook-us/2026/10/27/bitcoin-shows-signs-of-weakness-while-ripple-s-bank-win-fails-to-bolster-xrp",
-      "pubDate": "Tue, 27 Oct 2026 12:00:39 +0000",
-      "summary": "Your day-ahead look for Oct. 27, 2026"
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin holds near $80,000 as AI buildout draws investor attention and capital",
-      "url": "https://www.coindesk.com/tech/2026/10/27/live-updates-bitcoin-holds-below-usd80-000-as-ai-buildout-draws-more-capital",
-      "pubDate": "Tue, 27 Oct 2026 11:40:50 +0000",
-      "summary": "Interest rates and oil are slipping and equities are rising, but crypto remains under pressure."
     }
   ]
 }
