@@ -2,49 +2,32 @@
   "asof": "2026-10-29T16:03:11Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
-    {
-      "name": "CoinTelegraph",
-      "url": "https://cointelegraph.com/rss"
-    },
-    {
-      "name": "Decrypt",
-      "url": "https://decrypt.co/feed"
-    },
-    {
-      "name": "The Block",
-      "url": "https://www.theblock.co/rss.xml"
-    },
-    {
-      "name": "CryptoSlate",
-      "url": "https://cryptoslate.com/feed/"
-    },
-    {
-      "name": "Bitcoin Magazine",
-      "url": "https://bitcoinmagazine.com/.rss/full/"
-    },
-    {
-      "name": "CoinDesk",
-      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
-    },
-    {
-      "name": "Rekt",
-      "url": "https://rekt.news"
-    }
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
   ],
   "items": [
-    {
-      "source": "CryptoSlate",
-      "title": "Bitcoin developers rush to fix 3 security flaws after AI uncovers them",
-      "url": "https://cryptoslate.com/bitcoin-developers-rush-to-fix-3-security-flaws-after-ai-uncovers-them/",
-      "pubDate": "Thu, 29 Oct 2026 15:10:59 +0000",
-      "summary": "The October 28 advisory identifies four patched releases, but 29.x is now at end of life. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Strategy\u2019s STRC nears $100 level that could reopen a Bitcoin funding channel",
-      "url": "https://cryptoslate.com/strategys-strc-returns-to-brink-of-100-after-saylor-wins-approval-for-daily-dividends-reviving-bitcoin-buying-hopes/",
-      "pubDate": "Thu, 29 Oct 2026 14:30:41 +0000",
-      "summary": "Strategy's STRC preferred stock closed eight cents below its $100 stated value as shareholders approved daily dividends on four preferred securities. Executive Chairman Michael Saylor said preliminary results from the Oct. 28 vote showed 99.3% of votes cast supported the amendment, allowing the company's four US-listed preferred securities, STRC, STRF, STRK and STRD, to accrue\u2026 Read the full story on CryptoSlateUnderstand the crypto stories that "
-    }
+    {"source": "CryptoSlate", "title": "Bitcoin developers rush to fix 3 security flaws after AI uncovers them", "url": "https://cryptoslate.com/bitcoin-developers-rush-to-fix-3-security-flaws-after-ai-uncovers-them/", "pubDate": "Thu, 29 Oct 2026 15:10:59 +0000", "summary": "The October 28 advisory identifies four patched releases, but 29.x is now at end of life."},
+    {"source": "Decrypt", "title": "Hyperliquid's HYPE Jumps 13% as NYSE Owner ICE Moves to Bring Its Perpetual Futures to the US", "url": "https://decrypt.co/382149/hyperliquid-hype-jumps-nyse-owner-ice-perpetual-futures-us", "pubDate": "Thu, 29 Oct 2026 15:59:48 +0000", "summary": "Intercontinental Exchange signed a deal with Trade[XYZ] to launch regulated perpetual futures built on Hyperliquid in the United States, sending HYPE soaring."},
+    {"source": "CoinDesk", "title": "Bitcoin drops to $80,000 on Fed dissent, Samsung, Alphabet earnings; AI tokens slump", "url": "https://www.coindesk.com/markets/2026/10/29/bitcoin-drops-to-usd80-000-on-fed-dissent-samsung-alphabet-earnings-ai-tokens-slump", "pubDate": "Thu, 29 Oct 2026 11:11:48 +0000", "summary": "Bitcoin fell 1.4% since midnight UTC to around $80,100 as disappointing reports from Samsung and Alphabet weighed on tech stocks."},
+    {"source": "The Block", "title": "Curve Finance launches on Stellar in first native deployment outside EVM ecosystem", "url": "https://www.theblock.co/news/defi/2026-10-29-curve-finance-stellar-432121", "pubDate": "Thu, 29 Oct 2026 11:00:00 +0000", "summary": "Curve Finance has launched on Stellar mainnet, its first native deployment outside the Ethereum Virtual Machine (EVM) ecosystem."},
+    {"source": "CoinTelegraph", "title": "Bitcoin long-term resistance in focus as analysis sees selling risk above $85K", "url": "https://cointelegraph.com/markets/bitcoin-long-term-resistance-in-focus-as-analysis-sees-selling-risk-above-85k", "pubDate": "Thu, 29 Oct 2026 10:46:43 +0000", "summary": "BTC price analysis from Glassnode drew attention to $85,000 as the lower boundary of a cost-basis zone for long-term holders."},
+    {"source": "Decrypt", "title": "Treasury Sanctions 11 Over North Korean IT Worker Scheme That Moved Millions in Crypto", "url": "https://decrypt.co/382132/treasury-sanctions-11-over-north-korean-it-worker-scheme-that-moved-millions-in-crypto", "pubDate": "Thu, 29 Oct 2026 11:32:51 +0000", "summary": "Two Russian nationals converted more than $5 million in crypto for North Korean networks, according to OFAC."},
+    {"source": "CoinDesk", "title": "NYSE owner takes steps to bring Hyperliquid perpetual futures to U.S.", "url": "https://www.coindesk.com/markets/2026/10/29/nyse-owner-takes-steps-to-bring-hyperliquid-perpetual-futures-to-u-s", "pubDate": "Thu, 29 Oct 2026 11:11:25 +0000", "summary": "The planned ICE[XYZ] venue would offer 24/7 perpetual futures on stocks, commodities and crypto, pending CFTC approval."},
+    {"source": "CryptoSlate", "title": "Fed's divided rate decision threatens Bitcoin's comeback as December hike looms", "url": "https://cryptoslate.com/feds-divided-rate-decision-threatens-bitcoins-comeback-as-december-hike-looms/", "pubDate": "Thu, 29 Oct 2026 08:30:16 +0000", "summary": "The Federal Reserve held its target range at 3.75% to 4% on Oct. 28 on a 10-2 vote."},
+    {"source": "The Block", "title": "Avail launches ShieldTX privacy tool targeting copy-trading bots on Hyperliquid", "url": "https://www.theblock.co/news/defi/2026-10-28-avail-launches-shieldtx-privacy-tool-targeting-copy-trading-bots-on-hyperliquid-431977", "pubDate": "Wed, 28 Oct 2026 15:00:02 +0000", "summary": "Avail launched ShieldTX, a Hyperliquid privacy tool that creates a separate wallet for each perpetual futures position."},
+    {"source": "CoinTelegraph", "title": "Bitcoin ETFs add $137M, pushing October back into the green", "url": "https://cointelegraph.com/markets/bitcoin-etf-137-million-october-back-green", "pubDate": "Thu, 29 Oct 2026 07:32:20 +0000", "summary": "Bitcoin ETFs drew $424 million over three days, lifting October net inflows to $111 million."},
+    {"source": "Decrypt", "title": "Bitcoin Treasury Datavault AI Says It Can't Access Its BTC, Stock Tanks", "url": "https://decrypt.co/382116/bitcoin-treasury-datavault-ai-stock-crashes-cant-access-btc", "pubDate": "Wed, 28 Oct 2026 21:46:02 +0000", "summary": "Datavault AI says it has been unable to withdraw its Bitcoin from Biconomy since June."},
+    {"source": "CoinDesk", "title": "Cathie Wood's ARK buys the dip on Robinhood in its largest purchase in 6 months after 23% slump", "url": "https://www.coindesk.com/markets/2026/10/29/cathie-wood-s-ark-buys-the-dip-on-robinhood-in-its-largest-purchase-in-6-months-after-23-slump", "pubDate": "Thu, 29 Oct 2026 10:51:10 +0000", "summary": "HOOD fell 3.3% on Wednesday, broadening its one-month decline to more than 23%."},
+    {"source": "CryptoSlate", "title": "North Korea's $600 million fake-worker empire has a hidden crypto connection", "url": "https://cryptoslate.com/north-koreas-600-million-fake-worker-empire-has-a-hidden-crypto-connection/", "pubDate": "Thu, 29 Oct 2026 11:00:06 +0000", "summary": "The October 28 designations identify Ethereum and Tron addresses."},
+    {"source": "The Block", "title": "Bitwise raises bitcoin price target to $1.6 million by 2036, projects 34% annualized returns", "url": "https://www.theblock.co/news/markets/2026-10-28-bitwise-raises-bitcoin-price-target-to-1-6-million-by-2036-projects-34-annualized-returns-432010", "pubDate": "Wed, 28 Oct 2026 16:07:08 +0000", "summary": "Bitwise's bear case puts bitcoin at $130,686 by 2036, while its bull case reaches $3.67 million."},
+    {"source": "CoinTelegraph", "title": "Tampered Ledger wallets cost Singapore users $2.7M: Police", "url": "https://cointelegraph.com/news/tampered-ledger-wallets-cost-singapore-users-27m-police", "pubDate": "Thu, 29 Oct 2026 03:16:32 +0000", "summary": "Police say at least two cases were reported as early as Sept. 10."},
+    {"source": "Decrypt", "title": "Utah Files Felony Charges Against Kalshi, Co-Founders Over Sports Bets", "url": "https://decrypt.co/382124/utah-files-felony-charges-against-kalshi-co-founders-over-sports-bets", "pubDate": "Thu, 29 Oct 2026 11:06:40 +0000", "summary": "The state says an undercover agent placed a dozen sports wagers on Kalshi."},
+    {"source": "CoinDesk", "title": "Solana wallet Solflare pledges to pay missed rewards on staked $160 million after validator goes offline", "url": "https://www.coindesk.com/markets/2026/10/29/solana-wallet-solflare-pledges-to-pay-missed-rewards-on-staked-usd160-million-after-validator-goes-offline", "pubDate": "Thu, 29 Oct 2026 10:44:48 +0000", "summary": "About 1.56 million SOL sat on a validator that stopped earning."},
+    {"source": "CryptoSlate", "title": "China's tech crash erased $480 billion. Bitcoin rose 27% over the same dates", "url": "https://cryptoslate.com/chinas-near-40-tech-rout-contrasts-with-bitcoins-27-gain-over-the-same-dates/", "pubDate": "Thu, 29 Oct 2026 12:00:16 +0000", "summary": "The July 9-Oct. 26 comparison shows sharp divergence."}
   ]
 }
