@@ -1,1 +1,50 @@
-PLACEHOLDER
+{
+  "asof": "2026-10-29T16:03:11Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin developers rush to fix 3 security flaws after AI uncovers them",
+      "url": "https://cryptoslate.com/bitcoin-developers-rush-to-fix-3-security-flaws-after-ai-uncovers-them/",
+      "pubDate": "Thu, 29 Oct 2026 15:10:59 +0000",
+      "summary": "The October 28 advisory identifies four patched releases, but 29.x is now at end of life. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Strategy\u2019s STRC nears $100 level that could reopen a Bitcoin funding channel",
+      "url": "https://cryptoslate.com/strategys-strc-returns-to-brink-of-100-after-saylor-wins-approval-for-daily-dividends-reviving-bitcoin-buying-hopes/",
+      "pubDate": "Thu, 29 Oct 2026 14:30:41 +0000",
+      "summary": "Strategy's STRC preferred stock closed eight cents below its $100 stated value as shareholders approved daily dividends on four preferred securities. Executive Chairman Michael Saylor said preliminary results from the Oct. 28 vote showed 99.3% of votes cast supported the amendment, allowing the company's four US-listed preferred securities, STRC, STRF, STRK and STRD, to accrue\u2026 Read the full story on CryptoSlateUnderstand the crypto stories that "
+    }
+  ]
+}
