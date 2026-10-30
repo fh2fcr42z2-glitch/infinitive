@@ -1,1 +1,21 @@
-PLACEHOLDER
+{
+  "asof": "2026-10-30T15:04:23Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
+  ],
+  "items": [
+    {"feed": "CoinTelegraph", "title": "Live updates: Binance says $6.34B set aside to cover hack losses", "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor", "pubDate": "Fri, 30 Oct 2026 14:12:26 +0000", "summary": "Follow live updates as Binance says $6.3 billion in assets have been stolen in a major hack. Around $3 billion in stolen funds have been frozen."},
+    {"feed": "CoinTelegraph", "title": "Here's what happened in crypto today", "url": "https://cointelegraph.com/news/what-happened-in-crypto-today", "pubDate": "Fri, 30 Oct 2026 14:07:42 +0000", "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."},
+    {"feed": "CoinTelegraph", "title": "Will gold's 'infinite mint bug' make Bitcoin more valuable?", "url": "https://cointelegraph.com/magazine/will-golds-infinite-mint-bug-make-bitcoin-more-valuable", "pubDate": "Fri, 30 Oct 2026 13:30:00 +0000", "summary": "A US fusion startup says it has turned mercury into gold. Could a potential increase in the gold supply strengthen Bitcoin's claim to be a better form of digital gold?"},
+    {"feed": "CoinTelegraph", "title": "Binance working with FBI to recover assets following $6.3B hack", "url": "https://cointelegraph.com/news/binance-fbi-recover-assets-hack", "pubDate": "Fri, 30 Oct 2026 13:11:10 +0000", "summary": "Binance is working with law enforcement to recover $3 billion that is frozen, after setting aside more than $6.3 billion for user coverage."},
+    {"feed": "CoinTelegraph", "title": "Binance says it holds $5B in matching tokens to cover hack losses", "url": "https://cointelegraph.com/news/binance-5b-matching-tokens-cover-hack", "pubDate": "Fri, 30 Oct 2026 12:45:00 +0000", "summary": "Binance claims it can cover the full $6.3 billion loss with a mix of its own capital and frozen assets."},
+    {"feed": "CoinTelegraph", "title": "Bitcoin price metrics hint at rebound as $1.6B liquidations follow Binance hack", "url": "https://cointelegraph.com/markets/bitcoin-price-metrics-hint-at-rebound-as-16b-liquidations-follow-binance-hack", "pubDate": "Fri, 30 Oct 2026 11:29:23 +0000", "summary": "Bitcoin held above $76,000 after a $6.3 billion Binance hack and a tech-stock sell-off."}
+  ]
+}
