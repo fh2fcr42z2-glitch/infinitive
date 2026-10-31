@@ -1,1 +1,19 @@
-PLACEHOLDER_FULL
+{
+  "asof": "2026-10-31T12:05:03Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/feed"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
+  ],
+  "items": [
+    {"source": "CoinTelegraph", "title": "Blockchain investigator Chainalysis hit by cybersecurity incident", "url": "https://cointelegraph.com/news/blockchain-investigator-chainalysis-hit-by-cybersecurity-incident", "pubDate": "Sat, 31 Oct 2026 11:22:49 +0000", "summary": "Chainalysis has engaged world-class third-party experts to support a review of its security and strengthen its defenses."},
+    {"source": "CoinTelegraph", "title": "Binance $6.3B record hack sparks pre-election political chatter", "url": "https://cointelegraph.com/news/binance-63b-record-hack-sparks-pre-election-political-chatter", "pubDate": "Sat, 31 Oct 2026 09:58:50 +0000", "summary": "Some political and administration figures tried to make hay of the biggest-ever crypto heist."},
+    {"source": "The Block", "title": "Inside the largest crypto hack on record: How attackers breached Binance for $6.3 billion", "url": "https://www.theblock.co/post/379000/inside-the-largest-crypto-hack-on-record", "pubDate": "Sat, 31 Oct 2026 00:00:00 +0000", "summary": "Details on the record Binance exploit."},
+    {"source": "CoinDesk", "title": "The $6.3 billion Binance hack paradox: Centralization made the hack possible, but also saved $3 billion", "url": "https://www.coindesk.com/business/2026/10/31/binance-hack-paradox", "pubDate": "Sat, 31 Oct 2026 00:00:00 +0000", "summary": "Analysis of the Binance incident."}
+  ]
+}
