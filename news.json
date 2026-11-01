@@ -1,1 +1,21 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-01T01:02:37Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
+  ],
+  "items": [
+    {"source": "CoinTelegraph", "title": "Binance says 90% of stolen assets replenished, targets Sunday withdrawals", "url": "https://cointelegraph.com/news/binance-hack-90-percent-replenished", "pubDate": "Sat, 31 Oct 2026 15:36:01 +0000", "summary": "Less-liquid tokens make up the remaining shortfall as Binance continues buying replacement assets."},
+    {"source": "Decrypt", "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History", "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know", "pubDate": "Sat, 31 Oct 2026 15:01:02 +0000", "summary": "Attackers tied to North Korea drained roughly $6.4 billion from the worlds largest crypto exchange."},
+    {"source": "The Block", "title": "Hackers hijack a dozen DeFi websites, all registered with Name.com, and steal about $138,000", "url": "https://www.theblock.co/news/defi/2026-10-31-hackers-hijack-a-dozen-defi-websites", "pubDate": "Sat, 31 Oct 2026 15:26:27 +0000", "summary": "All 12 hijacked domains are registered through Name.com, suggesting a compromise."},
+    {"source": "CryptoSlate", "title": "Jupiter Lend s withdrawal liquidity rebounds from near zero to 29 million USDC", "url": "https://cryptoslate.com/jupiter-lend-usdc-withdrawal-liquidity-rebounds/", "pubDate": "Sat, 31 Oct 2026 19:10:09 +0000", "summary": "An October 31 API reading shows partial recovery, with available USDC at about 7% of reported total assets."},
+    {"source": "Bitcoin Magazine", "title": "What to Know About the $6.3 Billion Binance Hack", "url": "https://bitcoinmagazine.com/videos/what-to-know-about-the-6-3-billion-binance-hack", "pubDate": "Sat, 31 Oct 2026 00:57:26 +0000", "summary": "Binance suffers a record $6.3B hack with $3.3B unrecovered."},
+    {"source": "CoinDesk", "title": "Binance says it has replaced 90% of stolen crypto after massive $6.3 billion breach", "url": "https://www.coindesk.com/business/2026/10/31/binance-says-it-has-replaced-90-of-stolen-crypto", "pubDate": "Sat, 31 Oct 2026 15:24:10 +0000", "summary": "Binance is absorbing all losses through corporate funds, futures reserves, and SAFU."}
+  ]
+}
