@@ -1,1 +1,25 @@
-PLACEHOLDER_CONTENT
+{
+  "asof": "2026-11-01T23:03:01Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
+  ],
+  "items": [
+    {"source": "CoinTelegraph", "title": "Here's what happened in crypto today", "url": "https://cointelegraph.com/news/what-happened-in-crypto-today", "pubDate": "Sun, 01 Nov 2026 14:17:00 +0000", "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."},
+    {"source": "CoinTelegraph", "title": "Binance says phase one of withdrawals opens after $6.3B hack", "url": "https://cointelegraph.com/news/binance-says-phase-one-of-withdrawals-opens-after-63b-hack", "pubDate": "Sun, 01 Nov 2026 09:38:18 +0000", "summary": "The crypto exchange said it has begun phased withdrawals after the record hack the FBI has blamed on North Korea."},
+    {"source": "CoinTelegraph", "title": "FBI blames North Korea for record $6.3B Binance hack", "url": "https://cointelegraph.com/news/fbi-blames-north-korea-for-record-63b-binance-hack", "pubDate": "Sun, 01 Nov 2026 07:44:38 +0000", "summary": "US agency seeks private-sector help to block further money-laundering of stolen digital assets."},
+    {"source": "Decrypt", "title": "Bitcoin ETF Investors Head for the Exits After Record Binance Hack", "url": "https://decrypt.co/382309/bitcoin-etf-investors-exits-record-binance-hack", "pubDate": "Sun, 01 Nov 2026 16:01:02 +0000", "summary": "Bitcoin ETFs saw $643.2 million in outflows Friday, the first full trading session after the $6.4 billion Binance hack, ending October with roughly $516 million in net outflows."},
+    {"source": "Decrypt", "title": "Binance Hack: Everything You Need to Know About the Biggest Crypto Heist in History", "url": "https://decrypt.co/382306/binance-hack-everything-you-need-to-know", "pubDate": "Sat, 31 Oct 2026 15:01:02 +0000", "summary": "Attackers tied to North Korea drained roughly $6.4 billion from the world's largest crypto exchange."},
+    {"source": "The Block", "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst", "url": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257", "pubDate": "Sun, 01 Nov 2026 18:25:48 +0000", "summary": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron."},
+    {"source": "The Block", "title": "Binance sees $3.64 billion in net outflows after reopening withdrawals following record hack", "url": "https://www.theblock.co/news/business/2026-11-01-binance-sees-3-64-billion-in-net-outflows-after-reopening-withdrawals-following-record-hack-432259", "pubDate": "Sun, 01 Nov 2026 16:32:31 +0000", "summary": "The exchange said the outflows equal 2.1% of its $171 billion in assets and that withdrawal volumes have declined after an initial spike."},
+    {"source": "CryptoSlate", "title": "Tracked Binance wallets record $2.5 billion in outflows as withdrawals reopen after hack", "url": "https://cryptoslate.com/tracked-binance-wallets-record-2-5-billion-in-outflows-as-withdrawals-reopen-after-hack/", "pubDate": "Sun, 01 Nov 2026 21:00:31 +0000", "summary": "Binance's tracked cryptocurrency wallets recorded $2,510 million in net outflows on Nov. 1 after the exchange resumed withdrawals following its $6.3 billion security breach."},
+    {"source": "CoinDesk", "title": "The crypto reader's guide to the 2026 midterm election: State of Crypto", "url": "https://www.coindesk.com/policy/2026/11/01/the-crypto-reader-s-guide-to-the-2026-midterm-election-state-of-crypto", "pubDate": "Sun, 01 Nov 2026 19:30:00 +0000", "summary": "America is going to the polls, and the results will shape crypto legislation and regulation over the next two years."},
+    {"source": "CoinDesk", "title": "AI agents bypassed crypto spending limits without human approval, researchers find in a new test", "url": "https://www.coindesk.com/tech/2026/11/01/ai-agents-bypassed-crypto-spending-limits-without-human-approval-researchers-find-in-a-new-test", "pubDate": "Sun, 01 Nov 2026 17:00:00 +0000", "summary": "The researchers say any approval an agent can reach is unreliable."}
+  ]
+}
