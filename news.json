@@ -1,1 +1,246 @@
-PLACEHOLDER_CONTENT
+{
+  "asof": "2026-11-02T17:02:43Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Strategy spends triple its weekly Bitcoin outlay on STRC buybacks",
+      "url": "https://cointelegraph.com/news/strategy-repurchases-208m-strc-65m-bitcoin",
+      "pubDate": "Mon, 02 Nov 2026 13:48:28 +0000",
+      "summary": "Strategy spent $208.2 million buying back STRC preferred shares and $65.5 million on Bitcoin, while allocating $98.5 million to its USD Cash balance."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "AI agent disputes head to 'Internet Court' -- and a jury of AI agents",
+      "url": "https://cointelegraph.com/magazine/ai-agent-disputes-sent-to-internet-court-and-a-jury-of-ai-agents",
+      "pubDate": "Mon, 02 Nov 2026 13:30:00 +0000",
+      "summary": "Who better to judge a dispute between AI agents than a jury of different AI models? That's the idea behind GenLayer, which is already issuing thousands of judgements each day."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Mon, 02 Nov 2026 13:29:29 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance taps half its SAFU Bitcoin holdings, releases reserve proof",
+      "url": "https://cointelegraph.com/news/binance-safu-btc-balance-halves-recovery-unclear",
+      "pubDate": "Mon, 02 Nov 2026 13:21:47 +0000",
+      "summary": "Binance's SAFU Bitcoin wallet now holds about 7,500 BTC after a 7,499 BTC transfer linked to the hack, with no timeline for restoring the $1 billion fund."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "FATF targets crypto hubs in review of money laundering controls",
+      "url": "https://cointelegraph.com/news/fatf-targeted-crypto-compliance-jurisdiction-reviews",
+      "pubDate": "Mon, 02 Nov 2026 12:56:07 +0000",
+      "summary": "The watchdog has not named the jurisdictions under review. Initial findings on compliance with its crypto standards are due in June 2027."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance hackers begin swapping stolen Solana tokens for Bitcoin: Chainalysis",
+      "url": "https://cointelegraph.com/news/binance-hackers-solana-new-phase-laundering-chainalysis",
+      "pubDate": "Mon, 02 Nov 2026 12:40:45 +0000",
+      "summary": "Crypto exchange Gate said it froze two linked accounts as US investigators urged platforms to block transactions tied to the $6.3 billion theft."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Brazil's Largest Exchange Mercado Bitcoin Halts Withdrawals After $40 Million Hack",
+      "url": "https://decrypt.co/382341/mercado-bitcoin-halts-withdrawals-40-million-hack",
+      "pubDate": "Mon, 02 Nov 2026 16:46:03 +0000",
+      "summary": "Brazil's largest crypto exchange paused deposits and withdrawals after a security incident. Tether froze more than 4.5 million USDT tied to the attack."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitmine Buys More Ethereum as Tom Lee Calls the Binance Hack Bullish",
+      "url": "https://decrypt.co/382340/bitmine-buys-more-ethereum-tom-lee-binance-hack-bullish",
+      "pubDate": "Mon, 02 Nov 2026 16:23:24 +0000",
+      "summary": "The chairman laid out six reasons the market's \"muted\" 4% ETH drop after the record Binance theft shows crypto is \"increasingly resilient,\" as the firm's stash neared its 5% supply goal."
+    },
+    {
+      "source": "Decrypt",
+      "title": "How T7X Is Building the Infrastructure for a New Era of Capital Markets",
+      "url": "https://decrypt.co/382147/how-t7x-is-building-the-infrastructure-for-a-new-era-of-capital-markets",
+      "pubDate": "Mon, 02 Nov 2026 15:01:03 +0000",
+      "summary": "T7X records ownership directly on-chain instead of wrapping assets held elsewhere, keeping token and asset under one legal framework."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Binance Hack Leads to Mass Outflows While FBI Opens Probe",
+      "url": "https://decrypt.co/382332/morning-minute-the-binance-hack-leads-to-mass-outflows-while-fbi-opens-probe",
+      "pubDate": "Mon, 02 Nov 2026 13:34:02 +0000",
+      "summary": "Uptober was far from it, with the Binance hack punctuating a red month. Will November be better? Or will the Binance hack hang over crypto?"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Resumes Bitcoin Buys With $66M Purchase",
+      "url": "https://decrypt.co/382333/strategy-resumes-bitcoin-buys-with-66m-purchase",
+      "pubDate": "Mon, 02 Nov 2026 13:19:36 +0000",
+      "summary": "The Bitcoin treasury firm also spent $208.2 million buying back its STRC preferred stock, cutting its USD Cash balance to $132.7 million."
+    },
+    {
+      "source": "Decrypt",
+      "title": "BTCPay Tells Merchants to Switch Off Servers Amid Hot Wallet Attack Reports",
+      "url": "https://decrypt.co/382324/btcpay-tells-merchants-to-switch-off-servers-amid-hot-wallet-attack-reports",
+      "pubDate": "Mon, 02 Nov 2026 12:24:18 +0000",
+      "summary": "The Bitcoin payment software says attacks targeted versions 2.4.1 and older, days after it shipped an emergency fix for a critical flaw."
+    },
+    {
+      "source": "The Block",
+      "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
+      "url": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321",
+      "pubDate": "Mon, 02 Nov 2026 16:52:55 +0000",
+      "summary": "Binance users can now independently verify 1:1 backing for BTC, ETH, BNB, SOL, XRP and more as it replenishes 95% of assets lost in record hack."
+    },
+    {
+      "source": "The Block",
+      "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
+      "url": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
+      "pubDate": "Mon, 02 Nov 2026 15:01:36 +0000",
+      "summary": "Strive bought another 124 BTC, bringing it closer to becoming the second-largest public company holder of bitcoin after Strategy."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
+      "url": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
+      "pubDate": "Mon, 02 Nov 2026 14:40:53 +0000",
+      "summary": "Bitmine added 8,573 ETH last week, lifting holdings to 6.06 million ETH, as Tom Lee flagged muted market response to Binance's hack."
+    },
+    {
+      "source": "The Block",
+      "title": "'We found room for even more orange': Michael Saylor's Strategy scoops up another 811 bitcoin for $65.5 million",
+      "url": "https://www.theblock.co/news/business/2026-11-02-we-found-room-for-even-more-orange-michael-saylor-strategy-bitcoin-btc-432275",
+      "pubDate": "Mon, 02 Nov 2026 13:09:43 +0000",
+      "summary": "The latest bitcoin acquisition disclosure comes after Strategy reported $19.5 billion in third quarter net income on Thursday."
+    },
+    {
+      "source": "The Block",
+      "title": "Spot bitcoin ETFs see largest daily outflows in four months following record Binance hack",
+      "url": "https://www.theblock.co/news/markets/2026-11-01-spot-bitcoin-etfs-largest-four-months-following-binance-hack-432270",
+      "pubDate": "Mon, 02 Nov 2026 04:11:05 +0000",
+      "summary": "US spot bitcoin ETFs shed $643 million on Friday, marking their largest single-day outflow since June 25, following Thursday's Binance's hack."
+    },
+    {
+      "source": "The Block",
+      "title": "North Korean hackers launder $242 million of Binance loot via Tron as FBI presses THORChain: analyst",
+      "url": "https://www.theblock.co/news/defi/2026-11-01-north-korean-hackers-launder-242-million-of-binance-loot-via-tron-as-fbi-presses-thorchain-analyst-432257",
+      "pubDate": "Sun, 01 Nov 2026 18:25:48 +0000",
+      "summary": "Crypto bridges Relay, THORChain, Chainflip and Symbiosis moved about $140 million of stolen funds off Tron, with Relay handling the most at $48 million."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "ETH vaults lagged staking while dollar strategies beat Treasuries, Glassnode finds",
+      "url": "https://cryptoslate.com/eth-vaults-trailed-staking-as-glassnodes-wider-sample-grew-in-september/",
+      "pubDate": "Mon, 02 Nov 2026 16:40:04 +0000",
+      "summary": "Glassnode's latest review puts September ETH vaults behind staking and USD curators ahead of Treasuries, despite growth in its tracked balance. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Core Lightning nodes can keep crashing after an upgrade until a stored trigger is removed",
+      "url": "https://cryptoslate.com/core-lightning-nodes-can-keep-crashing-after-an-upgrade-because-the-trigger-stays-on-disk/",
+      "pubDate": "Mon, 02 Nov 2026 15:40:25 +0000",
+      "summary": "The flaw was patched in April, but a malicious announcement already saved on an affected node needs separate removal. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Ethereum added 361,000 ETH to active stake while its total staking balance shrank",
+      "url": "https://cryptoslate.com/ethereums-active-staking-share-rose-while-october-withdrawals-outpaced-deposits/",
+      "pubDate": "Mon, 02 Nov 2026 14:40:10 +0000",
+      "summary": "CryptoKeyhole's October 1-30 series imply more ETH counted as active stake while the wider consensus balance shrank. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Akash's Solana plan would end current staking rewards while allowing new AKT issuance",
+      "url": "https://cryptoslate.com/akashs-solana-plan-would-end-current-staking-rewards-while-allowing-new-akt-issuance/",
+      "pubDate": "Mon, 02 Nov 2026 13:40:29 +0000",
+      "summary": "The proposal separates the end of old-chain rewards from future provider and treasury incentives, whose emission amounts remain unresolved. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin catches a break from falling oil prices, but OPEC+ raises new Fed concerns",
+      "url": "https://cryptoslate.com/bitcoin-catches-a-break-from-falling-oil-prices-but-opec-raises-new-fed-concerns/",
+      "pubDate": "Mon, 02 Nov 2026 12:40:41 +0000",
+      "summary": "Gasoline drove most of September's monthly CPI rise, while persistent oil constraints could delay financing relief for Bitcoin. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Solana validators told to act immediately as critical Linux vulnerability emerges",
+      "url": "https://cryptoslate.com/solana-validators-told-to-act-immediately-as-critical-linux-vulnerability-emerges/",
+      "pubDate": "Mon, 02 Nov 2026 11:20:48 +0000",
+      "summary": "Ubuntu's main 24.04 kernel repair was still pending on Nov. 2, leaving affected operators a separate host-security task. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Brazil's Mercado Bitcoin Freezes Deposits and Withdrawals Due to Ongoing Security Incident, Losses Estimated Near $40 Million",
+      "url": "https://bitcoinmagazine.com/news/brazils-mercado-bitcoin-freezes-40-million",
+      "pubDate": "Mon, 02 Nov 2026 16:09:05 +0000",
+      "summary": "Bitcoin Magazine Brazil's Mercado Bitcoin Freezes Deposits and Withdrawals Due to Ongoing Security Incident, Losses Estimated Near $40 Million Brazil's largest crypto exchange Mercado Bitcoin says customers suffered no losses, but it has not said how much was taken or when it will reopen. This post "
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Binance Reopens Withdrawals as Hack Recovery Enters Second Week",
+      "url": "https://bitcoinmagazine.com/news/binance-reopens-withdrawals-hack",
+      "pubDate": "Mon, 02 Nov 2026 14:57:34 +0000",
+      "summary": "Bitcoin Magazine Binance Reopens Withdrawals as Hack Recovery Enters Second Week Binance has reopened withdrawals after its $6.3 billion North Korea hack, covered 95% of losses, and has reserves for the remaining 5%, with post-mortem reviews to stay open. This post Binance Reopens Withdrawals as Hac"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitwise's Andr\u00e9 Dragosch: Bitcoin's \"Fair Value\" of $197,000",
+      "url": "https://bitcoinmagazine.com/videos/bitwises-andre-dragosch-bitcoins-fair-value-of-197000",
+      "pubDate": "Mon, 02 Nov 2026 14:36:15 +0000",
+      "summary": "\u25b6Bitcoin Magazine Bitwise's Andr\u00e9 Dragosch: Bitcoin's \"Fair Value\" of $197,000 Andr\u00e9 Dragosch details Bitcoin as a liquidity canary, its $197K model fair value, Fed policy shifts, recession risks, and capital rotation from precious metals. This post Bitwise's Andr\u00e9 Dragosch: Bitcoin's \"Fair Value\" o"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Adam Back: Pension Funds Are Bitcoin's \"Third Wave\" of Adoption",
+      "url": "https://bitcoinmagazine.com/videos/adam-back-pension-funds-are-bitcoins-third-wave-of-adoption",
+      "pubDate": "Mon, 02 Nov 2026 14:29:48 +0000",
+      "summary": "\u25b6Bitcoin Magazine Adam Back: Pension Funds Are Bitcoin's \"Third Wave\" of Adoption Adam Back explains why Bitcoin's third wave--pensions, managed funds, and model portfolios--is still to come, and how Swiss banks are already preparing. This post Adam Back: Pension Funds Are Bitcoin's \"Third Wave\" of Ad"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Strategy (MSTR) Adds 811 Bitcoin, Strive (ASST) Follows Suit With 124 as Both Keep Stacking",
+      "url": "https://bitcoinmagazine.com/news/strategy-mstr-adds-811-bitcoin-strive-too",
+      "pubDate": "Mon, 02 Nov 2026 13:50:53 +0000",
+      "summary": "Bitcoin Magazine Strategy (MSTR) Adds 811 Bitcoin, Strive (ASST) Follows Suit With 124 as Both Keep Stacking Strategy bought 811 bitcoin for $65.5 million and Strive added 124 BTC last week, with the two firms together adding 935 coins and Strategy now holding 849,327 BTC. This post Strategy (MSTR) "
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "MSTR Q3 2026 Earnings Call: Analyst Q&A",
+      "url": "https://bitcoinmagazine.com/videos/mstr-q3-2026-earnings-call-analyst-qa",
+      "pubDate": "Sat, 31 Oct 2026 01:08:31 +0000",
+      "summary": "\u25b6Bitcoin Magazine MSTR Q3 2026 Earnings Call: Analyst Q&A Strategy's MSTR Q3 earnings Q&A: Michael Saylor and Phong Le answer analysts on digital credit, Stretch (STRC) at par, preferreds, and Bitcoin's financialization. This post MSTR Q3 2026 Earnings Call: Analyst Q&A first appeared on Bitcoin Mag"
+    }
+  ]
+}
