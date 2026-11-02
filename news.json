@@ -1,1 +1,246 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-02T23:02:16Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 02 Nov 2026 22:36:09 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "New Jersey drops Coinbase staking order ahead of crypto's midterm test",
+      "url": "https://cointelegraph.com/news/new-jersey-coinbase-staking?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 02 Nov 2026 22:22:30 +0000",
+      "summary": "New Jersey lifted its staking ban and dropped a $5 million penalty, clearing the way for Coinbase to restore staking access for users in the US state."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "AI poses greater threat to Bitcoin than quantum computing, Swan founder says",
+      "url": "https://cointelegraph.com/news/ai-hackers-threat-bitcoin-quantum-computing-swan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 02 Nov 2026 21:54:41 +0000",
+      "summary": "The Swan Bitcoin founder warned that hackers are using large language models to exploit security flaws with just a few prompts."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto investigators flag suspected $106M theft, $786K Solana bot drain",
+      "url": "https://cointelegraph.com/news/zachxbt-flags-suspected-106m-crypto-theft-as-solana-bot-faces-possible-786k-drain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 02 Nov 2026 21:16:24 +0000",
+      "summary": "A European entity may have lost $106 million from exchange accounts, while a wallet associated with a Solana arbitrage bot may have lost another $786,000."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Coinbase hit with 50% price target cut as post-earnings rout deepens",
+      "url": "https://cointelegraph.com/news/morgan-stanley-cuts-coinbase-target-to-120-as-earnings-recovery-outlook-weakens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 02 Nov 2026 20:22:23 +0000",
+      "summary": "Slowing trading activity and fallout from the Binance hack are clouding Coinbase's revenue prospects, prompting Morgan Stanley to lower its rating on the stock."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin risks drop below $76K as 7% oil slide fails to spark BTC price rally",
+      "url": "https://cointelegraph.com/markets/bitcoin-risks-sub-76k-drop-as-7-fall-in-oil-fails-to-spark-btc-price-rally?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 02 Nov 2026 19:27:58 +0000",
+      "summary": "Bitcoin fell around 1.7% on Monday as stocks pared early gains fueled by hopes of a diplomatic resolution to the US-Iran war."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy",
+      "url": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy",
+      "pubDate": "Mon, 02 Nov 2026 22:16:02 +0000",
+      "summary": "Strive added 124 Bitcoin for about $10 million and now trails Twenty One Capital by 390 BTC for third place among Treasury companies."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Mystery $106 Million Crypto Theft Hits EU Entity Days After Binance Hack",
+      "url": "https://decrypt.co/382383/mystery-106-million-crypto-theft-eu-entity-binance-hack",
+      "pubDate": "Mon, 02 Nov 2026 21:16:03 +0000",
+      "summary": "Onchain investigator ZachXBT says an unidentified EU entity lost more than $106 million from centralized exchange accounts on Sunday,."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Claude-Built Linux Exploit Targets Bug That Ubuntu Still Hasn't Patched",
+      "url": "https://decrypt.co/382375/claude-built-linux-exploit-bug-ubuntu",
+      "pubDate": "Mon, 02 Nov 2026 20:36:03 +0000",
+      "summary": "Anthropic says Claude wrote an attack that can take over a Linux server with no password. Red Hat patched on Sunday, but Ubuntu still has no fix."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tom Lee Calls Bottom on AI Stock Selloff, Citing Tight Supply and Crypto Resilience",
+      "url": "https://decrypt.co/382357/tom-lee-calls-bottom-ai-stock-selloff-crypto",
+      "pubDate": "Mon, 02 Nov 2026 19:46:02 +0000",
+      "summary": "The Fundstrat strategist says constraints on AI spending have slowed growth without ending the boom, while crypto's response to the Binance hack suggests sellers may already be exhausted."
+    },
+    {
+      "source": "Decrypt",
+      "title": "North Korea Is Laundering Binance Hack Loot at One New Wallet Every 25 Seconds",
+      "url": "https://decrypt.co/382355/north-korea-laundering-binance-hack-loot-new-wallet-every-25-seconds",
+      "pubDate": "Mon, 02 Nov 2026 18:46:03 +0000",
+      "summary": "$2.85 billion of the $6.43 billion stolen from Binance has been frozen or seized, compared with about 3% in the Bybit hack, as North Korea's automated laundering spans 12,000 wallets."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Proton Users Revolt After CEO Calls Security Caution 'Loser Thinking' Amid AI Push",
+      "url": "https://decrypt.co/382353/proton-users-revolt-ceo-calls-security-caution-loser-thinking-ai",
+      "pubDate": "Mon, 02 Nov 2026 18:16:02 +0000",
+      "summary": "Proton customers say they are canceling subscriptions after reports of pressure to adopt AI coding, as the privacy company scraps employee re-interviews but defends its broader shift toward automated development."
+    },
+    {
+      "source": "The Block",
+      "title": "Kim Jong-Un's sister rejects FBI claims linking North Korea to record $6 billion Binance hack: reports",
+      "url": "https://www.theblock.co/news/regulation/2026-11-02-kim-jong-un-sister-rejects-fbi-claims-linking-north-korea-binance-hack-432344",
+      "pubDate": "Mon, 02 Nov 2026 22:26:06 +0000",
+      "summary": "North Korea is now reportedly saying it was not behind the hack, despite the FBI finding that North Korean hackers were behind the heist."
+    },
+    {
+      "source": "The Block",
+      "title": "Mercado Bitcoin, Brazil's largest crypto exchange, hit by $46 million security breach",
+      "url": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333",
+      "pubDate": "Mon, 02 Nov 2026 20:19:49 +0000",
+      "summary": "Brazil's largest crypto exchange Mercado Bitcoin confirmed earlier Monday a security incident and paused withdrawals."
+    },
+    {
+      "source": "The Block",
+      "title": "DTCC's tokenization launch could accelerate adoption and boost Securitize, StoneX says",
+      "url": "https://www.theblock.co/news/markets/2026-11-02-stonex-dtcc-tokenization-validates-securitize-secz-432331",
+      "pubDate": "Mon, 02 Nov 2026 19:15:48 +0000",
+      "summary": "StoneX says DTCC's tokenization service validates Securitize's model, reiterating its buy rating on SECZ as the firm expands tokenized stocks."
+    },
+    {
+      "source": "The Block",
+      "title": "Binance completes latest proof of reserves as it works to restore assets, withdrawals after record hack",
+      "url": "https://www.theblock.co/news/business/2026-11-02-binance-zero-knowledge-proof-of-reserves-snapshot-hack-recovery-432321",
+      "pubDate": "Mon, 02 Nov 2026 16:52:55 +0000",
+      "summary": "Binance users can now independently verify 1:1 backing for BTC, ETH, BNB, SOL, XRP and more as it replenishes 95% of assets lost in record hack."
+    },
+    {
+      "source": "The Block",
+      "title": "Strive inches closer to becoming second-largest public bitcoin holder after latest $10 million buy",
+      "url": "https://www.theblock.co/news/business/2026-11-02-strive-inches-closer-second-largest-public-bitcoin-holder-10-million-buy-432312",
+      "pubDate": "Mon, 02 Nov 2026 15:01:36 +0000",
+      "summary": "Strive bought another 124 BTC, bringing it closer to becoming the second-largest public company holder of bitcoin after Strategy."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitmine adds 8,573 ETH as Tom Lee flags muted Binance hack reaction",
+      "url": "https://www.theblock.co/news/business/2026-11-02-bitmine-adds-8573-eth-tom-lee-flags-muted-binance-hack-reaction-432307",
+      "pubDate": "Mon, 02 Nov 2026 14:40:53 +0000",
+      "summary": "Bitmine added 8,573 ETH last week, lifting holdings to 6.06 million ETH, as Tom Lee flagged muted market response to Binance's hack."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Binance hack freeze hits 44% as Lazarus launders funds through automated scripts",
+      "url": "https://cryptoslate.com/binance-hack-freeze-hits-44-as-lazarus-launders-funds-through-automated-scripts/",
+      "pubDate": "Mon, 02 Nov 2026 21:10:00 +0000",
+      "summary": "The Binance hack response has frozen 44% of the stolen funds so far, while Lazarus Group is using automated scripts to launder the rest across thousands of wallets."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin price faces $76K test as oil drop fails to lift risk assets",
+      "url": "https://cryptoslate.com/bitcoin-price-faces-76k-test-as-oil-drop-fails-to-lift-risk-assets/",
+      "pubDate": "Mon, 02 Nov 2026 19:30:00 +0000",
+      "summary": "BTC slid as macro risk-off persisted despite a sharp oil price decline."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Mercado Bitcoin pauses withdrawals after $46M security incident",
+      "url": "https://cryptoslate.com/mercado-bitcoin-pauses-withdrawals-after-46m-security-incident/",
+      "pubDate": "Mon, 02 Nov 2026 18:45:00 +0000",
+      "summary": "Brazil's top exchange confirmed a breach and halted withdrawals while investigating."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Strategy and Strive continue Bitcoin accumulation amid market caution",
+      "url": "https://cryptoslate.com/strategy-and-strive-continue-bitcoin-accumulation-amid-market-caution/",
+      "pubDate": "Mon, 02 Nov 2026 16:20:00 +0000",
+      "summary": "Public treasuries keep buying BTC even as price action stays muted post-hack."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Tokenized stocks face pushback from major firms as NYSE plans advance",
+      "url": "https://cryptoslate.com/tokenized-stocks-face-pushback-from-major-firms-as-nyse-plans-advance/",
+      "pubDate": "Mon, 02 Nov 2026 15:10:00 +0000",
+      "summary": "Nvidia, Nike and others object to tokenized equity trading plans."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "BNB ETF inflows preceded Binance hack, data shows",
+      "url": "https://cryptoslate.com/bnb-etf-inflows-preceded-binance-hack-data-shows/",
+      "pubDate": "Mon, 02 Nov 2026 14:00:00 +0000",
+      "summary": "Largest BNB ETF allocations arrived weeks before the exchange incident."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Big crypto wants the one thing it can't buy: your vote",
+      "url": "https://www.coindesk.com/opinion/2026/11/02/big-crypto-wants-the-one-thing-it-can-t-buy-your-vote",
+      "pubDate": "Mon, 02 Nov 2026 21:38:53 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin traders eye post-election rally as exchange outflows point to supply squeeze",
+      "url": "https://www.coindesk.com/markets/2026/11/02/bitcoin-traders-eye-post-election-rally-as-exchange-outflows-point-to-supply-squeeze",
+      "pubDate": "Mon, 02 Nov 2026 18:13:57 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EU entity suspected of losing $106 million from crypto exchange accounts, ZachXBT says",
+      "url": "https://www.coindesk.com/tech/2026/11/02/eu-entity-suspected-of-losing-usd106-million-from-crypto-exchange-accounts-zachxbt-says",
+      "pubDate": "Mon, 02 Nov 2026 17:21:04 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "NYSE tokenized stock plans take shape as four more transfer agents join",
+      "url": "https://www.coindesk.com/business/2026/11/02/nyse-taps-wall-street-giant-broadridge-to-bring-shareholder-voting-onto-blockchain-rails",
+      "pubDate": "Mon, 02 Nov 2026 16:41:46 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Brazil's Mercado Bitcoin halts withdrawals after $40 million drained across 10 chains",
+      "url": "https://www.coindesk.com/business/2026/11/02/brazil-s-mercado-bitcoin-halts-withdrawals-after-usd40-million-drained-across-10-chains",
+      "pubDate": "Mon, 02 Nov 2026 15:53:29 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nvidia, Costco and Nike join pushback against OKX-ICE tokenized stock plans",
+      "url": "https://www.coindesk.com/business/2026/11/02/nvidia-costco-and-nike-join-pushback-against-okx-ice-tokenized-stock-plans",
+      "pubDate": "Mon, 02 Nov 2026 15:26:43 +0000",
+      "summary": ""
+    }
+  ]
+}
