@@ -1,43 +1,6 @@
 {
   "asof": "2026-11-03T04:03:09Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
-  "feeds": [
-    {
-      "name": "CoinTelegraph",
-      "url": "https://cointelegraph.com/rss"
-    },
-    {
-      "name": "Decrypt",
-      "url": "https://decrypt.co/feed"
-    },
-    {
-      "name": "The Block",
-      "url": "https://www.theblock.co/rss.xml"
-    },
-    {
-      "name": "CryptoSlate",
-      "url": "https://cryptoslate.com/feed/"
-    },
-    {
-      "name": "Bitcoin Magazine",
-      "url": "https://bitcoinmagazine.com/.rss/full/"
-    },
-    {
-      "name": "CoinDesk",
-      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
-    },
-    {
-      "name": "Rekt",
-      "url": "https://rekt.news"
-    }
-  ],
-  "items": [
-    {
-      "source": "CoinTelegraph",
-      "title": "Binance begins second withdrawal phase, exchange outflows slow",
-      "url": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack",
-      "pubDate": "Tue, 03 Nov 2026 03:03:44 +0000",
-      "summary": "The exchange says additional assets will become available for withdrawal from 04:00 UTC on Tuesday as security checks are completed, following an initial reopening on Sunday."
-    }
-  ]
+  "feeds": [{"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"}, {"name": "Decrypt", "url": "https://decrypt.co/feed"}, {"name": "The Block", "url": "https://www.theblock.co/rss.xml"}, {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"}, {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"}, {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"}, {"name": "Rekt", "url": "https://rekt.news"}],
+  "items": [{"source": "CoinTelegraph", "title": "Binance begins second withdrawal phase, exchange outflows slow", "url": "https://cointelegraph.com/news/binance-begins-second-withdrawal-phase-following-record-hack", "pubDate": "Tue, 03 Nov 2026 03:03:44 +0000", "summary": "The exchange says additional assets will become available for withdrawal from 04:00 UTC on Tuesday as security checks are completed, following an initial reopening on Sunday."}, {"source": "CoinTelegraph", "title": "South Korea urges exchanges to boost cold storage after Binance hack", "url": "https://cointelegraph.com/news/south-korea-urges-exchanges-to-boost-cold-storage-after-binance-hack", "pubDate": "Tue, 03 Nov 2026 01:32:39 +0000", "summary": "South Korean crypto exchanges are already required to hold at least 80% of customer crypto in cold wallets, but the regulator is urging more."}, {"source": "The Block", "title": "Mercado Bitcoin, Brazil's largest crypto exchange, hit by $46 million security breach", "url": "https://www.theblock.co/news/defi/2026-11-02-mercado-bitcoin-hack-46-million-brazil-exchange-432333", "pubDate": "Mon, 02 Nov 2026 20:19:49 +0000", "summary": "Brazil's largest crypto exchange Mercado Bitcoin confirmed a security incident and paused withdrawals."}, {"source": "Decrypt", "title": "Bitcoin Firm Strive Climbs Up the Treasury Ranks With Another Big Buy", "url": "https://decrypt.co/382385/bitcoin-firm-strive-treasury-ranks-another-big-buy", "pubDate": "Mon, 02 Nov 2026 22:16:02 +0000", "summary": "Strive added 124 Bitcoin for about $10 million."}, {"source": "CryptoSlate", "title": "Tom Lee calls Ethereum's 4% post-hack fall bullish", "url": "https://cryptoslate.com/tom-lee-calls-ethereums-4-post-hack-fall-bullish/", "pubDate": "Tue, 03 Nov 2026 01:05:23 +0000", "summary": "Tom Lee flags muted reaction and calls the dip constructive for ETH."}]
 }
