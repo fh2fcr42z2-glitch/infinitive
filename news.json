@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-03T18:01:51Z",
+  "asof": "2026-11-03T18:04:00Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -31,5 +31,132 @@
       "url": "https://rekt.news"
     }
   ],
-  "items": []
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Wall Street killed Bitcoin\u2019s wild rallies: 10x\u2019s Markus Thielen",
+      "url": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 03 Nov 2026 16:47:01 +0000",
+      "summary": "Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance traces $6.3B hack to fake job interviews, compromised AI tool",
+      "url": "https://cointelegraph.com/news/binance-fake-job-interviews-compromised-ai-tool-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 03 Nov 2026 16:44:06 +0000",
+      "summary": "Hackers exploited compromised employee computers and stolen credentials to breach Binance\u2019s wallet infrastructure, according to the exchange\u2019s investigation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price defends $76K lows as analysts see stocks pricing in \u2018political gridlock\u2019",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-defends-76k-lows-as-analysis-sees-stocks-pricing-in-political-gridlock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 03 Nov 2026 15:44:42 +0000",
+      "summary": "Bitcoin made modest gains at the start of Wall Street trading on Tuesday as markets awaited cues from the US midterm elections."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Moscow Exchange to launch Bitcoin, Ether and USDT trading in December",
+      "url": "https://cointelegraph.com/news/moscow-exchange-bitcoin-ether-usdt-trading-december?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 03 Nov 2026 13:15:47 +0000",
+      "summary": "Moscow Exchange plans to launch crypto trading on Dec. 1 under Russia\u2019s new law, with annual purchase limits for non-qualified investors."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Elon Musk\u2019s Tesla and SpaceX Block Their Stock From OKX-ICE Tokenized Venue",
+      "url": "https://decrypt.co/382458/elon-musk-tesla-spacex-block-okx-ice-tokenized-stock",
+      "pubDate": "Tue, 03 Nov 2026 17:46:15 +0000",
+      "summary": "Amazon, Tesla, SpaceX, Netflix, Lam Research, and SoFi objected to trading of their shares on the planned OKX-ICE tokenized stock venue, bringing the total to 56."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Five Ways North Korea Breaks Into Crypto Firms\u2014and How Binance Was Hacked",
+      "url": "https://decrypt.co/382420/five-ways-north-korea-breaks-into-crypto-firms-and-how-binance-was-hacked",
+      "pubDate": "Tue, 03 Nov 2026 17:30:54 +0000",
+      "summary": "From AI deepfakes to poisoning code libraries: here's how North Korean hackers get inside crypto companies."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Epidemic of Hacked Freezers Spreads Across Europe",
+      "url": "https://decrypt.co/382423/epidemic-hacked-freezers-spreads-europe",
+      "pubDate": "Tue, 03 Nov 2026 17:04:46 +0000",
+      "summary": "A suspected hacking wave has pushed supermarket freezers into defrost mode across ten European countries, with temperatures reportedly hitting 50\u00b0C. Nobody knows who's behind it or why it spread."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ethereum Privacy Network Aztec Rolls Out Major Security and Speed Upgrade",
+      "url": "https://decrypt.co/382387/ethereum-privacy-network-aztec-security-speed-upgrade",
+      "pubDate": "Tue, 03 Nov 2026 14:01:02 +0000",
+      "summary": "The \u201cTierra\u201d upgrade resolves a critical bug from the prior version, adds formal verification, and an AI-powered testing harness."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Tom Lee Calls the Binance Hack Bullish for Ethereum",
+      "url": "https://decrypt.co/382410/morning-minute-tom-lee-calls-the-binance-hack-bullish-for-ethereum",
+      "pubDate": "Tue, 03 Nov 2026 13:11:47 +0000",
+      "summary": "Meanwhile, both the BTC ETFs and ETH ETFs bleed outflows in the Binance hack aftermath, dragging down prices."
+    },
+    {
+      "source": "The Block",
+      "title": "Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties",
+      "url": "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439",
+      "pubDate": "Tue, 03 Nov 2026 16:08:14 +0000",
+      "summary": "Sun says World Liberty Financial hid its UAE citizenship to escape federal court, and plans to refile his $45M lawsuit in California state court."
+    },
+    {
+      "source": "The Block",
+      "title": "Binance says hackers used fake job interview, internal AI tool in $6.3 billion breach",
+      "url": "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406",
+      "pubDate": "Tue, 03 Nov 2026 15:34:34 +0000",
+      "summary": "Binance's incident report said hackers used a fake job interview and an internal AI tool to gain access to systems involved in the theft."
+    },
+    {
+      "source": "The Block",
+      "title": "Ethereum Layer 2 Aztec gets Tierra V6 upgrade to support faster private apps",
+      "url": "https://www.theblock.co/news/defi/2026-11-03-ethereum-l2-aztec-tierra-v6-upgrade-private-apps-432399",
+      "pubDate": "Tue, 03 Nov 2026 14:00:00 +0000",
+      "summary": "Aztec Foundation has rolled out Tierra V6, saying it fixes earlier security issues and doubles the speed of private transaction proof generation."
+    },
+    {
+      "source": "The Block",
+      "title": "Liquid Network restores full bitcoin backing following $320 million exploit",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-03-liquid-network-restores-full-bitcoin-backing-following-exploit-432387",
+      "pubDate": "Tue, 03 Nov 2026 11:49:20 +0000",
+      "summary": "Liquid Network said its bitcoin reserves are back to full backing after September's exploit, with Blockstream providing the funds."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "North Korea denies role in $6 billion Binance hack after FBI accusation",
+      "url": "https://cryptoslate.com/north-korea-denies-role-in-6-billion-binance-hack-after-fbi-accusation/",
+      "pubDate": "Tue, 03 Nov 2026 17:10:03 +0000",
+      "summary": "Reuters, citing KCNA, reported the denial after the FBI blamed TraderTraitor for stealing more than $6 billion from Binance."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin and Treasury yields fall together in rare divergence as $80,000 recovery fails",
+      "url": "https://cryptoslate.com/bitcoin-and-treasury-yields-fall-together-in-rare-divergence-as-80000-recovery-fails/",
+      "pubDate": "Tue, 03 Nov 2026 15:30:24 +0000",
+      "summary": "November 2 ETF redemptions add a demand concern as Bitcoin's latest decline follows a drop in real yields through October 30."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin Lightning fix blocks a probe linking private channels to onchain funding",
+      "url": "https://cryptoslate.com/bitcoin-lightning-fix-blocks-a-probe-linking-private-channels-to-onchain-funding/",
+      "pubDate": "Tue, 03 Nov 2026 15:00:18 +0000",
+      "summary": "LDK\u2019s October 25 fix rejects a funding-location lookup used by a probe requiring connections to both endpoints of an unannounced channel."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Stronger US factory activity complicates Bitcoin\u2019s hopes for lower rates",
+      "url": "https://cryptoslate.com/stronger-us-factory-activity-complicates-bitcoins-hopes-for-lower-rates/",
+      "pubDate": "Tue, 03 Nov 2026 14:00:45 +0000",
+      "summary": "ISM\u2019s production index reached 59.0 as factory price increases became less widespread, leaving growth and funding signals in tension."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
+      "url": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
+      "pubDate": "Tue, 03 Nov 2026 16:55:10 +0000",
+      "summary": "The Tron founder says World Liberty failed to disclose its UAE ties until months into his lawsuit over $45 million in WLFI tokens."
+    }
+  ]
 }
