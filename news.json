@@ -1,1 +1,92 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-04T00:03:07Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "US midterms election 2026 live: What they mean for crypto",
+      "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 03 Nov 2026 23:01:32 +0000",
+      "summary": "Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 03 Nov 2026 22:39:18 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
+      "url": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 03 Nov 2026 21:47:20 +0000",
+      "summary": "SpaceX joined several other issuers objecting to OKXICE tokenized trading, months after crypto platforms offered tokens tied to its shares."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CFTC clears stock perpetual futures for trading on US exchanges",
+      "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 03 Nov 2026 20:24:55 +0000",
+      "summary": "US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trading product into traditional markets amid ongoing legal disputes."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US midterms: Prediction markets favor Democrats in key crypto races",
+      "url": "https://cointelegraph.com/news/us-midterm-prediction-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 03 Nov 2026 19:38:19 +0000",
+      "summary": "Kalshi and Polymarket price a 75% chance of a Democratic sweep, days after markets misjudged Brazil's runoff."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Wall Street killed Bitcoin's wild rallies: 10x's Markus Thielen",
+      "url": "https://cointelegraph.com/magazine/wall-street-killed-bitcoins-wild-rallies-markus-thielen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 03 Nov 2026 16:47:01 +0000",
+      "summary": "Markus Thielen sees Bitcoin reaching $90,000 by year-end, questions institutional ETF demand and says Ethereum must do more for holders."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
+      "url": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
+      "pubDate": "Tue, 03 Nov 2026 23:48:32 +0000",
+      "summary": "The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tether Holds 150,000 Bitcoin, CEO Says-About 50,000 More Than Its Reserve Report Shows",
+      "url": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
+      "pubDate": "Tue, 03 Nov 2026 22:46:02 +0000",
+      "summary": "Paolo Ardoino told the Plan  Forum in Lugano the company owns \"give or take 150,000 Bitcoin,\" but its Q3 reserve report implies just 100,060."
+    }
+  ]
+}
