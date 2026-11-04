@@ -1,1 +1,246 @@
-PLACEHOLDER_FOR_CONTENT
+{
+  "asof": "2026-11-04T02:01:48Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "US midterms election 2026 live: Democratic Senate odds climb above 90%",
+      "url": "https://cointelegraph.com/news/us-midterms-2026-live-results-and-what-they-mean-for-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 04 Nov 2026 01:33:21 +0000",
+      "summary": "Follow live coverage of the 2026 US midterm elections, including key congressional races, crypto-backed candidates and what the results could mean for digital asset regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "1inch lawyer sees agencies driving US crypto regulation as midterms unfold",
+      "url": "https://cointelegraph.com/news/1inch-lawyer-sees-agencies-driving-us-crypto-regulation-as-midterms-unfold?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 04 Nov 2026 00:45:16 +0000",
+      "summary": "Crypto executives expect US regulators to drive crypto policymaking regardless of the midterm election outcome."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "RUNE rallies 15% as THORChain restarts most swaps after halt",
+      "url": "https://cointelegraph.com/markets/rune-rallies-15-as-thorchain-restarts-most-swaps-after-outage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 03 Nov 2026 23:56:09 +0000",
+      "summary": "THORChain has restored trading on Bitcoin, Ethereum and several other networks following a refund bug, while three chains remain paused."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here?s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 03 Nov 2026 22:39:18 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "SpaceX blocks tokenized stock listing on OKXICE despite offshore trading boom",
+      "url": "https://cointelegraph.com/news/spacex-tokenization-okxice?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 03 Nov 2026 21:47:20 +0000",
+      "summary": "SpaceX joined several other issuers objecting to OKXICE tokenized trading, months after crypto platforms offered tokens tied to its shares."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CFTC clears stock perpetual futures for trading on US exchanges",
+      "url": "https://cointelegraph.com/news/cftc-equity-perpetual-futures-trading-us-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 03 Nov 2026 20:24:55 +0000",
+      "summary": "US regulators are opening the door to stock-based perpetual futures, extending a popular crypto trading product into traditional markets amid ongoing legal disputes."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Wants to Rebrand AI Data Centers, Use Them to 'Protect the Grid'",
+      "url": "https://decrypt.co/382476/openai-ai-data-centers-rebrand-protect-power-grid",
+      "pubDate": "Tue, 03 Nov 2026 23:48:32 +0000",
+      "summary": "The ChatGPT maker says future facilities could ease pressure on power grids by cutting demand during emergencies."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tether Holds 150,000 Bitcoin, CEO Says?About 50,000 More Than Its Reserve Report Shows",
+      "url": "https://decrypt.co/382474/tether-holds-150000-bitcoin-ceo-says",
+      "pubDate": "Tue, 03 Nov 2026 22:46:02 +0000",
+      "summary": "Paolo Ardoino told the Plan ? Forum in Lugano the company owns ?give or take 150,000 Bitcoin,? but its Q3 reserve report implies just 100,060."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic's AI Is Getting Cheaper to Use. That's Becoming a Problem for Its Business",
+      "url": "https://decrypt.co/382471/anthropic-ai-cheaper-use-problem-for-business",
+      "pubDate": "Tue, 03 Nov 2026 21:50:17 +0000",
+      "summary": "Claude's prices are falling, but Anthropic's computing expenses grew faster than sales in the latest quarter?a tricky equation ahead of its IPO."
+    },
+    {
+      "source": "Decrypt",
+      "title": "CrowdStrike Launches AI Agent 'Kill Switch,' Plans to Acquire Fiddler AI",
+      "url": "https://decrypt.co/382467/crowdstrike-ai-agent-kill-switch-acquire-fiddler-ai",
+      "pubDate": "Tue, 03 Nov 2026 21:16:03 +0000",
+      "summary": "CrowdStrike's new kill switch lets security teams cut off unauthorized AI agents through a gateway, while its planned Fiddler acquisition aims to make autonomous software easier to monitor and audit."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Justin Sun Accuses Trump-Backed World Liberty of Using UAE Ties to Escape Federal Court",
+      "url": "https://decrypt.co/382469/justin-sun-sanctions-trump-backed-world-liberty-uae-ties",
+      "pubDate": "Tue, 03 Nov 2026 20:36:02 +0000",
+      "summary": "Tron founder Justin Sun said he has asked a federal court to sanction World Liberty Financial, alleging the Trump family-backed venture delayed disclosing UAE ties that could defeat federal jurisdiction over his lawsuit."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Docs Host GitBook Hit by AI Agent Security Breach, Urges Users to Rotate Keys",
+      "url": "https://decrypt.co/382465/crypto-docs-gitbook-ai-agent-security-breach",
+      "pubDate": "Tue, 03 Nov 2026 19:46:03 +0000",
+      "summary": "GitBook says attackers accessed infrastructure credentials in an AI-assisted breach, prompting a shutdown and emergency token resets."
+    },
+    {
+      "source": "The Block",
+      "title": "SEC division views Canton Coin as digital commodity in no-action letter",
+      "url": "https://www.theblock.co/news/regulation/2026-11-03-sec-no-action-letter-canton-coin-digital-commodity-432492",
+      "pubDate": "Tue, 03 Nov 2026 22:11:51 +0000",
+      "summary": "SEC's Division of Corporation Finance won't recommend enforcement over Canton Coin's programmatic issuance, calling CC a digital commodity."
+    },
+    {
+      "source": "The Block",
+      "title": "CZ calls for crypto security alliance as AI-driven attacks accelerate after Binance hack",
+      "url": "https://www.theblock.co/news/regulation/2026-11-03-cz-calls-for-crypto-security-alliance-ai-driven-attacks-accelerate-binance-hack-432458",
+      "pubDate": "Tue, 03 Nov 2026 20:43:38 +0000",
+      "summary": "In his first interview since the Binance hack, Changpeng Zhao says AI is accelerating cyberattacks and calls for industry security alliance."
+    },
+    {
+      "source": "The Block",
+      "title": "Prediction markets bet on Democratic sweep of House, Senate in midterm elections",
+      "url": "https://www.theblock.co/news/regulation/2026-11-03-midterm-election-odds-polymarket-kalshi-democrats-432461",
+      "pubDate": "Tue, 03 Nov 2026 18:30:31 +0000",
+      "summary": "Ahead of polls closing across the U.S., bettors on prediction markes are increasingly pricing in Democrats taking both the House and Senate."
+    },
+    {
+      "source": "The Block",
+      "title": "Justin Sun seeks sanctions against World Liberty, alleging Trump-linked firm hid UAE ties",
+      "url": "https://www.theblock.co/news/regulation/2026-11-03-justin-sun-sanctions-world-liberty-uae-ties-wlfi-432439",
+      "pubDate": "Tue, 03 Nov 2026 16:08:14 +0000",
+      "summary": "Sun says World Liberty Financial hid its UAE citizenship to escape federal court, and plans to refile his $45M lawsuit in California state court."
+    },
+    {
+      "source": "The Block",
+      "title": "CFTC approves individual stock perpetual futures trading in US for the first time",
+      "url": "https://www.theblock.co/news/regulation/2026-11-03-cftc-approves-individual-stock-perpetual-futures-trading-in-us-for-first-time-432422",
+      "pubDate": "Tue, 03 Nov 2026 15:37:50 +0000",
+      "summary": "The CFTC approved the ability for exchanges in the U.S. to offer perpetual futures contracts tied to individual stocks."
+    },
+    {
+      "source": "The Block",
+      "title": "Binance says hackers used fake job interview, internal AI tool in $6.3 billion breach",
+      "url": "https://www.theblock.co/news/business/2026-11-03-binance-hack-incident-report-north-korea-fake-job-interview-ai-tool-432406",
+      "pubDate": "Tue, 03 Nov 2026 15:34:34 +0000",
+      "summary": "Binance's incident report said hackers used a fake job interview and an internal AI tool to gain access to systems involved in the theft."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Binance stopped 57 North Korean cyber threats but fell for a fake job interview",
+      "url": "https://cryptoslate.com/binance-stopped-57-north-korean-cyber-threats-but-fell-for-a-fake-job-interview/",
+      "pubDate": "Wed, 04 Nov 2026 01:10:53 +0000",
+      "summary": "Binance said it thwarted 57 suspected North Korea-linked cyber threats in 2026, yet a fake interview compromised one of its engineers. The disclosure, in the exchange's Nov. 3 security report, reveals how attackers used a recruitment scam involving staged interviews, fabricated identities, and malic"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Coinbase XRP looked cheap on Nov. 2 despite identical market value",
+      "url": "https://cryptoslate.com/coinbase-xrp-looked-cheap-on-nov-2-despite-identical-market-value/",
+      "pubDate": "Tue, 03 Nov 2026 23:40:07 +0000",
+      "summary": "At the November 2 close, an independent comparison narrows XRP?s Coinbase discount from 0.168% to 0.006% after converting USDT into dollars. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Binance relied on AI to fight fraud before hackers exploited internal tool in $6 billion theft",
+      "url": "https://cryptoslate.com/binance-relied-on-ai-to-fight-fraud-before-hackers-exploited-internal-tool-in-6-billion-theft/",
+      "pubDate": "Tue, 03 Nov 2026 22:30:31 +0000",
+      "summary": "Hackers exploited Binance's internal artificial intelligence tools to compromise engineers before stealing $6.34 billion in cryptocurrency, the exchange disclosed. In its Nov. 3 security report, Binance said attackers used a compromised employee computer and an internal AI tool on Oct. 20 to take co"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin investors could pay the price as the Federal Reserve tightens bank lending rules",
+      "url": "https://cryptoslate.com/bitcoin-investors-could-pay-the-price-as-the-federal-reserve-tightens-bank-lending-rules/",
+      "pubDate": "Tue, 03 Nov 2026 21:20:34 +0000",
+      "summary": "The Fed's November 2 survey shows tougher approvals alongside stronger nonbank demand, with no evidence of forced Bitcoin sales. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Binance says thinly traded tokens are delaying full replacement of stolen assets",
+      "url": "https://cryptoslate.com/binance-says-thinly-traded-tokens-are-delaying-full-replacement-of-stolen-assets/",
+      "pubDate": "Tue, 03 Nov 2026 19:10:35 +0000",
+      "summary": "Binance attributes its last reported 5% replenishment gap to less-liquid assets, while its November 3 withdrawal plan reopens routes progressively. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Crypto spent $55 million defending a senator who already backed CLARITY",
+      "url": "https://cryptoslate.com/55m-is-riding-on-ohio-senate-race-but-biggest-fight-comes-after-the-election/",
+      "pubDate": "Tue, 03 Nov 2026 18:10:31 +0000",
+      "summary": "Defend American Jobs, a crypto-backed political group, spent more than $55 million supporting Republican Jon Husted and opposing Sherrod Brown in Ohio between Sept. 21 and Oct. 26, according to Americans for Financial Reform. Husted had already voted to advance the CLARITY Act. Americans vote today,"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: 2026 U.S. midterm elections and results as first polls close",
+      "url": "https://www.coindesk.com/tech/2026/11/03/election-2026-coindesk-live-blog",
+      "pubDate": "Wed, 04 Nov 2026 00:00:00 +0000",
+      "summary": "Voters are choosing who will represent them in the House, Senate and state-wide seats."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "What voters said about their views on crypto",
+      "url": "https://www.coindesk.com/policy/2026/11/03/what-voters-said-about-their-views-on-crypto",
+      "pubDate": "Tue, 03 Nov 2026 23:19:44 +0000",
+      "summary": "A CoinDesk-commissioned poll from April sheds light on how voters ? who aren't necessarily part of the crypto sector ? view this industry."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "What happens if North Korea steals Wall Street's tokenized assets next",
+      "url": "https://www.coindesk.com/business/2026/11/03/what-happens-if-north-korea-steals-wall-street-s-tokenized-assets-next",
+      "pubDate": "Tue, 03 Nov 2026 23:00:07 +0000",
+      "summary": "The $6.3 billion Binance hack showed how quickly cryptocurrencies can disappear on blockchain rails. Tokenized securities may offer better recourse than crypto after a theft, but the markets around them can still break down when stress hits."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "CFTC gets into legal clash over stock perps after having cleared path for crypto version",
+      "url": "https://www.coindesk.com/policy/2026/11/03/cftc-gets-into-legal-clash-over-stock-perps-after-having-cleared-path-for-crypto-version",
+      "pubDate": "Tue, 03 Nov 2026 22:14:44 +0000",
+      "summary": "A group backed by Citadel Securities and other firms sued the U.S. derivatives regulator for opening a path for perps that it argued belong in the SEC's hands."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Justin Sun seeks sanctions against Trump-linked World Liberty Financial over UAE ties",
+      "url": "https://www.coindesk.com/policy/2026/11/03/justin-sun-seeks-sanctions-against-trump-linked-world-liberty-financial-over-uae-ties",
+      "pubDate": "Tue, 03 Nov 2026 16:55:10 +0000",
+      "summary": "The Tron founder says World Liberty failed to disclose its UAE ties until months into his lawsuit over $45 million in WLFI tokens."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea's president says country needs a ?cybersecurity czar? following $6.3 billion Binance hack",
+      "url": "https://www.coindesk.com/tech/2026/11/03/south-korea-s-president-says-country-needs-a-cybersecurity-czar-following-usd6-3-billion-binance-hack",
+      "pubDate": "Tue, 03 Nov 2026 16:49:56 +0000",
+      "summary": "Lee Jae Myung said he wants a government-wide agency to tackle cyberattacks as AI raises security concerns across financial institutions and critical infrastructure."
+    }
+  ]
+}
