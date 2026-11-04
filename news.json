@@ -31,5 +31,48 @@
       "url": "https://rekt.news"
     }
   ],
-  "items": []
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin hits $80.5K as US stocks rally on midterm election results",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result",
+      "pubDate": "Wed, 04 Nov 2026 15:29:23 +0000",
+      "summary": "Bitcoin climbed toward $80,500 as risk assets rallied on Democrats midterm election gains."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin rebounds past $80,000 as markets shrug off midterms and Binance hack",
+      "url": "https://www.theblock.co/news/markets/2026-11-04-bitcoin-price-midterm-elections-binance-hack-recovery",
+      "pubDate": "Wed, 04 Nov 2026 20:09:58 +0000",
+      "summary": "Bitcoin rose 3.5% to $80,500 and ether jumped 6% after Democrats won Congress, while Bitwise says the Binance hack had limited market impact."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Aave and Lido lose $1.7B in massive DeFi capital drop after the Binance hack",
+      "url": "https://cryptoslate.com/aave-and-lido-lose-1-7b-in-massive-defi-capital-drop-after-the-binance-hack/",
+      "pubDate": "Wed, 04 Nov 2026 19:50:13 +0000",
+      "summary": "Stablecoin contraction was evident before the breach."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Says 99% of Customer Crypto Is Offline and Out of Hackers Reach",
+      "url": "https://decrypt.co/382570/coinbase-99-percent-customer-crypto-offline-binance-hack",
+      "pubDate": "Wed, 04 Nov 2026 20:46:03 +0000",
+      "summary": "Coinbase not affected by the $6.4 billion Binance hack. 99% cold storage."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin and stocks post big gains, reversing overnight plunge following Blue Wave landslide",
+      "url": "https://www.coindesk.com/tech/2026/11/04/live-updates-bitcoin-and-stocks-reverse-overnight-plunge-following-blue-wave-landslide",
+      "pubDate": "Wed, 04 Nov 2026 14:00:53 +0000",
+      "summary": "Bitcoin and stocks post big gains after election."
+    },
+    {
+      "source": "The Block",
+      "title": "Schroders launches tokenized emerging markets debt fund on Solana with Centrifuge",
+      "url": "https://www.theblock.co/news/business/2026-11-04-schroders-centrifuge-tokenized-emerging-markets-debt-fund-solana",
+      "pubDate": "Wed, 04 Nov 2026 16:27:49 +0000",
+      "summary": "Tokenized fund on Solana."
+    }
+  ]
 }
