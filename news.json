@@ -2,7 +2,21 @@
   "asof": "2026-11-05T16:03:20Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
-    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"}
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
   ],
-  "items": []
+  "items": [
+    {"feed": "CoinTelegraph", "title": "Here's what happened in crypto today", "url": "https://cointelegraph.com/news/what-happened-in-crypto-today", "pubDate": "Thu, 05 Nov 2026 13:46:01 +0000", "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."},
+    {"feed": "CoinTelegraph", "title": "Thailand to block Bitget in December over unlicensed crypto trading", "url": "https://cointelegraph.com/news/thailand-block-bitget-december-unlicensed-crypto-trading", "pubDate": "Thu, 05 Nov 2026 11:33:20 +0000", "summary": "Thailand's SEC filed a criminal complaint against Bitget's operator, with access to its website and app set to be blocked from Dec. 5."},
+    {"feed": "Decrypt", "title": "Morning Minute: Democrat Sweep Pumps Crypto as Clarity Act Resurfaces", "url": "https://decrypt.co/382603/morning-minute-democrat-sweep-pumps-crypto-as-clarity-act-resurfaces", "pubDate": "Thu, 05 Nov 2026 13:14:05 +0000", "summary": "The Dems are already talking compromise on the Clarity Act and their requests all seem logical - does the bill have new life?"},
+    {"feed": "Decrypt", "title": "Binance Cuts Off SignalPlus API Keys Over 'Potential Security Issue' at Trading Platform", "url": "https://decrypt.co/382599/binance-cuts-off-signalplus-api-keys-over-potential-security-issue-at-trading-platform", "pubDate": "Thu, 05 Nov 2026 12:23:24 +0000", "summary": "The exchange said its own systems and user funds are unaffected, a week after it lost $6.4 billion in a hack blamed on North Korea."},
+    {"feed": "The Block", "title": "Anchorage Digital seeks CFTC swap dealer registration for crypto options business", "url": "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437", "pubDate": "Thu, 05 Nov 2026 16:00:02 +0000", "summary": "Anchorage Digital has applied for CFTC swap dealer registration and plans to offer European-style bitcoin and ether options if approved."},
+    {"feed": "CryptoSlate", "title": "Treasury's cash plan points to a possible December liquidity window for Bitcoin", "url": "https://cryptoslate.com/bitcoins-liquidity-hopes-sit-between-two-projected-treasury-cash-peaks/", "pubDate": "Thu, 05 Nov 2026 15:10:14 +0000", "summary": "Treasury's November 4 plan frames a possible December respite, while tax receipts and a projected January cash peak complicate the reserve case."},
+    {"feed": "CoinDesk", "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance's", "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s", "pubDate": "Thu, 05 Nov 2026 14:21:50 +0000", "summary": "Lin Han says Gate holds enough assets in cold storage to cover customer balances even if its hot wallets are emptied. An independent audit is underway."}
+  ]
 }
