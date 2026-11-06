@@ -1,1 +1,204 @@
-{"asof":"2026-11-05T23:02:55Z","stamp":"NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.","feeds":[{"name":"CoinTelegraph","url":"https://cointelegraph.com/rss"},{"name":"Decrypt","url":"https://decrypt.co/feed"},{"name":"The Block","url":"https://www.theblock.co/rss.xml"},{"name":"CryptoSlate","url":"https://cryptoslate.com/feed/"},{"name":"Bitcoin Magazine","url":"https://bitcoinmagazine.com/.rss/full/"},{"name":"CoinDesk","url":"https://www.coindesk.com/arc/outboundfeeds/rss"},{"name":"Rekt","url":"https://rekt.news"}],"items":[{"source":"CoinTelegraph","title":"American Bitcoins $126M profit masks mining pressure as rivals turn to AI","url":"https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai","pubDate":"Thu, 05 Nov 2026 22:43:18 +0000","summary":"The Eric Trump-backed miner reported $126 million in quarterly net income, largely driven by gains on its Bitcoin holdings, despite rising mining costs and shrinking margins."},{"source":"CoinTelegraph","title":"Asian crypto exchanges batten down the hatches as hacks surge: Asia Express","url":"https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express","pubDate":"Thu, 05 Nov 2026 22:18:42 +0000","summary":"Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins."},{"source":"CoinTelegraph","title":"Crypto ally French Hill wins reelection but set to lose House chair","url":"https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas","pubDate":"Thu, 05 Nov 2026 21:39:19 +0000","summary":"Republican French Hill secured another term in Congress but will lose his leadership of the House Financial Services Committee when Democrats take control in January."},{"source":"CoinTelegraph","title":"Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack","url":"https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack","pubDate":"Thu, 05 Nov 2026 19:02:19 +0000","summary":"SignalPlus said attackers compromised an engineers computer in a breach that resulted in losses of less than $82,000, which the crypto trading platform pledged to reimburse in full."},{"source":"CoinTelegraph","title":"Fed, OCC check US banks after Binance hack as experts flag security risks","url":"https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack","pubDate":"Thu, 05 Nov 2026 18:02:42 +0000","summary":"US regulators are probing banks exposure to crypto after the Binance hack, with experts warning of broader security risks in the sector."},{"source":"CoinTelegraph","title":"Bitcoin hits $80.5K as US stocks rally on midterm election results","url":"https://cointelegraph.com/markets/bitcoin-price-us-stocks-rally-midterm-election-result","pubDate":"Wed, 04 Nov 2026 15:29:23 +0000","summary":"Bitcoin climbed as US stocks rallied following midterm election results."}]}
+{
+  "asof": "2026-11-06T00:03:26Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Thu, 05 Nov 2026 23:03:41 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "American Bitcoin's $126M profit masks mining pressure as rivals turn to AI",
+      "url": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai",
+      "pubDate": "Thu, 05 Nov 2026 22:43:18 +0000",
+      "summary": "The Eric Trump-backed miner reported $126 million in quarterly net income, largely driven by gains on its Bitcoin holdings, despite rising mining costs and shrinking margins."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
+      "url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express",
+      "pubDate": "Thu, 05 Nov 2026 22:18:42 +0000",
+      "summary": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto ally French Hill wins reelection but set to lose House chair",
+      "url": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas",
+      "pubDate": "Thu, 05 Nov 2026 21:39:19 +0000",
+      "summary": "Republican French Hill secured another term in Congress but will lose his leadership of the House Financial Services Committee when Democrats take control in January."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+      "url": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack",
+      "pubDate": "Thu, 05 Nov 2026 19:02:19 +0000",
+      "summary": "SignalPlus said attackers compromised an engineer's computer in a breach that resulted in losses of less than $82,000, which the crypto trading platform pledged to reimburse in full."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Fed, OCC check US banks after Binance hack as experts flag security risks",
+      "url": "https://cointelegraph.com/news/fed-occ-check-us-banks-binance-hack-security-risks",
+      "pubDate": "Thu, 05 Nov 2026 18:32:45 +0000",
+      "summary": "US regulators reportedly contacted banks following last week's $6.3 billion Binance security hack, while experts raised concerns about transaction security and crypto risks."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Claude Gets Personal Finance-Anthony Pompliano Accuses Anthropic of Copying His Startup",
+      "url": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
+      "pubDate": "Thu, 05 Nov 2026 23:06:02 +0000",
+      "summary": "Anthropic's Claude finance assistant analyzes spending from linked accounts in the U.S., and Anthony Pompliano has a big problem with it."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
+      "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
+      "pubDate": "Thu, 05 Nov 2026 22:16:03 +0000",
+      "summary": "Ueno's collapse trapped millions of Paraguayan depositors and triggered a president's resignation, reviving Bitcoin's argument for self-custody."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Promises to Foot AI's Power Bill After Voter Revolt. Who Enforces It?",
+      "url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
+      "pubDate": "Thu, 05 Nov 2026 21:36:03 +0000",
+      "summary": "OpenAI wants to ease the backlash against AI campuses with promises on electricity, water and secrecy. Its new compact raises a tougher question: Who would make the company comply?"
+    },
+    {
+      "source": "Decrypt",
+      "title": "DOJ Creates 'Super Intelligence' Task Force to Guard Against AI Abuse",
+      "url": "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse",
+      "pubDate": "Thu, 05 Nov 2026 20:46:02 +0000",
+      "summary": "Led by two senior DOJ officials, the Super Intelligence Task Force will target misuse by foreign governments, criminal groups and fraudsters-while pushing AI developers to tighten internal controls so their systems \"beha"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
+      "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
+      "pubDate": "Thu, 05 Nov 2026 20:16:03 +0000",
+      "summary": "Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian exchange said it had stopped the breach on Monday."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
+      "url": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto",
+      "pubDate": "Thu, 05 Nov 2026 19:46:03 +0000",
+      "summary": "Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawals, potentially leaving their owners empty-handed."
+    },
+    {
+      "source": "The Block",
+      "title": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455",
+      "pubDate": "Thu, 05 Nov 2026 22:09:14 +0000",
+      "summary": "Hyperliquid Strategies posted $13.3M in revenue and $620.6M net income, and filed with the CFTC to become an FCM for U.S. HIP-3 perp markets."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
+      "pubDate": "Thu, 05 Nov 2026 20:11:02 +0000",
+      "summary": "Bitcoin fell 6% to $75,700 and ether 7% as a Nasdaq selloff hit crypto, triggering $1.03 billion in liquidations."
+    },
+    {
+      "source": "The Block",
+      "title": "Base deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433",
+      "pubDate": "Thu, 05 Nov 2026 19:00:00 +0000",
+      "summary": "Base activated its fourth network upgrade, Denim, introducing five canonical blocks per second at 200ms intervals."
+    },
+    {
+      "source": "The Block",
+      "title": "Canary's Injective ETF debuts on Nasdaq with exposure to staking rewards",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
+      "pubDate": "Thu, 05 Nov 2026 16:53:56 +0000",
+      "summary": "Canary Capital's Staked INJ ETF debuts on Nasdaq, giving investors exposure to Injective's INJ token plus staking rewards reflected in NAV."
+    },
+    {
+      "source": "The Block",
+      "title": "Anchorage Digital seeks CFTC swap dealer registration for crypto options business",
+      "url": "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437",
+      "pubDate": "Thu, 05 Nov 2026 16:00:02 +0000",
+      "summary": "Anchorage Digital has applied for CFTC swap dealer registration and plans to offer European-style bitcoin and ether options if approved."
+    },
+    {
+      "source": "The Block",
+      "title": "Payward-affiliated fund and clients buy AAVE token stake on secondary market",
+      "url": "https://www.theblock.co/news/business/2026-11-05-payward-affiliated-fund-clients-buy-aave-token-stake-secondary-market-aave-says-434798",
+      "pubDate": "Thu, 05 Nov 2026 15:36:50 +0000",
+      "summary": "Payward disclosed neither the size nor price of the AAVE purchases and said it may acquire more tokens."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
+      "url": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
+      "pubDate": "Thu, 05 Nov 2026 18:59:45 +0000",
+      "summary": "The new DOJ task force will aid the recently designated U.S. \"SI Force\" by warding off bad actors backed by other nations, criminal groups or corporate fraud."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+      "pubDate": "Thu, 05 Nov 2026 18:48:40 +0000",
+      "summary": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist?",
+      "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
+      "pubDate": "Thu, 05 Nov 2026 16:58:21 +0000",
+      "summary": "The hacking group has been behind some of the crypto industry's most recent high-profile thefts."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
+      "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
+      "pubDate": "Thu, 05 Nov 2026 16:49:08 +0000",
+      "summary": "Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
+      "pubDate": "Thu, 05 Nov 2026 16:13:32 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Gate CEO says crypto exchanges must prove they can survive a hack like Binance's",
+      "url": "https://www.coindesk.com/business/2026/11/05/gate-ceo-says-crypto-exchanges-must-prove-they-can-survive-a-hack-like-binance-s",
+      "pubDate": "Thu, 05 Nov 2026 14:21:50 +0000",
+      "summary": "Lin Han says Gate holds enough assets in cold storage to cover customer balances even if its hot wallets are emptied. An independent audit is underway."
+    }
+  ]
+}
