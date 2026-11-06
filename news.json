@@ -10,5 +10,48 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "items": []
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock",
+      "pubDate": "Fri, 06 Nov 2026 17:49:33 +0000",
+      "summary": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
+      "url": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
+      "pubDate": "Fri, 06 Nov 2026 16:34:07 +0000",
+      "summary": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block",
+      "url": "https://bitcoinmagazine.com/business/thailand-sec-files-criminal-complaint-against-bitget",
+      "pubDate": "Fri, 06 Nov 2026 15:00:00 +0000",
+      "summary": "Thailand's SEC has filed a criminal complaint against Bitget."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+      "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget",
+      "pubDate": "Fri, 06 Nov 2026 14:33:49 +0000",
+      "summary": "Thailand moves to block Bitget access."
+    },
+    {
+      "source": "The Block",
+      "title": "Crypto ETFs see over half a billion dollars in outflows amid post-midterm market slide",
+      "url": "https://www.theblock.co/news/markets/2026-11-06-crypto-etfs-see-over-half-a-billion-dollars-in-outflows",
+      "pubDate": "Fri, 06 Nov 2026 12:33:31 +0000",
+      "summary": "U.S. spot crypto ETFs saw more than $540 million in withdrawals."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ethereum devs won’t fork Glamsterdam on Hoodi until smart contract risks resolved",
+      "url": "https://cointelegraph.com/news/ethereum-devs-fork-glamsterdam-hoodi-smart-contract-risks",
+      "pubDate": "Fri, 06 Nov 2026 13:23:08 +0000",
+      "summary": "Ethereum developers investigating smart contract risks for Glamsterdam."
+    }
+  ]
 }
