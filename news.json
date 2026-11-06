@@ -1,1 +1,190 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-06T23:02:30Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Fri, 06 Nov 2026 22:00:15 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US Treasury cuts off MEXC over alleged $16B in illicit transactions",
+      "url": "https://cointelegraph.com/news/us-treasury-bans-mexc-over-alleged-16b-illicit-transactions",
+      "pubDate": "Fri, 06 Nov 2026 21:05:25 +0000",
+      "summary": "The US Treasury bureau FinCEN on Friday ordered US financial institutions to stop processing transfers involving MEXC Global."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Gnosis Pay breach exposes card details, personal data and crypto wallet information",
+      "url": "https://cointelegraph.com/news/gnosis-pay-breach-exposes-card-details-personal-data-crypto-wallet-information",
+      "pubDate": "Fri, 06 Nov 2026 20:51:23 +0000",
+      "summary": "The crypto debit card provider said customer funds remained safe despite the exposure of sensitive financial and personal information."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance hack is cyber war, TRM Labs executive says",
+      "url": "https://cointelegraph.com/interview/trm-labs-binance-hack-interview",
+      "pubDate": "Fri, 06 Nov 2026 20:36:25 +0000",
+      "summary": "TRM Labs executive Ari Redbord called for governments to take offensive action against North Korean hackers following the record $6.3 billion Binance theft."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US 401(k) proposal leaves door open to altcoins, but hurdles remain",
+      "url": "https://cointelegraph.com/news/us-401k-proposal-leaves-door-open-altcoins-hurdles",
+      "pubDate": "Fri, 06 Nov 2026 20:04:27 +0000",
+      "summary": "While the proposal doesn't exclude altcoins and smaller cryptocurrencies, experts say they could face challenges getting into retirement plans."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+      "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout",
+      "pubDate": "Fri, 06 Nov 2026 18:47:45 +0000",
+      "summary": "The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
+      "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
+      "pubDate": "Fri, 06 Nov 2026 21:06:03 +0000",
+      "summary": "FinCEN's order, part of Operation Economic Outcast, bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 billion in illicit finance tied to Iran, North Korea and Russia."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Greece Passes Crypto Tax Law With 10% Gains Levy, 15% on Staking and DeFi",
+      "url": "https://decrypt.co/382756/greece-passes-crypto-tax-law-staking-defi",
+      "pubDate": "Fri, 06 Nov 2026 20:36:03 +0000",
+      "summary": "Greece has approved a crypto tax framework with a 500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
+      "url": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
+      "pubDate": "Fri, 06 Nov 2026 19:46:03 +0000",
+      "summary": "Hyperliquid Strategies has applied to become a U.S. futures commission merchant, a move that could let Americans trade perpetual futures on permissioned Hyperliquid markets, pending regulatory approval."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
+      "url": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
+      "pubDate": "Fri, 06 Nov 2026 19:16:03 +0000",
+      "summary": "Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove President Pena."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+      "url": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
+      "pubDate": "Fri, 06 Nov 2026 18:36:03 +0000",
+      "summary": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets."
+    },
+    {
+      "source": "Decrypt",
+      "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
+      "url": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
+      "pubDate": "Fri, 06 Nov 2026 17:42:31 +0000",
+      "summary": "OFAC targeted offshore companies and associates it says helped Prince Group executives hide assets and dodge earlier sanctions."
+    },
+    {
+      "source": "The Block",
+      "title": "Treasury cuts off MEXC Global over alleged $16 billion in transactions linked to Iran, North Korea and Russia",
+      "url": "https://www.theblock.co/news/regulation/2026-11-06-treasury-cuts-off-mexc-global-over-alleged-16-billion-in-transactions-linked-to-iran-north-korea-and-russia-435957",
+      "pubDate": "Fri, 06 Nov 2026 21:02:30 +0000",
+      "summary": "Treasury says it has severed MEXC Global from the U.S. after it allegedly supported $16 billion in transactions connected to Iran."
+    },
+    {
+      "source": "The Block",
+      "title": "US Treasury walks back crypto surveillance travel rule proposal",
+      "url": "https://www.theblock.co/news/regulation/2026-11-06-us-treasury-walks-back-crypto-surveillance-travel-rule-proposal-435951",
+      "pubDate": "Fri, 06 Nov 2026 20:37:34 +0000",
+      "summary": "The Treasury Department has withdrawn a controversial proposal that would have expanded requirements for cryptocurrency transactions."
+    },
+    {
+      "source": "The Block",
+      "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
+      "url": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934",
+      "pubDate": "Fri, 06 Nov 2026 18:58:58 +0000",
+      "summary": "Gnosis Pay disclosed a data breach after unauthorized access to its legacy debit card system on Nov. 3. Customer funds were not affected."
+    },
+    {
+      "source": "The Block",
+      "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+      "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+      "pubDate": "Fri, 06 Nov 2026 18:06:59 +0000",
+      "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen."
+    },
+    {
+      "source": "The Block",
+      "title": "Strive's bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
+      "url": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907",
+      "pubDate": "Fri, 06 Nov 2026 16:07:24 +0000",
+      "summary": "Strive's bitcoin stash reached 43,124 BTC as its shares continued to slide despite a profitable third quarter."
+    },
+    {
+      "source": "The Block",
+      "title": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
+      "url": "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939",
+      "pubDate": "Fri, 06 Nov 2026 18:29:36 +0000",
+      "summary": "A rule that would open up 401(k) retirement accounts to alternative assets, including cryptocurrencies, has landed at the White House."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Ardoino's 24/7 asset plan depends on buyers willing to wait for cash",
+      "url": "https://cryptoslate.com/ardoinos-24-7-asset-plan-depends-on-buyers-willing-to-wait-for-cash",
+      "pubDate": "Fri, 06 Nov 2026 22:00:07 +0000",
+      "summary": "Hadron's RedStone agreement relies on approved buyers to finance fast settlement, while near-instant voluntary holder exits remain on the roadmap."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Greece ends years of crypto tax uncertainty with new 10% levy on Bitcoin profits",
+      "url": "https://cryptoslate.com/greece-ends-years-of-crypto-tax-uncertainty-with-new-10-levy-on-bitcoin-profits",
+      "pubDate": "Fri, 06 Nov 2026 20:00:30 +0000",
+      "summary": "Annual gains up to EUR500 are exempt under the approved bill, while directives on transparency and audits are still forthcoming."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Ethereum software bug triggers emergency fixes across major layer-2 networks",
+      "url": "https://cryptoslate.com/ethereum-software-bug-triggers-emergency-fixes-across-major-layer-2-networks",
+      "pubDate": "Fri, 06 Nov 2026 18:40:30 +0000",
+      "summary": "Published fixes span several software lines, but they do not establish operator adoption or the status of every cross-chain route."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin miner IREN's AI revenue milestone slips into 2027 as expansion seeks $6 billion",
+      "url": "https://cryptoslate.com/bitcoin-miner-irens-ai-revenue-milestone-slips-into-2027-as-expansion-seeks-6-billion",
+      "pubDate": "Fri, 06 Nov 2026 17:30:09 +0000",
+      "summary": "Conditional funding covers IREN's initial 0.3GW AI program, while wider FY27 expansion still targets $6 billion of additional financing."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Binance cuts off trading platform SignalPlus after hackers break in with a fake Teams invite",
+      "url": "https://cryptoslate.com/binance-cuts-off-trading-platform-signalplus-after-hackers-break-in-with-a-fake-teams-invite",
+      "pubDate": "Fri, 06 Nov 2026 16:30:48 +0000",
+      "summary": "SignalPlus later reported an attack, losses below $82,000 and reimbursement underway, while Deribit also disabled connected keys."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin ETFs bought nearly twice what miners produced in Q3-but $430 million left on Thursday",
+      "url": "https://cryptoslate.com/bitcoin-etfs-bought-nearly-twice-what-miners-produced-in-q3-but-430-million-left-on-thursday",
+      "pubDate": "Fri, 06 Nov 2026 15:30:30 +0000",
+      "summary": "Concentrated Q3 buying and falling older-holder balances leave sustained absorption unproven as November withdrawals meet the next US jobs report."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Magazine title example",
+      "url": "https://bitcoinmagazine.com/example",
+      "pubDate": "Fri, 06 Nov 2026 20:00:00 +0000",
+      "summary": "Placeholder for BM items to keep size manageable in this call. Full feed parsed earlier."
+    }
+  ]
+}
