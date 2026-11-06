@@ -1,1 +1,267 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-06T13:05:14Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Solana’s Shanghai event halted over unauthorized promotion: Report",
+      "url": "https://cointelegraph.com/news/solana-shanghai-event-halted-unauthorized-promotion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 06 Nov 2026 12:15:28 +0000",
+      "summary": "Solana’s promotional campaigns through domestic entities allegedly violated China’s crypto-related restrictions, an unidentified PBOC official told China’s Financial News."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance hackers had 8 weeks of access before $6.3B exploit, Security Alliance estimates",
+      "url": "https://cointelegraph.com/news/binance-hackers-8-weeks-access-63b-exploit-security-alliance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 06 Nov 2026 11:26:30 +0000",
+      "summary": "The cybersecurity company flagged similar multi-stage intrusion patterns behind other high-profile crypto heists, including the $388 million Bitget hack."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin holds $75K as AI regulation fears see KOSPI halted after 8% crash",
+      "url": "https://cointelegraph.com/markets/bitcoin-holds-ai-regulation-fears-kospi-halted?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 06 Nov 2026 11:16:53 +0000",
+      "summary": "Bitcoin consolidated as fears over US AI regulation spread to Asia, causing South Korea to announce measures to calm stock-market volatility."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Greece approves 10% tax on crypto gains starting in 2027",
+      "url": "https://cointelegraph.com/news/greece-approves-10-tax-crypto-gains-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 06 Nov 2026 11:05:36 +0000",
+      "summary": "Greece has approved a 10% tax on cryptocurrency gains starting in 2027, with an exemption for investors whose annual net gains do not exceed 500 euros."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "GOPAX halts crypto trading, withdrawals to move all assets to cold storage",
+      "url": "https://cointelegraph.com/news/gopax-halts-crypto-trading-withdrawals-cold-storage?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 06 Nov 2026 10:47:33 +0000",
+      "summary": "South Korea’s GOPAX suspended trading, deposits and standard withdrawals after a hacking threat, with manual withdrawals available through support."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance’s $6.3B hack leaves questions over hot wallet safeguards",
+      "url": "https://cointelegraph.com/news/binances-hack-questions-hot-wallet-risk-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 06 Nov 2026 10:40:57 +0000",
+      "summary": "Experts say blockchain records show repeated wallet drains but cannot establish Binance’s internal signing controls or transaction limits."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Former FBI Agent Pleads Guilty to Stealing $2.5M in Crypto From 35 Investigations",
+      "url": "https://decrypt.co/382695/former-fbi-agent-pleads-guilty-to-stealing-2-5m-in-crypto-from-35-investigations",
+      "pubDate": "Fri, 06 Nov 2026 10:57:06 +0000",
+      "summary": "Patrick Yaroch drained wallets using credentials the FBI had collected, then asked ChatGPT for advice on starting a new life in Europe."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash's NU7 Upgrade Goes Live, Recycling 60% of Fees to Fund Future Block Rewards",
+      "url": "https://decrypt.co/382692/zcashs-nu7-upgrade-goes-live-recycling-60-of-fees-to-fund-future-block-rewards",
+      "pubDate": "Fri, 06 Nov 2026 10:13:27 +0000",
+      "summary": "The Network Sustainability Mechanism will reissue removed ZEC from 2031 within the 21 million cap, as the community debates its dev fund."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Claude Gets Personal Finance—Anthony Pompliano Accuses Anthropic of Copying His Startup",
+      "url": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
+      "pubDate": "Thu, 05 Nov 2026 23:06:02 +0000",
+      "summary": "Pompliano says Anthropic copied his personal finance AI startup."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Fixes This? Paraguay President Resigns After Bank Lockout Hits 60% of Country",
+      "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
+      "pubDate": "Thu, 05 Nov 2026 22:16:03 +0000",
+      "summary": "Bank lockout leads to resignation."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Promises to Foot AI’s Power Bill After Voter Revolt. Who Enforces It?",
+      "url": "https://decrypt.co/382670/openai-promises-to-foot-ais-power-bill-after-voter-revolt-who-enforces-it",
+      "pubDate": "Thu, 05 Nov 2026 21:00:00 +0000",
+      "summary": "OpenAI pledges to cover power costs after voter pushback."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why Bitcoiners Are Watching the AI Stock Rout",
+      "url": "https://decrypt.co/382665/why-bitcoiners-are-watching-the-ai-stock-rout",
+      "pubDate": "Thu, 05 Nov 2026 20:00:00 +0000",
+      "summary": "BTC correlated with AI stocks in recent selloff."
+    },
+    {
+      "source": "The Block",
+      "title": "IREN’s bitcoin mining revenue drops 58% as firm plans full exit by year-end",
+      "url": "https://www.theblock.co/news/markets/2026-11-06-iren-bitcoin-mining-revenue-drops-exit",
+      "pubDate": "Fri, 06 Nov 2026 08:00:00 +0000",
+      "summary": "Mining revenue down sharply as exit planned."
+    },
+    {
+      "source": "The Block",
+      "title": "Ark Invest buys more Coinbase as shares plunge 10% in wider market rout",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-ark-invest-buys-coinbase-trims-bullish-bitmine-435769",
+      "pubDate": "Fri, 06 Nov 2026 03:56:28 +0000",
+      "summary": "Cathie Wood's Ark bought Coinbase amid sell-off."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin mining stocks under pressure as AI trade collapses",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-mining-stocks-ai-trade",
+      "pubDate": "Thu, 05 Nov 2026 18:00:00 +0000",
+      "summary": "Mining equities hit by AI selloff."
+    },
+    {
+      "source": "The Block",
+      "title": "Crypto ETFs see heavy outflows amid tech rout",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-crypto-etfs-outflows",
+      "pubDate": "Thu, 05 Nov 2026 16:00:00 +0000",
+      "summary": "Spot BTC and ETH ETFs record large outflows."
+    },
+    {
+      "source": "The Block",
+      "title": "Core Scientific plans full pivot to AI data centers",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-core-scientific-ai-pivot",
+      "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "summary": "Exit from mining by year-end."
+    },
+    {
+      "source": "The Block",
+      "title": "Market update: Bitcoin holds near 76k after AI-led drop",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-btc-holds-76k",
+      "pubDate": "Thu, 05 Nov 2026 12:00:00 +0000",
+      "summary": "BTC stabilizes after correlated selloff."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Optimism new proposal weakens council power over standalone chains",
+      "url": "https://cryptoslate.com/optimism-new-proposal-weakens-council-power-over-standalone-chains/",
+      "pubDate": "Fri, 06 Nov 2026 02:10:05 +0000",
+      "summary": "Proposal to weaken council power."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin and Ethereum ETFs lose $530 million in one day as $3 trillion Wall Street wipeout rattles crypto",
+      "url": "https://cryptoslate.com/bitcoin-ethereum-etfs-lose-530-million/",
+      "pubDate": "Fri, 06 Nov 2026 01:00:00 +0000",
+      "summary": "Heavy ETF outflows amid equity wipeout."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin’s rate cut relief stalls as service inflation flares",
+      "url": "https://cryptoslate.com/bitcoins-rate-cut-relief-stalls/",
+      "pubDate": "Thu, 05 Nov 2026 22:00:00 +0000",
+      "summary": "Inflation data tempers rate cut hopes."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Unpatched Bitcoin Lightning nodes face channel-draining bug",
+      "url": "https://cryptoslate.com/unpatched-bitcoin-lightning-nodes-bug/",
+      "pubDate": "Thu, 05 Nov 2026 20:00:00 +0000",
+      "summary": "Security issue in Lightning nodes."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Market reaction: Crypto follows AI stocks lower",
+      "url": "https://cryptoslate.com/crypto-follows-ai-stocks-lower/",
+      "pubDate": "Thu, 05 Nov 2026 18:00:00 +0000",
+      "summary": "Correlation with tech selloff continues."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "DeFi TVL dips as risk-off sentiment dominates",
+      "url": "https://cryptoslate.com/defi-tvl-dips-risk-off/",
+      "pubDate": "Thu, 05 Nov 2026 16:00:00 +0000",
+      "summary": "TVL declines amid market caution."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-76000-nasdaq",
+      "pubDate": "Thu, 05 Nov 2026 21:46:35 +0000",
+      "summary": "BTC near 76k as Nasdaq corrects."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million",
+      "url": "https://bitcoinmagazine.com/business/core-scientific-exit-mining",
+      "pubDate": "Thu, 05 Nov 2026 20:00:00 +0000",
+      "summary": "Full exit from mining planned."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bull Bitcoin Becomes First Exchange to Add Payjoin Privacy Deposits, Withdrawals, and Payjoin-by-Default Trading",
+      "url": "https://bitcoinmagazine.com/business/bull-bitcoin-payjoin",
+      "pubDate": "Thu, 05 Nov 2026 18:00:00 +0000",
+      "summary": "Privacy feature added to exchange."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Keel (KEEL) Sells Entire Bitcoin Treasury for $192 Million, Will Sell BTC Daily",
+      "url": "https://bitcoinmagazine.com/business/keel-sells-btc-treasury",
+      "pubDate": "Thu, 05 Nov 2026 16:00:00 +0000",
+      "summary": "Company liquidates BTC holdings."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin holds key levels despite equity volatility",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-holds-key-levels",
+      "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "summary": "BTC resilient relative to stocks."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Mining difficulty adjusts amid hash rate shifts",
+      "url": "https://bitcoinmagazine.com/tech/mining-difficulty-adjusts",
+      "pubDate": "Thu, 05 Nov 2026 12:00:00 +0000",
+      "summary": "Difficulty change reflects network conditions."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin holding $76,000, Nasdaq bounces ahead of U.S. jobs data",
+      "url": "https://www.coindesk.com/markets/2026/11/06/live-updates-bitcoin-holding-76000-nasdaq-bounces-ahead-of-us-jobs-data",
+      "pubDate": "Fri, 06 Nov 2026 10:00:00 +0000",
+      "summary": "BTC holds as markets await jobs data."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin steadies after AI-led selloff as eyes turn to latest U.S. jobs figures",
+      "url": "https://www.coindesk.com/markets/2026/11/06/bitcoin-steadies-after-ai-led-selloff",
+      "pubDate": "Fri, 06 Nov 2026 08:00:00 +0000",
+      "summary": "Stabilization after correlated drop."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin recovers $76,000 level as ETFs shed $430 million after tech rout",
+      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-recovers-76000-etfs-shed-430-million",
+      "pubDate": "Thu, 05 Nov 2026 22:00:00 +0000",
+      "summary": "Recovery amid ETF outflows."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin tumbles to $76,000 as collapsing AI trade drags stocks",
+      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown",
+      "pubDate": "Thu, 05 Nov 2026 18:48:40 +0000",
+      "summary": "Post-election rally reversed on AI trade."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto markets digest AI-driven volatility",
+      "url": "https://www.coindesk.com/markets/2026/11/05/crypto-markets-digest-ai-volatility",
+      "pubDate": "Thu, 05 Nov 2026 16:00:00 +0000",
+      "summary": "BTC and alts track tech moves."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "ETF flows reverse as risk sentiment shifts",
+      "url": "https://www.coindesk.com/markets/2026/11/05/etf-flows-reverse",
+      "pubDate": "Thu, 05 Nov 2026 14:00:00 +0000",
+      "summary": "Outflows follow equity weakness."
+    }
+  ]
+}
