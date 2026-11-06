@@ -1,1 +1,225 @@
-PLACEHOLDER_WILL_FAIL
+{
+  "asof": "2026-11-06T20:02:22Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Russia finalizes crypto trading rules ahead of Nov. 17 rollout",
+      "url": "https://cointelegraph.com/news/russia-finalizes-crypto-trading-rules-november-rollout?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 06 Nov 2026 18:47:45 +0000",
+      "summary": "The rules allow retail investors to trade BTC, ETH and USDT through regulated intermediaries, with Moscow Exchange planning to launch crypto trading in December."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strive buys 15,124 Bitcoin in October, closes in on top treasury holders",
+      "url": "https://cointelegraph.com/news/strive-buys-bitcoin-october-top-btc-corporate-holders?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 06 Nov 2026 18:22:42 +0000",
+      "summary": "Bitcoin treasury company Strive reported $509 million in third-quarter net income and purchased 15,124 BTC in October, bringing its total holdings to 43,124 BTC."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price dips under $75K as crypto markets miss tech-stock rebound",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-under-75k-crypto-markets-tech-stock?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 06 Nov 2026 17:49:33 +0000",
+      "summary": "BTC price action stayed weak after US nonfarm payrolls data significantly beat forecasts, increasing bets of a December interest-rate hike."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "What Democrats? US midterm sweep means for the CLARITY Act",
+      "url": "https://cointelegraph.com/magazine/clarity-act-faces-new-test-under-democratic-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 06 Nov 2026 14:30:00 +0000",
+      "summary": "The CLARITY Act faces a new test as Democrats control Congress, raising questions over consumer protections, ethics and what the crypto industry may have to concede."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Nigeria sets new crypto licensing rules, bans algorithmic stablecoins",
+      "url": "https://cointelegraph.com/news/nigeria-algorithmic-stablecoin-ban-crypto-licensing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 06 Nov 2026 13:57:14 +0000",
+      "summary": "Nigeria has banned algorithmic stablecoins and introduced reserve requirements for issuers as it expands central bank oversight of crypto payment services."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here?s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 06 Nov 2026 13:33:00 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
+      "url": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
+      "pubDate": "Fri, 06 Nov 2026 19:46:03 +0000",
+      "summary": "Hyperliquid Strategies has applied to become a U.S. futures commission merchant, a move that could let Americans trade perpetual futures on permissioned Hyperliquid markets, pending regulatory approval."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Paraguay Protests Over Bank Lockout Intensify as Impeachment Vote Nears",
+      "url": "https://decrypt.co/382740/paraguay-protests-bitcoin-impeachment-vote-nears",
+      "pubDate": "Fri, 06 Nov 2026 19:16:03 +0000",
+      "summary": "Savers locked out of Ueno Bank burned their cards, booed a former presidential candidate out of the crowd, and watched Congress move to remove President Pe?a."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Bleed $430 Million as Tech Rout Tests Wall Street Buyers",
+      "url": "https://decrypt.co/382733/bitcoin-etfs-bleed-430-million-tech-rout-tests-wall-street",
+      "pubDate": "Fri, 06 Nov 2026 18:36:03 +0000",
+      "summary": "Fidelity and BlackRock led Thursday's Bitcoin ETF withdrawals as a technology-stock selloff rattled risk assets."
+    },
+    {
+      "source": "Decrypt",
+      "title": "US Sanctions 45 More Targets Tied to Alleged Crypto Scam Empire Prince Group",
+      "url": "https://decrypt.co/382730/us-sanctions-45-more-targets-tied-to-alleged-crypto-scam-empire-prince-group",
+      "pubDate": "Fri, 06 Nov 2026 17:42:31 +0000",
+      "summary": "OFAC targeted offshore companies and associates it says helped Prince Group executives hide assets and dodge earlier sanctions."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Card Provider Gnosis Pay Says Hackers Accessed Customer Data",
+      "url": "https://decrypt.co/382718/crypto-card-provider-gnosis-pay-hackers-customer-data",
+      "pubDate": "Fri, 06 Nov 2026 16:41:29 +0000",
+      "summary": "Gnosis Pay said hackers accessed customer information on the legacy system behind its branded cards, though funds weren?t affected and its enterprise card platform was untouched."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Crypto Liquidations Top $1 Billion as Bitcoin Tests 11-Week Low",
+      "url": "https://decrypt.co/382717/bitcoin-price-11-week-low-crypto-liquidations-ai-stock",
+      "pubDate": "Fri, 06 Nov 2026 16:34:07 +0000",
+      "summary": "Bitcoin fell toward $75,500 after AI stocks plunged, and over $1 billion in the crypto derivatives market has been wiped out."
+    },
+    {
+      "source": "The Block",
+      "title": "Gnosis Pay data breach exposes customer info; funds unaffected",
+      "url": "https://www.theblock.co/news/defi/2026-11-06-gnosis-pay-data-breach-legacy-debit-card-system-435934",
+      "pubDate": "Fri, 06 Nov 2026 18:58:58 +0000",
+      "summary": "Gnosis Pay disclosed a data breach after unauthorized access to its legacy debit card system on Nov. 3. Customer funds were not affected."
+    },
+    {
+      "source": "The Block",
+      "title": "Trump administration moves closer to allowing crypto in 401(k) retirement plans",
+      "url": "https://www.theblock.co/news/regulation/2026-11-06-trump-administration-moves-closer-allowing-crypto-401k-retirement-plans-435939",
+      "pubDate": "Fri, 06 Nov 2026 18:29:36 +0000",
+      "summary": "A rule that would open up 401(k) retirement accounts to alternative assets, including cryptocurrencies, has landed at the White House."
+    },
+    {
+      "source": "The Block",
+      "title": "Elliptic says Binance hackers swapped stolen tokens for $124M in bitcoin, exchange plans more withdrawal reopenings",
+      "url": "https://www.theblock.co/news/markets/2026-11-06-binance-hackers-swap-stolen-tokens-124-million-bitcoin-exchange-plans-withdrawal-reopenings-435930",
+      "pubDate": "Fri, 06 Nov 2026 18:06:59 +0000",
+      "summary": "Elliptic says little of the stolen crypto has likely been cashed out, while $2.85 billion remains frozen."
+    },
+    {
+      "source": "The Block",
+      "title": "Strive?s bitcoin gains drive $509 million Q3 profit as BTC buying ramps up",
+      "url": "https://www.theblock.co/news/business/2026-11-06-strives-bitcoin-gains-509-million-q3-profit-btc-buying-ramps-up-435907",
+      "pubDate": "Fri, 06 Nov 2026 16:07:24 +0000",
+      "summary": "Strive?s bitcoin stash reached 43,124 BTC as its shares continued to slide despite a profitable third quarter."
+    },
+    {
+      "source": "The Block",
+      "title": "Aave Labs buys Avon team in fixed-rate lending push",
+      "url": "https://www.theblock.co/news/business/2026-11-06-aave-labs-buys-avon-team-in-fixed-rate-lending-push-435901",
+      "pubDate": "Fri, 06 Nov 2026 15:00:00 +0000",
+      "summary": "Aave Labs acquired the team and technology of Avon, an onchain fixed-rate and floating-rate lending protocol."
+    },
+    {
+      "source": "The Block",
+      "title": "TeraWulf?s bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
+      "url": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
+      "pubDate": "Fri, 06 Nov 2026 13:40:22 +0000",
+      "summary": "TeraWulf reported $63 million in artificial intelligence-related quarterly HPC lease revenue, up 774% year over year."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. prediction markets regulator issues demand that clashes directly with courts",
+      "url": "https://www.coindesk.com/policy/2026/11/06/u-s-prediction-markets-regulator-issues-demand-that-clashes-directly-with-courts",
+      "pubDate": "Fri, 06 Nov 2026 17:42:28 +0000",
+      "summary": "The Commodity Futures Trading Commission said regulated exchanges can't cut off customers state-by-state, but firms like Kalshi are under court orders to do so."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The crypto industry has found new ways to grow. Making money from them is another story",
+      "url": "https://www.coindesk.com/markets/2026/11/05/the-crypto-industry-has-found-new-ways-to-grow-making-money-from-them-is-another-story",
+      "pubDate": "Fri, 06 Nov 2026 15:26:38 +0000",
+      "summary": "Coinbase, Robinhood and Circle are expanding into stablecoins, payments and prediction markets, but their latest earnings show how hard it is to escape crypto's boom-and-bust cycles."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Thailand moves to block Bitget as crypto exchange's local acquisition faces uncertainty",
+      "url": "https://www.coindesk.com/business/2026/11/05/thailand-moves-to-block-bitget-as-crypto-exchange-s-local-acquisition-faces-uncertainty",
+      "pubDate": "Fri, 06 Nov 2026 14:33:49 +0000",
+      "summary": "Thailand?s SEC filed a criminal complaint against Bitget?s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
+      "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
+      "pubDate": "Fri, 06 Nov 2026 13:31:54 +0000",
+      "summary": "The unemployment rate unexpectedly fell to 4.1%. The strong showing surely puts a December rate hike in play, but next week's inflation numbers and the fate of the stock market could prove more important."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Over $1 billion in bullish bets liquidated while ETF flows suggest no help in spot market",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/06/over-usd1-billion-in-bullish-bets-liquidated-while-etf-flows-suggest-no-help-in-spot-market",
+      "pubDate": "Fri, 06 Nov 2026 12:30:00 +0000",
+      "summary": "Your day-ahead look for Nov. 6, 2026"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin holds in narrow range, stocks bounce after strong October jobs report",
+      "url": "https://www.coindesk.com/tech/2026/11/06/live-updates-nasdaq-100-futures-rally-points-to-stock-market-respite",
+      "pubDate": "Fri, 06 Nov 2026 11:58:40 +0000",
+      "summary": "Chip stocks were leading a rebound in the broader market on Friday following yesterday's washout."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Greece ends years of crypto tax uncertainty with new 10% levy on Bitcoin profits",
+      "url": "https://cryptoslate.com/greece-ends-years-of-crypto-tax-uncertainty-with-new-10-levy-on-bitcoin-profits/",
+      "pubDate": "Fri, 06 Nov 2026 20:00:30 +0000",
+      "summary": "Annual gains up to ?500 are exempt under the approved bill, while directives on transparency and audits are still forthcoming."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Ethereum software bug triggers emergency fixes across major layer-2 networks",
+      "url": "https://cryptoslate.com/ethereum-software-bug-triggers-emergency-fixes-across-major-layer-2-networks/",
+      "pubDate": "Fri, 06 Nov 2026 18:40:30 +0000",
+      "summary": "Published fixes span several software lines, but they do not establish operator adoption or the status of every cross-chain route."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin miner IREN?s AI revenue milestone slips into 2027 as expansion seeks $6 billion",
+      "url": "https://cryptoslate.com/bitcoin-miner-irens-ai-revenue-milestone-slips-into-2027-as-expansion-seeks-6-billion/",
+      "pubDate": "Fri, 06 Nov 2026 17:30:09 +0000",
+      "summary": "Conditional funding covers IREN?s initial 0.3GW AI program, while wider FY27 expansion still targets $6 billion of additional financing."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Binance cuts off trading platform SignalPlus after hackers break in with a fake Teams invite",
+      "url": "https://cryptoslate.com/binance-cuts-off-trading-platform-signalplus-after-hackers-break-in-with-a-fake-teams-invite/",
+      "pubDate": "Fri, 06 Nov 2026 16:30:48 +0000",
+      "summary": "SignalPlus later reported an attack, losses below $82,000 and reimbursement underway, while Deribit also disabled connected keys."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin ETFs bought nearly twice what miners produced in Q3?but $430 million left on Thursday",
+      "url": "https://cryptoslate.com/bitcoin-etfs-bought-nearly-twice-what-miners-produced-in-q3-but-430-million-left-on-thursday/",
+      "pubDate": "Fri, 06 Nov 2026 15:30:30 +0000",
+      "summary": "Concentrated Q3 buying and falling older-holder balances leave sustained absorption unproven as November withdrawals meet the next US jobs report."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bank of England raises rates to 4% as it forecasts inflation near 5% next year",
+      "url": "https://cryptoslate.com/bank-of-england-raises-rates-to-4-as-it-forecasts-inflation-near-5-next-year/",
+      "pubDate": "Fri, 06 Nov 2026 14:30:41 +0000",
+      "summary": "Energy inflation has prompted UK tightening, while any pressure on Bitcoin depends on financing conditions and investor demand."
+    }
+  ]
+}
