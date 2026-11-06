@@ -1,1 +1,267 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-06T02:02:14Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Core Scientific to quit Bitcoin mining by year-end as AI business surges",
+      "url": "https://cointelegraph.com/news/core-scientific-to-quit-bitcoin-mining-by-year-end-as-ai-business-surges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 06 Nov 2026 00:19:49 +0000",
+      "summary": "The former Bitcoin mining heavyweight plans to become a pure-play data center provider in 2027, with mining now accounting for just 7.5% of quarterly revenue."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Heres what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 05 Nov 2026 23:03:41 +0000",
+      "summary": "Need to know what happened in crypto today Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "American Bitcoins $126M profit masks mining pressure as rivals turn to AI",
+      "url": "https://cointelegraph.com/news/american-bitcoins-126m-profit-masks-mining-pressure-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 05 Nov 2026 22:43:18 +0000",
+      "summary": "The Eric Trump-backed miner reported $126 million in quarterly net income, largely driven by gains on its Bitcoin holdings, despite rising mining costs and shrinking margins."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Asian crypto exchanges batten down the hatches as hacks surge: Asia Express",
+      "url": "https://cointelegraph.com/magazine/asian-crypto-exchanges-bunker-down-as-hacks-surge-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 05 Nov 2026 22:18:42 +0000",
+      "summary": "Asian crypto exchanges are scrambling to tighten security on fears of a wave of potentially AI-assisted hacks, even as regional governments embrace tokenization and stablecoins."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto ally French Hill wins reelection but set to lose House chair",
+      "url": "https://cointelegraph.com/news/crypto-ally-french-hill-wins-reelection-arkansas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 05 Nov 2026 21:39:19 +0000",
+      "summary": "Republican French Hill secured another term in Congress but will lose his leadership of the House Financial Services Committee when Democrats take control in January."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance, Deribit revoke SignalPlus API keys after fake Teams invite attack",
+      "url": "https://cointelegraph.com/news/binance-deribit-revoke-signalplus-api-fake-teams-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 05 Nov 2026 19:02:19 +0000",
+      "summary": "SignalPlus said attackers compromised an engineers computer in a breach that resulted in losses of less than $82,000, which the crypto trading platform pledged to reimburse in full."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Claude Gets Personal FinanceAnthony Pompliano Accuses Anthropic of Copying His Startup",
+      "url": "https://decrypt.co/382689/claude-personal-finance-anthony-pompliano-anthropic",
+      "pubDate": "Thu, 05 Nov 2026 23:06:02 +0000",
+      "summary": "Anthropic's Claude finance assistant analyzes spending from linked accounts in the U.S., and Anthony Pompliano has a big problem with it."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Fixes This Paraguay President Resigns After Bank Lockout Hits 60% of Country",
+      "url": "https://decrypt.co/382676/paraguay-president-resigns-bank-lockout-bitcoin-fixes-this",
+      "pubDate": "Thu, 05 Nov 2026 22:16:03 +0000",
+      "summary": "Uenos collapse trapped millions of Paraguayan depositors and triggered a presidents resignation, reviving Bitcoins argument for self-custody."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Promises to Foot AIs Power Bill After Voter Revolt. Who Enforces It",
+      "url": "https://decrypt.co/382674/openai-promises-foot-ai-power-bill-after-voter-revolt",
+      "pubDate": "Thu, 05 Nov 2026 21:36:03 +0000",
+      "summary": "OpenAI wants to ease the backlash against AI campuses with promises on electricity, water and secrecy. Its new compact raises a tougher question: Who would make the company comply"
+    },
+    {
+      "source": "Decrypt",
+      "title": "DOJ Creates 'Super Intelligence' Task Force to Guard Against AI Abuse",
+      "url": "https://decrypt.co/382672/doj-creates-super-intelligence-task-force-to-guard-against-ai-abuse",
+      "pubDate": "Thu, 05 Nov 2026 20:46:02 +0000",
+      "summary": "Led by two senior DOJ officials, the Super Intelligence Task Force will target misuse by foreign governments, criminal groups and fraudsterswhile pushing AI developers to tighten internal controls so"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Mercado Bitcoin Said Its Hack Was Contained, But Blockchain Data Tells a Different Story",
+      "url": "https://decrypt.co/382670/mercado-bitcoin-hack-contained-blockchain-data",
+      "pubDate": "Thu, 05 Nov 2026 20:16:03 +0000",
+      "summary": "Fresh forensic analysis traces $48.6 million across 11 blockchains and finds thousands of customer deposit addresses drained hours after the Brazilian exchange said it had stopped the breach on Monday"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Zcash Upgrade Could Lock $16 Million in Crypto Forever",
+      "url": "https://decrypt.co/382663/zcash-upgrade-could-lock-16-million-crypto",
+      "pubDate": "Thu, 05 Nov 2026 19:46:03 +0000",
+      "summary": "Zcash's latest upgrade promises faster transactions, but thousands of coins remain in an aging privacy system that will soon stop accepting withdrawals, potentially leaving their owners empty-handed."
+    },
+    {
+      "source": "The Block",
+      "title": "Hyperliquid Strategies files to become CFTC-registered FCM, posts $13.3 million in quaterly revenue",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-hyperliquid-strategies-files-become-cftc-registered-fcm-posts-13-3-million-quaterly-revenue-435455",
+      "pubDate": "Thu, 05 Nov 2026 22:09:14 +0000",
+      "summary": "Hyperliquid Strategies posted $13.3M in revenue and $620.6M net income, and filed with the CFTC to become an FCM for U.S. HIP-3 perp markets."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin erases post-election gains as Wall Street selloff triggers over $1 billion in crypto liquidations",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-bitcoin-erases-post-election-gains-wall-street-selloff-liquidations-435434",
+      "pubDate": "Thu, 05 Nov 2026 20:11:02 +0000",
+      "summary": "Bitcoin fell 6% to $75,700 and ether 7% as a Nasdaq selloff hit crypto, triggering $1.03 billion in liquidations."
+    },
+    {
+      "source": "The Block",
+      "title": "Base deploys Denim upgrade on mainnet, replacing Flashblocks with 200ms block times",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-05-base-deploys-denim-upgrade-on-mainnet-replacing-flashblocks-with-200ms-block-times-434433",
+      "pubDate": "Thu, 05 Nov 2026 19:00:00 +0000",
+      "summary": "Base activated its fourth network upgrade, Denim, introducing five canonical blocks per second at 200ms intervals."
+    },
+    {
+      "source": "The Block",
+      "title": "Canarys Injective ETF debuts on Nasdaq with exposure to staking rewards",
+      "url": "https://www.theblock.co/news/markets/2026-11-05-canary-staked-inj-etf-launches-nasdaq-injc-435115",
+      "pubDate": "Thu, 05 Nov 2026 16:53:56 +0000",
+      "summary": "Canary Capital's Staked INJ ETF debuts on Nasdaq, giving investors exposure to Injective's INJ token plus staking rewards reflected in NAV."
+    },
+    {
+      "source": "The Block",
+      "title": "Anchorage Digital seeks CFTC swap dealer registration for crypto options business",
+      "url": "https://www.theblock.co/news/business/2026-11-05-anchorage-digital-seeks-cftc-swap-dealer-registration-for-crypto-options-business-434437",
+      "pubDate": "Thu, 05 Nov 2026 16:00:02 +0000",
+      "summary": "Anchorage Digital has applied for CFTC swap dealer registration and plans to offer European-style bitcoin and ether options if approved."
+    },
+    {
+      "source": "The Block",
+      "title": "Payward-affiliated fund and clients buy AAVE token stake on secondary market",
+      "url": "https://www.theblock.co/news/business/2026-11-05-payward-affiliated-fund-clients-buy-aave-token-stake-secondary-market-aave-says-434798",
+      "pubDate": "Thu, 05 Nov 2026 15:36:50 +0000",
+      "summary": "Payward disclosed neither the size nor price of the AAVE purchases and said it may acquire more tokens."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Gate boasts 104% cold reserve coverage, but separate snapshot dates raise red flags",
+      "url": "https://cryptoslate.com/gate-boasts-104-cold-reserve-coverage-but-separate-snapshot-dates-raise-red-flags/",
+      "pubDate": "Fri, 06 Nov 2026 00:40:44 +0000",
+      "summary": "Its new hot-wallet loss test uses separate measurement bases, while independent verification of current PoSEC data remains in progress. Read the full story on CryptoSlateUnderstand the crypto stories "
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Treasury bought back $6B in bonds, but dealers say bigger isnt enough",
+      "url": "https://cryptoslate.com/treasury-bought-back-6b-in-bonds-but-dealers-say-bigger-isnt-enough/",
+      "pubDate": "Thu, 05 Nov 2026 23:20:13 +0000",
+      "summary": "The US Treasury bought back $6 billion of older government bonds on Nov. 4, hitting the full limit of its latest operation. On paper, that looks like a success for a program designed to make the Treas"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Solana developers propose major overhaul to address hidden risk that could disrupt its network",
+      "url": "https://cryptoslate.com/solana-developers-propose-major-overhaul-to-address-hidden-risk-that-could-disrupt-its-network/",
+      "pubDate": "Thu, 05 Nov 2026 22:00:30 +0000",
+      "summary": "The draft defines a common target while leaving starting-state trust, implementation testing and upgrade reviews to address. Read the full story on CryptoSlateUnderstand the crypto stories that matter"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin traders face Fridays $2.7 billion options expiry with a dangerous five-hour blind spot",
+      "url": "https://cryptoslate.com/bitcoin-traders-face-fridays-2-7-billion-options-expiry-with-a-dangerous-five-hour-blind-spot/",
+      "pubDate": "Thu, 05 Nov 2026 20:40:25 +0000",
+      "summary": "Deribits Friday expiry precedes payrolls by five and a half hours, while later-dated puts span different risks at higher quoted prices. Read the full story on CryptoSlateUnderstand the crypto stories"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "South Korea wants to delay its 22% crypto tax again and give investors a new break on losses",
+      "url": "https://cryptoslate.com/south-korea-wants-to-delay-its-22-crypto-tax-again-and-give-investors-a-new-break-on-losses/",
+      "pubDate": "Thu, 05 Nov 2026 19:30:45 +0000",
+      "summary": "The November 4 request cites preparation needs, while tax guidance retains January 1, 2027 and no replacement date is settled. Read the full story on CryptoSlateUnderstand the crypto stories that matt"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin crashes below $76,000 as AI bubble fears wipe $2.5 trillion from Wall Street",
+      "url": "https://cryptoslate.com/bitcoin-crashes-below-76000-as-ai-bubble-fears-wipe-2-5-trillion-from-wall-street/",
+      "pubDate": "Thu, 05 Nov 2026 18:50:46 +0000",
+      "summary": "Technology stocks plunged after the Democratic midterm sweep intensified concerns over AI spending, dragging Bitcoin lower as leveraged traders suffered heavy losses. Bitcoin hit an intraday low of $7"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-76000-nasdaq",
+      "pubDate": "Thu, 05 Nov 2026 21:46:35 +0000",
+      "summary": "Bitcoin Magazine Bitcoin Price Trades Near $76,000 as Nasdaq Tumbles into Correction Bitcoin price held near $76,000 Thursday afternoon as the Nasdaq sank deeper into a correction, crypto liquidations"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million",
+      "url": "https://bitcoinmagazine.com/news/core-scientific-exits-bitcoin-year-end",
+      "pubDate": "Thu, 05 Nov 2026 20:39:27 +0000",
+      "summary": "Bitcoin Magazine Core Scientific (CORZ) to Exit Bitcoin Mining by Year-End as Colocation Hits $215 Million Core Scientific will finish winding down bitcoin mining in the fourth quarter and enter 2027 "
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Greece Approves 10% Crypto Capital Gains Tax as First Framework Lands Below Draft Rate",
+      "url": "https://bitcoinmagazine.com/news/greece-approves-10-crypto-gains-tax",
+      "pubDate": "Thu, 05 Nov 2026 19:00:00 +0000",
+      "summary": "Bitcoin Magazine Greece Approves 10% Crypto Capital Gains Tax as First Framework Lands Below Draft Rate Greece's parliament approved a 10% capital gains tax on cryptocurrencies, the country's first de"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bull Bitcoin Becomes First Exchange to Add Payjoin Privacy Deposits, Withdrawals, and Payjoin-by-Default Trading",
+      "url": "https://bitcoinmagazine.com/business/bull-bitcoin-becomes-first-exchange-to-add-payjoin-privacy-deposits-withdrawals-and-payjoin-by-default-trading",
+      "pubDate": "Thu, 05 Nov 2026 18:00:00 +0000",
+      "summary": "Bitcoin Magazine Bull Bitcoin Becomes First Exchange to Add Payjoin Privacy Deposits, Withdrawals, and Payjoin-by-Default Trading Bull Bitcoin is the first Bitcoin exchange to offer Payjoin privacy as"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "South Korea Pushes 22% Crypto Tax to 2029 in Fourth Delay, Offers Three-Year Loss Carryforward",
+      "url": "https://bitcoinmagazine.com/news/south-korea-crypto-tax-2029",
+      "pubDate": "Thu, 05 Nov 2026 18:00:00 +0000",
+      "summary": "Bitcoin Magazine South Korea Pushes 22% Crypto Tax to 2029 in Fourth Delay, Offers Three-Year Loss Carryforward South Korea's government will ask lawmakers to delay its 22% crypto gains tax to 2029 an"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Keel (KEEL) Sells Entire Bitcoin Treasury for $192 Million, Will Sell BTC Daily",
+      "url": "https://bitcoinmagazine.com/news/keel-sells-entire-bitcoin-treasury-192m",
+      "pubDate": "Thu, 05 Nov 2026 16:45:00 +0000",
+      "summary": "Bitcoin Magazine Keel (KEEL) Sells Entire Bitcoin Treasury for $192 Million, Will Sell BTC Daily Keel sold 2,520 bitcoin in the third quarter, left its treasury near zero and said Quebec-mined coins w"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin developer proposes landmines to make quantum thieves lose their own BTC",
+      "url": "https://www.coindesk.com/tech/2026/11/05/bitcoin-developer-proposes-landmines-to-make-quantum-thieves-lose-their-own-btc",
+      "pubDate": "Fri, 06 Nov 2026 01:30:00 +0000",
+      "summary": "Anyone trying to move vulnerable bitcoin would have to put up matching collateral, giving prepared owners a chance to take both."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Justice Department assembles force to shield against foreign AI threats",
+      "url": "https://www.coindesk.com/policy/2026/11/05/u-s-justice-department-assembles-force-to-shield-against-foreign-ai-threats",
+      "pubDate": "Thu, 05 Nov 2026 18:59:45 +0000",
+      "summary": "The new DOJ task force will aid the recently designated U.S. \"SI Force\" by warding off bad actors backed by other nations, criminal groups or corporate fraud."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcion tumbles to $76,000 as collapsing AI trade drags stocks sharply lower",
+      "url": "https://www.coindesk.com/markets/2026/11/05/bitcoin-crypto-stocks-caught-in-ai-trade-meltdown-but-wintermute-trader-sees-glass-half-full",
+      "pubDate": "Thu, 05 Nov 2026 18:48:40 +0000",
+      "summary": "The post-election rally quickly reversed as AI stocks plunged, but cryptocurrencies held up relatively better despite a $1 billion liquidation wave."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "What is TraderTraitor, the hacking squad behind the $6.3 billion Binance heist",
+      "url": "https://www.coindesk.com/business/2026/11/05/what-is-tradertraitor-the-hacking-squad-behind-the-usd6-3-billion-binance-heist",
+      "pubDate": "Thu, 05 Nov 2026 16:58:21 +0000",
+      "summary": "The hacking group has been behind some of the crypto industry's most recent high-profile thefts."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered and SBI back crypto insurer Soter as funding reaches $23.5 million",
+      "url": "https://www.coindesk.com/business/2026/11/05/soter-raises-usd23-5m-plus-btc-and-eth-as-banks-demand-theft-protection",
+      "pubDate": "Thu, 05 Nov 2026 16:49:08 +0000",
+      "summary": "Soter also received backing of 500 BTC and 2000 ETH, worth another $43 million at current prices."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Where investors stake crypto shapes how much of the reward they keep",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/05/crypto-for-advisors-where-investors-stake-crypto-shapes-how-much-of-the-reward-they-keep",
+      "pubDate": "Thu, 05 Nov 2026 16:13:32 +0000",
+      "summary": ""
+    }
+  ]
+}
