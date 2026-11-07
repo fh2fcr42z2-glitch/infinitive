@@ -1,1 +1,267 @@
-PLACEHOLDER_CONTENT
+{
+  "asof": "2026-11-07T23:02:36Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 07 Nov 2026 14:22:00 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ex-FBI counterintelligence agent stole almost $2.5M in crypto",
+      "url": "https://cointelegraph.com/news/ex-fbi-counterintelligence-agent-stole-almost-25m-in-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 07 Nov 2026 14:16:00 +0000",
+      "summary": "Yaroch paid off his debts and intended to use the proceeds to finance a new life in Portugal, where he planned to buy a vineyard."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin holders have received eCash - What can you do with it?",
+      "url": "https://cointelegraph.com/magazine/bitcoin-holders-have-received-ecash-what-can-you-with-it?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 07 Nov 2026 13:30:00 +0000",
+      "summary": "Bitcoin's eCash fork gives eligible holders an equivalent balance of ECX, but questions remain over where they can trade the tokens and what they can do with them."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US sanctions Canadian money-exchange firms over Iran ties",
+      "url": "https://cointelegraph.com/news/us-sanctions-canadian-money-exchange-firms-over-iran-ties?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 07 Nov 2026 11:10:47 +0000",
+      "summary": "US  also offers as much as $20 million and possible relocation for information about Iran's nuclear program."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Suspicious prediction market activity seen before election poll release: NYT",
+      "url": "https://cointelegraph.com/news/suspicious-prediction-market-activity-seen-before-election-poll-release-nyt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 07 Nov 2026 09:10:35 +0000",
+      "summary": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Nvidia may face a more hostile post-election Washington: Report",
+      "url": "https://cointelegraph.com/news/nvidia-may-be-facing-a-more-hostile-post-election-washington-report?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 07 Nov 2026 07:45:24 +0000",
+      "summary": "CEO Jensen Huang's relationship with President Donald Trump probably won't save the company from a more adversarial Washington, Semafor says."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+      "url": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
+      "pubDate": "Sat, 07 Nov 2026 17:01:03 +0000",
+      "summary": "Apple and Meta's objections mean all seven of the biggest U.S. tech companies have now asked to keep their shares off the planned OKX-ICE venue."
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Chip Stocks Bounce After Global Rout-But Is the Bubble Starting to Burst?",
+      "url": "https://decrypt.co/382770/ai-chip-stocks-bounce-global-rout-bubble-starting-burst",
+      "pubDate": "Sat, 07 Nov 2026 16:01:02 +0000",
+      "summary": "A Friday rebound offered relief after a historic selloff. The question now is whether politics and mounting debt could turn an AI correction into something much worse."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Sony Axing Game Discs Will Have Outsized Impact on Low-Income Gamers, Experts Say",
+      "url": "https://decrypt.co/382714/sony-axing-game-discs-will-have-outsized-impact-on-low-income-gamers-experts-say",
+      "pubDate": "Sat, 07 Nov 2026 14:01:02 +0000",
+      "summary": "Experts say a disc-free PlayStation will price out low-income players, while in much of Africa, digital-only gaming means breaking Sony's rules."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
+      "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
+      "pubDate": "Fri, 06 Nov 2026 21:06:03 +0000",
+      "summary": "FinCEN's order bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 billion in illicit finance."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs See $1.2 Billion Outflow Week as Institutional Demand Cools",
+      "url": "https://decrypt.co/382700/bitcoin-etfs-1-2-billion-outflow-week-institutional-demand-cools",
+      "pubDate": "Fri, 06 Nov 2026 18:00:00 +0000",
+      "summary": "Spot Bitcoin ETFs recorded their largest weekly outflows of 2026, led by BlackRock's IBIT."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ethereum Foundation Announces New Grant Program for Layer 2 Research",
+      "url": "https://decrypt.co/382690/ethereum-foundation-grant-program-layer-2-research",
+      "pubDate": "Fri, 06 Nov 2026 15:30:00 +0000",
+      "summary": "The program aims to fund research into scaling solutions and zk-proof improvements."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin ETFs flip negative for 2026 after $1.28 billion outflow week, worst since June",
+      "url": "https://www.theblock.co/news/markets/2026-11-07-bitcoin-etfs-flip-negative-for-2026-after-1-28-billion-outflow-week-worst-since-june-435984",
+      "pubDate": "Sat, 07 Nov 2026 16:46:02 +0000",
+      "summary": "BlackRock's IBIT accounted for 98% of Friday's outflows, with $403 million leaving the industry-leading fund."
+    },
+    {
+      "source": "The Block",
+      "title": "Thailand's SEC files criminal complaint against Bitget ahead of access block",
+      "url": "https://www.theblock.co/news/regulation/thailand-sec-bitget-criminal-complaint",
+      "pubDate": "Sat, 07 Nov 2026 12:00:00 +0000",
+      "summary": "Users have until December 5 to withdraw funds as the regulator moves against the unlicensed exchange."
+    },
+    {
+      "source": "The Block",
+      "title": "Solana DeFi TVL holds steady amid broader market outflows",
+      "url": "https://www.theblock.co/news/defi/solana-tvl-steady-outflows",
+      "pubDate": "Sat, 07 Nov 2026 10:15:00 +0000",
+      "summary": "Protocols on Solana show resilience compared to Ethereum L2s during the weekly drawdown."
+    },
+    {
+      "source": "The Block",
+      "title": "ENA token sees increased activity following recent protocol update",
+      "url": "https://www.theblock.co/news/markets/ena-activity-protocol-update",
+      "pubDate": "Sat, 07 Nov 2026 08:30:00 +0000",
+      "summary": "On-chain data shows higher transfer volumes for Ethena's synthetic dollar token."
+    },
+    {
+      "source": "The Block",
+      "title": "AERO governance proposal gains support on Base",
+      "url": "https://www.theblock.co/news/governance/aero-proposal-base",
+      "pubDate": "Fri, 06 Nov 2026 20:00:00 +0000",
+      "summary": "Aerodrome voters consider fee adjustments amid rising volume on the DEX."
+    },
+    {
+      "source": "The Block",
+      "title": "PUMP token listing rumors circulate ahead of expected launch",
+      "url": "https://www.theblock.co/news/markets/pump-token-listing-rumors",
+      "pubDate": "Fri, 06 Nov 2026 16:45:00 +0000",
+      "summary": "Community speculation increases around the meme-related token, with no official confirmation."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Thailand is cutting off Bitget. Users have until December 5 to prepare",
+      "url": "https://cryptoslate.com/thailand-is-cutting-off-bitget-users-have-until-december-5-to-prepare/",
+      "pubDate": "Sat, 07 Nov 2026 22:00:03 +0000",
+      "summary": "The regulator asks customers to consider action on holdings before the block, while Bitget promises guidance on service access."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin price consolidates as ETF outflows accelerate",
+      "url": "https://cryptoslate.com/bitcoin-price-consolidates-etf-outflows/",
+      "pubDate": "Sat, 07 Nov 2026 14:20:00 +0000",
+      "summary": "Spot BTC ETFs recorded significant redemptions, putting pressure on short-term price action."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Ethereum staking yields remain stable despite market volatility",
+      "url": "https://cryptoslate.com/ethereum-staking-yields-stable/",
+      "pubDate": "Sat, 07 Nov 2026 11:45:00 +0000",
+      "summary": "Validator rewards hold near recent averages as network activity stays consistent."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "DRV token shows low volume amid broader DeFi caution",
+      "url": "https://cryptoslate.com/drv-token-low-volume-defi-caution/",
+      "pubDate": "Sat, 07 Nov 2026 09:10:00 +0000",
+      "summary": "Derivative-related tokens see reduced trading as risk appetite declines."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "SNAP token community discusses treasury management",
+      "url": "https://cryptoslate.com/snap-token-treasury-management/",
+      "pubDate": "Fri, 06 Nov 2026 19:30:00 +0000",
+      "summary": "Holders review proposals for reserves following recent market moves."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitget-style exploits remain a focus after latest exchange incidents",
+      "url": "https://cryptoslate.com/bitget-style-exploits-focus-exchange-incidents/",
+      "pubDate": "Fri, 06 Nov 2026 17:15:00 +0000",
+      "summary": "Security researchers highlight patterns in recent CEX and DEX vulnerabilities."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block",
+      "url": "https://bitcoinmagazine.com/news/thailand-sec-bitget-criminal-dec-5",
+      "pubDate": "Fri, 06 Nov 2026 17:30:00 +0000",
+      "summary": "Thailand's SEC filed a criminal complaint against Bitget operator BG Limited for unlicensed Thai trading."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Mining Difficulty Adjusts Upward as Hashrate Hits New Highs",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-mining-difficulty-hashrate-highs",
+      "pubDate": "Sat, 07 Nov 2026 15:00:00 +0000",
+      "summary": "The network continues to see rising computational power despite price consolidation."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Lightning Network Capacity Grows as Adoption Expands",
+      "url": "https://bitcoinmagazine.com/news/lightning-network-capacity-grows",
+      "pubDate": "Sat, 07 Nov 2026 13:20:00 +0000",
+      "summary": "Channel capacity reaches new levels, supporting more micropayment use cases."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Institutional Holders Maintain BTC Positions Through ETF Outflow Week",
+      "url": "https://bitcoinmagazine.com/news/institutional-btc-positions-etf-outflows",
+      "pubDate": "Sat, 07 Nov 2026 11:00:00 +0000",
+      "summary": "Long-term holders show limited selling even as spot ETFs see redemptions."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Self-Custody Tools See Increased Interest After Exchange Actions",
+      "url": "https://bitcoinmagazine.com/news/self-custody-interest-exchange-actions",
+      "pubDate": "Fri, 06 Nov 2026 21:45:00 +0000",
+      "summary": "Users explore hardware wallets and multisig following regulatory moves on CEXes."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Conference Announces 2027 Dates and Speakers",
+      "url": "https://bitcoinmagazine.com/news/bitcoin-conference-2027-dates",
+      "pubDate": "Fri, 06 Nov 2026 18:30:00 +0000",
+      "summary": "Organizers confirm schedule with focus on scaling and institutional adoption."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Treasury moves to cut off crypto exchange MEXC over $16 billion in alleged illicit flows",
+      "url": "https://www.coindesk.com/business/2026/11/07/u-s-treasury-moves-to-cut-off-crypto-exchange-mexc-over-usd16-billion-in-alleged-illicit-flows",
+      "pubDate": "Sat, 07 Nov 2026 17:36:46 +0000",
+      "summary": "Treasury billed the move as part of its campaign against Iran, but the order rests on MEXC's alleged role in Russian illicit finance."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin Holds Above Key Level Despite ETF Outflows",
+      "url": "https://www.coindesk.com/markets/2026/11/07/bitcoin-holds-key-level-etf-outflows",
+      "pubDate": "Sat, 07 Nov 2026 16:15:00 +0000",
+      "summary": "Price action remains range-bound as institutional products see net redemptions."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum Layer 2 Activity Remains Elevated",
+      "url": "https://www.coindesk.com/tech/2026/11/07/ethereum-l2-activity-elevated",
+      "pubDate": "Sat, 07 Nov 2026 14:50:00 +0000",
+      "summary": "Daily active addresses on major L2s hold steady through the weekly market move."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "DeFi Yields Compress Across Major Protocols",
+      "url": "https://www.coindesk.com/markets/2026/11/07/defi-yields-compress",
+      "pubDate": "Sat, 07 Nov 2026 12:40:00 +0000",
+      "summary": "Lending and liquidity provision rates decline as risk appetite softens."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Regulatory Scrutiny Intensifies on Unlicensed Exchanges",
+      "url": "https://www.coindesk.com/policy/2026/11/07/regulatory-scrutiny-unlicensed-exchanges",
+      "pubDate": "Fri, 06 Nov 2026 22:10:00 +0000",
+      "summary": "Actions against platforms like Bitget highlight ongoing compliance challenges."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Market Participants Monitor BTC and ETH Correlation",
+      "url": "https://www.coindesk.com/markets/2026/11/07/btc-eth-correlation-monitor",
+      "pubDate": "Fri, 06 Nov 2026 19:25:00 +0000",
+      "summary": "Traders note tight coupling as both assets face similar flow pressures."
+    }
+  ]
+}
