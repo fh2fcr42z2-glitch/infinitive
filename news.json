@@ -1,1 +1,6 @@
-See /tmp/news.json for full content - updating with complete snapshot of 36 items from RSS feeds including CoinTelegraph, Decrypt, The Block, CryptoSlate, Bitcoin Magazine, CoinDesk. asof 2026-11-07T17:02:33Z. Headlines only. Not a ticket. DO NOT BUY from a headline.
+{
+  "asof": "2026-11-07T17:02:33Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": ["https://cointelegraph.com/rss", "https://decrypt.co/feed", "https://www.theblock.co/rss.xml", "https://cryptoslate.com/feed/", "https://bitcoinmagazine.com/.rss/full/", "https://www.coindesk.com/arc/outboundfeeds/rss", "https://rekt.news"],
+  "items": []
+}
