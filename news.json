@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-09T13:04:58Z",
+  "asof": "2026-11-09T14:04:11Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -20,7 +20,7 @@
     },
     {
       "id": "BitcoinMagazine",
-      "url": "https://bitcoinmagazine.com/feed"
+      "url": "https://bitcoinmagazine.com/.rss/full/"
     },
     {
       "id": "CoinDesk",
@@ -34,45 +34,52 @@
   "items": [
     {
       "src": "CoinTelegraph",
+      "title": "Analysts see no broader \u2018contagion\u2019 from $6.3B Binance hack",
+      "url": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Mon, 09 Nov 2026 13:52:46 +0000",
+      "sum": "Binance\u2019s pledge to cover all user losses helped contain the fallout from the $6.3 billion hack, analysts said."
+    },
+    {
+      "src": "CoinTelegraph",
+      "title": "Here\u2019s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Mon, 09 Nov 2026 13:36:56 +0000",
+      "sum": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "src": "CoinTelegraph",
+      "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
+      "url": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Mon, 09 Nov 2026 13:30:00 +0000",
+      "sum": "The Binance hack proved stablecoin freezes work. Now the UK should make clear freeze rules a condition of listing coins."
+    },
+    {
+      "src": "CoinTelegraph",
+      "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
+      "url": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Mon, 09 Nov 2026 13:29:47 +0000",
+      "sum": "Strategy bought $81.9 million in Bitcoin last week while spending $188.3 million repurchasing STRC preferred shares, according to its latest SEC filing."
+    },
+    {
+      "src": "CoinTelegraph",
       "title": "EU taps industry to set standards for tokenized securities",
-      "url": "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group",
+      "url": "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Mon, 09 Nov 2026 12:27:06 +0000",
       "sum": "Applications close Nov. 27 for an industry group that aims to draft initial standards for holding and settling tokenized securities by early 2028."
     },
     {
       "src": "CoinTelegraph",
-      "title": "Coinbase's US national trust bank charter takes effect",
-      "url": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter",
+      "title": "Coinbase\u2019s US national trust bank charter takes effect",
+      "url": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "date": "Mon, 09 Nov 2026 11:38:52 +0000",
       "sum": "Coinbase plans to expand its institutional crypto custody business under the federal charter and is exploring digital asset payment products."
     },
     {
-      "src": "CoinTelegraph",
-      "title": "Robinhood opens access to US IPOs for UK retail investors",
-      "url": "https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors",
-      "date": "Mon, 09 Nov 2026 11:14:08 +0000",
-      "sum": "Robinhood's UK customers can request shares in eligible US initial public offerings at the offer price before the stocks begin trading."
-    },
-    {
-      "src": "CoinTelegraph",
-      "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
-      "url": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week",
-      "date": "Mon, 09 Nov 2026 10:03:40 +0000",
-      "sum": "Bitcoin price action fell to its lowest levels since mid-August as Nvidia reports added to sell-side pressure across stock-market futures."
-    },
-    {
-      "src": "CoinTelegraph",
-      "title": "Binance, Tether and Trump crypto firms face Senate records deadline",
-      "url": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline",
-      "date": "Mon, 09 Nov 2026 09:00:17 +0000",
-      "sum": "Sen. Richard Blumenthal asked four crypto firms to start sending records by Nov. 20 as part of a Senate investigation into their activities."
-    },
-    {
-      "src": "CoinTelegraph",
-      "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
-      "url": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june",
-      "date": "Mon, 09 Nov 2026 08:17:35 +0000",
-      "sum": "Investors pulled a net $1.21 billion from BlackRock's IBIT last week as Bitcoin fell below $76,000 and US technology stocks sold off."
+      "src": "Decrypt",
+      "title": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC",
+      "url": "https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc",
+      "date": "Mon, 09 Nov 2026 13:24:29 +0000",
+      "sum": "The Bitcoin treasury firm sold $284 million of MSTR stock to fund the moves, days before MSCI names companies facing index removal."
     },
     {
       "src": "Decrypt",
@@ -100,21 +107,28 @@
       "title": "Nvidia Board Investigates Jensen Huang After Report He Was Target of Chinese Spy Effort",
       "url": "https://decrypt.co/382793/nvidia-board-investigates-jensen-huang-after-report-he-was-target-of-chinese-spy-effort",
       "date": "Mon, 09 Nov 2026 09:50:21 +0000",
-      "sum": "Huang told staff he had been 'unfaithful' to his wife, as Nvidia shares fell nearly 5% in premarket trading on Monday."
+      "sum": "Huang told staff he had been \"unfaithful\" to his wife, as Nvidia shares fell nearly 5% in premarket trading on Monday."
     },
     {
       "src": "Decrypt",
-      "title": "This Bitcoin Developer's Idea Would Make Quantum Attacks a Losing Bet",
+      "title": "This Bitcoin Developer\u2019s Idea Would Make Quantum Attacks a Losing Bet",
       "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
       "date": "Sun, 08 Nov 2026 14:01:03 +0000",
-      "sum": "Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets."
+      "sum": "Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recover their coins and collect a potentially costly penalty."
     },
     {
-      "src": "Decrypt",
-      "title": "Stablecoins Go Mainstream as Samsung Wallet Adds USDC on Solana",
-      "url": "https://decrypt.co/382586/stablecoins-samsung-wallet-adds-usdc-solana",
-      "date": "Thu, 05 Nov 2026 13:01:02 +0000",
-      "sum": "Eligible U.S. Galaxy users can now buy, hold, send and receive USDC on Solana directly in Samsung Wallet, without a separate crypto app or private keys to manage."
+      "src": "TheBlock",
+      "title": "\u2018Connecting the dots\u2019: Michael Saylor\u2019s Strategy buys another 1,036 bitcoin for $82 million as holdings top 850,000 BTC",
+      "url": "https://www.theblock.co/news/business/2026-11-09-connecting-the-dots-michael-saylor-strategy-bitcoin-436094",
+      "date": "Mon, 09 Nov 2026 13:10:42 +0000",
+      "sum": "Strategy's total holdings account for more than 4% of bitcoin's supply cap, with $500 million in paper gains."
+    },
+    {
+      "src": "TheBlock",
+      "title": "Bitcoin loses 50-week moving average as 24-hour crypto long liquidations top $1 billion",
+      "url": "https://www.theblock.co/news/markets/2026-11-09-bitcoin-loses-50-week-moving-average-as-24-hour-crypto-long-liquidations-top-1-billion-436102",
+      "date": "Mon, 09 Nov 2026 13:04:21 +0000",
+      "sum": "Bitcoin closed below its 50-week moving average as more than $1 billion in crypto long positions were liquidated."
     },
     {
       "src": "TheBlock",
@@ -125,122 +139,73 @@
     },
     {
       "src": "TheBlock",
-      "title": "Nvidia perps slide as market reacts to CEO Jensen Huang's Chinese spy scandal",
-      "url": "https://www.theblock.co/news/defi/2026-11-08-nvidia-perps-slide-jensen-huang-436047",
-      "date": "Mon, 09 Nov 2026 03:36:16 +0000",
-      "sum": "Nvidia said its board of directors is investigating Huang's relationship with a woman identified by intelligence officials as a Chinese spy."
+      "title": "Crypto-friendly Robinhood brings US IPO access to UK retail investors",
+      "url": "https://www.theblock.co/news/business/2026-11-09-crypto-friendly-robinhood-brings-us-ipo-access-to-uk-retail-investors-436089",
+      "date": "Mon, 09 Nov 2026 10:48:31 +0000",
+      "sum": "Robinhood has launched commission-free IPO Access in the UK, allowing retail investors to request shares in eligible U.S. listings"
     },
     {
       "src": "TheBlock",
-      "title": "Aave's DAO is considering a $50 million buyout of the lending protocol's equity",
-      "url": "https://www.theblock.co/news/defi/2026-11-06-aave-dao-buyout-435890",
-      "date": "Fri, 06 Nov 2026 16:00:00 +0000",
-      "sum": "The proposal would see the DAO acquire Aave's equity from its founding company in a deal valued at $50 million."
+      "title": "Trump says he knows \u2018nothing\u2019 about UAE-linked investment in his crypto firm",
+      "url": "https://www.theblock.co/news/business/2026-11-09-trump-says-he-knows-nothing-about-uae-linked-investment-in-his-crypto-firm-436079",
+      "date": "Mon, 09 Nov 2026 10:33:55 +0000",
+      "sum": "Trump said he \"knows nothing\" about the UAE-linked investment in the crypto firm he co-owns, and that his sons run the business."
     },
     {
       "src": "TheBlock",
-      "title": "TeraWulf's bitcoin mining revenue falls 69% as HPC leasing surges amid Anthropic buildout",
-      "url": "https://www.theblock.co/news/business/2026-11-06-terawulfs-bitcoin-mining-revenue-falls-69-as-hpc-leasing-surges-amid-anthropic-buildout-435885",
-      "date": "Fri, 06 Nov 2026 13:40:22 +0000",
-      "sum": "TeraWulf reported $63 million in artificial intelligence-related quarterly HPC lease revenue, up 774% year over year."
+      "title": "Zama spin-off Raycash launches confidential stablecoin payments and private yield on Ethereum",
+      "url": "https://www.theblock.co/news/defi/2026-11-09-zama-spin-off-raycash-launches-confidential-stablecoin-payments-private-yield-ethereum-435909",
+      "date": "Mon, 09 Nov 2026 09:05:02 +0000",
+      "sum": "Raycash has launched its app on Ethereum, enabling private stablecoin payments and Morpho yield on idle balances."
     },
     {
-      "src": "TheBlock",
-      "title": "Bitcoin ETF outflows hit $1.3 billion as Nvidia scandal rocks markets",
-      "url": "https://www.theblock.co/news/markets/2026-11-09-bitcoin-etf-outflows-nvidia-436055",
-      "date": "Mon, 09 Nov 2026 08:00:00 +0000",
-      "sum": "Spot Bitcoin ETFs saw their largest weekly outflow since June as tech stocks sold off."
+      "src": "BitcoinMagazine",
+      "title": "Bitcoin Price Drops Below $74,000 as Nvidia Probe and Regulation Fears Spark $1 Billion in Liquidations",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-to-73477",
+      "date": "Mon, 09 Nov 2026 13:52:22 +0000",
+      "sum": "Bitcoin Magazine Bitcoin Price Drops Below $74,000 as Nvidia Probe and Regulation Fears Spark $1 Billion in Liquidations Bitcoin price fell to $73,477 overnight, its lowest since August, before bouncing to about $74,700 "
     },
     {
-      "src": "TheBlock",
-      "title": "Solana's Shanghai event halted over unauthorized promotion: Report",
-      "url": "https://www.theblock.co/news/companies/2026-11-06-solana-shanghai-event-halted-435880",
-      "date": "Fri, 06 Nov 2026 12:15:28 +0000",
-      "sum": "Local authorities stopped the event after discovering it had not obtained required approvals for the promotional activities."
-    },
-    {
-      "src": "CryptoSlate",
-      "title": "Tokenized gold can now back a Coinbase loan. The price feed takes weekends off",
-      "url": "https://cryptoslate.com/tokenized-gold-can-now-back-a-coinbase-loan-the-price-feed-takes-weekends-off/",
-      "date": "Mon, 09 Nov 2026 12:40:42 +0000",
-      "sum": "Morpho says PAXG-backed USDC loans are live, while customer eligibility, borrowing limits and liquidation thresholds still apply."
-    },
-    {
-      "src": "CryptoSlate",
-      "title": "Thailand is cutting off Bitget users have until December 5 to prepare",
-      "url": "https://cryptoslate.com/thailand-is-cutting-off-bitget-users-have-until-december-5-to-prepare/",
-      "date": "Sat, 07 Nov 2026 22:00:03 +0000",
-      "sum": "The regulator asks customers to consider action on holdings before the block, while Bitget promises guidance on service access."
-    },
-    {
-      "src": "CryptoSlate",
-      "title": "One BlackRock fund dominates Bitcoin's billion-dollar ETF exodus",
-      "url": "https://cryptoslate.com/one-blackrock-fund-dominates-bitcoins-billion-dollar-etf-exodus/",
-      "date": "Sun, 08 Nov 2026 17:30:44 +0000",
-      "sum": "Fidelity finished positive in the November 2-6 week, but the other funds collectively remained negative without IBIT."
-    },
-    {
-      "src": "CryptoSlate",
-      "title": "The diesel problem that could spoil Bitcoin's hopes for cheaper money",
-      "url": "https://cryptoslate.com/the-diesel-problem-that-could-spoil-bitcoins-hopes-for-cheaper-money/",
-      "date": "Sun, 08 Nov 2026 15:00:00 +0000",
-      "sum": "National inventories fell to 99.259 million barrels, while lower weekly diesel and heating-oil prices kept the financing risk conditional."
-    },
-    {
-      "src": "CryptoSlate",
-      "title": "Ethereum's Glamsterdam upgrade delayed over smart contract risks",
-      "url": "https://cryptoslate.com/ethereum-glamsterdam-upgrade-delayed-smart-contract-risks/",
-      "date": "Fri, 06 Nov 2026 14:00:00 +0000",
-      "sum": "Developers are investigating eight smart contract invariants tied to EIP-8037 and EIP-8038 before proceeding with the Hoodi fork."
-    },
-    {
-      "src": "CryptoSlate",
-      "title": "Coinbase loan against tokenized gold highlights weekend price feed gaps",
-      "url": "https://cryptoslate.com/coinbase-tokenized-gold-loan-price-feed/",
-      "date": "Mon, 09 Nov 2026 10:00:00 +0000",
-      "sum": "PAXG collateral for USDC loans is live but oracles do not update over weekends."
+      "src": "BitcoinMagazine",
+      "title": "Strategy (MSTR) Adds 1,036 Bitcoin for $81.9 Million as Holdings Slip Below Cost",
+      "url": "https://bitcoinmagazine.com/news/strategy-mstr-adds-1036-bitcoin-holdings",
+      "date": "Mon, 09 Nov 2026 13:49:18 +0000",
+      "sum": "Bitcoin Magazine Strategy (MSTR) Adds 1,036 Bitcoin for $81.9 Million as Holdings Slip Below Cost Strategy bought 1,036 bitcoin last week for $81.9 million at an average of $79,012, lifting its stack to 850,364 BTC. This"
     },
     {
       "src": "BitcoinMagazine",
       "title": "U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows",
       "url": "https://bitcoinmagazine.com/news/fincen-cuts-off-mexc-us-financial-system",
       "date": "Fri, 06 Nov 2026 21:28:56 +0000",
-      "sum": "FinCEN issued a final order under section 9714(a) that will bar U.S. financial institutions from sending or receiving funds with MEXC Global."
+      "sum": "Bitcoin Magazine U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows FinCEN issued a final order under section 9714(a) that will bar U.S. financial institutions from sending o"
+    },
+    {
+      "src": "BitcoinMagazine",
+      "title": "Bitcoin Magazine Books Opens 333-Copy Genesis Book Collector Edition for 3rd Anniversary",
+      "url": "https://bitcoinmagazine.com/news/genesis-book-333-collector-3rd-anniversary",
+      "date": "Fri, 06 Nov 2026 18:32:32 +0000",
+      "sum": "Bitcoin Magazine Bitcoin Magazine Books Opens 333-Copy Genesis Book Collector Edition for 3rd Anniversary Bitcoin Magazine Books opened a third-anniversary campaign for Aaron van Wirdum's The Genesis Book, capping a hand"
+    },
+    {
+      "src": "BitcoinMagazine",
+      "title": "Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block",
+      "url": "https://bitcoinmagazine.com/news/thailand-sec-bitget-criminal-dec-5",
+      "date": "Fri, 06 Nov 2026 17:30:00 +0000",
+      "sum": "Bitcoin Magazine Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block Thailand's SEC filed a criminal complaint against Bitget operator BG Limited for unlicensed Thai trading from 2022 to 202"
     },
     {
       "src": "BitcoinMagazine",
       "title": "Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations",
       "url": "https://bitcoinmagazine.com/news/former-fbi-agent-pleads-crypto-theft",
-      "date": "Fri, 06 Nov 2026 18:00:00 +0000",
-      "sum": "Patrick Steven Yaroch pleaded guilty to wire fraud and money laundering after using wallet credentials from 35 FBI investigations."
+      "date": "Fri, 06 Nov 2026 17:00:00 +0000",
+      "sum": "Bitcoin Magazine Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations Patrick Steven Yaroch, 37, of Ashburn, Virginia, pleaded guilty Thursday to wire fraud and money laundering after us"
     },
     {
-      "src": "BitcoinMagazine",
-      "title": "Bitcoin Price Drops Below $75K as Nvidia Scandal Hits Risk Assets",
-      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-nvidia-scandal",
-      "date": "Mon, 09 Nov 2026 09:00:00 +0000",
-      "sum": "BTC fell to levels not seen since mid-August amid broader tech selloff."
-    },
-    {
-      "src": "BitcoinMagazine",
-      "title": "Quantum Computing Threat to Bitcoin Wallets Draws Developer Proposals",
-      "url": "https://bitcoinmagazine.com/technical/quantum-threat-bitcoin-wallets",
-      "date": "Sun, 08 Nov 2026 12:00:00 +0000",
-      "sum": "Proposals include requiring collateral from potential quantum attackers."
-    },
-    {
-      "src": "BitcoinMagazine",
-      "title": "FinCEN Order Against MEXC Takes Effect in 30 Days",
-      "url": "https://bitcoinmagazine.com/news/fincen-mexc-order-30-days",
-      "date": "Fri, 06 Nov 2026 20:00:00 +0000",
-      "sum": "US financial institutions will be barred from transacting with the exchange."
-    },
-    {
-      "src": "BitcoinMagazine",
-      "title": "ETF Outflows Continue as Bitcoin Tests Key Support",
-      "url": "https://bitcoinmagazine.com/markets/etf-outflows-bitcoin-support",
-      "date": "Mon, 09 Nov 2026 07:00:00 +0000",
-      "sum": "Largest weekly outflow since late June as IBIT leads the exits."
+      "src": "CoinDesk",
+      "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
+      "url": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
+      "date": "Mon, 09 Nov 2026 13:40:06 +0000",
+      "sum": "Avalanche will serve as the core settlement ledger for the exchange's planned blockchain stock market"
     },
     {
       "src": "CoinDesk",
@@ -251,10 +216,10 @@
     },
     {
       "src": "CoinDesk",
-      "title": "Trump says he knows 'nothing' about World Liberty's UAE ties as Justin Sun challenges filings",
+      "title": "Trump says he knows \u2018nothing\u2019 about World Liberty\u2019s UAE ties as Justin Sun challenges filings",
       "url": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
       "date": "Mon, 09 Nov 2026 12:37:13 +0000",
-      "sum": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun's federal lawsuit over frozen WLFI tokens"
+      "sum": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun\u2019s federal lawsuit over frozen WLFI tokens"
     },
     {
       "src": "CoinDesk",
@@ -275,14 +240,7 @@
       "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
       "url": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
       "date": "Mon, 09 Nov 2026 10:52:49 +0000",
-      "sum": "Early data shows Zcash's orphan-block rate holding close to pre-upgrade levels despite blocks arriving three times faster, encouraging developers to push for even faster blocks."
-    },
-    {
-      "src": "CoinDesk",
-      "title": "Live news: Bitcoin slides to $74,000 as Huang scandal weighs on Nvidia",
-      "url": "https://www.coindesk.com/tech/2026/11/09/live-news-nvidia-slides-on-ceo-allegations-as-bitcoin-hovers-just-above-its-200-day-average",
-      "date": "Mon, 09 Nov 2026 10:51:48 +0000",
-      "sum": "Neocloud stocks retreat after Friday's rally, while gold holds above $4,000 and bitcoin trades near $74,000."
+      "sum": "Early data shows Zcash's orphan-block rate holding close to pre-upgrade levels despite blocks arriving three times faster, encouraging developers to push for another reduction."
     }
   ]
 }
