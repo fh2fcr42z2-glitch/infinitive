@@ -1,1 +1,288 @@
-PLACEHOLDER_CONTENT
+{
+  "asof": "2026-11-09T16:02:15Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "id": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "id": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "id": "TheBlock",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "id": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "id": "BitcoinMagazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "id": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "id": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "src": "CoinTelegraph",
+      "title": "Analysts see no broader contagion from $6.3B Binance hack",
+      "url": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Mon, 09 Nov 2026 13:52:46 +0000",
+      "sum": "Binances pledge to cover all user losses helped contain the fallout from the $6.3 billion hack, analysts said."
+    },
+    {
+      "src": "CoinTelegraph",
+      "title": "Heres what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Mon, 09 Nov 2026 13:36:56 +0000",
+      "sum": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "src": "CoinTelegraph",
+      "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules",
+      "url": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Mon, 09 Nov 2026 13:30:00 +0000",
+      "sum": "The Binance hack proved stablecoin freezes work. Now the UK should make clear freeze rules a condition of listing coins."
+    },
+    {
+      "src": "CoinTelegraph",
+      "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
+      "url": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Mon, 09 Nov 2026 13:29:47 +0000",
+      "sum": "Strategy bought $81.9 million in Bitcoin last week while spending $188.3 million repurchasing STRC preferred shares, according to its latest SEC filing."
+    },
+    {
+      "src": "CoinTelegraph",
+      "title": "EU taps industry to set standards for tokenized securities",
+      "url": "https://cointelegraph.com/news/eu-nominations-tokenization-standards-group?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Mon, 09 Nov 2026 12:27:06 +0000",
+      "sum": "Applications close Nov. 27 for an industry group that aims to draft initial standards for holding and settling tokenized securities by early 2028."
+    },
+    {
+      "src": "CoinTelegraph",
+      "title": "Coinbases US national trust bank charter takes effect",
+      "url": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "date": "Mon, 09 Nov 2026 11:38:52 +0000",
+      "sum": "Coinbase plans to expand its institutional crypto custody business under the federal charter and is exploring digital asset payment products."
+    },
+    {
+      "src": "Decrypt",
+      "title": "NYSE Taps Avalanche to Settle Its Planned Tokenized Stock Platform",
+      "url": "https://decrypt.co/382833/nyse-avalanche-settle-tokenized-stock-platform",
+      "date": "Mon, 09 Nov 2026 15:49:22 +0000",
+      "sum": "Ava Labs said Avalanche will serve as the core ledger technology for the clearing firm behind the NYSE-affiliated venue, which aims to bring 24/7 trading, clearing and settlement of tokenized securiti"
+    },
+    {
+      "src": "Decrypt",
+      "title": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC",
+      "url": "https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc",
+      "date": "Mon, 09 Nov 2026 13:24:29 +0000",
+      "sum": "The Bitcoin treasury firm sold $284 million of MSTR stock to fund the moves, days before MSCI names companies facing index removal."
+    },
+    {
+      "src": "Decrypt",
+      "title": "Microsoft-Backed Space and Time Launches Platform to Let AI Agents Verify Private Data",
+      "url": "https://decrypt.co/382697/microsoft-backed-space-and-time-launches-platform-to-let-ai-agents-verify-private-data",
+      "date": "Mon, 09 Nov 2026 13:01:02 +0000",
+      "sum": "Space and Time Enterprise uses Proof of SQL to prove calculations on private business data without exposing the records to AI agents."
+    },
+    {
+      "src": "Decrypt",
+      "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
+      "url": "https://decrypt.co/382816/coinbase-joins-circle-ripple-with-final-occ-approval-for-federal-trust-bank-charter",
+      "date": "Mon, 09 Nov 2026 11:50:36 +0000",
+      "sum": "The exchange will move its institutional crypto custody business under federal oversight, building on its 2018 New York trust charter."
+    },
+    {
+      "src": "Decrypt",
+      "title": "Trump Says He Knows 'Nothing' About World Liberty Financial as He Defends UAE Ties",
+      "url": "https://decrypt.co/382813/trump-says-he-knows-nothing-about-world-liberty-financial-as-he-defends-uae-ties",
+      "date": "Mon, 09 Nov 2026 11:26:27 +0000",
+      "sum": "Pressed on why he doesn't divest from the family's crypto venture, Trump said his sons run the business and every president faces conflicts."
+    },
+    {
+      "src": "Decrypt",
+      "title": "Nvidia Board Investigates Jensen Huang After Report He Was Target of Chinese Spy Effort",
+      "url": "https://decrypt.co/382793/nvidia-board-investigates-jensen-huang-after-report-he-was-target-of-chinese-spy-effort",
+      "date": "Mon, 09 Nov 2026 09:50:21 +0000",
+      "sum": "Huang told staff he had been \"unfaithful\" to his wife, as Nvidia shares fell nearly 5% in premarket trading on Monday."
+    },
+    {
+      "src": "TheBlock",
+      "title": "Coinbase and PNC Bank expand partnership with USDC payments for corporate clients",
+      "url": "https://www.theblock.co/news/business/2026-11-09-coinbase-pnc-bank-expand-partnership-with-usdc-payments-corporate-clients-436466",
+      "date": "Mon, 09 Nov 2026 16:01:28 +0000",
+      "sum": "PNC Bank is piloting USDC payment acceptance for corporate and institutional clients through its expanded partnership with Coinbase."
+    },
+    {
+      "src": "TheBlock",
+      "title": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440",
+      "date": "Mon, 09 Nov 2026 15:54:16 +0000",
+      "sum": "Elliptic says the extra swaps slow investigators down, but the stolen funds remain traceable onchain."
+    },
+    {
+      "src": "TheBlock",
+      "title": "Ethereum treasury Sharplinks Q3 net income hits $751 million on unrealized ether gains",
+      "url": "https://www.theblock.co/news/markets/2026-11-09-sharplink-q3-2026-earnings-net-income-eth-holdings-436459",
+      "date": "Mon, 09 Nov 2026 15:40:30 +0000",
+      "sum": "Sharplink posted Q3 revenue of $13.5 million and net income of $751.4 million, driven by unrealized ETH gains."
+    },
+    {
+      "src": "TheBlock",
+      "title": "Prediction market broker River Markets registers affiliate as CFTC futures commission merchant",
+      "url": "https://www.theblock.co/news/regulation/2026-11-09-river-markets-prediction-market-prime-brokerage-cftc-fcm-registration-436266",
+      "date": "Mon, 09 Nov 2026 15:05:02 +0000",
+      "sum": "River Markets' affiliate registered with CFTC as an FCM as it builds a prime brokerage for institutional prediction market traders."
+    },
+    {
+      "src": "TheBlock",
+      "title": "Tom Lees Bitmine nears 5% Ethereum supply target with $20 million ETH buy as he predicts tokenization and AI supercycle",
+      "url": "https://www.theblock.co/news/business/2026-11-09-tom-lee-bitmine-nears-ethereum-supply-target-20-million-eth-tokenization-ai-supercycle-436219",
+      "date": "Mon, 09 Nov 2026 14:32:40 +0000",
+      "sum": "Bitmine bought another 9,587 ETH last week, closing in on its target of 5% of Ethereum's circulating supply."
+    },
+    {
+      "src": "TheBlock",
+      "title": "NYSE to settle tokenized stocks on Avalanche in planned 24/7 market",
+      "url": "https://www.theblock.co/news/business/2026-11-09-nyse-settle-tokenized-stocks-avalanche-planned-24-7-market-436208",
+      "date": "Mon, 09 Nov 2026 14:07:27 +0000",
+      "sum": "NYSE picked Avalanche to supply the core ledger technology for the clearing firm of its affiliated tokenized-securities platform."
+    },
+    {
+      "src": "CryptoSlate",
+      "title": "US drops a proposed crypto rule. Europe can still hold up your $500 transfer",
+      "url": "https://cryptoslate.com/us-drops-a-proposed-crypto-rule-europe-can-still-hold-up-your-500-transfer/",
+      "date": "Mon, 09 Nov 2026 15:45:43 +0000",
+      "sum": "The proposed U.S. threshold never took effect, while a $500 customer transfer can still require information before an EU exchange releases it. Read the full story on CryptoSlateUnderstand the crypto s"
+    },
+    {
+      "src": "CryptoSlate",
+      "title": "Nigeria tells dollar-stablecoin issuers: go local or lose retail access",
+      "url": "https://cryptoslate.com/nigeria-tells-dollar-stablecoin-issuers-go-local-or-lose-retail-access/",
+      "date": "Mon, 09 Nov 2026 15:10:52 +0000",
+      "sum": "Continued Class 2 access during assessment needs express CBN permission, while foreign licenses cannot replace local issuer and token approvals. Read the full story on CryptoSlateUnderstand the crypto"
+    },
+    {
+      "src": "CryptoSlate",
+      "title": "Coinbases blockchain got faster. Some apps can still connect but get no data",
+      "url": "https://cryptoslate.com/coinbases-blockchain-got-faster-some-apps-can-still-connect-but-get-no-data/",
+      "date": "Mon, 09 Nov 2026 14:35:11 +0000",
+      "sum": "Apps using Flashblocks must migrate after Denim left retired endpoints accepting connections without streaming data. Read the full story on CryptoSlateUnderstand the crypto stories that matter and wha"
+    },
+    {
+      "src": "CryptoSlate",
+      "title": "Bitcoin traders face an eight-hour blind spot as Deribit prepares to delay key market data",
+      "url": "https://cryptoslate.com/bitcoin-traders-face-an-eight-hour-blind-spot-as-deribit-prepares-to-delay-key-market-data/",
+      "date": "Mon, 09 Nov 2026 14:00:34 +0000",
+      "sum": "Public open interest will show earlier positions across all Deribit futures and options, limiting comparisons with current prices. Read the full story on CryptoSlateUnderstand the crypto stories that "
+    },
+    {
+      "src": "CryptoSlate",
+      "title": "Jitos Solana data feed puts a price on seeing trades early",
+      "url": "https://cryptoslate.com/jitos-solana-data-feed-puts-a-price-on-seeing-trades-early/",
+      "date": "Mon, 09 Nov 2026 13:15:24 +0000",
+      "sum": "Paid subscribers get an earlier view of committed transactions, while BAM validators and the Jito DAO share distribution revenue. Read the full story on CryptoSlateUnderstand the crypto stories that m"
+    },
+    {
+      "src": "CryptoSlate",
+      "title": "Tokenized gold can now back a Coinbase loan. The price feed takes weekends off",
+      "url": "https://cryptoslate.com/tokenized-gold-can-now-back-a-coinbase-loan-the-price-feed-takes-weekends-off/",
+      "date": "Mon, 09 Nov 2026 12:40:42 +0000",
+      "sum": "Morpho says PAXG-backed USDC loans are live, while customer eligibility, borrowing limits and liquidation thresholds still apply. Read the full story on CryptoSlateUnderstand the crypto stories that m"
+    },
+    {
+      "src": "BitcoinMagazine",
+      "title": "Binance to Close Accounts in Four EU Countries Dec. 31, Charging Idle Balances From Nov. 29",
+      "url": "https://bitcoinmagazine.com/news/binance-closing-accounts-four-eu-countries",
+      "date": "Mon, 09 Nov 2026 15:53:23 +0000",
+      "sum": "Bitcoin Magazine Binance to Close Accounts in Four EU Countries Dec. 31, Charging Idle Balances From Nov. 29 Binance told users in France, Spain, Italy and Poland to withdraw their crypto, with deposi"
+    },
+    {
+      "src": "BitcoinMagazine",
+      "title": "U.S. Regulators Drop $250 Travel Rule Plan, Crypto Language Too",
+      "url": "https://bitcoinmagazine.com/news/fincen-fed-withdraw-travel-rule-250",
+      "date": "Mon, 09 Nov 2026 15:00:00 +0000",
+      "sum": "Bitcoin Magazine U.S. Regulators Drop $250 Travel Rule Plan, Crypto Language Too FinCEN and the Federal Reserve formally withdrew a 2020 proposal that would have cut the cross-border funds-transfer th"
+    },
+    {
+      "src": "BitcoinMagazine",
+      "title": "Krakens Dave Ripley: That Was the Bear Market and Bitcoin Is On Our Way Out of It",
+      "url": "https://bitcoinmagazine.com/videos/krakens-dave-ripley-that-was-the-bear-market-and-bitcoin-is-on-our-way-out-of-it",
+      "date": "Mon, 09 Nov 2026 14:37:05 +0000",
+      "sum": "Bitcoin Magazine Krakens Dave Ripley: That Was the Bear Market and Bitcoin Is On Our Way Out of It Krakens Dave Ripley explains why Bitcoins rebound past $80K hints the bear market is over, marking th"
+    },
+    {
+      "src": "BitcoinMagazine",
+      "title": "Strive (ASST) Adds 29 Bitcoin for $2.2 Million as Weekly Buys Slow After Crossing 43,000",
+      "url": "https://bitcoinmagazine.com/news/strive-asst-adds-29-bitcoin-holdings-43153",
+      "date": "Mon, 09 Nov 2026 14:26:32 +0000",
+      "sum": "Bitcoin Magazine Strive (ASST) Adds 29 Bitcoin for $2.2 Million as Weekly Buys Slow After Crossing 43,000 Strive purchased 29 bitcoin from Oct. 31 to Nov. 6 at an average of $75,721, lifting holdings "
+    },
+    {
+      "src": "BitcoinMagazine",
+      "title": "Coinbase Wins Full Federal Trust Charter From OCC",
+      "url": "https://bitcoinmagazine.com/news/coinbase-full-occ-national-trust-charter",
+      "date": "Mon, 09 Nov 2026 14:18:31 +0000",
+      "sum": "Bitcoin Magazine Coinbase Wins Full Federal Trust Charter From OCC Coinbase's custody arm has completed its national trust bank charter with the OCC, upgrading April's conditional approval, but the li"
+    },
+    {
+      "src": "BitcoinMagazine",
+      "title": "Bitcoin Price Drops Below $74,000 as Nvidia Probe and Regulation Fears Spark $1 Billion in Liquidations",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-to-73477",
+      "date": "Mon, 09 Nov 2026 13:52:22 +0000",
+      "sum": "Bitcoin Magazine Bitcoin Price Drops Below $74,000 as Nvidia Probe and Regulation Fears Spark $1 Billion in Liquidations Bitcoin price fell to $73,477 overnight, its lowest since August, before bounci"
+    },
+    {
+      "src": "CoinDesk",
+      "title": "Googles AI chip push adds more pressure on Nvidia",
+      "url": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
+      "date": "Mon, 09 Nov 2026 15:20:05 +0000",
+      "sum": "Googles specialised AI chips threaten greater competition as Nvidia faces a leadership investigation."
+    },
+    {
+      "src": "CoinDesk",
+      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+      "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+      "date": "Mon, 09 Nov 2026 15:00:44 +0000",
+      "sum": "North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says."
+    },
+    {
+      "src": "CoinDesk",
+      "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
+      "url": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
+      "date": "Mon, 09 Nov 2026 13:40:06 +0000",
+      "sum": "Avalanche will serve as the core settlement ledger for the exchange's planned blockchain stock market"
+    },
+    {
+      "src": "CoinDesk",
+      "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
+      "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
+      "date": "Mon, 09 Nov 2026 12:41:35 +0000",
+      "sum": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading."
+    },
+    {
+      "src": "CoinDesk",
+      "title": "Trump says he knows nothing about World Libertys UAE ties as Justin Sun challenges filings",
+      "url": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
+      "date": "Mon, 09 Nov 2026 12:37:13 +0000",
+      "sum": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Suns federal lawsuit over frozen WLFI tokens"
+    },
+    {
+      "src": "CoinDesk",
+      "title": "Bitcoin bulls can't rely on ETF flows",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
+      "date": "Mon, 09 Nov 2026 12:30:00 +0000",
+      "sum": "Your day-ahead look for Nov. 9, 2026"
+    }
+  ]
+}
