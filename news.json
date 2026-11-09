@@ -1,1 +1,35 @@
-PLACEHOLDER_CONTENT
+{
+  "asof": "2026-11-09T17:03:34Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "id": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "id": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "id": "TheBlock",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "id": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "id": "BitcoinMagazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "id": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "id": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": []
+}
