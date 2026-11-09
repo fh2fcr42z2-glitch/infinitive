@@ -1,1 +1,120 @@
-PLACEHOLDER_TO_BE_REPLACED
+{
+  "asof": "2026-11-09T22:01:45Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "id": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "id": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "id": "TheBlock",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "id": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "id": "BitcoinMagazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "id": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "id": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "src": "CoinTelegraph",
+      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+      "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic",
+      "date": "Mon, 09 Nov 2026 20:26:34 +0000",
+      "sum": "The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets."
+    },
+    {
+      "src": "CoinTelegraph",
+      "title": "Formation Securities plans Solana stock trading venue under SEC exemption",
+      "url": "https://cointelegraph.com/news/formation-securities-solana-stock-trading-venue-sec-exemption",
+      "date": "Mon, 09 Nov 2026 19:52:34 +0000",
+      "sum": "The proposed venue would offer 24/7 trading of tokenized shares from Galaxy Digital, Exodus and Forward Industries, with a launch planned for early 2027."
+    },
+    {
+      "src": "CoinTelegraph",
+      "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
+      "url": "https://cointelegraph.com/news/mercado-bitcoin-reopening-withdrawals-hack-suspended",
+      "date": "Mon, 09 Nov 2026 18:25:29 +0000",
+      "sum": "Customers can view their pre-hack balances as access returns in phases. The exchange has yet to say when withdrawals will resume."
+    },
+    {
+      "src": "Decrypt",
+      "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
+      "url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+      "date": "Mon, 09 Nov 2026 19:36:02 +0000",
+      "sum": "Elliptic says the hackers are minting their own worthless tokens and routing stolen funds through liquidity pools."
+    },
+    {
+      "src": "Decrypt",
+      "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+      "url": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+      "date": "Mon, 09 Nov 2026 19:06:03 +0000",
+      "sum": "Bitcoin hovered near $75,000 after a wave of liquidations, with Tuesday's inflation report set to test bets on a December Fed rate hike."
+    },
+    {
+      "src": "TheBlock",
+      "title": "Elizabeth Warren vows scrutiny of prediction markets, Trump family crypto ventures as Senate Banking chair",
+      "url": "https://www.theblock.co/news/regulation/2026-11-09-senate-banking-elizabeth-warren-scrutiny-prediction-markets-trump-crypto-ventures-436898",
+      "date": "Mon, 09 Nov 2026 20:04:49 +0000",
+      "sum": "Sen. Elizabeth Warren is setting her sights on prediction market oversight and the Trump family's burgeoning crypto businesses."
+    },
+    {
+      "src": "TheBlock",
+      "title": "Binance hack launderers mint homemade Elon Musk, animal memecoins to move stolen funds: Elliptic",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-09-binance-hack-launderers-mint-homemade-elon-musk-animal-memecoins-move-stolen-funds-elliptic-436440",
+      "date": "Mon, 09 Nov 2026 15:54:16 +0000",
+      "sum": "Elliptic says the extra swaps slow investigators down, but the stolen funds remain traceable onchain."
+    },
+    {
+      "src": "BitcoinMagazine",
+      "title": "Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide",
+      "url": "https://bitcoinmagazine.com/news/amundi-boosts-strategy-mstr-stake-44",
+      "date": "Mon, 09 Nov 2026 20:39:56 +0000",
+      "sum": "Europe's largest asset manager raised its Strategy holding to 1.9 million shares."
+    },
+    {
+      "src": "BitcoinMagazine",
+      "title": "North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot",
+      "url": "https://bitcoinmagazine.com/news/north-korea-meme-coins-binance-hack",
+      "date": "Mon, 09 Nov 2026 17:26:28 +0000",
+      "sum": "Elliptic says North Korean launderers created six throwaway meme tokens on NEAR."
+    },
+    {
+      "src": "CoinDesk",
+      "title": "Robinhood backs tokenization of its stock on OKX-ICE platform even as most companies opt out",
+      "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+      "date": "Mon, 09 Nov 2026 19:36:15 +0000",
+      "sum": "The brokerage firm said it would rather help build tokenized markets than sit on the sidelines."
+    },
+    {
+      "src": "CoinDesk",
+      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+      "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+      "date": "Mon, 09 Nov 2026 15:00:44 +0000",
+      "sum": ""
+    },
+    {
+      "src": "CoinDesk",
+      "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
+      "url": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
+      "date": "Mon, 09 Nov 2026 13:40:06 +0000",
+      "sum": ""
+    }
+  ]
+}
