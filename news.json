@@ -1,1 +1,36 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-10T19:02:53Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+      "url": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 10 Nov 2026 18:12:07 +0000",
+      "summary": "Starting next week, customers can deposit and withdraw money through Brazil's instant payment system. Crypto transfers remain suspended."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Hot US inflation raises odds of half-point Fed hike in December",
+      "url": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 10 Nov 2026 17:31:09 +0000",
+      "summary": "US inflation came in above forecasts in October, increasing expectations of a bigger rate hike in December and raising concerns for crypto investors."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Polymarket US trading volume jumps 266% despite regulatory battles",
+      "url": "https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 10 Nov 2026 17:07:48 +0000",
+      "summary": "Trading volume on Polymarket's US exchange surged from June to October, fueled by sports betting, even as the platform faces mounting regulatory scrutiny."
+    }
+  ]
+}
