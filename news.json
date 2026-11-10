@@ -1,1 +1,225 @@
-See /tmp/news_18.json - content too long for this message, using abbreviated: {"asof":"2026-11-10T20:02:44Z","stamp":"NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.","feeds":["https://cointelegraph.com/rss","https://decrypt.co/feed","https://www.theblock.co/rss.xml","https://cryptoslate.com/feed/","https://bitcoinmagazine.com/.rss/full/","https://www.coindesk.com/arc/outboundfeeds/rss","https://rekt.news"],"items":[{"source":"The Block","title":"Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k","url":"https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301","pubDate":"Tue, 10 Nov 2026 19:38:18 +0000","summary":"BTC slipped under $74,000 after October CPI beat forecasts. Analysts flag $73,000 support and a possible drop toward $69,000."},{"source":"CoinTelegraph","title":"Mercado Bitcoin to resume cash withdrawals after $49M hack","url":"https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack","pubDate":"Tue, 10 Nov 2026 18:12:07 +0000","summary":"Starting next week, customers can deposit and withdraw money through Brazil's instant payment system. Crypto transfers remain suspended."},{"source":"Decrypt","title":"Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike","url":"https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike","pubDate":"Tue, 10 Nov 2026 16:27:57 +0000","summary":"Bitcoin fell below $74,000 after October inflation beat forecasts."}]}
+{
+  "asof": "2026-11-10T21:02:22Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
+      "url": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization",
+      "pubDate": "Tue, 10 Nov 2026 20:26:02 +0000",
+      "summary": "The Plume affiliate plans to offer tokenized US stocks, ETFs and bonds through self-custodial wallets, with traditional shareholder rights preserved."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+      "url": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack",
+      "pubDate": "Tue, 10 Nov 2026 18:12:07 +0000",
+      "summary": "Starting next week, customers can deposit and withdraw money through Brazil's instant payment system. Crypto transfers remain suspended."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Hot US inflation raises odds of half-point Fed hike in December",
+      "url": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto",
+      "pubDate": "Tue, 10 Nov 2026 17:31:09 +0000",
+      "summary": "US inflation came in above forecasts in October, increasing expectations of a bigger rate hike in December and raising concerns for crypto investors."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Polymarket US trading volume jumps 266% despite regulatory battles",
+      "url": "https://cointelegraph.com/news/polymarket-us-trading-volume-jumps-regulatory-battles",
+      "pubDate": "Tue, 10 Nov 2026 17:07:48 +0000",
+      "summary": "Trading volume on Polymarket's US exchange surged from June to October, fueled by sports betting, even as the platform faces mounting regulatory scrutiny."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin nears 11-week low after 'discouraging' US CPI inflation beat",
+      "url": "https://cointelegraph.com/markets/bitcoin-11-week-low-discouraging-us-cpi-inflation",
+      "pubDate": "Tue, 10 Nov 2026 16:25:03 +0000",
+      "summary": "Bitcoin and US stocks initially fall after October inflation tops forecasts, with traders expecting a quarter-point Fed rate hike in December."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Poland's lower house backs sanctions bill covering crypto freezes",
+      "url": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets",
+      "pubDate": "Tue, 10 Nov 2026 13:40:39 +0000",
+      "summary": "The bill is now before the Senate and would broaden the grounds for adding people and companies to Poland's national sanctions list."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
+      "url": "https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena",
+      "pubDate": "Tue, 10 Nov 2026 20:45:50 +0000",
+      "summary": "The chipmaker has erased its 2026 gains as a suspected Chinese espionage case brings fresh scrutiny of CEO Jensen Huang."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
+      "url": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
+      "pubDate": "Tue, 10 Nov 2026 20:16:03 +0000",
+      "summary": "An SGLang flaw let an attacker reach internal systems and potentially view confidential AI requests, exposing the limits of hardware-backed privacy protections."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
+      "url": "https://decrypt.co/382956/elon-musk-calls-claude-opus-5-5-masterpiece-grok-wont-match",
+      "pubDate": "Tue, 10 Nov 2026 19:46:02 +0000",
+      "summary": "Elon Musk says the incoming Grok 4.8 will trail Anthropic's Claude Opus 5.5, praising his rival's model while predicting Grok 5 could surpass it in two or three months."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
+      "url": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+      "pubDate": "Tue, 10 Nov 2026 19:16:02 +0000",
+      "summary": "Grayscale plans to direct $1 million from its Zcash ETF fees to ecosystem nonprofits and launched a national ad campaign, as ZEC fell more than 11%."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto's Stablecoin Giants",
+      "url": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants",
+      "pubDate": "Tue, 10 Nov 2026 18:33:37 +0000",
+      "summary": "The funding, backing a U.S.-incorporated issuer codenamed \"Project Faro,\" covers five years of operations as traditional lenders move to challenge crypto-native giants Tether and Circle."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
+      "url": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
+      "pubDate": "Tue, 10 Nov 2026 16:27:57 +0000",
+      "summary": "Bitcoin fell below $74,000 after October inflation beat forecasts, increasing pressure on the Federal Reserve to raise rates again at its December meeting."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
+      "url": "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301",
+      "pubDate": "Tue, 10 Nov 2026 19:38:18 +0000",
+      "summary": "BTC slipped under $74,000 after October CPI beat forecasts. Analysts flag $73,000 support and a possible drop toward $69,000."
+    },
+    {
+      "source": "The Block",
+      "title": "Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%",
+      "url": "https://www.theblock.co/news/markets/2026-11-10-grayscale-pledges-1-million-alongside-zcash-ad-blitz-as-token-and-etf-fall-12-437277",
+      "pubDate": "Tue, 10 Nov 2026 17:52:14 +0000",
+      "summary": "Grayscale's Zcash push comes as its ETF faces continued withdrawals, extending October's net outflows."
+    },
+    {
+      "source": "The Block",
+      "title": "TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out native wallet",
+      "url": "https://www.theblock.co/news/markets/2026-11-10-ton-strategy-tonx-q3-2026-earnings-gram-staking-437278",
+      "pubDate": "Tue, 10 Nov 2026 17:24:44 +0000",
+      "summary": "TON Strategy reported $13.1M in Q3 revenue, mostly from GRAM staking, and a $24M net loss as Telegram rolled out its native Gram Wallet."
+    },
+    {
+      "source": "The Block",
+      "title": "Alta raises $47.5 million Series A to build a blockchain for financial institutions",
+      "url": "https://www.theblock.co/news/business/2026-11-10-alta-raises-80-million-build-blockchain-banks-payment-firms-437244",
+      "pubDate": "Tue, 10 Nov 2026 16:19:16 +0000",
+      "summary": "Alta's blockchain will combine privacy and compliance controls for banks and other financial firms."
+    },
+    {
+      "source": "The Block",
+      "title": "Canaan's Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump",
+      "url": "https://www.theblock.co/news/business/2026-11-10-canaans-q3-revenue-plunges-90-to-14-5-million-as-bitcoin-mining-hardware-sales-slump-437252",
+      "pubDate": "Tue, 10 Nov 2026 16:02:02 +0000",
+      "summary": "Canaan's Q3 revenue fell 90% to $14.5 million, though cryptocurrency and derivatives gains supported an $8 million profit."
+    },
+    {
+      "source": "The Block",
+      "title": "MEGA commits $30 million to new products, starting with AI inference",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-10-megaeth-rebrand-30-million-new-products-ai-inference-437249",
+      "pubDate": "Tue, 10 Nov 2026 15:56:02 +0000",
+      "summary": "The MegaETH Foundation has rebranded as MEGA and committed $30 million to new products, starting with AI inference."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Trump Media posts $410M profit, but crypto hides an operating loss",
+      "url": "https://cryptoslate.com/trump-media-posts-410m-profit-but-crypto-hides-an-operating-loss/",
+      "pubDate": "Tue, 10 Nov 2026 20:50:02 +0000",
+      "summary": "The company reported $496.1 million in combined digital-asset, pledged-digital-asset and equity gains, while adjusted EBITDA remained negative. Read the full story on CryptoSlateUnderstand the crypto "
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "DeepMind says its AI agents ran a four-day cryptography test with about 20 human messages",
+      "url": "https://cryptoslate.com/deepmind-says-two-ai-agents-ran-a-cryptography-test-with-about-20-human-messages/",
+      "pubDate": "Tue, 10 Nov 2026 19:49:20 +0000",
+      "summary": "The known RSA benchmark used less CPU time, with human approval gates, a specialist helper and a large computing budget. Read the full story on CryptoSlateUnderstand the crypto stories that matter and"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin's projected difficulty cut would still leave older S19 rigs short at 5-cent power",
+      "url": "https://cryptoslate.com/bitcoins-projected-difficulty-cut-would-still-leave-older-s19-rigs-short-at-5-cent-power/",
+      "pubDate": "Tue, 10 Nov 2026 17:49:50 +0000",
+      "summary": "A 6.5% cut would improve gross mining revenue at unchanged Bitcoin price, subsidy and fees, while modeled S19 electricity ceilings remain near 4 cents/kWh. Read the full story on CryptoSlateUnderstand"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "AI-assisted firms increase flaw disclosures by 120% with no detected repair slowdown, study finds",
+      "url": "https://cryptoslate.com/ai-assisted-firms-increase-flaw-disclosures-by-120-with-no-detected-repair-slowdown-study-finds/",
+      "pubDate": "Tue, 10 Nov 2026 16:49:48 +0000",
+      "summary": "A Project Glasswing preprint links AI access to more disclosures while measured fixes kept pace, leaving hidden backlogs and attack prevention unresolved. Read the full story on CryptoSlateUnderstand "
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Slower US inflation leaves Waller's half-point December hike in play",
+      "url": "https://cryptoslate.com/slower-us-inflation-leaves-wallers-half-point-december-hike-in-play/",
+      "pubDate": "Tue, 10 Nov 2026 16:09:17 +0000",
+      "summary": "Core CPI was unchanged at 0.3% for a third month, matching the approximate level in Waller's conditional December policy discussion before the release. Read the full story on CryptoSlateUnderstan"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Strategy spent more than twice as much on preferred buybacks as Bitcoin last week",
+      "url": "https://cryptoslate.com/strategy-spent-more-than-twice-as-much-on-preferred-buybacks-as-bitcoin-last-week/",
+      "pubDate": "Tue, 10 Nov 2026 14:49:06 +0000",
+      "summary": "The November 9 filing shows common-stock proceeds funding Bitcoin purchases and a larger STRC buyback during November 2-8. Read the full story on CryptoSlateUnderstand the crypto stories that matter a"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
+      "url": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
+      "pubDate": "Tue, 10 Nov 2026 20:36:33 +0000",
+      "summary": "U.S. Senator Elizabeth Warren argued the administration is not doing enough about staff insider trading, questioning whether CFTC enforcement action was sufficient."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
+      "url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
+      "pubDate": "Tue, 10 Nov 2026 20:15:08 +0000",
+      "summary": "Stacey Cunningham, who recently joined digital asset platform Bullish as President, sees the company's planned Equiniti acquisition and focus on stock issuers as key to its tokenization ambitions."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+      "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+      "pubDate": "Tue, 10 Nov 2026 17:32:22 +0000",
+      "summary": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
+      "url": "https://www.coindesk.com/news-analysis/2026/11/10/crypto-teams-up-with-u-s-government-to-defend-stock-perps-in-legal-fight",
+      "pubDate": "Tue, 10 Nov 2026 17:07:22 +0000",
+      "summary": "Twice now, crypto firms have found themselves on the side of the U.S. Commodity Futures Trading Commission in holding that perpetual futures aren't swaps."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
+      "url": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
+      "pubDate": "Tue, 10 Nov 2026 15:51:56 +0000",
+      "summary": "Kimber Digital Securities secured SEC and Finra approvals, a regulatory milestone paving the way for the delivery of legally binding claims, dividends, and yield-bearing products directly to self-cust"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Will stablecoins survive once the banks catch up?",
+      "url": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
+      "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "summary": "As crypto firms and banks converge, it is fair to ask what lasting advantage stablecoins have, argues Alessandro Hatami, founder of Pacemakers and former COO of Digital Banking at Lloyds Banking Group"
+    }
+  ]
+}
