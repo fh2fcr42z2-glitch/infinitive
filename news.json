@@ -1,1 +1,57 @@
-PLACEHOLDER_FULL
+{
+  "asof": "2026-11-10T22:03:06Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
+      "url": "https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets",
+      "pubDate": "Tue, 10 Nov 2026 21:24:36 +0000",
+      "summary": "The protocol is investigating a potential security incident affecting its domain, while several users have reported losing funds after interacting with the platform."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Hot US inflation raises odds of half-point Fed hike in December",
+      "url": "https://cointelegraph.com/news/hot-us-inflation-raises-rate-hike-crypto",
+      "pubDate": "Tue, 10 Nov 2026 17:31:09 +0000",
+      "summary": "US inflation came in above forecasts in October, increasing expectations of a bigger rate hike in December and raising concerns for crypto investors."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Falls as Hot US Inflation Fuels Fears of Bigger Fed Rate Hike",
+      "url": "https://decrypt.co/382950/bitcoin-falls-hot-us-inflation-fears-bigger-fed-rate-hike",
+      "pubDate": "Tue, 10 Nov 2026 16:27:57 +0000",
+      "summary": "Bitcoin fell below $74,000 after October inflation beat forecasts, increasing pressure on the Federal Reserve to raise rates again at its December meeting."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
+      "url": "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301",
+      "pubDate": "Tue, 10 Nov 2026 19:38:18 +0000",
+      "summary": "BTC slipped under $74,000 after October CPI beat forecasts. Analysts flag $73,000 support and a possible drop toward $69,000."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+      "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+      "pubDate": "Tue, 10 Nov 2026 17:32:22 +0000",
+      "summary": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Trump Media posts $410M profit, but crypto hides an operating loss",
+      "url": "https://cryptoslate.com/trump-media-posts-410m-profit-but-crypto-hides-an-operating-loss/",
+      "pubDate": "Tue, 10 Nov 2026 20:50:02 +0000",
+      "summary": "The company reported $496.1 million in combined digital-asset, pledged-digital-asset and equity gains, while adjusted EBITDA remained negative."
+    }
+  ]
+}
