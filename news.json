@@ -10,5 +10,41 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "items": []
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "HIVE, MARA mine more Bitcoin but earn less as crypto prices fall",
+      "url": "https://cointelegraph.com/markets/hives-bitcoin-output-jumps-49-but-mining-revenue-falls",
+      "pubDate": "Tue, 10 Nov 2026 00:42:39 +0000",
+      "summary": "Both miners reported higher Bitcoin production but lower mining revenue and rising electricity costs as they expanded their AI infrastructure businesses."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "North Korean hackers create memecoins to launder funds from Binance hack: Elliptic",
+      "url": "https://cointelegraph.com/news/north-korean-hackers-memecoins-launder-binance-hack-elliptic",
+      "pubDate": "Mon, 09 Nov 2026 20:26:34 +0000",
+      "summary": "The blockchain firm traced stolen funds through six new tokens on NEAR, where hackers used liquidity pools to obscure transfers between wallets."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+      "url": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+      "pubDate": "Mon, 09 Nov 2026 19:06:03 +0000",
+      "summary": "U.S. stocks rallied as oil fell, but Bitcoin hovered near $75,000 after a wave of liquidations, with Tuesday's inflation report set to test bets on a December Fed rate hike."
+    },
+    {
+      "source": "The Block",
+      "title": "MARA posts $634 million Q3 net profit on bitcoin gains, sells 13,597 BTC to pay off loans",
+      "url": "https://www.theblock.co/news/business/2026-11-09-mara-q3-earnings-net-profit-bitcoin-sale-ai-pivot-436950",
+      "pubDate": "Mon, 09 Nov 2026 22:07:00 +0000",
+      "summary": "MARA posted a $634.4 million Q3 net profit, then sold 13,597 BTC to repay $750 million in loans as it pivots to AI."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+      "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+      "pubDate": "Mon, 09 Nov 2026 15:00:44 +0000",
+      "summary": "North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says."
+    }
+  ]
 }
