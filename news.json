@@ -1,1 +1,225 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-10T23:02:27Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 10 Nov 2026 22:04:47 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Can crypto trust firms compete with banks in US derivatives settlements?",
+      "url": "https://cointelegraph.com/news/crypto-trust-firms-compete-banks-us-derivatives-settlements?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 10 Nov 2026 21:34:40 +0000",
+      "summary": "Crypto custodians are moving into a market handling billions in daily settlements, but regulatory relief and a shift in congressional control leave questions over their long-term role."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Across Protocol warns users to avoid app amid reports of drained wallets",
+      "url": "https://cointelegraph.com/news/across-protocol-warns-avoid-app-drained-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 10 Nov 2026 21:24:36 +0000",
+      "summary": "The protocol is investigating a potential security incident affecting its domain, while several users have reported losing funds after interacting with the platform."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ava Labs exec says NYSE deal marks end of blockchain's 'general purpose era'",
+      "url": "https://cointelegraph.com/interview/ava-labs-nyse-general-purpose-chains?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 10 Nov 2026 21:07:44 +0000",
+      "summary": "Ava Labs' John Nahas said the collaboration with the NYSE shows institutions moving past pilots toward purpose-built onchain market infrastructure."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
+      "url": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 10 Nov 2026 20:26:02 +0000",
+      "summary": "The Plume affiliate plans to offer tokenized US stocks, ETFs and bonds through self-custodial wallets, with traditional shareholder rights preserved."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
+      "url": "https://cointelegraph.com/news/pix-withdrawals-resume-mercado-bitcoin-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 10 Nov 2026 18:12:07 +0000",
+      "summary": "Starting next week, customers can deposit and withdraw money through Brazil's instant payment system. Crypto transfers remain suspended."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
+      "url": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
+      "pubDate": "Tue, 10 Nov 2026 22:46:02 +0000",
+      "summary": "The Bitcoin miner says its Boden facility could generate $45 million annually, but a June letter of intent remains nonbinding as executives negotiate financing and customer protections for the project"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
+      "url": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
+      "pubDate": "Tue, 10 Nov 2026 21:36:03 +0000",
+      "summary": "Truth Social's parent booked $409.7 million in quarterly income largely from crypto investments, even as its stock remained more than 94% below its March 2024 peak."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
+      "url": "https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena",
+      "pubDate": "Tue, 10 Nov 2026 20:45:50 +0000",
+      "summary": "The chipmaker has erased its 2026 gains as a suspected Chinese espionage case brings fresh scrutiny of CEO Jensen Huang."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
+      "url": "https://decrypt.co/382958/near-ai-breach-exposes-user-details-data-18-ai-agents",
+      "pubDate": "Tue, 10 Nov 2026 20:16:03 +0000",
+      "summary": "The incident affected data associated with 18 AI agents and exposed user details, according to the report."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
+      "url": "https://decrypt.co/382950/elon-musk-claude-opus-5-5-masterpiece-grok-4-8",
+      "pubDate": "Tue, 10 Nov 2026 19:46:02 +0000",
+      "summary": "Musk praised Anthropic's latest model while noting limitations in current Grok versions."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
+      "url": "https://decrypt.co/382941/grayscale-bets-1-million-zcash-privacy-coin-tumbles",
+      "pubDate": "Tue, 10 Nov 2026 19:16:02 +0000",
+      "summary": "The asset manager is pledging funds amid a price drop in the privacy-focused token."
+    },
+    {
+      "source": "The Block",
+      "title": "Forward Industries grows SOL treasury to 8.7 million as token hits nearly three-month high",
+      "url": "https://www.theblock.co/news/markets/2026-11-10-forward-industries-sol-treasury-8-7-million-437312",
+      "pubDate": "Tue, 10 Nov 2026 21:51:19 +0000",
+      "summary": "The company added to its Solana holdings as the token approached a recent high."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
+      "url": "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301",
+      "pubDate": "Tue, 10 Nov 2026 19:38:18 +0000",
+      "summary": "BTC slipped under $74,000 after October CPI beat forecasts. Analysts flag $73,000 support and a possible drop toward $69,000."
+    },
+    {
+      "source": "The Block",
+      "title": "Grayscale pledges $1 million alongside Zcash ad blitz as token and ETF fall 12%",
+      "url": "https://www.theblock.co/news/markets/2026-11-10-grayscale-zcash-pledge-1-million-437298",
+      "pubDate": "Tue, 10 Nov 2026 17:52:14 +0000",
+      "summary": "The firm is supporting marketing efforts as ZEC and related products decline."
+    },
+    {
+      "source": "The Block",
+      "title": "TON Strategy earns $13.1 million from GRAM staking in Q3 as Telegram rolls out new features",
+      "url": "https://www.theblock.co/news/markets/2026-11-10-ton-strategy-gram-staking-13-1-million-437295",
+      "pubDate": "Tue, 10 Nov 2026 17:24:44 +0000",
+      "summary": "Staking rewards contributed to quarterly results amid product updates."
+    },
+    {
+      "source": "The Block",
+      "title": "Alta raises $47.5 million Series A to build a blockchain for financial institutions",
+      "url": "https://www.theblock.co/news/markets/2026-11-10-alta-raises-47-5-million-series-a-437292",
+      "pubDate": "Tue, 10 Nov 2026 16:19:16 +0000",
+      "summary": "The round supports development of infrastructure targeted at traditional finance."
+    },
+    {
+      "source": "The Block",
+      "title": "Canaan’s Q3 revenue plunges 90% to $14.5 million as bitcoin mining hardware sales slump",
+      "url": "https://www.theblock.co/news/markets/2026-11-10-canaan-q3-revenue-plunge-90-percent-437289",
+      "pubDate": "Tue, 10 Nov 2026 16:02:02 +0000",
+      "summary": "Hardware maker reports sharp decline in sales for the quarter."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "MARA dumps Bitcoin to erase a $750M collateral risk",
+      "url": "https://cryptoslate.com/mara-dumps-bitcoin-to-erase-a-750m-collateral-risk/",
+      "pubDate": "Tue, 10 Nov 2026 22:10:00 +0000",
+      "summary": "The miner sold holdings to reduce exposure on leveraged positions."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Trump Media posts $410M profit, but crypto hides an operating loss",
+      "url": "https://cryptoslate.com/trump-media-posts-410m-profit-but-crypto-hides-an-operating-loss/",
+      "pubDate": "Tue, 10 Nov 2026 20:50:02 +0000",
+      "summary": "The company reported $496.1 million in combined digital-asset, pledged-digital-asset and equity gains, while adjusted EBITDA remained negative."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "DeepMind says its AI agents ran a four-day cryptography test with about 20 human",
+      "url": "https://cryptoslate.com/deepmind-ai-agents-cryptography-test/",
+      "pubDate": "Tue, 10 Nov 2026 19:49:20 +0000",
+      "summary": "The experiment involved AI systems participating in a prolonged crypto-related assessment."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin’s projected difficulty cut would still leave older S19 rigs short at 5-c",
+      "url": "https://cryptoslate.com/bitcoin-difficulty-cut-s19-rigs/",
+      "pubDate": "Tue, 10 Nov 2026 17:49:50 +0000",
+      "summary": "Upcoming network adjustment may not fully rescue older mining equipment economics."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "AI-assisted firms increase flaw disclosures by 120% with no detected repair slow",
+      "url": "https://cryptoslate.com/ai-assisted-firms-flaw-disclosures-120-percent/",
+      "pubDate": "Tue, 10 Nov 2026 16:49:48 +0000",
+      "summary": "Use of AI tools correlated with higher rates of reported vulnerabilities."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Slower US inflation leaves Waller’s half-point December hike in play",
+      "url": "https://cryptoslate.com/slower-us-inflation-waller-half-point-hike/",
+      "pubDate": "Tue, 10 Nov 2026 16:09:17 +0000",
+      "summary": "Recent data keeps the possibility of a larger rate move on the table."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump be",
+      "url": "https://www.coindesk.com/policy/2026/11/10/warren-white-house-teleprompter-trump",
+      "pubDate": "Tue, 10 Nov 2026 20:36:33 +0000",
+      "summary": "Senator questions preparations around potential policy or communication issues."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish",
+      "url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-tokenization-issuers",
+      "pubDate": "Tue, 10 Nov 2026 20:15:08 +0000",
+      "summary": "Issuers' participation is seen as critical for broader tokenized equity adoption."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
+      "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
+      "pubDate": "Tue, 10 Nov 2026 17:32:22 +0000",
+      "summary": "The venture, known as Project Faro, plans to issue a dollar-denominated stablecoin and is expected to be incorporated in the U.S."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto is now teamed up with U.S. government in two legal battles over perps",
+      "url": "https://www.coindesk.com/policy/2026/11/10/crypto-us-government-perps-legal-battles",
+      "pubDate": "Tue, 10 Nov 2026 17:07:22 +0000",
+      "summary": "Industry and government positions align in certain perpetual futures disputes."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
+      "url": "https://www.coindesk.com/business/2026/11/10/plume-affiliate-broker-dealer-license",
+      "pubDate": "Tue, 10 Nov 2026 15:51:56 +0000",
+      "summary": "The license enables tokenized securities offerings with traditional rights."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Will stablecoins survive once the banks catch up?",
+      "url": "https://www.coindesk.com/business/2026/11/10/will-stablecoins-survive-banks-catch-up",
+      "pubDate": "Tue, 10 Nov 2026 14:00:00 +0000",
+      "summary": "Analysis of competitive pressures as traditional institutions enter the space."
+    }
+  ]
+}
