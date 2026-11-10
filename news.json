@@ -1,1 +1,225 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-10T13:06:02Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin breaks with stocks, declines as ETF outflows mount, MARA reduces holdings",
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-breaks-with-stocks-declines-as-etf-outflows-mount-mara-reduces-holdings",
+      "pubDate": "Tue, 10 Nov 2026 12:45:00 +0000",
+      "summary": "Bitcoin fell as stock markets rebounded, with ETF outflows continuing and MARA selling holdings."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-bets-96-waller-speech",
+      "pubDate": "Tue, 10 Nov 2026 11:30:00 +0000",
+      "summary": "Bitcoin trades near $74,000 with high probability of Fed rate hike priced in following recent comments."
+    },
+    {
+      "source": "The Block",
+      "title": "HIVE reports $79 million quarterly net loss as bitcoin mining revenue falls and AI business grows",
+      "url": "https://www.theblock.co/news/business/2026-11-10-hive-reports-79-million-quarterly-net-loss-as-bitcoin-mining-revenue-falls-and-ai-business-grows-437177",
+      "pubDate": "Tue, 10 Nov 2026 11:52:16 +0000",
+      "summary": "HIVE reported a $78.7 million quarterly net loss and $84.9 million in revenue, including $8.8 million from its AI business."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BlackRock Bitcoin ETF outflows hit $1.66B over seven trading sessions",
+      "url": "https://cointelegraph.com/news/blackrock-bitcoin-etf-outflows-1-66b-seven-sessions",
+      "pubDate": "Tue, 10 Nov 2026 10:15:00 +0000",
+      "summary": "IBIT saw significant outflows totaling $1.66 billion over recent trading days amid broader market pressure."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-us-inflation-report",
+      "pubDate": "Tue, 10 Nov 2026 09:50:00 +0000",
+      "summary": "Bitcoin declined ahead of CPI data release, with traders fully pricing a rate hike."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot",
+      "url": "https://bitcoinmagazine.com/news/north-korea-minting-meme-coins-launder-binance-hack",
+      "pubDate": "Mon, 09 Nov 2026 20:39:56 +0000",
+      "summary": "North Korean actors creating memecoins to launder funds from large exchange hack."
+    },
+    {
+      "source": "The Block",
+      "title": "NEAR AI says SGLang vulnerability exposed user account details in security breach",
+      "url": "https://www.theblock.co/news/security/2026-11-10-near-ai-sglang-vulnerability-437150",
+      "pubDate": "Tue, 10 Nov 2026 10:20:00 +0000",
+      "summary": "NEAR AI disclosed a vulnerability that exposed some user account information."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance warns iOS flaw could expose crypto wallet keys",
+      "url": "https://cointelegraph.com/news/binance-warns-ios-flaw-expose-crypto-wallet-keys",
+      "pubDate": "Tue, 10 Nov 2026 08:45:00 +0000",
+      "summary": "Binance alerted users about an Apple iOS vulnerability that may risk private keys."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
+      "url": "https://decrypt.co/news/binance-apple-ios-flaw-private-keys",
+      "pubDate": "Tue, 10 Nov 2026 08:30:00 +0000",
+      "summary": "Exchange warns of iOS bug potentially exposing wallet private keys."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide",
+      "url": "https://bitcoinmagazine.com/news/amundi-boosts-strategy-mstr-stake-44",
+      "pubDate": "Mon, 09 Nov 2026 20:39:56 +0000",
+      "summary": "Europe's largest asset manager increased its Strategy holding significantly."
+    },
+    {
+      "source": "The Block",
+      "title": "Ark Invest trims Block, Bullish and its own bitcoin ETF holdings while buying Nvidia, SoFi",
+      "url": "https://www.theblock.co/news/business/2026-11-10-ark-invest-trims-block-bullish-holdings-437003",
+      "pubDate": "Tue, 10 Nov 2026 10:36:53 +0000",
+      "summary": "Ark sold shares in Block and Bullish while adding Nvidia and SoFi."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin lags stock rebound in advance of U.S. inflation report",
+      "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-lags-stock-rebound-inflation-report",
+      "pubDate": "Tue, 10 Nov 2026 07:20:00 +0000",
+      "summary": "Bitcoin underperformed equities rebound ahead of CPI print."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Analysts project Bitcoin to move just 2.5% on todays CPI data",
+      "url": "https://cryptoslate.com/analysts-project-bitcoin-move-2-5-cpi/",
+      "pubDate": "Tue, 10 Nov 2026 06:00:00 +0000",
+      "summary": "Expectations for limited BTC reaction to the inflation release."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "BlackRock: Security Fears Are Driving Bitcoin Whales Into IBIT",
+      "url": "https://bitcoinmagazine.com/news/blackrock-security-fears-bitcoin-whales-ibit",
+      "pubDate": "Mon, 09 Nov 2026 16:40:00 +0000",
+      "summary": "Demand for IBIT driven by concerns over self-custody security."
+    },
+    {
+      "source": "The Block",
+      "title": "Exodus shares rise 10% ahead of Q3 earnings showing 7% revenue growth, $8.3 million loss",
+      "url": "https://www.theblock.co/news/business/2026-11-10-exodus-shares-rise-10-ahead-of-q3-earnings-showing-7-revenue-growth-8-3-million-loss-437012",
+      "pubDate": "Tue, 10 Nov 2026 10:53:57 +0000",
+      "summary": "Exodus reported Q3 revenue growth but net loss, shares rose."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ex-employee sues Ethereum Foundation and Vitalik Buterin over firing",
+      "url": "https://cointelegraph.com/news/ex-employee-sues-ethereum-foundation-vitalik-buterin",
+      "pubDate": "Tue, 10 Nov 2026 09:10:00 +0000",
+      "summary": "Lawsuit alleges discrimination related to firing after dispute."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Elizabeth Warren Plans Prediction Market Crackdown as She Prepares to Chair Senate Banking",
+      "url": "https://bitcoinmagazine.com/news/elizabeth-warren-prediction-market-crackdown",
+      "pubDate": "Mon, 09 Nov 2026 18:20:00 +0000",
+      "summary": "Incoming chair targets prediction markets."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Core inflation excludes oil. Bitcoin investors still cannot ignore it",
+      "url": "https://cryptoslate.com/core-inflation-excludes-oil-bitcoin/",
+      "pubDate": "Tue, 10 Nov 2026 05:30:00 +0000",
+      "summary": "Analysis on how energy prices affect crypto despite core metrics."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System",
+      "url": "https://decrypt.co/news/binance-halts-mexc-fincen",
+      "pubDate": "Tue, 10 Nov 2026 07:00:00 +0000",
+      "summary": "Regulatory action leads to transfer halt with another exchange."
+    },
+    {
+      "source": "The Block",
+      "title": "BitGo revenue falls 51% in Q3 as trading slows; net income rises on treasury gains",
+      "url": "https://www.theblock.co/news/business/2026-11-10-bitgo-q3-revenue-falls-437100",
+      "pubDate": "Tue, 10 Nov 2026 09:40:00 +0000",
+      "summary": "Custody firm sees trading revenue drop but gains from treasury."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Coinbase, Kalshi join lawsuit backing CFTC over US stock perp futures",
+      "url": "https://cointelegraph.com/news/coinbase-kalshi-lawsuit-cftc-stock-perp",
+      "pubDate": "Tue, 10 Nov 2026 08:00:00 +0000",
+      "summary": "Platforms support CFTC position on perpetual futures for stocks."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Binance to Close Accounts in Four EU Countries Dec. 31, Charging Idle Balances From Nov. 29",
+      "url": "https://bitcoinmagazine.com/news/binance-closing-accounts-four-eu-countries",
+      "pubDate": "Mon, 09 Nov 2026 15:53:23 +0000",
+      "summary": "Exchange exiting certain EU markets with account closures."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin trading picked up, but sellers took the initiative",
+      "url": "https://cryptoslate.com/bitcoin-trading-picked-up-sellers/",
+      "pubDate": "Tue, 10 Nov 2026 04:15:00 +0000",
+      "summary": "Volume increased with selling pressure dominating."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ripple Prime head Marc Asch to step down, Noel Kimmel named successor",
+      "url": "https://www.coindesk.com/business/2026/11/10/ripple-prime-head-step-down",
+      "pubDate": "Tue, 10 Nov 2026 06:45:00 +0000",
+      "summary": "Leadership change at Ripple's institutional arm."
+    },
+    {
+      "source": "The Block",
+      "title": "Walt expands beyond Telegram with standalone crypto trading app",
+      "url": "https://www.theblock.co/news/defi/2026-11-10-walt-standalone-app-437080",
+      "pubDate": "Tue, 10 Nov 2026 08:20:00 +0000",
+      "summary": "Telegram-based wallet launches independent app."
+    },
+    {
+      "source": "Decrypt",
+      "title": "'Tough Questions' Ahead: Warren Targets Prediction Markets, Trump Crypto as Banking Chair",
+      "url": "https://decrypt.co/news/warren-prediction-markets-banking-chair",
+      "pubDate": "Mon, 09 Nov 2026 22:00:00 +0000",
+      "summary": "Senator signals scrutiny of prediction markets and crypto under new role."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress",
+      "url": "https://bitcoinmagazine.com/news/td-cowen-stablecoin-yield-ban-odds",
+      "pubDate": "Mon, 09 Nov 2026 17:10:00 +0000",
+      "summary": "Low probability assigned to yield ban amid bank lobbying."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Schwab adds Solana, Avalanche and Chainlink as crypto trading slows",
+      "url": "https://cryptoslate.com/schwab-adds-solana-avalanche-chainlink/",
+      "pubDate": "Tue, 10 Nov 2026 03:40:00 +0000",
+      "summary": "Broker expands crypto offerings despite lower trading volumes."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
+      "url": "https://www.coindesk.com/tech/2026/11/10/telegram-wallet-standalone",
+      "pubDate": "Tue, 10 Nov 2026 05:00:00 +0000",
+      "summary": "Popular Telegram wallet launches independent version."
+    },
+    {
+      "source": "The Block",
+      "title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
+      "url": "https://www.theblock.co/news/business/2026-11-10-bitgo-q3-profit-437090",
+      "pubDate": "Tue, 10 Nov 2026 09:00:00 +0000",
+      "summary": "Profit rise driven by treasury and crypto price gains despite revenue drop."
+    }
+  ]
+}
