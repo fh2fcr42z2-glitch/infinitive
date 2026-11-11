@@ -1,1 +1,29 @@
-PLACEHOLDER_WILL_FAIL
+{
+  "asof": "2026-11-11T00:04:37Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
+      "url": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts",
+      "pubDate": "Tue, 10 Nov 2026 23:49:51 +0000",
+      "summary": "The prediction markets operator says the issue involves procedural errors affecting a handful of contracts, many of which weren't live, according to Politico."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+      "url": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027",
+      "pubDate": "Tue, 10 Nov 2026 23:08:28 +0000",
+      "summary": "Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 million in funding to launch a US dollar stablecoin in the first half of 2027."
+    }
+  ]
+}
