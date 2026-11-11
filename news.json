@@ -1,1 +1,36 @@
-PLACEHOLDER_WILL_FAIL_BUT_TESTING
+{
+  "asof": "2026-11-11T01:02:34Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "CFTC warns Kalshi of imminent charges over notification of contracts: Politico",
+      "url": "https://cointelegraph.com/news/cftc-warns-kalshi-imminent-charges-over-contracts",
+      "pubDate": "Tue, 10 Nov 2026 23:49:51 +0000",
+      "summary": "The prediction markets operator says the issue involves procedural errors affecting a handful of contracts, many of which weren't live, according to Politico."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Global banks commit $270M to stablecoin venture targeting 2027 launch",
+      "url": "https://cointelegraph.com/news/banks-270m-project-faro-stablecoin-2027",
+      "pubDate": "Tue, 10 Nov 2026 23:08:28 +0000",
+      "summary": "Project Faro, backed by Goldman Sachs, Citigroup and BBVA, has secured $270 million in funding to launch a US dollar stablecoin in the first half of 2027."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin slides below $74,000 after hotter-than-expected CPI as analysts warn of drop to $70k",
+      "url": "https://www.theblock.co/news/markets/2026-11-10-bitcoin-price-cpi-inflation-73000-support-437301",
+      "pubDate": "Tue, 10 Nov 2026 19:38:18 +0000",
+      "summary": "BTC slipped under $74,000 after October CPI beat forecasts. Analysts flag $73,000 support and a possible drop toward $69,000."
+    }
+  ]
+}
