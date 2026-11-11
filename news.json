@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-11T23:09:01Z",
+  "asof": "2026-11-11T23:09:56Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -14,16 +14,254 @@
     {
       "source": "CoinTelegraph",
       "title": "Nvidia preparing to oust CEO Jensen Huang after affairs: WSJ",
-      "url": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reportsutm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/nvidia-preparing-to-oust-ceo-jensen-huang-reports?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Wed, 11 Nov 2026 22:44:47 +0000",
       "summary": "Nvidias board could meet as soon as today to decide Jensen Huangs future, WSJ reports."
     },
     {
       "source": "CoinTelegraph",
       "title": "Heres what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-todayutm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Wed, 11 Nov 2026 22:15:26 +0000",
-      "summary": "Need to know what happened in crypto today Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Uncalled US House races could send more crypto allies to Congress",
+      "url": "https://cointelegraph.com/news/uncalled-midterm-races-add-more-crypto-supporters-congress?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 22:05:17 +0000",
+      "summary": "The remaining races feature pro-crypto candidates and others without a stated position, giving advocacy groups what they see as an opportunity for outreach."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Nomura explores sale of crypto unit Laser Digital: Bloomberg",
+      "url": "https://cointelegraph.com/news/nomura-sale-crypto-unit-laser-digital?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 21:36:01 +0000",
+      "summary": "The potential sale of Laser Digital follows a fourth straight quarterly loss for Nomuras European operations."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US data center restrictions could give Bitcoin miners an edge in AI, though challenges remain",
+      "url": "https://cointelegraph.com/news/us-data-center-restrictions-bitcoin-miners-edge-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 20:43:19 +0000",
+      "summary": "As US voters push back against new data centers, Bitcoin miners already expanding into AI could benefit from their existing facilities."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
+      "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 18:30:43 +0000",
+      "summary": "The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms could fragment liquidity."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia-Backed CoreWeave Is Surging: Heres What It Means for the AI Boom",
+      "url": "https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom",
+      "pubDate": "Wed, 11 Nov 2026 22:36:03 +0000",
+      "summary": "CoreWeave's 168% revenue jump sent its shares soaring and lifted Nvidia and other AI stocks. Strong demand is reassuring investors, but the cost of building it remains enormous."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Stablecoin Drain, ETF Outflows Leave Bitcoin 'Running on Empty'",
+      "url": "https://decrypt.co/383094/stablecoin-drain-etf-outflows-bitcoin-running-empty",
+      "pubDate": "Wed, 11 Nov 2026 21:46:03 +0000",
+      "summary": "Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
+      "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
+      "pubDate": "Wed, 11 Nov 2026 21:16:03 +0000",
+      "summary": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins."
+    },
+    {
+      "source": "Decrypt",
+      "title": "This New AI Music Model Is Already Better Than SunoWe Put ACE to the Test",
+      "url": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
+      "pubDate": "Wed, 11 Nov 2026 20:16:02 +0000",
+      "summary": "ACE Music v1 tops the AI music rankings with more natural vocals and stronger song structure. Our tests found impressive results, though niche genres remain a challenge."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone",
+      "url": "https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone",
+      "pubDate": "Wed, 11 Nov 2026 19:36:02 +0000",
+      "summary": "BotPsy packs 800 million parameters into an AI assistant designed to manage everyday tasks locally, outperforming larger rivals as Tether expands its push into decentralized artificial intelligence."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Deutsche Bank Goes Live With Crypto Custody After a Five-Year Buildup",
+      "url": "https://decrypt.co/383067/deutsche-bank-goes-live-with-crypto-custody-after-a-five-year-buildup",
+      "pubDate": "Wed, 11 Nov 2026 19:06:02 +0000",
+      "summary": "Deutsche Banks custody service now holds Bitcoin, Ethereum and three stablecoins for institutional and corporate clients in Europe."
+    },
+    {
+      "source": "The Block",
+      "title": "SEC enters fight over who regulates perpetual derivatives on stocks in the US",
+      "url": "https://www.theblock.co/news/regulation/2026-11-11-sec-enters-fight-who-regulates-perpetual-derivatives-stocks-in-us-438427",
+      "pubDate": "Wed, 11 Nov 2026 22:06:47 +0000",
+      "summary": "The SEC is stepping into the brewing fight over whether its sister agency should have approved perpetual derivatives on individual stocks."
+    },
+    {
+      "source": "The Block",
+      "title": "DogeOS very, very close to launching DeFi features, app layer for Dogecoin: CEO",
+      "url": "https://www.theblock.co/news/defi/2026-11-11-dogeos-very-very-close-launching-defi-features-app-layer-dogecoin-ceo-438392",
+      "pubDate": "Wed, 11 Nov 2026 20:32:19 +0000",
+      "summary": "DogeOS aims to give DOGE holders more ways to use the token through games, apps and financial services."
+    },
+    {
+      "source": "The Block",
+      "title": "Sen. Warren, Merkley raise ethics concerns over Trump aides prediction market bets",
+      "url": "https://www.theblock.co/news/regulation/2026-11-11-sen-warren-merkley-raise-ethics-concerns-over-trump-aides-prediction-market-bets-438394",
+      "pubDate": "Wed, 11 Nov 2026 19:48:46 +0000",
+      "summary": "Sen. Warren is demanding answers from the White House after its teleprompter operator was accused of using advance information to bet."
+    },
+    {
+      "source": "The Block",
+      "title": "Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
+      "pubDate": "Wed, 11 Nov 2026 17:23:10 +0000",
+      "summary": "USDT and USDC supply fell nearly $11 billion over the past month, while gold-backed tokens held steady."
+    },
+    {
+      "source": "The Block",
+      "title": "Apex Group joins Hedera Council to explore tokenization and settlement",
+      "url": "https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917",
+      "pubDate": "Wed, 11 Nov 2026 17:07:22 +0000",
+      "summary": "Apex Group, overseeing $3.5 trillion in assets, joins the Hedera Council and will explore Hedera for tokenization, compliance and settlement."
+    },
+    {
+      "source": "The Block",
+      "title": "Pyth Network adds NYSE stock and ETF data to its marketplace",
+      "url": "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928",
+      "pubDate": "Wed, 11 Nov 2026 16:56:54 +0000",
+      "summary": "Pyth Network has added real-time stock and ETF data from the New York Stock Exchange to its data marketplace."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin faces $70,000 test as $14.2 billion stablecoin contraction exposes demand weakness",
+      "url": "https://cryptoslate.com/bitcoin-faces-70000-test-as-14-2-billion-stablecoin-contraction-exposes-demand-weakness/",
+      "pubDate": "Wed, 11 Nov 2026 22:50:27 +0000",
+      "summary": "Bitcoin is facing a fresh liquidity squeeze as mounting losses among recent buyers threaten to derail its recovery. Stablecoin supply has contracted by $14.2 billion over the past month, its sharpest decline since June 2022, while Bitcoin's apparent demand has fallen by 284,000 B"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Binance hackers XRP stockpile rapidly crashes driven by Bitcoin swaps",
+      "url": "https://cryptoslate.com/binance-hackers-xrp-stockpile-rapidly-crashes-driven-by-bitcoin-swaps/",
+      "pubDate": "Wed, 11 Nov 2026 22:30:57 +0000",
+      "summary": "Elliptics November 10 update put remaining stolen XRP at about 60 million, while swap interruptions complicate further conversions. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Buying Bitcoin without betting on a rally may not pay",
+      "url": "https://cryptoslate.com/bitcoin-hedged-trade-borrowing-costs/",
+      "pubDate": "Wed, 11 Nov 2026 21:10:08 +0000",
+      "summary": "Buying Bitcoin while hedging against a price drop can earn a return without a rally. But November 10 pricing offered about $119 per BTC before costs, less than the roughly $135 needed to finance the purchase for 17 days in an illustrative borrowing calculation. The strategy, know"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Britain should ask crypto founders what would have kept them here",
+      "url": "https://cryptoslate.com/britain-crypto-founders-brain-drain/",
+      "pubDate": "Wed, 11 Nov 2026 20:10:49 +0000",
+      "summary": "When I asked Praneet Sinha why he left Britain, he said it came down to operational and financial efficiency. He co-founded his crypto startup, Moongate, in London in 2022. The business planned to collect its fees in crypto, which would mean converting that revenue into fiat to p"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "PNC lets businesses accept USDC without keeping the crypto",
+      "url": "https://cryptoslate.com/pnc-lets-businesses-accept-usdc-without-keeping-the-crypto/",
+      "pubDate": "Wed, 11 Nov 2026 19:30:07 +0000",
+      "summary": "Eligible corporate clients can receive dollar deposits through automatic USDC conversion, while broader bank funding effects remain unmeasured. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "DeepMinds AI humanoids are already doing factory work at Mercedes",
+      "url": "https://cryptoslate.com/deepminds-ai-humanoids-are-already-doing-factory-work-at-mercedes/",
+      "pubDate": "Wed, 11 Nov 2026 18:20:28 +0000",
+      "summary": "Apollo 2 handled automotive kitting on active production lines, but trial size and human-intervention rates remain undisclosed. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "How Sam Altman-Backed Meanwhile Is Disrupting the $20T Life Insurance Industry",
+      "url": "https://bitcoinmagazine.com/videos/how-sam-altman-backed-meanwhile-is-disrupting-the-20t-life-insurance-industry",
+      "pubDate": "Wed, 11 Nov 2026 21:30:35 +0000",
+      "summary": "Bitcoin Magazine How Sam Altman-Backed Meanwhile Is Disrupting the $20T Life Insurance Industry Danny Baer, Head of Revenue & Investments at Meanwhile, explains how his Bermuda-based company built the world's first fully licensed life insurance carrier that runs entirely on Bitco"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Outlook for Crypto Market Structure Bill By Democrats | Chris Giancarlo, Former CFTC Commissioner",
+      "url": "https://bitcoinmagazine.com/videos/outlook-for-crypto-market-structure-bill-by-democrats-chris-giancarlo-former-cftc-commissioner",
+      "pubDate": "Wed, 11 Nov 2026 20:30:35 +0000",
+      "summary": "Bitcoin Magazine Outlook for Crypto Market Structure Bill By Democrats | Chris Giancarlo, Former CFTC Commissioner Democrats now control both chambers of Congress. This post Outlook for Crypto Market Structure Bill By Democrats | Chris Giancarlo, Former CFTC Commissioner first ap"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Tavi Costa: Bitcoin Very Undervalued with Violent Moves Ahead",
+      "url": "https://bitcoinmagazine.com/videos/tavi-costa-bitcoin-very-undervalued-with-violent-moves-ahead",
+      "pubDate": "Wed, 11 Nov 2026 19:16:21 +0000",
+      "summary": "Bitcoin Magazine Tavi Costa: Bitcoin Very Undervalued with Violent Moves Ahead Tavi Costa, Founder & CEO of Azuria Capital, explains why he thinks Bitcoin looks \"very undervalued\" right now, with many former supporters giving up on it, and why he expects Bitcoin and silver to see"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Sam Lyman: Bitcoin doesnt need America. America needs Bitcoin.",
+      "url": "https://bitcoinmagazine.com/videos/sam-lyman-bitcoin-doesnt-need-america-america-needs-bitcoin",
+      "pubDate": "Wed, 11 Nov 2026 18:21:49 +0000",
+      "summary": "Bitcoin Magazine Sam Lyman: Bitcoin doesnt need America. America needs Bitcoin. Dollar stablecoins, Sam Lyman says, are \"like Starlink for the US dollar system\": if you have an internet connection, you can access the dollar. This post Sam Lyman: Bitcoin doesnt need America. Ameri"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted",
+      "url": "https://bitcoinmagazine.com/markets/msci-rules-today-strategy-mstr-deleted",
+      "pubDate": "Wed, 11 Nov 2026 17:05:00 +0000",
+      "summary": "Bitcoin Magazine MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted MSCI publishes its November index review at 5 p.m. ET, the first under a new non-operating company screen. Its potential list, built on Sept. 30 filings, already mark"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Russias Central Bank Clears Exchange to Open Bitcoin and Crypto Trading on Nov. 22",
+      "url": "https://bitcoinmagazine.com/news/russia-clears-exchange-crypto-trading",
+      "pubDate": "Wed, 11 Nov 2026 15:54:08 +0000",
+      "summary": "Bitcoin Magazine Russias Central Bank Clears Exchange to Open Bitcoin and Crypto Trading on Nov. 22 A Bank of Russia ordinance published Wednesday lets exchanges start organized crypto trading on Nov. 22, but only after the central bank approves their rules. Moscow Exchange still"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: The GENIUS Acts guarantees dont cover DeFi lending",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
+      "pubDate": "Wed, 11 Nov 2026 16:00:45 +0000",
+      "summary": "Institutions weighing DeFi lending tend to ask which markets are safest. Mike Hathaway and Joseph Quintilian of Ajna argue the better question is who can change a loans terms after the money is lent, and why a fully backed stablecoin offers no protection against a token vote or a"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
+      "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
+      "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
+      "summary": "After initial issuer pushback, the blockchain venue is set to start trading on Nov. 23 and said will list over 70 assets, including Strategys common and preferred shares and 59 of Direxion's ETFs."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Meet Spiko, the largest tokenized fund in the world youve probably never heard about",
+      "url": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
+      "pubDate": "Wed, 11 Nov 2026 12:57:36 +0000",
+      "summary": "The firms flagship Spiko Amundi Overnight Swap Fund (SAFO) held $2.39 billion in assets under management as of late last month."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
+      "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
+      "pubDate": "Wed, 11 Nov 2026 12:21:24 +0000",
+      "summary": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
+      "pubDate": "Wed, 11 Nov 2026 12:19:30 +0000",
+      "summary": "Your day-ahead look for Nov. 11, 2026"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+      "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+      "pubDate": "Wed, 11 Nov 2026 11:37:04 +0000",
+      "summary": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped."
     }
   ]
 }
