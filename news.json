@@ -1,14 +1,16 @@
 {
-  "asof": "2026-11-11T13:06:31Z",
+  "asof": "2026-11-11T13:07:49Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
-  "feeds": [
-    "https://cointelegraph.com/rss",
-    "https://decrypt.co/feed",
-    "https://www.theblock.co/rss.xml",
-    "https://cryptoslate.com/feed/",
-    "https://bitcoinmagazine.com/.rss/full/",
-    "https://www.coindesk.com/arc/outboundfeeds/rss",
-    "https://rekt.news"
-  ],
-  "items": []
+  "feeds": ["https://cointelegraph.com/rss", "https://decrypt.co/feed", "https://www.theblock.co/rss.xml", "https://cryptoslate.com/feed/", "https://bitcoinmagazine.com/.rss/full/", "https://www.coindesk.com/arc/outboundfeeds/rss", "https://rekt.news"],
+  "items": [
+    {"source": "CoinTelegraph", "title": "FSB urges Turkey to tighten crypto oversight, set stablecoin rules", "url": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation", "pubDate": "Wed, 11 Nov 2026 12:44:10 +0000", "summary": "FSB recommends tighter crypto and stablecoin rules for Turkey."},
+    {"source": "CoinTelegraph", "title": "Zcash falls below $1,000 for first time since September", "url": "https://cointelegraph.com/markets/zcash-falls-1k-grayscales-1m-ecosystem-commitment", "pubDate": "Wed, 11 Nov 2026 12:31:44 +0000", "summary": "ZEC drops under 1000 amid Grayscale commitment news."},
+    {"source": "CoinTelegraph", "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings", "url": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings", "pubDate": "Wed, 11 Nov 2026 11:56:23 +0000", "summary": "Banks increasing Bitcoin ETF exposure in Q3 filings."},
+    {"source": "CoinTelegraph", "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss", "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k", "pubDate": "Wed, 11 Nov 2026 11:05:26 +0000", "summary": "STH sending BTC to exchanges while underwater."},
+    {"source": "CoinTelegraph", "title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts", "url": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge", "pubDate": "Wed, 11 Nov 2026 10:00:00 +0000", "summary": "Phishing alerts surge on Bitget Wallet."},
+    {"source": "Decrypt", "title": "Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks", "url": "https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks", "pubDate": "Wed, 11 Nov 2026 12:46:24 +0000", "summary": "xStocks expands with tokenized equities."},
+    {"source": "The Block", "title": "Bitcoin Core discloses three patched security flaws, including high-severity mining bug", "url": "https://www.theblock.co/news/bitcoin/2026-11-11-bitcoin-core-discloses-three-patched-security-flaws-437350", "pubDate": "Wed, 11 Nov 2026 10:00:00 +0000", "summary": "Bitcoin Core patches security issues."},
+    {"source": "CryptoSlate", "title": "Urgent Ethereum node patch issued due to hidden security flaws", "url": "https://cryptoslate.com/urgent-ethereum-node-patch-issued-due-to-hidden-security-flaws/", "pubDate": "Wed, 11 Nov 2026 09:00:00 +0000", "summary": "ETH node operators urged to patch."},
+    {"source": "CoinDesk", "title": "Bitcoin barely flinches at hot CPI as ETF selling slows", "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-barely-flinches-at-hot-cpi", "pubDate": "Wed, 11 Nov 2026 08:00:00 +0000", "summary": "BTC steady despite CPI print."}
+  ]
 }
