@@ -1,1 +1,267 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-11T19:02:06Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
+      "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 18:30:43 +0000",
+      "summary": "The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms could fragment liquidity."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+      "url": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 16:26:00 +0000",
+      "summary": "Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Deutsche Bank launches crypto custody for companies and institutions",
+      "url": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 14:02:18 +0000",
+      "summary": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here\u2019s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 13:38:15 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
+      "url": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 13:30:00 +0000",
+      "summary": "Ueno\u2019s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifeline."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY \u2014 How Bitcoin could carry state across transactions",
+      "url": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 11 Nov 2026 13:26:18 +0000",
+      "summary": "OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
+      "url": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
+      "pubDate": "Wed, 11 Nov 2026 17:56:02 +0000",
+      "summary": "Bitcoin is heading toward its first consecutive losing years, breaking an 18-year pattern. But there's some nuance in the data."
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Are Solana Privacy Rings? Inside Helius\u2019 Privacy Protocol for Solana",
+      "url": "https://decrypt.co/resources/what-are-solana-privacy-rings-inside-helius-privacy-protocol-for-solana",
+      "pubDate": "Wed, 11 Nov 2026 17:09:18 +0000",
+      "summary": "Solana Privacy Rings encrypt balances and transfer amounts without leaving Solana. Here's how they work, and how they compare."
+    },
+    {
+      "source": "Decrypt",
+      "title": "A High-Severity Bug Could Have Stalled Bitcoin Mining\u2014Bitcoin Core Has a Fix",
+      "url": "https://decrypt.co/383044/bitcoin-core-patches-bug-could-have-stalled-btc-mining",
+      "pubDate": "Wed, 11 Nov 2026 16:58:57 +0000",
+      "summary": "Three bugs\u2014spanning denial-of-service and privacy issues rather than coin theft\u2014have all been patched, with the most serious capable of halting a miner\u2019s ability to build new blocks."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out",
+      "url": "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out",
+      "pubDate": "Wed, 11 Nov 2026 16:14:01 +0000",
+      "summary": "OKXICE will open its tokenized securities venue Nov. 23 with more than 70 assets, led by crypto companies like Coinbase, Circle, Robinhood and Strategy, after 67 companies objected to having their shares listed."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
+      "url": "https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix",
+      "pubDate": "Wed, 11 Nov 2026 14:02:55 +0000",
+      "summary": "The integration brings perpetual futures trading into Decrypt, so readers can trade crypto, stocks and commodities without leaving the news."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: What Anthropic\u2019s $1.4 Trillion IPO Means for Crypto",
+      "url": "https://decrypt.co/383001/morning-minute-what-anthropics-1-4-trillion-ipo-means-for-crypto",
+      "pubDate": "Wed, 11 Nov 2026 12:55:18 +0000",
+      "summary": "Hint: if it plays out similarly to the SpaceX IPO, it means the Bitcoin bottom is very close."
+    },
+    {
+      "source": "The Block",
+      "title": "Stablecoin supply drops $14.2 billion in largest contraction since 2022 bear market",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-11-stablecoin-supply-drops-14-2-billion-largest-contraction-since-2022-bear-market-437907",
+      "pubDate": "Wed, 11 Nov 2026 17:23:10 +0000",
+      "summary": "USDT and USDC supply fell nearly $11 billion over the past month, while gold-backed tokens held steady."
+    },
+    {
+      "source": "The Block",
+      "title": "Apex Group joins Hedera Council to explore tokenization and settlement",
+      "url": "https://www.theblock.co/news/deals/2026-11-11-apex-group-joins-hedera-council-tokenization-437917",
+      "pubDate": "Wed, 11 Nov 2026 17:07:22 +0000",
+      "summary": "Apex Group, overseeing $3.5 trillion in assets, joins the Hedera Council and will explore Hedera for tokenization, compliance and settlement."
+    },
+    {
+      "source": "The Block",
+      "title": "Pyth Network adds NYSE stock and ETF data to its marketplace",
+      "url": "https://www.theblock.co/news/web3/2026-11-11-pyth-network-nyse-data-437928",
+      "pubDate": "Wed, 11 Nov 2026 16:56:54 +0000",
+      "summary": "Pyth Network has added real-time stock and ETF data from the New York Stock Exchange to its data marketplace."
+    },
+    {
+      "source": "The Block",
+      "title": "StoneX sees 111% upside for Securitize shares as tokenization revenue rebounds",
+      "url": "https://www.theblock.co/news/markets/2026-11-11-stonex-sees-111-upside-for-securitize-shares-as-tokenization-revenue-rebounds-437910",
+      "pubDate": "Wed, 11 Nov 2026 16:22:13 +0000",
+      "summary": "StoneX maintained its Buy rating on Securitize, citing tokenized equities, fund demand, and structured credit as growth drivers."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin \u2018ripe for a squeeze\u2019 as options traders raise odds of sub-$70,000 Christmas",
+      "url": "https://www.theblock.co/news/markets/2026-11-11-bitcoin-ripe-for-squeeze-options-traders-raise-odds-sub-70000-christmas-437897",
+      "pubDate": "Wed, 11 Nov 2026 14:44:31 +0000",
+      "summary": "Bitcoin trades below $74,000 on Wednesday after five weekly losses, with Derive pricing 31% odds of a sub-$70,000 Christmas."
+    },
+    {
+      "source": "The Block",
+      "title": "Nomura\u2019s Laser Digital helps launch Saudi SME credit vault targeting $100 million on BNB Chain",
+      "url": "https://www.theblock.co/news/markets/2026-11-11-nomuras-laser-digital-helps-launch-saudi-sme-credit-vault-targeting-100-million-on-bnb-chain-437824",
+      "pubDate": "Wed, 11 Nov 2026 13:35:02 +0000",
+      "summary": "Nomura's Laser Digital is advising ZIG Finance on a tokenized Saudi SME private credit vault targeting a $100 million raise on BNB Chain."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "DeepMind\u2019s AI humanoids are already doing factory work at Mercedes",
+      "url": "https://cryptoslate.com/deepminds-ai-humanoids-are-already-doing-factory-work-at-mercedes/",
+      "pubDate": "Wed, 11 Nov 2026 18:20:28 +0000",
+      "summary": "Apollo 2 handled automotive kitting on active production lines, but trial size and human-intervention rates remain undisclosed. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watc"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Thousands of Bitcoin nodes gave anonymous strangers a pass around security limits",
+      "url": "https://cryptoslate.com/thousands-of-bitcoin-nodes-gave-anonymous-strangers-a-pass-around-security-limits/",
+      "pubDate": "Wed, 11 Nov 2026 17:10:30 +0000",
+      "summary": "The November 10 disclosure traces misplaced peer privileges to bundled Tor-and-whitelist settings, with fixes available since October 2025. Read the full story on CryptoSlateUnderstand the crypto stories that matter and "
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "OpenAI adds a 35-second emergency brake for its research AI",
+      "url": "https://cryptoslate.com/openai-adds-a-35-second-emergency-brake-for-its-research-ai/",
+      "pubDate": "Wed, 11 Nov 2026 16:05:44 +0000",
+      "summary": "Control Room denies further model output after a stop order, even while the research process may remain alive. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The C"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Hoskinson says he cannot run Cardano like a CEO. Who is accountable for its growth?",
+      "url": "https://cryptoslate.com/hoskinson-says-he-cannot-run-cardano-like-a-ceo-who-is-accountable-for-its-growth/",
+      "pubDate": "Wed, 11 Nov 2026 15:10:14 +0000",
+      "summary": "DReps approve spending, while recipients and administrators answer for funded work that ADA holders can trace through public reports. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what t"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Why Pronostyx Is Building Prediction Markets for Questions the Big Platforms Ignore",
+      "url": "https://cryptoslate.com/why-pronostyx-is-building-prediction-markets-for-questions-the-big-platforms-ignore/",
+      "pubDate": "Wed, 11 Nov 2026 15:00:11 +0000",
+      "summary": "Illustrative Spanish-language markets on Pronostyx, each with its named resolution source. Image: Pronostyx. Prediction markets have had a breakout few years. What began as a niche corner of crypto has become a mainstrea"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin holds $73,000 as odds of a December 50 bps rate hike jump",
+      "url": "https://cryptoslate.com/bitcoin-holds-73000-as-odds-of-a-december-50-bps-rate-hike-jump/",
+      "pubDate": "Wed, 11 Nov 2026 13:40:04 +0000",
+      "summary": "The odds of a 50-basis-point Federal Reserve hike in December rose from 0% to 13.6% on Nov. 10 after October CPI beat forecasts, as Bitcoin fell to an intraday low below $73,000. Meanwhile, the odds of a 25-basis-point h"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Sam Lyman: \u201cBitcoin doesn\u2019t need America. America needs Bitcoin.\u201d",
+      "url": "https://bitcoinmagazine.com/videos/sam-lyman-bitcoin-doesnt-need-america-america-needs-bitcoin",
+      "pubDate": "Wed, 11 Nov 2026 18:21:49 +0000",
+      "summary": "&#9654;Bitcoin Magazine Sam Lyman: &#8220;Bitcoin doesn&#8217;t need America. America needs Bitcoin.&#8221; Dollar stablecoins, Sam Lyman says, are \"like Starlink for the US dollar system\": if you have an internet connec"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted",
+      "url": "https://bitcoinmagazine.com/markets/msci-rules-today-strategy-mstr-deleted",
+      "pubDate": "Wed, 11 Nov 2026 17:05:00 +0000",
+      "summary": "Bitcoin Magazine MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted MSCI publishes its November index review at 5 p.m. ET, the first under a new non-operating company screen."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Russia\u2019s Central Bank Clears Exchange to Open Bitcoin and Crypto Trading on Nov. 22",
+      "url": "https://bitcoinmagazine.com/news/russia-clears-exchange-crypto-trading",
+      "pubDate": "Wed, 11 Nov 2026 15:54:08 +0000",
+      "summary": "Bitcoin Magazine Russia&#8217;s Central Bank Clears Exchange to Open Bitcoin and Crypto Trading on Nov. 22 A Bank of Russia ordinance published Wednesday lets exchanges start organized crypto trading on Nov. 22, but only"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "ICE and OKX Set Nov. 23 Tokenized Stock Launch After 67 Companies Opt Out",
+      "url": "https://bitcoinmagazine.com/news/ice-okx-nov-23-tokenized-stock-launch",
+      "pubDate": "Wed, 11 Nov 2026 15:49:04 +0000",
+      "summary": "Bitcoin Magazine ICE and OKX Set Nov. 23 Tokenized Stock Launch After 67 Companies Opt Out The joint venture will offer more than 70 assets, including tokenized shares of Strategy, Coinbase and Circle plus 59 Direxion ET"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Deutsche Bank Switches On Bitcoin Custody for Paying Clients",
+      "url": "https://bitcoinmagazine.com/news/deutsche-bank-bitcoin-custody-live",
+      "pubDate": "Wed, 11 Nov 2026 14:48:10 +0000",
+      "summary": "Bitcoin Magazine Deutsche Bank Switches On Bitcoin Custody for Paying Clients Germany's largest lender now holds bitcoin, ether and three stablecoins for institutional and corporate clients in Europe, but it has not name"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
+      "url": "https://bitcoinmagazine.com/news/washington-bitcoin-merchants-snorkel",
+      "pubDate": "Tue, 10 Nov 2026 23:14:53 +0000",
+      "summary": "Bitcoin Magazine Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin Washington Bitcoin merchants, from Seattle coffee shops to a Snorkel hot tub heated by bitcoin miners. This post Bitco"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: The GENIUS Act\u2019s guarantees don\u2019t cover DeFi lending",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
+      "pubDate": "Wed, 11 Nov 2026 16:00:45 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
+      "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
+      "pubDate": "Wed, 11 Nov 2026 13:00:00 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Meet Spiko, the largest tokenized fund in the world you\u2019ve probably never heard about",
+      "url": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
+      "pubDate": "Wed, 11 Nov 2026 12:57:36 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
+      "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
+      "pubDate": "Wed, 11 Nov 2026 12:21:24 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
+      "pubDate": "Wed, 11 Nov 2026 12:19:30 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
+      "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+      "pubDate": "Wed, 11 Nov 2026 11:37:04 +0000",
+      "summary": ""
+    }
+  ]
+}
