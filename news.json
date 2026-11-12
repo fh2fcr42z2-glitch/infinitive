@@ -1,1 +1,225 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-12T21:04:46Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+      "url": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access",
+      "pubDate": "Thu, 12 Nov 2026 20:07:41 +0000",
+      "summary": "The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation",
+      "pubDate": "Thu, 12 Nov 2026 15:46:06 +0000",
+      "summary": "Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
+      "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member",
+      "pubDate": "Thu, 12 Nov 2026 13:59:02 +0000",
+      "summary": "Colette Kress will remain Nvidia's chief financial officer while serving as interim CEO as the board searches for a permanent successor."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
+      "url": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss",
+      "pubDate": "Thu, 12 Nov 2026 13:52:39 +0000",
+      "summary": "Bit Digital's $27 million third-quarter revenue came in 16% below analyst consensus estimates, marking an over $5 million shortfall."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
+      "url": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange",
+      "pubDate": "Thu, 12 Nov 2026 13:44:03 +0000",
+      "summary": "Thailand's SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark's Valente",
+      "url": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark",
+      "pubDate": "Thu, 12 Nov 2026 13:31:59 +0000",
+      "summary": "Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARK's research director."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
+      "url": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
+      "pubDate": "Thu, 12 Nov 2026 20:36:03 +0000",
+      "summary": "Trezor CTO Tomas Susanka explains the trade-offs of Bitcoin's leading post-quantum signature scheme."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Who Is Colette Kress, Jensen Huang's Successor as Nvidia CEO?",
+      "url": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
+      "pubDate": "Thu, 12 Nov 2026 18:55:03 +0000",
+      "summary": "Nvidia's longtime finance chief inherits its first leadership transition in 33 years, bringing decades of technology experience."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force",
+      "url": "https://decrypt.co/383120/tron-tether-chainalysis-crypto-crime-task-force",
+      "pubDate": "Thu, 12 Nov 2026 16:50:00 +0000",
+      "summary": "New task force formed to address crypto crime after previous one collapsed."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Grayscale Bets $1 Million on Zcash as Privacy Coin Tumbles",
+      "url": "https://decrypt.co/382962/grayscale-bets-1-million-on-zcash-as-privacy-coin-tumbles",
+      "pubDate": "Tue, 10 Nov 2026 19:16:02 +0000",
+      "summary": "Grayscale plans to direct $1 million from its Zcash ETF fees to ecosystem nonprofits and launched a national ad campaign, as ZEC fell more than 11%."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Goldman, Citi and Global Banks Commit $270 Million to Challenge Crypto's Stablecoin Giants",
+      "url": "https://decrypt.co/382953/goldman-citi-global-banks-270-million-challenge-crypto-stablecoin-giants",
+      "pubDate": "Tue, 10 Nov 2026 18:33:37 +0000",
+      "summary": "The funding, backing a U.S.-incorporated issuer codenamed Project Faro, covers five years of operations as traditional lenders move to challenge crypto-native giants Tether and Circle."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
+      "url": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
+      "pubDate": "Thu, 12 Nov 2026 17:46:02 +0000",
+      "summary": "DOJ, banks and crypto groups including Uniswap file against Illinois 0.2% digital asset tax."
+    },
+    {
+      "source": "The Block",
+      "title": "Avalanche Owns Five Percent of Tokenized Stocks",
+      "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310",
+      "pubDate": "Thu, 12 Nov 2026 20:02:00 +0000",
+      "summary": "One Venue, One Chain Over this past week, three U.S. tokenized stock venues picked three different blockchains to launch on. The WSJ reported Monday that NYSE chose Avalanche as the sole settlement chain for its planned 24/7 platform."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets",
+      "url": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
+      "pubDate": "Thu, 12 Nov 2026 17:40:00 +0000",
+      "summary": "Bitcoin fell as low as $71,200 as Jensen Huang quit Nvidia, with $750M in crypto positions liquidated."
+    },
+    {
+      "source": "The Block",
+      "title": "Exodus' cost reset is real as payments offset crypto wallet slowdown, StoneX says",
+      "url": "https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988",
+      "pubDate": "Thu, 12 Nov 2026 16:55:52 +0000",
+      "summary": "Payments generated $10.9 million in Q3, while Exodus cut staff and restarted U.S. payment card issuance."
+    },
+    {
+      "source": "The Block",
+      "title": "Visa adds Western Union's USDPT stablecoin to its settlement network in Anchorage tie-up",
+      "url": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520",
+      "pubDate": "Thu, 12 Nov 2026 16:00:00 +0000",
+      "summary": "Anchorage Digital and Visa will support select Anchorage-issued stablecoins as settlement assets on VisaNet, starting with USDPT."
+    },
+    {
+      "source": "The Block",
+      "title": "Unocoin login suspension continues as exchange flags outgoing BitGo ETH transactions",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-12-unocoin-login-suspension-continues-as-exchange-flags-outgoing-bitgo-eth-transactions-438654",
+      "pubDate": "Thu, 12 Nov 2026 15:36:17 +0000",
+      "summary": "Indian crypto exchange Unocoin flagged outgoing BitGo ether transactions as a multi-day login suspension continues."
+    },
+    {
+      "source": "The Block",
+      "title": "Nvidia perps plunge 10% on Hyperliquid as board reportedly weighs ousting Jensen Huang",
+      "url": "https://www.theblock.co/news/business/2026-11-11-nvidia-perps-board-weighs-ousting-jensen-huang-438447",
+      "pubDate": "Thu, 12 Nov 2026 02:23:45 +0000",
+      "summary": "The Wall Street Journal reported that Nvidia's board is preparing to oust CEO Jensen Huang over two extramarital affairs."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Helius encrypts Solana transfers without removing operator trust",
+      "url": "https://cryptoslate.com/helius-encrypts-solana-transfers-without-removing-operator-trust/",
+      "pubDate": "Thu, 12 Nov 2026 20:10:03 +0000",
+      "summary": "The default Privacy Rings prover protects secret inputs inside an AWS enclave, while wallets approve the code and policies behind that protection."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin and Ethereum sink to 3-month lows, but a bigger crypto selloff may be ahead",
+      "url": "https://cryptoslate.com/bitcoin-and-ethereum-sink-to-3-month-lows-but-a-bigger-crypto-selloff-may-be-ahead/",
+      "pubDate": "Thu, 12 Nov 2026 19:20:12 +0000",
+      "summary": "Bitcoin and Ethereum fell to three-month lows Thursday, deepening a cryptocurrency selloff that has erased $550 billion in market value since October. Bitcoin slumped to $71,317."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "XRP proposed lending vaults lock deposits and expose holders to risk",
+      "url": "https://cryptoslate.com/xrp-proposed-lending-vaults-lock-deposits-and-expose-holders-to-risk/",
+      "pubDate": "Thu, 12 Nov 2026 18:50:20 +0000",
+      "summary": "Closed-ended vaults would exchange immediate access for borrower-funded income, while optional loss cover and share-sale conditions shape the risk."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Zcash loses $1,000 as dormant wallets send ZEC coins to exchanges",
+      "url": "https://cryptoslate.com/zcash-loses-1000-as-dormant-wallets-send-zec-coins-to-exchanges/",
+      "pubDate": "Thu, 12 Nov 2026 17:45:18 +0000",
+      "summary": "Zcash fell below $1,000 as leveraged traders abandoned bullish positions and selling pressure intensified. Data from CoinMarketCap showed ZEC at approximately $965 on Nov. 12."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Google's new AI reveals hidden genetic clues in new immune-cell test",
+      "url": "https://cryptoslate.com/alphagenome-2-disease-clues-cells/",
+      "pubDate": "Thu, 12 Nov 2026 16:45:25 +0000",
+      "summary": "AlphaGenome 2 tailors predictions to cell types and states, with DeepMind reporting benchmark gains and reproduction of established disease biology."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin's spot-demand signal is improving. A bigger futures slump is drowning it out",
+      "url": "https://cryptoslate.com/bitcoin-spot-demand-futures-slump/",
+      "pubDate": "Thu, 12 Nov 2026 15:45:21 +0000",
+      "summary": "Both demand components remain negative, leaving Bitcoin's tentative stabilization dependent on persistent spot improvement and easing futures weakness."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
+      "url": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
+      "pubDate": "Thu, 12 Nov 2026 16:45:52 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+      "url": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+      "pubDate": "Thu, 12 Nov 2026 15:45:48 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: The blockchain built to run financial markets",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
+      "pubDate": "Thu, 12 Nov 2026 15:34:29 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
+      "url": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
+      "pubDate": "Thu, 12 Nov 2026 14:45:00 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
+      "url": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
+      "pubDate": "Thu, 12 Nov 2026 14:24:51 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
+      "url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
+      "pubDate": "Thu, 12 Nov 2026 13:57:53 +0000",
+      "summary": ""
+    }
+  ]
+}
