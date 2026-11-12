@@ -1,1 +1,50 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-12T19:02:01Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation",
+      "pubDate": "Thu, 12 Nov 2026 15:46:06 +0000",
+      "summary": "Bitcoin fell to its lowest leve since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge",
+      "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member",
+      "pubDate": "Thu, 12 Nov 2026 13:59:02 +0000",
+      "summary": "Colette Kress will remain Nvidias chief financial officer while serving as interim CEO as the board searches for a permanent successor."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
+      "url": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss",
+      "pubDate": "Thu, 12 Nov 2026 13:52:39 +0000",
+      "summary": "Bit Digitals $27 million third-quarter revenue came in 16% below analyst consensus estimates, marking an over $5 million shortfall."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
+      "url": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange",
+      "pubDate": "Thu, 12 Nov 2026 13:44:03 +0000",
+      "summary": "Thailands SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Arks Valente",
+      "url": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark",
+      "pubDate": "Thu, 12 Nov 2026 13:31:59 +0000",
+      "summary": "Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARKs re"
+    }
+  ]
+}
