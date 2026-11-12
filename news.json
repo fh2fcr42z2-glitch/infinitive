@@ -1,1 +1,57 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-12T15:04:36Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge 13%",
+      "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 13:59:02 +0000",
+      "summary": "Colette Kress will remain Nvidia's chief financial officer while serving as interim CEO as the board searches for a permanent successor."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
+      "url": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 13:52:39 +0000",
+      "summary": "Bit Digital's $27 million third-quarter revenue came in 16% below analyst consensus estimates, marking an over $5 million shortfall."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
+      "url": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 13:44:03 +0000",
+      "summary": "Thailand's SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark's Valente",
+      "url": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 13:31:59 +0000",
+      "summary": "Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARK's research director."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
+      "url": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 13:30:00 +0000",
+      "summary": "L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the costs of going it alone grow, and the security and liquidity advantages become too hard to resist."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Uber's UK banking partner Griffin raises $20M for stablecoin services",
+      "url": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 13:21:56 +0000",
+      "summary": "The Series B valued Griffin at more than $100 million and will help fund stablecoin reserve services and onchain cross-border payments."
+    }
+  ]
+}
