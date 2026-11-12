@@ -1,1 +1,225 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-12T14:06:16Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Jensen Huang resigns as NVIDIA CEO and board member",
+      "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 13:59:02 +0000",
+      "summary": "Colette Kress will remain Nvidia\u2019s chief financial officer while serving as interim CEO as the board searches for a permanent successor."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bit Digital stock falls 5% in pre-market after Q3 revenue miss",
+      "url": "https://cointelegraph.com/news/bit-digital-stock-falls-q3-revenue-miss?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 13:52:39 +0000",
+      "summary": "Bit Digital\u2019s $27 million third-quarter revenue came in 16% below analyst consensus estimates, marking an over $5 million shortfall."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
+      "url": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 13:44:03 +0000",
+      "summary": "Thailand\u2019s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark\u2019s Valente",
+      "url": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 13:31:59 +0000",
+      "summary": "Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARK\u2019s research director."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Are Alt-L1s over? Security, costs drive smaller chains to Ethereum",
+      "url": "https://cointelegraph.com/magazine/are-alt-l1s-over-security-costs-drive-smaller-chains-to-ethereum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 13:30:00 +0000",
+      "summary": "L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the costs of going it alone grow, and the security and liquidity advantages become too hard to resist."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Uber\u2019s UK banking partner Griffin raises $20M for stablecoin services",
+      "url": "https://cointelegraph.com/news/digital-bank-griffin-100m-valuation-card-stablecoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 13:21:56 +0000",
+      "summary": "The Series B valued Griffin at more than $100 million and will help fund stablecoin reserve services and onchain cross-border payments."
+    },
+    {
+      "source": "Decrypt",
+      "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon\u2019s Payments Stack",
+      "url": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
+      "pubDate": "Thu, 12 Nov 2026 14:01:02 +0000",
+      "summary": "SoFiUSD, the first stablecoin from a U.S. national bank, is now live on Polygon Open Money Stack alongside Ethereum and Solana."
+    },
+    {
+      "source": "Decrypt",
+      "title": "DTCC to Bring Tokenized Stocks and Treasuries to Solana in 2027",
+      "url": "https://decrypt.co/383132/dtcc-to-bring-tokenized-stocks-and-treasuries-to-solana-in-2027",
+      "pubDate": "Thu, 12 Nov 2026 13:25:47 +0000",
+      "summary": "Wall Street's main settlement firm will add Solana to its tokenization service, which went live last month on Canton and a private network."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Tokenized Stock Venues Are Launching Without Big Tech\u2019s Approval",
+      "url": "https://decrypt.co/383129/morning-minute-tokenized-stock-venues-are-launching-without-big-techs-approval",
+      "pubDate": "Thu, 12 Nov 2026 13:06:24 +0000",
+      "summary": "Plus, a second Jensen Huang affair is rocking markets while MSCI\u2019s MSTR removal decision sends crypto lower."
+    },
+    {
+      "source": "Decrypt",
+      "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
+      "url": "https://decrypt.co/383126/indias-financial-crimes-agency-searches-coindcx-delta-exchange-over-offshore-trades",
+      "pubDate": "Thu, 12 Nov 2026 12:03:10 +0000",
+      "summary": "The Enforcement Directorate alleges the exchanges routed Indian users' trades to Binance, Bybit and others via a Costa Rican shell entity."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
+      "url": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
+      "pubDate": "Thu, 12 Nov 2026 11:24:19 +0000",
+      "summary": "U.S. spot Bitcoin exchange-traded funds have recorded five consecutive days of net outflows, as investors retreat from risk assets after a turbulent week for markets. The funds lost some $1.44 billion between November 5 and November 11, including $299.9 million on Wednesday, acco..."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
+      "url": "https://decrypt.co/383114/pressure-mounts-on-nvidias-jensen-huang-amid-reports-of-second-affair",
+      "pubDate": "Thu, 12 Nov 2026 09:47:18 +0000",
+      "summary": "Nvidia's board is reportedly preparing to oust its CEO, sending the chipmaker's shares down more than 5% in premarket trading."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Notion users put access keys in AI chats. A supplier breach exposed them",
+      "url": "https://cryptoslate.com/notion-users-put-access-keys-in-ai-chats-a-supplier-breach-exposed-them/",
+      "pubDate": "Thu, 12 Nov 2026 13:45:18 +0000",
+      "summary": "The November 11 action shows why chats without ownership labels can still expose credentials embedded in messages. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Strategy spent more than twice as much on preferred-share buybacks as Bitcoin. Now comes its MSCI exit",
+      "url": "https://cryptoslate.com/strategy-spent-more-than-twice-as-much-on-preferred-share-buybacks-as-bitcoin-now-comes-its-msci-exit/",
+      "pubDate": "Thu, 12 Nov 2026 12:45:58 +0000",
+      "summary": "The November 30 close creates a financing test after MSTR proceeds funded larger preferred repurchases than Bitcoin purchases during November 2\u20138. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin\u2019s rate-cut hopes face a $5 diesel problem in 2027",
+      "url": "https://cryptoslate.com/bitcoins-rate-cut-hopes-face-a-5-diesel-problem-in-2027/",
+      "pubDate": "Thu, 12 Nov 2026 11:45:23 +0000",
+      "summary": "Refinery constraints could limit disinflation and delay monetary easing, even though diesel is still forecast to fall next year. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin faces a $25B Treasury test after demand for US debt weakens",
+      "url": "https://cryptoslate.com/bitcoin-faces-a-25b-treasury-test-after-demand-for-us-debt-weakens/",
+      "pubDate": "Thu, 12 Nov 2026 10:47:48 +0000",
+      "summary": "The thirty-year sale follows weaker ten-year participation, with Bitcoin\u2019s risk tied to yields and financing conditions. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Aave will freeze $279M in osETH, unless StakeWise wins this vote",
+      "url": "https://cryptoslate.com/aave-will-freeze-279m-in-oseth-unless-stakewise-wins-this-vote/",
+      "pubDate": "Thu, 12 Nov 2026 09:30:37 +0000",
+      "summary": "Dmitri seeks a separate vote as Aave weighs who should bear osETH leverage risk and how existing borrowers can migrate. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "AI agents steal shared math using hidden workspace storage",
+      "url": "https://cryptoslate.com/ai-agents-steal-shared-math-using-hidden-workspace-storage/",
+      "pubDate": "Thu, 12 Nov 2026 08:10:41 +0000",
+      "summary": "A controlled arithmetic experiment shows how shared storage carried missing results between agents, with outcomes sensitive to a routine recheck instruction. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in yo..."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30",
+      "url": "https://bitcoinmagazine.com/markets/msci-removes-strategy-mstr-usa-index",
+      "pubDate": "Wed, 11 Nov 2026 23:36:56 +0000",
+      "summary": "Bitcoin Magazine MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30 MSCI will take Strategy, Metaplanet, Yellow Cake, Skel and Upexi out of its global indexes as of the Nov. 30 close, after a new screen classified them as non-operating compani..."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "How Sam Altman-Backed Meanwhile Is Disrupting the $20T Life Insurance Industry",
+      "url": "https://bitcoinmagazine.com/videos/how-sam-altman-backed-meanwhile-is-disrupting-the-20t-life-insurance-industry",
+      "pubDate": "Wed, 11 Nov 2026 21:30:35 +0000",
+      "summary": "\u25b6Bitcoin Magazine How Sam Altman-Backed Meanwhile Is Disrupting the $20T Life Insurance Industry Danny Baer, Head of Revenue & Investments at Meanwhile, explains how his Bermuda-based company built the world's first fully licensed life insurance carrier that runs entirely on Bitc..."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Outlook for Crypto Market Structure Bill By Democrats | Chris Giancarlo, Former CFTC Commissioner",
+      "url": "https://bitcoinmagazine.com/videos/outlook-for-crypto-market-structure-bill-by-democrats-chris-giancarlo-former-cftc-commissioner",
+      "pubDate": "Wed, 11 Nov 2026 20:30:35 +0000",
+      "summary": "\u25b6Bitcoin Magazine Outlook for Crypto Market Structure Bill By Democrats | Chris Giancarlo, Former CFTC Commissioner Democrats now control both chambers of Congress. This post Outlook for Crypto Market Structure Bill By Democrats | Chris Giancarlo, Former CFTC Commissioner first a..."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Tavi Costa: Bitcoin \u201cVery Undervalued with \u201cViolent Moves Ahead\u201d",
+      "url": "https://bitcoinmagazine.com/videos/tavi-costa-bitcoin-very-undervalued-with-violent-moves-ahead",
+      "pubDate": "Wed, 11 Nov 2026 19:16:21 +0000",
+      "summary": "\u25b6Bitcoin Magazine Tavi Costa: Bitcoin \u201cVery Undervalued with \u201cViolent Moves Ahead\u201d Tavi Costa, Founder & CEO of Azuria Capital, explains why he thinks Bitcoin looks \"very undervalued\" right now, with many former supporters giving up on it, and why he expects Bitcoin and silver to..."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Sam Lyman: \u201cBitcoin doesn\u2019t need America. America needs Bitcoin.\u201d",
+      "url": "https://bitcoinmagazine.com/videos/sam-lyman-bitcoin-doesnt-need-america-america-needs-bitcoin",
+      "pubDate": "Wed, 11 Nov 2026 18:21:49 +0000",
+      "summary": "\u25b6Bitcoin Magazine Sam Lyman: \u201cBitcoin doesn\u2019t need America. America needs Bitcoin.\u201d Dollar stablecoins, Sam Lyman says, are \"like Starlink for the US dollar system\": if you have an internet connection, you can access the dollar. This post Sam Lyman: \u201cBitcoin doesn\u2019t need America...."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted",
+      "url": "https://bitcoinmagazine.com/markets/msci-rules-today-strategy-mstr-deleted",
+      "pubDate": "Wed, 11 Nov 2026 17:05:00 +0000",
+      "summary": "Bitcoin Magazine MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted MSCI publishes its November index review at 5 p.m. ET, the first under a new non-operating company screen. Its potential list, built on Sept. 30 filings, already mark..."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nvidia shares plunge 10% to June 2025 levels as Jensen Huang resigns",
+      "url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
+      "pubDate": "Thu, 12 Nov 2026 13:57:53 +0000",
+      "summary": "CFO Colette Kress takes over as interim CEO after Huang steps down immediately as president, chief executive and board member, sending shares down 10% to $156."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin weakness erases September's bullish signal",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
+      "pubDate": "Thu, 12 Nov 2026 12:15:00 +0000",
+      "summary": "Your day-ahead look for Nov. 12, 2026"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
+      "url": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
+      "pubDate": "Thu, 12 Nov 2026 12:04:42 +0000",
+      "summary": "The Series B funding round, led by Octagon Partners valued the London-based company at more than $100 million."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+      "url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+      "pubDate": "Thu, 12 Nov 2026 11:43:41 +0000",
+      "summary": "Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+      "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
+      "pubDate": "Thu, 12 Nov 2026 11:30:00 +0000",
+      "summary": "Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
+      "url": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
+      "pubDate": "Thu, 12 Nov 2026 10:42:06 +0000",
+      "summary": "More than half of those affected were contractors, a source told Reuters. The cuts follow investor pressure on founder Shayne Coplan."
+    }
+  ]
+}
