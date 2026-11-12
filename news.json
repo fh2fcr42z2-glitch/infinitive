@@ -1,1 +1,50 @@
-FULL_CONTENT_HERE
+{
+  "asof": "2026-11-12T18:02:00Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation",
+      "pubDate": "Thu, 12 Nov 2026 15:46:06 +0000",
+      "summary": "Bitcoin fell to its lowest level since Aug. 20 as tech stocks slid following the resignation of Nvidia CEO Jensen Huang."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin falls to 12-week low as Jensen Huangs exit from Nvidia rattles markets",
+      "url": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
+      "pubDate": "Thu, 12 Nov 2026 17:40:00 +0000",
+      "summary": "Bitcoin fell as low as $71,200 as Jensen Huang quit Nvidia and MSCI confirmed Strategy's removal, with $750M in crypto positions liquidated."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
+      "url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
+      "pubDate": "Thu, 12 Nov 2026 13:57:53 +0000",
+      "summary": "CFO Colette Kress takes over as interim CEO after Huang steps down immediately as president, chief executive and board member, as shares tumble."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Illinois Crypto Tax Draws Unlikely Alliance of DOJ, Banks and DeFi",
+      "url": "https://decrypt.co/383144/illinois-crypto-tax-draws-alliance-doj-banks-defi",
+      "pubDate": "Thu, 12 Nov 2026 17:46:02 +0000",
+      "summary": "The DOJ, the U.S. Chamber of Commerce, SIFMA and a crypto coalition led by a16z, Paradigm and Uniswap filed briefs backing a lawsuit to strike down the states 0.2% levy on digital asset transactions."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Zcash loses $1,000 as dormant wallets send ZEC coins to exchanges",
+      "url": "https://cryptoslate.com/zcash-loses-1000-as-dormant-wallets-send-zec-coins-to-exchanges/",
+      "pubDate": "Thu, 12 Nov 2026 17:45:18 +0000",
+      "summary": "Zcash fell below $1,000 as leveraged traders abandoned bullish positions and selling pressure intensified."
+    }
+  ]
+}
