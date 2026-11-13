@@ -1,14 +1,1 @@
-{
-  "asof": "2026-11-13T04:01:57Z",
-  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
-  "feeds": [
-    "https://cointelegraph.com/rss",
-    "https://decrypt.co/feed",
-    "https://www.theblock.co/rss.xml",
-    "https://cryptoslate.com/feed/",
-    "https://bitcoinmagazine.com/.rss/full/",
-    "https://www.coindesk.com/arc/outboundfeeds/rss",
-    "https://rekt.news"
-  ],
-  "items": []
-}
+{"asof":"2026-11-13T04:01:57Z","stamp":"NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.","feeds":["https://cointelegraph.com/rss","https://decrypt.co/feed","https://www.theblock.co/rss.xml","https://cryptoslate.com/feed/","https://bitcoinmagazine.com/.rss/full/","https://www.coindesk.com/arc/outboundfeeds/rss","https://rekt.news"],"items":[{"source":"CoinTelegraph","title":"Trump nominates Hester Peirce successor among SEC, CFTC picks","url":"https://cointelegraph.com/news/trump-nominates-hester-peirce-successor-among-sec-cftc-picks","pubDate":"Fri, 13 Nov 2026 02:29:27 +0000","summary":"The White House also named a former CFTC commissioner and two CLARITY Act veterans as nominees to fill vacancies at the SEC and CFTC."},{"source":"CoinTelegraph","title":"Former Nvidia CEO Huang had third alleged affair: Reuters","url":"https://cointelegraph.com/news/former-nvidia-ceo-huang-had-third-alleged-affair-reuters","pubDate":"Fri, 13 Nov 2026 01:26:27 +0000","summary":"Reuters reported that Jensen Huang had a relationship with another Nvidia employee, hours after he resigned as CEO."},{"source":"The Block","title":"Bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets","url":"https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992","pubDate":"Thu, 12 Nov 2026 17:40:00 +0000","summary":"Bitcoin fell as low as $71,200 as Jensen Huang quit Nvidia and MSCI confirmed Strategy's removal, with $750M in crypto positions liquidated."},{"source":"Decrypt","title":"North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says","url":"https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls","pubDate":"Thu, 12 Nov 2026 22:06:03 +0000","summary":"The FBI says the FaceStealer scheme uses prerecorded footage and AI deepfakes of trusted contacts to trick crypto workers into installing malware on video calls."},{"source":"CoinDesk","title":"Bitcoin dips below $70,000 as Dollar Index hits 19-month high","url":"https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace","pubDate":"Fri, 13 Nov 2026 03:37:00 +0000","summary":""},{"source":"CryptoSlate","title":"Aave user loses $305,000 after Across Protocol website hijack","url":"https://cryptoslate.com/across-protocol-website-attack-reached-an-aave-deposit-new-402000-loss-trace-shows/","pubDate":"Fri, 13 Nov 2026 00:30:17 +0000","summary":""}]}
