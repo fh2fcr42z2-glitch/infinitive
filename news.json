@@ -1,1 +1,29 @@
-PLACEHOLDER_REPLACE_WITH_FULL
+{
+  "asof": "2026-11-13T17:03:06Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "CoinTelegraph https://cointelegraph.com/rss",
+    "Decrypt https://decrypt.co/feed",
+    "The Block https://www.theblock.co/rss.xml",
+    "CryptoSlate https://cryptoslate.com/feed/",
+    "Bitcoin Magazine https://bitcoinmagazine.com/.rss/full/",
+    "CoinDesk https://www.coindesk.com/arc/outboundfeeds/rss",
+    "Rekt https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin holds below $70K as stocks slip despite a cooler US PPI print",
+      "url": "https://cointelegraph.com/markets/bitcoin-below-70k-stocks-slip-cooler-us-ppi-print?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 13 Nov 2026 16:39:11 +0000",
+      "summary": "Bitcoin was down about 4% on the day amid a tepid market reaction to October's US PPI reading, which came in below expected levels."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 13 Nov 2026 13:49:44 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    }
+  ]
+}
