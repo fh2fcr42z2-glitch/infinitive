@@ -1,1 +1,267 @@
-PLACEHOLDER - will replace with full if needed
+{
+  "asof": "2026-11-13T01:12:16Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Gemini's quarterly retail trading volume sinks to 3-year low",
+      "url": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 13 Nov 2026 00:52:42 +0000",
+      "summary": "Gemini's third-quarter trading rebound masked a deepening retail slump."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Maple Finance's strategy rift sends co-founder, COO to the exits",
+      "url": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 23:12:55 +0000",
+      "summary": "Maple Finance co-founder Joe Flanagan and COO Ryan O'Shea are leaving over disagreements about the firm's direction as SYRUP falls despite revenue growth."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
+      "url": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 22:29:58 +0000",
+      "summary": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 22:11:41 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Kalshi ends Donald Trump Jr. advisory role over Polymarket investment: Reuters",
+      "url": "https://cointelegraph.com/news/kalshi-ends-donald-trump-jr-advisory-role-polymarket-investment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 22:05:01 +0000",
+      "summary": "The prediction market operator said the decision was mutual and followed 1789 Capital's investment in rival Polymarket, denying political considerations."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strategy stock sheds 5% amid MSCI index removal, Bitcoin sell-off",
+      "url": "https://cointelegraph.com/markets/strategy-shares-fall-5-msci-index-removal-bitcoin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 12 Nov 2026 21:52:04 +0000",
+      "summary": "Strategy shares declined Thursday following MSCI's decision to remove the company from its indexes, as Bitcoin also fell amid a broader crypto market decline."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
+      "url": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
+      "pubDate": "Thu, 12 Nov 2026 22:36:02 +0000",
+      "summary": "Senator Josh Hawley wants a nationwide construction pause until households are protected from rising power bills, even as Congress advances legislation designed to accelerate America's already massive AI infrastructure b"
+    },
+    {
+      "source": "Decrypt",
+      "title": "North Korea Stole $400 Million in Crypto Using Deepfake Video Calls, DOJ Says",
+      "url": "https://decrypt.co/383208/north-korea-stole-400-million-crypto-deepfake-video-calls",
+      "pubDate": "Thu, 12 Nov 2026 22:06:03 +0000",
+      "summary": "The FBI says the \"FaceStealer\" scheme uses prerecorded footage and AI deepfakes of trusted contacts to trick crypto workers into installing malware on video calls-as the DOJ also moves to seize $1.2 billion from the Bina"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
+      "url": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
+      "pubDate": "Thu, 12 Nov 2026 21:26:03 +0000",
+      "summary": "Michael Saylor's Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business-and whether the decision could slow its Bitcoin buying."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
+      "url": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
+      "pubDate": "Thu, 12 Nov 2026 20:36:03 +0000",
+      "summary": "Trezor CTO Tom\u00e1\u0161 Su\u0161\u00e1nka explains the trade-offs of Bitcoin's leading post-quantum signature scheme."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Who Is Colette Kress, Jensen Huang's Successor as Nvidia CEO?",
+      "url": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
+      "pubDate": "Thu, 12 Nov 2026 18:55:03 +0000",
+      "summary": "Nvidia's longtime finance chief inherits its first leadership transition in 33 years, bringing decades of technology experience and Wall Street credibility to a company facing a very public leadership test."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia, AMD, Broadcom: The AI Stock Winners and Losers After Jensen Huang's Ousting",
+      "url": "https://decrypt.co/383146/nvidia-amd-broadcom-ai-stock-winners-loses-jensen-huang",
+      "pubDate": "Thu, 12 Nov 2026 18:06:03 +0000",
+      "summary": "Nvidia shares tumbled after Jensen Huang's exit, while AMD and Broadcom climbed and Nvidia-backed CoreWeave sank. Here's how the AI trade is shaping up."
+    },
+    {
+      "source": "The Block",
+      "title": "DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme",
+      "url": "https://www.theblock.co/news/business/2026-11-12-doj-seize-1-2-billion-binance-hack-north-korea-facestealer-439065",
+      "pubDate": "Thu, 12 Nov 2026 22:40:22 +0000",
+      "summary": "DOJ got court approval to seize $1.2B stolen from Binance by North Korea's TraderTraitor & took down the FaceStealer deepfake scam."
+    },
+    {
+      "source": "The Block",
+      "title": "Gemini trading volume drops 73% as Q3 revenue falls to $41 million",
+      "url": "https://www.theblock.co/news/markets/2026-11-12-gemini-trading-volume-drops-q3-revenue-falls-to-41-million-439050",
+      "pubDate": "Thu, 12 Nov 2026 22:18:10 +0000",
+      "summary": "Gemini shares rose more than 6% after hours, though the stock remains down around 75% since the year began."
+    },
+    {
+      "source": "The Block",
+      "title": "Louisiana sues Kalshi, Robinhood and other prediction markets in escalating regulatory fight",
+      "url": "https://www.theblock.co/news/regulation/2026-11-12-louisiana-sues-kalshi-robinhood-other-prediction-markets-escalating-regulatory-fight-439052",
+      "pubDate": "Thu, 12 Nov 2026 21:44:30 +0000",
+      "summary": "Louisiana is the latest state to take on prediction market platforms, joining a legal battle between states and the federal government."
+    },
+    {
+      "source": "The Block",
+      "title": "Avalanche Owns Five Percent of Tokenized Stocks",
+      "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-12-avalanche-owns-five-percent-tokenized-stocks-437310",
+      "pubDate": "Thu, 12 Nov 2026 20:02:00 +0000",
+      "summary": "One Venue, One Chain Over this past week, three U.S. tokenized stock venues picked three different blockchains to launch on. The WSJ reported Monday that NYSE chose Avalanche as the sole settlement chain for its planned "
+    },
+    {
+      "source": "The Block",
+      "title": "NYDFS sets fresh advertising standards for crypto firms",
+      "url": "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014",
+      "pubDate": "Thu, 12 Nov 2026 18:03:57 +0000",
+      "summary": "NYDFS issued guidance outlining expectations for crypto firms to establish policies and procedures governing advertising and marketing."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets",
+      "url": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
+      "pubDate": "Thu, 12 Nov 2026 17:40:00 +0000",
+      "summary": "Bitcoin fell as low as $71,200 as Jensen Huang quit Nvidia and MSCI confirmed Strategy's removal, with $750M in crypto positions liquidated."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Aave user loses $305,000 after Across Protocol website hijack",
+      "url": "https://cryptoslate.com/across-protocol-website-attack-reached-an-aave-deposit-new-402000-loss-trace-shows/",
+      "pubDate": "Fri, 13 Nov 2026 00:30:17 +0000",
+      "summary": "Bitquery's November 12 update estimates $401,900 across nine wallets, including about $305,000 from one Aave deposit token.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch ne"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Solana treasury Forward Industries flashes a 30% SOL discount, with a catch",
+      "url": "https://cryptoslate.com/solana-treasury-forward-industries-flashes-a-30-sol-discount-with-a-catch/",
+      "pubDate": "Thu, 12 Nov 2026 22:50:29 +0000",
+      "summary": "Forward's November 9 snapshot shows a 16.8% discount on its in-the-money share count, while the broadest count includes conditional warrants.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter an"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Anthropic's new AI leads freelance benchmarks, yet fails 58% of the tasks",
+      "url": "https://cryptoslate.com/anthropics-new-ai-leads-freelance-benchmarks-yet-fails-58-of-the-tasks/",
+      "pubDate": "Thu, 12 Nov 2026 21:40:20 +0000",
+      "summary": "Fable 5.2 leads Scale's Remote Labor Index, which judges complete deliverables against professional reference work.\nRead the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get "
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Helius encrypts Solana transfers without removing operator trust",
+      "url": "https://cryptoslate.com/helius-encrypts-solana-transfers-without-removing-operator-trust/",
+      "pubDate": "Thu, 12 Nov 2026 20:10:03 +0000",
+      "summary": "The default Privacy Rings prover protects secret inputs inside an AWS enclave, while wallets approve the code and policies behind that protection.\nRead the full story on CryptoSlateUnderstand the crypto stories that matt"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin and Ethereum sink to 3-month lows, but a bigger crypto selloff may be ahead",
+      "url": "https://cryptoslate.com/bitcoin-and-ethereum-sink-to-3-month-lows-but-a-bigger-crypto-selloff-may-be-ahead/",
+      "pubDate": "Thu, 12 Nov 2026 19:20:12 +0000",
+      "summary": "Bitcoin and Ethereum fell to three-month lows Thursday, deepening a cryptocurrency selloff that has erased $550 billion in market value since October. Bitcoin slumped to $71,317, its lowest level since August, while Ethe"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "XRP proposed lending vaults lock deposits and expose holders to risk",
+      "url": "https://cryptoslate.com/xrp-proposed-lending-vaults-lock-deposits-and-expose-holders-to-risk/",
+      "pubDate": "Thu, 12 Nov 2026 18:50:20 +0000",
+      "summary": "Closed-ended vaults would exchange immediate access for borrower-funded income, while optional loss cover and share-sale conditions shape the risk.\nRead the full story on CryptoSlateUnderstand the crypto stories that mat"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "DOJ Wins Court Authority to Seize $1.2 Billion of North Korea's Stolen Binance Crypto as Freezes Top $2.7 Billion",
+      "url": "https://bitcoinmagazine.com/news/doj-north-korea-binance-1-2-billion-seize",
+      "pubDate": "Fri, 13 Nov 2026 00:15:00 +0000",
+      "summary": "Bitcoin Magazine\n\nDOJ Wins Court Authority to Seize $1.2 Billion of North Korea's Stolen Binance Crypto as Freezes Top $2.7 Billion\nThe DOJ won court authority to seize $1.2 billion of North Korea's stolen Binance crypto"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5%",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-71200-yields",
+      "pubDate": "Thu, 12 Nov 2026 23:52:59 +0000",
+      "summary": "Bitcoin Magazine\n\nBitcoin Price Trades Near $71,200 After a Fresh Session Low as the 10-Year Yield Holds Above 5%\nBitcoin price traded near $71,200 Thursday evening after slipping to a fresh session low near $71,000, its"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Jane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares",
+      "url": "https://bitcoinmagazine.com/news/jane-street-lifts-strategy-mstr-stake",
+      "pubDate": "Thu, 12 Nov 2026 23:30:47 +0000",
+      "summary": "Bitcoin Magazine\n\nJane Street Lifts Its Strategy (MSTR) Stake 54% to 4.1 Million Shares\nA 13F filed Thursday shows Jane Street held 4,119,097 Strategy shares as of Sept. 30, up 53.8%.\nThis post Jane Street Lifts Its Stra"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "DOJ's Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto",
+      "url": "https://bitcoinmagazine.com/news/doj-europol-operation-tornado-234-million",
+      "pubDate": "Thu, 12 Nov 2026 22:35:22 +0000",
+      "summary": "Bitcoin Magazine\n\nDOJ's Operation TorNado Arrests 354 and Seizes $234 Million in Cash and Crypto\nThe Justice Department said the sweep that ran from May 2025 to October 2026 was the sixth and most extensive JCODE action "
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Faces Two Red Years For the First Time Ever",
+      "url": "https://bitcoinmagazine.com/videos/bitcoin-faces-two-red-years-for-the-first-time-ever",
+      "pubDate": "Thu, 12 Nov 2026 22:30:06 +0000",
+      "summary": "\u25b6Bitcoin Magazine\n\nBitcoin Faces Two Red Years For the First Time Ever\nBitcoin has never posted back-to-back losing years, but 2026 could change that.\nThis post Bitcoin Faces Two Red Years For the First Time Ever first a"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Jensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing",
+      "url": "https://bitcoinmagazine.com/videos/jensen-huang-steps-down-are-the-cracks-beginning-to-show-in-circular-ai-financing",
+      "pubDate": "Thu, 12 Nov 2026 21:00:13 +0000",
+      "summary": "\u25b6Bitcoin Magazine\n\nJensen Huang Steps Down: Are the Cracks Beginning to Show in Circular AI Financing\nNVIDIA CEO Jensen Huang has resigned after the company's board met to discuss possible removal, and BMTV hosts Grace R"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
+      "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
+      "pubDate": "Thu, 12 Nov 2026 22:55:52 +0000",
+      "summary": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
+      "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
+      "pubDate": "Thu, 12 Nov 2026 22:47:41 +0000",
+      "summary": "U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commission."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi ends Donald Trump Jr.'s advisory contract over 1789 Capital's Polymarket investment",
+      "url": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+      "pubDate": "Thu, 12 Nov 2026 21:07:49 +0000",
+      "summary": "Trump Jr. joined Kalshi as a strategic adviser in January 2025, helping the prediction market expand its customer base and strengthen its market presence."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
+      "url": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
+      "pubDate": "Thu, 12 Nov 2026 16:45:52 +0000",
+      "summary": "The legal battle to head off the crypto transaction tax in Illinois has drawn up a hefty roster of industry opposition, and they're saying the tax won't work."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+      "url": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+      "pubDate": "Thu, 12 Nov 2026 15:45:48 +0000",
+      "summary": "The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: The blockchain built to run financial markets",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
+      "pubDate": "Thu, 12 Nov 2026 15:34:29 +0000",
+      "summary": ""
+    }
+  ]
+}
