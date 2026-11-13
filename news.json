@@ -1,1 +1,14 @@
-PLACEHOLDER_CONTENT
+{
+  "asof": "2026-11-13T18:02:56Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "CoinTelegraph https://cointelegraph.com/rss",
+    "Decrypt https://decrypt.co/feed",
+    "The Block https://www.theblock.co/rss.xml",
+    "CryptoSlate https://cryptoslate.com/feed/",
+    "Bitcoin Magazine https://bitcoinmagazine.com/.rss/full/",
+    "CoinDesk https://www.coindesk.com/arc/outboundfeeds/rss",
+    "Rekt https://rekt.news"
+  ],
+  "items": []
+}
