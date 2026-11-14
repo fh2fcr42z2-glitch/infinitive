@@ -1,1 +1,267 @@
-PLACEHOLDER_CONTENT
+{
+  "asof": "2026-11-14T21:02:40Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "CoinTelegraph https://cointelegraph.com/rss",
+    "Decrypt https://decrypt.co/feed",
+    "The Block https://www.theblock.co/rss.xml",
+    "CryptoSlate https://cryptoslate.com/feed/",
+    "Bitcoin Magazine https://bitcoinmagazine.com/.rss/full/",
+    "CoinDesk https://www.coindesk.com/arc/outboundfeeds/rss",
+    "Rekt https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Sat, 14 Nov 2026 11:28:12 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+      "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out",
+      "pubDate": "Sat, 14 Nov 2026 10:34:06 +0000",
+      "summary": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+      "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push",
+      "pubDate": "Sat, 14 Nov 2026 08:12:30 +0000",
+      "summary": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project's blockchain, wallet and ecosystem."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock's losing streak hits 11",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak",
+      "pubDate": "Sat, 14 Nov 2026 06:33:13 +0000",
+      "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock's IBIT accounting for $143.5 million and Fidelity's FBTC shedding $41.9 million."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+      "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex",
+      "pubDate": "Fri, 13 Nov 2026 22:01:03 +0000",
+      "summary": "OpenAI's new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+      "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system",
+      "pubDate": "Fri, 13 Nov 2026 21:49:27 +0000",
+      "summary": "Blockstream's new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks."
+    },
+    {
+      "source": "Decrypt",
+      "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia's CEO",
+      "url": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
+      "pubDate": "Sat, 14 Nov 2026 18:01:02 +0000",
+      "summary": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties-sending Nvidia's stock reelin"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
+      "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
+      "pubDate": "Sat, 14 Nov 2026 17:01:02 +0000",
+      "summary": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide."
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
+      "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+      "pubDate": "Sat, 14 Nov 2026 16:01:02 +0000",
+      "summary": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop-Without Crypto",
+      "url": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
+      "pubDate": "Sat, 14 Nov 2026 14:01:02 +0000",
+      "summary": "OpenAI's new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete to control everyday online shop"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm's Rene Haas Emerges as Candidate",
+      "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+      "pubDate": "Fri, 13 Nov 2026 22:16:03 +0000",
+      "summary": "Nvidia's board has reportedly approached Arm's chief executive as it searches for a replacement for Jensen Huang, while some employees are pushing to bring the chipmaker's founder "
+    },
+    {
+      "source": "Decrypt",
+      "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+      "url": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
+      "pubDate": "Fri, 13 Nov 2026 21:36:03 +0000",
+      "summary": "A House Oversight staff memorandum, citing suspicious trades by officials, military personnel and clearance holders, recommends Congress weigh new limits on federal personnel betti"
+    },
+    {
+      "source": "The Block",
+      "title": "Louisiana AG calls CFTC chair an 'obsequious standard bearer' for prediction markets following agency lawsuit",
+      "url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+      "pubDate": "Sat, 14 Nov 2026 19:06:59 +0000",
+      "summary": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+      "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+      "pubDate": "Sat, 14 Nov 2026 17:50:41 +0000",
+      "summary": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks."
+    },
+    {
+      "source": "The Block",
+      "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+      "pubDate": "Sat, 14 Nov 2026 05:40:00 +0000",
+      "summary": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and "
+    },
+    {
+      "source": "The Block",
+      "title": "Meta tests prediction market app using 'cred' points instead of cash: WSJ",
+      "url": "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215",
+      "pubDate": "Fri, 13 Nov 2026 20:55:26 +0000",
+      "summary": "Meta employees are testing Takes, a prediction app that rewards correct calls with credibility points."
+    },
+    {
+      "source": "The Block",
+      "title": "MEGA cuts 20% of workforce as former MegaETH Foundation restructures",
+      "url": "https://www.theblock.co/news/business/2026-11-13-megaeth-mega-layoffs-20-percent-restructuring-440206",
+      "pubDate": "Fri, 13 Nov 2026 19:26:53 +0000",
+      "summary": "MEGA, formerly the MegaETH Foundation, laid off 20% of staff days after its rebrand and $30 million push into AI inference products."
+    },
+    {
+      "source": "The Block",
+      "title": "House Oversight Chair calls for possible ban on government officials' prediction market bets over insider trading concerns",
+      "url": "https://www.theblock.co/news/regulation/2026-11-13-house-oversight-chair-possible-ban-government-officials-prediction-market-bets-insider-trading-concerns-440207",
+      "pubDate": "Fri, 13 Nov 2026 19:09:12 +0000",
+      "summary": "The House Oversight Committee is calling for new limits on government officials' use of prediction markets, including a potential ban."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Evernorth's $35 million fundraising could buy 35 million XRP, but there's a catch",
+      "url": "https://cryptoslate.com/evernorths-35-million-fundraising-could-buy-35-million-xrp-but-theres-a-catch/",
+      "pubDate": "Sat, 14 Nov 2026 20:40:16 +0000",
+      "summary": "The proceeds are cumulative through Nov. 9; allocation and completed purchases will show how much becomes additional XRP demand. Read the full story on CryptoSlateUnderstand the cr"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Your wallet may show a dollar balance for fake USDT that you cannot sell",
+      "url": "https://cryptoslate.com/your-wallet-may-show-a-dollar-balance-for-fake-usdt-that-you-cannot-sell/",
+      "pubDate": "Sat, 14 Nov 2026 19:40:06 +0000",
+      "summary": "Keeper wallets maintained the quotations through restricted pools, where Forta's simulated outside sales failed for all 32 identified tokens. Read the full story on CryptoSlateUnde"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "MiCA gave crypto a passport, but customers still face borders",
+      "url": "https://cryptoslate.com/mica-gave-crypto-a-passport-but-customers-still-face-borders/",
+      "pubDate": "Sat, 14 Nov 2026 18:40:48 +0000",
+      "summary": "Hungary scrapped an extra set of crypto restrictions in August, and for customers who had spent months wondering when they could trade normally again, that should have made things "
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Binance says stolen crypto has been replaced but some customers have to wait",
+      "url": "https://cryptoslate.com/binance-says-stolen-crypto-has-been-replaced-but-some-customers-have-to-wait/",
+      "pubDate": "Sat, 14 Nov 2026 17:20:40 +0000",
+      "summary": "The 198-token reserve snapshot expands Binance's disclosed scope, while proof availability, phased withdrawals and SAFU restoration remain separate tests. Read the full story on Cr"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin's $67,000 crash puts $57 billion holder cluster at risk as ETF investors flee",
+      "url": "https://cryptoslate.com/bitcoins-67000-crash-puts-57-billion-holder-cluster-at-risk-as-etf-investors-flee/",
+      "pubDate": "Sat, 14 Nov 2026 16:20:11 +0000",
+      "summary": "Coinbase's November 10 distribution placed roughly 855,000 BTC near current prices, leaving sustained buying central to the support case. Read the full story on CryptoSlateUndersta"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Wall Street wants 24/7 trading, but somebody has to bankroll the weekend",
+      "url": "https://cryptoslate.com/wall-street-wants-24-7-trading-but-somebody-has-to-bankroll-the-weekend/",
+      "pubDate": "Sat, 14 Nov 2026 15:20:06 +0000",
+      "summary": "Wall Street's move toward round-the-clock trading includes a key decision about who supplies cash when the main wholesale payment systems are closed. If you want to adjust a positi"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday's Low",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-13-percent-65600",
+      "pubDate": "Sat, 14 Nov 2026 15:27:33 +0000",
+      "summary": "Bitcoin Magazine Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday's Low Bitcoin price crashed about 13% over the past week and traded near $65,600 on S"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Joe Carlasare on \"Extreme Fear\" in Bitcoin: \"I'm A Buyer Here\"",
+      "url": "https://bitcoinmagazine.com/videos/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here",
+      "pubDate": "Fri, 13 Nov 2026 21:00:18 +0000",
+      "summary": "Bitcoin Magazine Joe Carlasare on \"Extreme Fear\" in Bitcoin: \"I'm A Buyer Here\" Bitcoin went from 57,000 to 82,000 in less than 90 days earlier this year, and Joe Carlasare says t"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bill Miller IV: \"They're Not Printing More Bitcoin\"",
+      "url": "https://bitcoinmagazine.com/videos/bill-miller-iv-theyre-not-printing-more-bitcoin",
+      "pubDate": "Fri, 13 Nov 2026 20:00:39 +0000",
+      "summary": "Bitcoin Magazine Bill Miller IV: \"They're Not Printing More Bitcoin\" Bill Miller IV, Chairman and CIO of Miller Value Partners, joins Grace Remington and Sean Hagan on BMTV to exp"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Why Private AI is More Important Than Ever",
+      "url": "https://bitcoinmagazine.com/videos/why-private-ai-is-more-important-than-ever",
+      "pubDate": "Fri, 13 Nov 2026 18:00:15 +0000",
+      "summary": "Bitcoin Magazine Why Private AI is More Important Than Ever Mark Suman, co-founder and CEO of Maple AI, joins BMTV to talk about private AI built so that even its own team cannot "
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "FutureBit's Apollo III Bitcoin Miner Hits Micro Center Shelves in Its First Brick-and-Mortar Launch",
+      "url": "https://bitcoinmagazine.com/news/futurebit-apollo-iii-hits-micro-center-shelves",
+      "pubDate": "Fri, 13 Nov 2026 16:39:33 +0000",
+      "summary": "Bitcoin Magazine FutureBit's Apollo III Bitcoin Miner Hits Micro Center Shelves in Its First Brick-and-Mortar Launch The Brooklyn company's compact home miner, rated at up to 18 TH"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Robinhood's Crypto Trading Volume Falls 48% in October as Event Contracts More Than Double",
+      "url": "https://bitcoinmagazine.com/news/robinhood-crypto-volume-falls-48-percent",
+      "pubDate": "Fri, 13 Nov 2026 15:30:00 +0000",
+      "summary": "Bitcoin Magazine Robinhood's Crypto Trading Volume Falls 48% in October as Event Contracts More Than Double Robinhood customers traded $17 billion of crypto in October, down 48% fr"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+      "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+      "pubDate": "Sat, 14 Nov 2026 16:33:29 +0000",
+      "summary": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+      "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+      "pubDate": "Sat, 14 Nov 2026 16:33:23 +0000",
+      "summary": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+      "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
+      "pubDate": "Sat, 14 Nov 2026 15:38:27 +0000",
+      "summary": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
+      "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
+      "pubDate": "Sat, 14 Nov 2026 15:00:00 +0000",
+      "summary": "Project Meridian FX APAC said it demonstrated how transactions can be coordinated across conventional settlement systems and those built using blockchain technology."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
+      "url": "https://www.coindesk.com/policy/2026/11/13/britain-could-turn-wasted-scottish-wind-power-into-bitcoin-to-cut-its-usd1-3-billion-grid-bill",
+      "pubDate": "Sat, 14 Nov 2026 13:00:00 +0000",
+      "summary": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
+      "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
+      "pubDate": "Sat, 14 Nov 2026 12:57:00 +0000",
+      "summary": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility."
+    }
+  ]
+}
