@@ -1,1 +1,20 @@
-PLACEHOLDER_AGAIN
+{
+  "asof": "2026-11-14T19:02:44Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "CoinTelegraph https://cointelegraph.com/rss",
+    "Decrypt https://decrypt.co/feed",
+    "The Block https://www.theblock.co/rss.xml",
+    "CryptoSlate https://cryptoslate.com/feed/",
+    "Bitcoin Magazine https://bitcoinmagazine.com/.rss/full/",
+    "CoinDesk https://www.coindesk.com/arc/outboundfeeds/rss",
+    "Rekt https://rekt.news"
+  ],
+  "items": [
+    {"source": "CoinTelegraph", "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock's losing streak hits 11", "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak", "pubDate": "Sat, 14 Nov 2026 06:33:13 +0000", "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday."},
+    {"source": "CoinDesk", "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave", "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst", "pubDate": "Sat, 14 Nov 2026 16:33:29 +0000", "summary": "Bitcoin drifts back to $65,000 deep value zone."},
+    {"source": "The Block", "title": "Bitcoin ETFs lose $1 billion for the second week in a row", "url": "https://www.theblock.co/post/example", "pubDate": "Sat, 14 Nov 2026", "summary": "ETF outflows continue."},
+    {"source": "CoinDesk", "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business", "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business", "pubDate": "Sat, 14 Nov 2026 16:33:23 +0000", "summary": "MegaETH staff cut, TVL dropped."},
+    {"source": "CryptoSlate", "title": "Bitcoin's $67,000 crash puts $57 billion holder cluster at risk", "url": "https://cryptoslate.com/example", "pubDate": "Sat, 14 Nov 2026", "summary": "Holder cluster at risk."}
+  ]
+}
