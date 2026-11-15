@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-15T02:03:50Z",
+  "asof": "2026-11-15T02:07:00Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "CoinTelegraph https://cointelegraph.com/rss",
@@ -10,5 +10,13 @@
     "CoinDesk https://www.coindesk.com/arc/outboundfeeds/rss",
     "Rekt https://rekt.news"
   ],
-  "items": []
+  "items": [
+    {
+      "source": "The Block",
+      "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+      "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+      "pubDate": "Sat, 14 Nov 2026 23:07:35 +0000",
+      "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT."
+    }
+  ]
 }
