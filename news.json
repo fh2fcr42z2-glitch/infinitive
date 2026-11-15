@@ -1,1 +1,148 @@
-PLACEHOLDER_WILL_FAIL
+{
+  "asof": "2026-11-15T04:02:54Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "CoinTelegraph https://cointelegraph.com/rss",
+    "Decrypt https://decrypt.co/feed",
+    "The Block https://www.theblock.co/rss.xml",
+    "CryptoSlate https://cryptoslate.com/feed/",
+    "Bitcoin Magazine https://bitcoinmagazine.com/.rss/full/",
+    "CoinDesk https://www.coindesk.com/arc/outboundfeeds/rss",
+    "Rekt https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 14 Nov 2026 11:28:12 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+      "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 14 Nov 2026 10:34:06 +0000",
+      "summary": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
+      "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 14 Nov 2026 08:12:30 +0000",
+      "summary": "MegaETH co-founder Shuyao Kong said the restructuring affected employees who helped build the project's blockchain, wallet and ecosystem."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs shed $2.35B in 2 weeks, BlackRock's losing streak hits 11",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-outflows-2-35-billion-blackrock-11-session-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 14 Nov 2026 06:33:13 +0000",
+      "summary": "US spot Bitcoin ETFs recorded $185.4 million in net outflows Friday, with BlackRock's IBIT accounting for $143.5 million and Fidelity's FBTC shedding $41.9 million."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "OpenAI launches AI payments in ChatGPT with Visa, Mastercard and Amex",
+      "url": "https://cointelegraph.com/news/openai-ai-payments-chatgpt-wallet-visa-mastercard-amex?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 13 Nov 2026 22:01:03 +0000",
+      "summary": "OpenAI's new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
+      "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 13 Nov 2026 21:49:27 +0000",
+      "summary": "Blockstream's new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks."
+    },
+    {
+      "source": "Decrypt",
+      "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia's CEO",
+      "url": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
+      "pubDate": "Sat, 14 Nov 2026 18:01:02 +0000",
+      "summary": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties-sending Nvidia's stock reeling and leaving the ch"
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
+      "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
+      "pubDate": "Sat, 14 Nov 2026 17:01:02 +0000",
+      "summary": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide."
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
+      "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+      "pubDate": "Sat, 14 Nov 2026 16:01:02 +0000",
+      "summary": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop-Without Crypto",
+      "url": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
+      "pubDate": "Sat, 14 Nov 2026 14:01:02 +0000",
+      "summary": "OpenAI's new wallet lets AI agents buy products using ordinary cards, challenging crypto payment tools from Coinbase and Circle as companies compete to control everyday online shopping by autonomous s"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm's Rene Haas Emerges as Candidate",
+      "url": "https://decrypt.co/383276/nvidia-arm-ceo-rene-haas-replace-jensen-huang",
+      "pubDate": "Fri, 13 Nov 2026 22:16:03 +0000",
+      "summary": "Nvidia's board has reportedly approached Arm's chief executive as it searches for a replacement for Jensen Huang, while some employees are pushing to bring the chipmaker's founder back as CEO."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Should Government Officials Be Banned From Prediction Markets? House Oversight Says Maybe",
+      "url": "https://decrypt.co/383271/government-officials-banned-prediction-markets-house-oversight",
+      "pubDate": "Fri, 13 Nov 2026 21:36:03 +0000",
+      "summary": "A House Oversight staff memorandum, citing suspicious trades by officials, military personnel and clearance holders, recommends Congress weigh new limits on federal personnel betting on platforms like"
+    },
+    {
+      "source": "The Block",
+      "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
+      "url": "https://www.theblock.co/news/defi/2026-11-14-kava-lend-loses-roughly-3-8-million-to-hack-sending-kava-token-down-nearly-40-440350",
+      "pubDate": "Sat, 14 Nov 2026 23:07:35 +0000",
+      "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT."
+    },
+    {
+      "source": "The Block",
+      "title": "Louisiana AG calls CFTC chair an 'obsequious standard bearer' for prediction markets following agency lawsuit",
+      "url": "https://www.theblock.co/news/regulation/2026-11-14-louisiana-ag-calls-cftc-chair-an-obsequious-standard-bearer-for-prediction-markets-following-agency-lawsuit-440342",
+      "pubDate": "Sat, 14 Nov 2026 19:06:59 +0000",
+      "summary": "The CFTC sued Louisiana Friday to block a state judge's order banning 31 prediction markets, including Kalshi and Polymarket, in the state."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin ETFs lose $1 billion for the second week in a row as crypto funds, except one, continue bleeding",
+      "url": "https://www.theblock.co/news/markets/2026-11-14-bitcoin-etfs-lose-1-billion-for-the-second-week-in-a-row-as-crypto-funds-except-one-continue-bleeding-440337",
+      "pubDate": "Sat, 14 Nov 2026 17:50:41 +0000",
+      "summary": "U.S. spot crypto ETFs lost about $1.55 billion combined, and Avalanche funds' $227,000 was the only weekly inflow among the 15 categories SoSoValue tracks."
+    },
+    {
+      "source": "The Block",
+      "title": "Meta tests prediction-market app, DOJ moves to seize $1.2 billion from Binance hack, and more",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-14-meta-prediction-market-app-doj-binance-hack-more-crypto-news-440304",
+      "pubDate": "Sat, 14 Nov 2026 05:40:00 +0000",
+      "summary": "In today's newsletter, Meta tests prediction-market app using points instead of cash; DOJ moves to seize $1.2 billion from Binance hack, disrupts North Korean deepfake scheme; and more."
+    },
+    {
+      "source": "The Block",
+      "title": "Meta tests prediction market app using 'cred' points instead of cash: WSJ",
+      "url": "https://www.theblock.co/news/markets/2026-11-13-meta-tests-prediction-market-app-using-cred-points-instead-cash-wsj-440215",
+      "pubDate": "Fri, 13 Nov 2026 20:55:26 +0000",
+      "summary": "Meta employees are testing Takes, a prediction app that rewards correct calls with credibility points."
+    },
+    {
+      "source": "The Block",
+      "title": "MEGA cuts 20% of workforce as former MegaETH Foundation restructures",
+      "url": "https://www.theblock.co/news/business/2026-11-13-megaeth-mega-layoffs-20-percent-restructuring-440206",
+      "pubDate": "Fri, 13 Nov 2026 19:26:53 +0000",
+      "summary": "MEGA, formerly the MegaETH Foundation, laid off 20% of staff days after its rebrand and $30 million push into AI inference products."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Solana's \"retired\" validators still vote with 15% of active stake",
+      "url": "https://cryptoslate.com/solanas-retired-validators-still-vote-with-15-of-active-stake/",
+      "pubDate": "Sat, 14 Nov 2026 20:00:00 +0000",
+      "summary": "A portion of Solana validators that have officially retired continue to participate in consensus, holding about 15% of the active stake."
+    }
+  ]
+}
