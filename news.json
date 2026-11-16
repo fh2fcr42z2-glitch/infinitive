@@ -10,5 +10,258 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "items": []
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 13:31:49 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Banks are banning AI agents over security... and competition concerns",
+      "url": "https://cointelegraph.com/magazine/banks-are-banning-ai-agents-over-security-and-competition-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 13:30:00 +0000",
+      "summary": "AI agents are set to automate everyday banking tasks - but banks aren't ready to give up control of the customer relationship just yet."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
+      "url": "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 13:29:11 +0000",
+      "summary": "Strategy bought 485 Bitcoin for $33.4 million and spent $228.1 million repurchasing STRC preferred shares, largely funded by new common stock sales."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
+      "url": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 13:00:00 +0000",
+      "summary": "Eligible users can access up to 1,000 USDC in credit against their Bitcoin, Ether or BNB for purchases via Binance Card or QR Pay."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "HKMA, Swift explore tokenized deposits for cross-border bank payments",
+      "url": "https://cointelegraph.com/news/hkma-swift-tokenized-deposits-cross-border-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 12:54:51 +0000",
+      "summary": "HKMA and Swift will explore linking Project Ensemble with Swift's ledger for cross-border payments using tokenized deposits in multiple currencies."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Singapore, Germany test cross-border FX settlement with CBDCs",
+      "url": "https://cointelegraph.com/news/singapore-german-central-banks-settlement-cbdcs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 10:49:12 +0000",
+      "summary": "Project Simbolon aims to reduce the cost and time of cross-border settlement and promote common standards for payments and FX"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Crypto Hits Extreme Fear as Bitcoin Plunges",
+      "url": "https://decrypt.co/383301/morning-minute-crypto-hits-extreme-fear-as-bitcoin-plunges",
+      "pubDate": "Mon, 16 Nov 2026 13:23:17 +0000",
+      "summary": "Why is crypto selling off so hard over the past few weeks? CZ chimes in with his thoughts, while confirming he and Binance aren't selling."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ledger Brings Clear Signing to Solana, Ending 'Blind' Signing for Jupiter Swaps",
+      "url": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
+      "pubDate": "Mon, 16 Nov 2026 13:12:08 +0000",
+      "summary": "The hardware wallet manufacturer says users can now read what they're approving on nine Solana apps, as it pitches its Atom device."
+    },
+    {
+      "source": "Decrypt",
+      "title": "German Lawmakers Back Customs Powers to Seize Crypto of 'Unclear Origin'",
+      "url": "https://decrypt.co/383297/german-lawmakers-back-customs-powers-to-seize-crypto-of-unclear-origin",
+      "pubDate": "Mon, 16 Nov 2026 10:25:15 +0000",
+      "summary": "A new law lets Germany's customs agency freeze assets worth more than ?100,000 without a criminal case if their origin is in doubt."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Vitalik Buterin Now 'a Total Bull' on leanPCS as Fast Track to Quantum-Safe Ethereum",
+      "url": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
+      "pubDate": "Mon, 16 Nov 2026 09:54:55 +0000",
+      "summary": "The Ethereum co-founder says proof aggregation could deliver a \"cryptographic proof singularity\" much sooner than developers expected."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Elon Musk Joins 160,000 Backing Petition to Bring Jensen Huang Back to Nvidia",
+      "url": "https://decrypt.co/383286/elon-musk-joins-160000-backing-petition-to-bring-jensen-huang-back-to-nvidia",
+      "pubDate": "Mon, 16 Nov 2026 09:25:01 +0000",
+      "summary": "Huang has reportedly discussed a comeback with confidants, but Treasury Secretary Scott Bessent says Nvidia needs a \"dramatic shake-up.\""
+    },
+    {
+      "source": "Decrypt",
+      "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+      "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+      "pubDate": "Sun, 15 Nov 2026 16:01:02 +0000",
+      "summary": "From Goldman and Citi's $270 million \"Project Faro\" to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle."
+    },
+    {
+      "source": "The Block",
+      "title": "'This dip could use a little orange': Michael Saylor's Strategy buys another 485 BTC for $33 million as bitcoin tumbles",
+      "url": "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886",
+      "pubDate": "Mon, 16 Nov 2026 13:13:14 +0000",
+      "summary": "Strategy's latest acquisitions came during a week that saw bitcoin drop to its lowest level in four months."
+    },
+    {
+      "source": "The Block",
+      "title": "Solana drops 'mainnet beta' label and adopts protocol version 1.0",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885",
+      "pubDate": "Mon, 16 Nov 2026 12:30:35 +0000",
+      "summary": "The Solana Foundation retired the network's \"mainnet beta\" label and introduced Solana 1.0 as a shared protocol version."
+    },
+    {
+      "source": "The Block",
+      "title": "Upbit parent Dunamu posts $14 million Q3 net loss as revenue falls 61%",
+      "url": "https://www.theblock.co/news/business/2026-11-16-upbit-parent-dunamu-q3-net-loss-440876",
+      "pubDate": "Mon, 16 Nov 2026 10:46:39 +0000",
+      "summary": "Upbit operator Dunamu posted a net loss of $13.8 million in Q3, swinging from $177 million in profit the same quarter last year."
+    },
+    {
+      "source": "The Block",
+      "title": "Vitalik Buterin backs higher gas costs for creating accounts and deploying smart contracts to help Ethereum scale",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-16-vitalik-buterin-backs-higher-gas-costs-for-creating-accounts-and-deploying-smart-contracts-to-help-ethereum-scale-440870",
+      "pubDate": "Mon, 16 Nov 2026 10:29:30 +0000",
+      "summary": "Buterin defended Ethereum's proposed gas repricing, citing the need to increase transaction capacity without compromising decentralization."
+    },
+    {
+      "source": "The Block",
+      "title": "DBS, JPMorgan launch instant tokenized deposit transfers between US and Singapore",
+      "url": "https://www.theblock.co/news/business/2026-11-16-dbs-jpmorgan-launch-tokenized-deposit-transfers-440854",
+      "pubDate": "Mon, 16 Nov 2026 09:26:39 +0000",
+      "summary": "Ant International is their first client, deploying the service for treasury and liquidity management across its entities in both markets."
+    },
+    {
+      "source": "The Block",
+      "title": "CoW Swap goes live on Solana with intent-based trading",
+      "url": "https://www.theblock.co/news/defi/2026-11-16-cow-swap-goes-live-solana-440840",
+      "pubDate": "Mon, 16 Nov 2026 09:05:02 +0000",
+      "summary": "CoW Swap has launched trading directly on Solana after previously supporting cross-chain swaps into the network."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana drops 'beta' label after more than six years",
+      "url": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
+      "pubDate": "Mon, 16 Nov 2026 13:03:16 +0000",
+      "summary": "The blockchain is getting a shared version number. Wallets, transactions and apps remain unchanged."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
+      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
+      "pubDate": "Mon, 16 Nov 2026 12:55:46 +0000",
+      "summary": "CZ says Binance isn't selling crypto and he has been buying. OKX founder Star Xu accuses him of misleading customers about the exchange's role in successive October crashes."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/16/bitcoin-was-supposed-to-gain-as-ai-faltered-but-it-crashed-here-s-why",
+      "pubDate": "Mon, 16 Nov 2026 12:09:00 +0000",
+      "summary": "The price action runs counter to a crypto-market view that a cooling AI trade would trigger a rotation into digital assets and spark a rally."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
+      "url": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
+      "pubDate": "Mon, 16 Nov 2026 11:47:12 +0000",
+      "summary": "Zero-knowledge proofs let each ledger verify the other leg was locked, so neither currency settled unless both did, with no shared ledger or intermediary."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
+      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
+      "pubDate": "Mon, 16 Nov 2026 11:03:14 +0000",
+      "summary": "Bitcoin (BTC) is down 1.6% since midnight UTC at around $64,300, after falling to $62,100 on Sunday, its lowest since July 14, as traders await Nvidia earnings."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin holding weekend plunge as November losses deepen to 17%",
+      "url": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
+      "pubDate": "Mon, 16 Nov 2026 09:34:18 +0000",
+      "summary": "Strategy and Strive might be the only buyers left, and each - constrained by weak stock prices - made only modest purchases last week."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Japan's economy stalls, giving Bitcoin no automatic relief from yen funding costs",
+      "url": "https://cryptoslate.com/japans-economy-stalls-giving-bitcoin-no-automatic-relief-from-yen-funding-costs/",
+      "pubDate": "Mon, 16 Nov 2026 13:30:20 +0000",
+      "summary": "With the BOJ rate at 1.25%, weak consumption strengthens the case for caution while inflation risks keep further tightening in view."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Solana's stablecoin market shrinks $919 million as USDC grows",
+      "url": "https://cryptoslate.com/solanas-stablecoin-market-shrinks-919-million-as-usdc-grows/",
+      "pubDate": "Mon, 16 Nov 2026 11:10:10 +0000",
+      "summary": "USDC's 6.32% 30-day gain cushions Solana's aggregate contraction as USDT and other large stablecoins decline."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin's mining difficulty falls 9%, easing pressure on miners",
+      "url": "https://cryptoslate.com/bitcoins-mining-difficulty-falls-9-easing-pressure-on-miners/",
+      "pubDate": "Mon, 16 Nov 2026 10:25:08 +0000",
+      "summary": "Bitcoin mining difficulty dropped 9% in the latest adjustment, providing some relief to miners after recent hash rate pressure."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin crashes near $62,000 over weekend as crypto liquidations topped $1.8 billion",
+      "url": "https://cryptoslate.com/bitcoin-crashes-near-62000-over-weekend-as-crypto-liquidations-topped-1-8-billion/",
+      "pubDate": "Sun, 15 Nov 2026 22:15:00 +0000",
+      "summary": "Bitcoin fell toward $62,000 over the weekend with crypto liquidations exceeding $1.8 billion amid broader market pressure."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin mining industry rocked by AI-linked breach as hackers divert up to 13 EH/s",
+      "url": "https://cryptoslate.com/bitcoin-mining-industry-rocked-by-ai-linked-breach-as-hackers-divert-up-to-13-ehs/",
+      "pubDate": "Sun, 15 Nov 2026 18:00:00 +0000",
+      "summary": "Hackers linked to AI redirected significant Bitcoin mining power, up to 13 EH/s, in an industry breach."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin now looks cheap by one measure after $1 billion in ETF outflows",
+      "url": "https://cryptoslate.com/bitcoins-new-value-alert-still-needs-proof-that-buyers-can-absorb-supply/",
+      "pubDate": "Sun, 15 Nov 2026 15:35:58 +0000",
+      "summary": "Darkfost's adjusted MVRV signal highlights lower valuation, while dated ETF withdrawals and an attributed SOPR reading leave recovery unconfirmed."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Strive (ASST) Buys 251 Bitcoin for $17.5 Million as Shares Drop 10% Premarket",
+      "url": "https://bitcoinmagazine.com/news/strive-buys-251-bitcoin-holdings-43404",
+      "pubDate": "Mon, 16 Nov 2026 13:55:00 +0000",
+      "summary": "Strive bought 251 bitcoin last week for $17.5 million at a $69,853 average, lifting holdings to 43,404 BTC, as shares dropped 9.5% premarket."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Trades Near $64,000 After Weekend Plunge to $62,000",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-tech",
+      "pubDate": "Mon, 16 Nov 2026 13:42:14 +0000",
+      "summary": "Bitcoin price traded near $64,000 on Monday morning after plunging to $62,000 over the weekend, as Nasdaq futures slid ahead of Nvidia earnings."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Strategy (MSTR) Adds 485 Bitcoin for $33.4 Million as It Spends $228 Million Buying Back Preferred Stock",
+      "url": "https://bitcoinmagazine.com/news/strategy-mstr-adds-485-bitcoin-holdings",
+      "pubDate": "Mon, 16 Nov 2026 13:38:30 +0000",
+      "summary": "Strategy bought 485 bitcoin for $33.4 million at a $68,887 average, lifting holdings to 850,849 BTC, while spending $228 million on preferred stock buybacks."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Peruvian Bull: The Yen Carry Trade and Bitcoin's Road to $300k",
+      "url": "https://bitcoinmagazine.com/videos/peruvian-bull-the-yen-carry-trade-and-bitcoins-road-to-300k",
+      "pubDate": "Sun, 15 Nov 2026 15:00:05 +0000",
+      "summary": "Roberto Rios, the Peruvian Bull, explains how the yen carry trade connects to Bitcoin's longer-term path."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday's Low",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-13-percent-65600",
+      "pubDate": "Sat, 14 Nov 2026 15:27:33 +0000",
+      "summary": "Bitcoin price crashed about 13% over the past week and traded near $65,600 on Saturday."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Joe Carlasare on Extreme Fear in Bitcoin: I'm A Buyer Here",
+      "url": "https://bitcoinmagazine.com/videos/joe-carlasare-on-extreme-fear-in-bitcoin-im-a-buyer-here",
+      "pubDate": "Fri, 13 Nov 2026 21:00:18 +0000",
+      "summary": "Joe Carlasare discusses extreme fear in Bitcoin and why he remains a buyer at current levels."
+    }
+  ]
 }
