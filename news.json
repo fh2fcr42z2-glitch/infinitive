@@ -1,1 +1,225 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-16T15:06:25Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+      "url": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 14:55:46 +0000",
+      "summary": "Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Lighter pauses withdrawals after reported $10M account theft",
+      "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 14:19:50 +0000",
+      "summary": "Lighter has paused withdrawals after reporting a leaked trader API key, with Bubblemaps tracking $10.4 million withdrawn."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 13:31:49 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Banks are banning AI agents over security... and competition concerns",
+      "url": "https://cointelegraph.com/magazine/banks-are-banning-ai-agents-over-security-and-competition-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 13:30:00 +0000",
+      "summary": "AI agents are set to automate everyday banking tasks - but banks aren't ready to give up control of the customer relationship just yet."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
+      "url": "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 13:29:11 +0000",
+      "summary": "Strategy bought 485 Bitcoin for $33.4 million and spent $228.1 million repurchasing STRC preferred shares, largely funded by new common stock sales."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
+      "url": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 13:00:00 +0000",
+      "summary": "Eligible users can access up to 1,000 USDC in credit against their Bitcoin, Ether or BNB for purchases via Binance Card or QR Pay."
+    },
+    {
+      "source": "Decrypt",
+      "title": "'Nobody Knows Who's in Charge': Boris Johnson Stands by Bitcoin Skepticism at Breakpoint",
+      "url": "https://decrypt.co/383305/nobody-knows-whos-in-charge-boris-johnson-stands-by-bitcoin-skepticism-at-breakpoint",
+      "pubDate": "Mon, 16 Nov 2026 14:45:00 +0000",
+      "summary": "The former UK prime minister remains skeptical of Bitcoin despite the industry's growth."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Crypto Hits Extreme Fear as Bitcoin Plunges",
+      "url": "https://decrypt.co/383301/morning-minute-crypto-hits-extreme-fear-as-bitcoin-plunges",
+      "pubDate": "Mon, 16 Nov 2026 13:23:17 +0000",
+      "summary": "Why is crypto selling off so hard over the past few weeks? CZ chimes in with his thoughts, while confirming he and Binance aren't selling."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Ledger Brings Clear Signing to Solana, Ending 'Blind' Signing for Jupiter Swaps",
+      "url": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
+      "pubDate": "Mon, 16 Nov 2026 13:12:08 +0000",
+      "summary": "The hardware wallet manufacturer says users can now read what they're approving on nine Solana apps, as it pitches its Atom device."
+    },
+    {
+      "source": "Decrypt",
+      "title": "German Lawmakers Back Customs Powers to Seize Crypto of 'Unclear Origin'",
+      "url": "https://decrypt.co/383297/german-lawmakers-back-customs-powers-to-seize-crypto-of-unclear-origin",
+      "pubDate": "Mon, 16 Nov 2026 10:25:15 +0000",
+      "summary": "A new law lets Germany's customs agency freeze assets worth more than 100,000 without a criminal case if their origin is in doubt."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Vitalik Buterin Now 'a Total Bull' on leanPCS as Fast Track to Quantum-Safe Ethereum",
+      "url": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
+      "pubDate": "Mon, 16 Nov 2026 09:54:55 +0000",
+      "summary": "The Ethereum co-founder says proof aggregation could deliver a cryptographic proof singularity much sooner than developers expected."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Elon Musk Joins 160,000 Backing Petition to Bring Jensen Huang Back to Nvidia",
+      "url": "https://decrypt.co/383286/elon-musk-joins-160000-backing-petition-to-bring-jensen-huang-back-to-nvidia",
+      "pubDate": "Mon, 16 Nov 2026 09:25:01 +0000",
+      "summary": "Huang has reportedly discussed a comeback with confidants, but Treasury Secretary Scott Bessent says Nvidia needs a dramatic shake-up."
+    },
+    {
+      "source": "The Block",
+      "title": "Tom Lee says Ethereum's 'waterfall decline in price' defies fundamentals as Bitmine adds 7,653 ETH",
+      "url": "https://www.theblock.co/news/business/2026-11-16-tom-lee-ethereum-waterfall-decline-price-defies-fundamentals-bitmine-adds-7653-eth-440904",
+      "pubDate": "Mon, 16 Nov 2026 14:30:00 +0000",
+      "summary": "Bitmine added 7,653 ETH amid the decline, with Tom Lee noting the price action does not match underlying fundamentals."
+    },
+    {
+      "source": "The Block",
+      "title": "Layer 2 Scaling Explained",
+      "url": "https://www.theblock.co/news/tech/layer-2-scaling-explained",
+      "pubDate": "Mon, 16 Nov 2026 13:00:00 +0000",
+      "summary": "An overview of Layer 2 scaling solutions for Ethereum and other networks."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitwise CIO says bitcoin may fall further in the near term but still calls it the best risk-adjusted trade of the next decade",
+      "url": "https://www.theblock.co/news/markets/bitwise-cio-bitcoin-may-fall-further",
+      "pubDate": "Mon, 16 Nov 2026 12:45:00 +0000",
+      "summary": "Bitwise CIO Matt Hougan acknowledges near-term downside risk for bitcoin while remaining bullish on the longer horizon."
+    },
+    {
+      "source": "The Block",
+      "title": "'This dip could use a little orange': Michael Saylor's Strategy buys another 485 BTC for $33 million as bitcoin tumbles",
+      "url": "https://www.theblock.co/news/business/2026-11-16-this-dip-could-use-a-little-orange-michael-saylor-strategy-bitcoin-tumbles-440886",
+      "pubDate": "Mon, 16 Nov 2026 13:13:14 +0000",
+      "summary": "Strategy's latest acquisitions came during a week that saw bitcoin drop to its lowest level in four months."
+    },
+    {
+      "source": "The Block",
+      "title": "Solana drops 'mainnet beta' label and adopts protocol version 1.0",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-16-solana-drops-mainnet-beta-label-and-adopts-protocol-version-1-0-440885",
+      "pubDate": "Mon, 16 Nov 2026 12:30:35 +0000",
+      "summary": "The Solana Foundation retired the network's mainnet beta label and introduced Solana 1.0 as a shared protocol version."
+    },
+    {
+      "source": "The Block",
+      "title": "Upbit parent Dunamu posts $14 million Q3 net loss as revenue falls 61%",
+      "url": "https://www.theblock.co/news/business/2026-11-16-upbit-parent-dunamu-q3-net-loss-440876",
+      "pubDate": "Mon, 16 Nov 2026 10:46:39 +0000",
+      "summary": "Upbit operator Dunamu posted a net loss of $13.8 million in Q3, swinging from $177 million in profit the same quarter last year."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Record hedge-fund leverage could soon spill over into Bitcoin",
+      "url": "https://cryptoslate.com/record-hedge-fund-leverage-could-soon-spill-over-into-bitcoin/",
+      "pubDate": "Mon, 16 Nov 2026 14:30:20 +0000",
+      "summary": "The November report's leverage record concerns Q1 2026, while broader strategy exposure leaves a conditional cross-market risk for Bitcoin."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Japan's economy stalls, giving Bitcoin no automatic relief from yen funding costs",
+      "url": "https://cryptoslate.com/japans-economy-stalls-giving-bitcoin-no-automatic-relief-from-yen-funding-costs/",
+      "pubDate": "Mon, 16 Nov 2026 13:30:20 +0000",
+      "summary": "With the BOJ rate at 1.25%, weak consumption strengthens the case for caution while inflation risks keep further tightening in view."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "AI agents impersonate employees and attempt to steal confidential data during safety experiment",
+      "url": "https://cryptoslate.com/ai-agents-impersonate-employees-steal-data/",
+      "pubDate": "Mon, 16 Nov 2026 12:00:00 +0000",
+      "summary": "Safety experiment shows AI agents can impersonate employees to attempt data theft."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Solana's stablecoin market shrinks $919 million as USDC grows",
+      "url": "https://cryptoslate.com/solanas-stablecoin-market-shrinks-919-million-as-usdc-grows/",
+      "pubDate": "Mon, 16 Nov 2026 11:10:10 +0000",
+      "summary": "USDC's 6.32% 30-day gain cushions Solana's aggregate contraction as USDT and other large stablecoins decline."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin's mining difficulty falls 9%, easing pressure on miners",
+      "url": "https://cryptoslate.com/bitcoins-mining-difficulty-falls-9-easing-pressure-on-miners/",
+      "pubDate": "Mon, 16 Nov 2026 10:25:08 +0000",
+      "summary": "Bitcoin mining difficulty dropped 9% in the latest adjustment, providing some relief to miners after recent hash rate pressure."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Google opens AI rainfall tracking system that could improve global flood and drought monitoring",
+      "url": "https://cryptoslate.com/google-ai-rainfall-tracking/",
+      "pubDate": "Mon, 16 Nov 2026 09:00:00 +0000",
+      "summary": "Google's AI system for rainfall tracking aims to improve flood and drought monitoring worldwide."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana drops 'beta' label after more than six years",
+      "url": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
+      "pubDate": "Mon, 16 Nov 2026 13:03:16 +0000",
+      "summary": "The blockchain is getting a shared version number. Wallets, transactions and apps remain unchanged."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Old crypto feud reignites: Why OKX's Star Xu blames Binance for two years of October crashes",
+      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-slide-reopens-an-old-feud-between-crypto-s-most-powerful-founders",
+      "pubDate": "Mon, 16 Nov 2026 12:55:46 +0000",
+      "summary": "CZ says Binance isn't selling crypto and he has been buying. OKX founder Star Xu accuses him of misleading customers about the exchange's role in successive October crashes."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/16/bitcoin-was-supposed-to-gain-as-ai-faltered-but-it-crashed-here-s-why",
+      "pubDate": "Mon, 16 Nov 2026 12:09:00 +0000",
+      "summary": "The price action runs counter to a crypto-market view that a cooling AI trade would trigger a rotation into digital assets and spark a rally."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
+      "url": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
+      "pubDate": "Mon, 16 Nov 2026 11:47:12 +0000",
+      "summary": "Zero-knowledge proofs let each ledger verify the other leg was locked, so neither currency settled unless both did, with no shared ledger or intermediary."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
+      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
+      "pubDate": "Mon, 16 Nov 2026 11:03:14 +0000",
+      "summary": "Bitcoin (BTC) is down 1.6% since midnight UTC at around $64,300, after falling to $62,100 on Sunday, its lowest since July 14, as traders await Nvidia earnings."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin rises just a bit from worst levels early in U.S. session",
+      "url": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
+      "pubDate": "Mon, 16 Nov 2026 09:34:18 +0000",
+      "summary": "Strategy and Strive might be the only buyers left, and each - constrained by weak stock prices - made only modest purchases last week."
+    }
+  ]
+}
