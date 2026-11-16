@@ -1,1 +1,43 @@
-See /tmp/news.json for full content - updating with real data now.
+{
+  "asof": "2026-11-16T22:02:47Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
+      "url": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump",
+      "pubDate": "Mon, 16 Nov 2026 20:45:47 +0000",
+      "summary": "Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
+      "url": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
+      "pubDate": "Mon, 16 Nov 2026 21:46:03 +0000",
+      "summary": "Bitcoin fell near $62,100 as forced liquidations swept crypto markets."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Lighter loses $15.5M in sudden drain and blames a single API leak",
+      "url": "https://cryptoslate.com/lighter-loses-15-5m-in-sudden-drain-and-blames-a-single-api-leak/",
+      "pubDate": "Mon, 16 Nov 2026 20:40:12 +0000",
+      "summary": "Bitquery traced 10.39 million USDC off Lighter."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
+      "url": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
+      "pubDate": "Mon, 16 Nov 2026 21:51:04 +0000",
+      "summary": "Huaisong Xiang admitted using confidential crypto listing information to make $125,523 trading perpetual futures on Hyperliquid."
+    }
+  ]
+}
