@@ -1,1 +1,43 @@
-PLACEHOLDER_WILL_FAIL
+{
+  "asof": "2026-11-16T18:02:45Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Safe wallet reportedly loses $6.5M as Zodiac suspects key compromise",
+      "url": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 17:49:13 +0000",
+      "summary": "Zodiac's co-founder said a likely compromised key and overly permissive wallet settings enabled the theft, rather than a flaw in its smart contracts."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 16:26:52 +0000",
+      "summary": "Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic's IPO announcement."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+      "url": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 14:55:46 +0000",
+      "summary": "Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Lighter pauses withdrawals after reported $10M account theft",
+      "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 14:19:50 +0000",
+      "summary": "Lighter has paused withdrawals after reporting a leaked trader API key, with Bubblemaps tracking $10.4 million withdrawn."
+    }
+  ]
+}
