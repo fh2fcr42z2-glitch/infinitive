@@ -1,1 +1,267 @@
-PLACEHOLDER_TO_BE_REPLACED
+{
+  "asof": "2026-11-16T23:02:10Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Custodia Bank loses Supreme Court bid for direct Fed payment access",
+      "url": "https://cointelegraph.com/news/custodia-bank-loses-supreme-court-bid-for-direct-fed-payment-access",
+      "pubDate": "Mon, 16 Nov 2026 22:54:57 +0000",
+      "summary": "The Supreme Court refused to hear Custodia Banks appeal, meaning a lower court ruling allowing the Fed to reject account applications will stand."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "German lawmakers back crypto freezes outside criminal cases",
+      "url": "https://cointelegraph.com/news/german-lawmakers-back-crypto-freezes-outside-criminal-cases",
+      "pubDate": "Mon, 16 Nov 2026 22:46:44 +0000",
+      "summary": "Customs authorities could hold suspicious assets for 30 days under the bill, with court oversight for extensions and disputed confiscation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance hack may push institutions to outside custody, FalconX exec says",
+      "url": "https://cointelegraph.com/news/binance-hack-institutional-crypto-custody-falconx",
+      "pubDate": "Mon, 16 Nov 2026 22:19:41 +0000",
+      "summary": "FalconXs Joshua Lim says the Binance hack could push institutions to keep crypto off exchanges and change how large investors trade in 2027."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Heres what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Mon, 16 Nov 2026 22:07:36 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitmine edges toward 5% of ETH supply as treasuries report buys amid market slump",
+      "url": "https://cointelegraph.com/markets/bitmine-nears-5-eth-supply-treasuries-report-buys-amid-market-slump",
+      "pubDate": "Mon, 16 Nov 2026 20:45:47 +0000",
+      "summary": "Strategy, Strive, Bitmine and Cypherpunk disclosed fresh additions to their crypto treasuries, spanning Bitcoin, Ether and Zcash."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
+      "url": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts",
+      "pubDate": "Mon, 16 Nov 2026 20:18:02 +0000",
+      "summary": "Johnson was joined by Lord Ross Kempsell who called for regulators to work with industry participants to bring the UK to the forefront."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Alibaba's Qwen 4 Max Leads China's AI Agent RaceBut You Can't Download It",
+      "url": "https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it",
+      "pubDate": "Mon, 16 Nov 2026 22:46:02 +0000",
+      "summary": "Alibaba's new flagship jumps ahead of Chinese rivals on agent and web design leaderboards, with cheaper API access. The closed model also previews the next generation of open Qwen releases."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Wallet Maker Trezor Says Customer Data Was Exposed Again",
+      "url": "https://decrypt.co/383397/bitcoin-wallet-trezor-third-party-breach-customer-data",
+      "pubDate": "Mon, 16 Nov 2026 22:18:03 +0000",
+      "summary": "A second Trezor shipping partner was breached in three months, exposing buyers' addresses and order details."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin's $2 Billion Liquidation Weekend Leaves Traders Watching $60,000",
+      "url": "https://decrypt.co/383366/bitcoin-2-billion-liquidation-weekend-traders-watching-60000",
+      "pubDate": "Mon, 16 Nov 2026 21:46:03 +0000",
+      "summary": "Bitcoin fell near $62,100 as forced liquidations swept crypto markets. ETF withdrawals and a crowded options trade offer a closer look at the damage left behind."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hackers Redirected Bitcoin Miner Rewards via AI Attack, Luxor CEO Says",
+      "url": "https://decrypt.co/383392/hackers-redirected-bitcoin-miner-rewards-ai-attack-luxor",
+      "pubDate": "Mon, 16 Nov 2026 21:16:03 +0000",
+      "summary": "Luxor said hackers redirected hashrate from just over a dozen client accounts through its Commander tool, and its CEO blamed a sophisticated AI-enabled vector."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+      "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
+      "pubDate": "Mon, 16 Nov 2026 20:36:03 +0000",
+      "summary": "The firms stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a waterfall drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropics IPO."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Clarity Act Defeat Failure of American Leadership: Trumps Former Crypto Chief",
+      "url": "https://decrypt.co/383356/clarity-act-defeat-failure-of-american-leadership-trumps-former-crypto-chief",
+      "pubDate": "Mon, 16 Nov 2026 19:36:03 +0000",
+      "summary": "Former White House crypto chief Patrick Witt said the Clarity Act lost against the clock, and regulators will now set the rules."
+    },
+    {
+      "source": "The Block",
+      "title": "Trezor hit by another shipping partner data leak, affecting 27,000 Skladon orders",
+      "url": "https://www.theblock.co/news/business/2026-11-16-trezor-hit-another-shipping-partner-data-leak-affecting-27000-skladon-orders-441524",
+      "pubDate": "Mon, 16 Nov 2026 21:44:25 +0000",
+      "summary": "Trezor warns of scam calls and physical security risks after customer addresses leak at shipping partner."
+    },
+    {
+      "source": "The Block",
+      "title": "Democratic senators warn SECs tokenized stock exemption has illicit finance gaps",
+      "url": "https://www.theblock.co/news/regulation/2026-11-16-democratic-senators-warn-secs-tokenized-stock-exemption-illicit-finance-gaps-441432",
+      "pubDate": "Mon, 16 Nov 2026 20:44:01 +0000",
+      "summary": "Four Democratic senators are raising concerns about the Securities and Exchange Commission's newly unveiled innovation exemption."
+    },
+    {
+      "source": "The Block",
+      "title": "Peraire-Bueno brothers acquitted of wire fraud in $25 million Ethereum MEV case",
+      "url": "https://www.theblock.co/news/regulation/2026-11-16-peraire-bueno-brothers-acquitted-ethereum-mev-wire-fraud-441425",
+      "pubDate": "Mon, 16 Nov 2026 20:30:37 +0000",
+      "summary": "A judge acquitted the Peraire-Bueno brothers of wire fraud over the Ethereum MEV exploit, ruling prosecutors showed no misrepresentation."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitwise sees institutional demand for tokenized assets despite market volatility",
+      "url": "https://www.theblock.co/news/finance/2026-11-16-bitwise-sees-institutional-demand-tokenized-assets-despite-market-volatility",
+      "pubDate": "Mon, 16 Nov 2026 19:15:00 +0000",
+      "summary": "Bitwise notes continued interest in tokenized products amid broader market moves."
+    },
+    {
+      "source": "The Block",
+      "title": "Crypto markets digest weekend liquidations as BTC holds above key levels",
+      "url": "https://www.theblock.co/news/markets/2026-11-16-crypto-markets-digest-weekend-liquidations-btc-holds",
+      "pubDate": "Mon, 16 Nov 2026 18:45:00 +0000",
+      "summary": "Traders assess impact of large liquidations on Bitcoin and Ethereum."
+    },
+    {
+      "source": "The Block",
+      "title": "Regulatory developments in Europe around crypto asset freezes",
+      "url": "https://www.theblock.co/news/regulation/2026-11-16-regulatory-developments-europe-crypto-asset-freezes",
+      "pubDate": "Mon, 16 Nov 2026 17:30:00 +0000",
+      "summary": "European lawmakers advance proposals for temporary asset holds."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin Lightning developers patch bug that could make completed payments disappear",
+      "url": "https://cryptoslate.com/bitcoin-lightning-developers-patch-bug-that-could-make-completed-payments-disappear/",
+      "pubDate": "Mon, 16 Nov 2026 22:10:43 +0000",
+      "summary": "LND's November 11 releases prevent a specific update-log overflow from omitting settled HTLCs when channel state is rebuilt."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Strategy planned to slow STRC buybacks near $100 but spent another $1.4 billion instead",
+      "url": "https://cryptoslate.com/strategy-planned-to-slow-strc-buybacks-near-100-but-spent-another-1-4-billion-instead/",
+      "pubDate": "Mon, 16 Nov 2026 21:40:03 +0000",
+      "summary": "Strategy has spent more repurchasing STRC near $100 than at deeper discounts, testing its stated strategy of slowing purchases as the preferred stock approaches face value."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Google says AI rewrote a video decoder and made it 2030% faster in tests",
+      "url": "https://cryptoslate.com/google-says-ai-rewrote-a-video-decoder-and-made-it-20-30-faster-in-tests/",
+      "pubDate": "Mon, 16 Nov 2026 21:10:44 +0000",
+      "summary": "Google reports matching conformance-test output and a 2030% speed edge on sample clips, without announcing production deployment."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Lighter loses $15.5M in sudden drain and blames a single API leak",
+      "url": "https://cryptoslate.com/lighter-loses-15-5m-in-sudden-drain-and-blames-a-single-api-leak/",
+      "pubDate": "Mon, 16 Nov 2026 20:40:12 +0000",
+      "summary": "Bitquery traced 10.39 million USDC off Lighter, while a second alleged loss and the recovery outcome remain unresolved."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "XRPs proposed upgrade could improve trading without boosting token demand",
+      "url": "https://cryptoslate.com/xrps-proposed-upgrade-could-improve-trading-without-boosting-token-demand/",
+      "pubDate": "Mon, 16 Nov 2026 20:10:19 +0000",
+      "summary": "New pool-pricing curves could improve execution, but additional XRP holding demand would depend on adoption, routing and persistent funding."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Jensen Huang has just 14% chance of Nvidia return this year despite Trump backing",
+      "url": "https://cryptoslate.com/jensen-huang-has-just-14-chance-of-nvidia-return-this-year-despite-trump-backing/",
+      "pubDate": "Mon, 16 Nov 2026 19:40:56 +0000",
+      "summary": "Prediction market traders see just a 14% chance of Jensen Huang returning to Nvidia before the end of 2026, despite mounting pressure to reinstate the company's ousted co-founder."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia",
+      "pubDate": "Mon, 16 Nov 2026 21:20:36 +0000",
+      "summary": "Bitcoin price held near $65,000 on Monday afternoon, shrugging off a 2.5% Nasdaq slide as Nvidia's board ruled out bringing back Jensen Huang and the dollar hit a 19-month high."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Senate Agriculture Committee to Hear Trumps CFTC Nominees Tuesday",
+      "url": "https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday",
+      "pubDate": "Mon, 16 Nov 2026 20:44:23 +0000",
+      "summary": "The Senate Agriculture Committee will hear Nathan Anonick and Matthew Rowland on Tuesday, President Trump's bipartisan picks to join CFTC Chairman Michael Selig."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Rob Hamilton: The AI Black Hole is Pulling Liquidity Away from Bitcoin",
+      "url": "https://bitcoinmagazine.com/videos/rob-hamilton-the-ai-black-hole-pulling-liquidity-away-from-bitcoin",
+      "pubDate": "Mon, 16 Nov 2026 19:50:00 +0000",
+      "summary": "Discussion on how AI-related capital flows are impacting Bitcoin liquidity."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "T. Rowe Prices Blue Macellari: Institutions Not Backing Away From Bitcoin",
+      "url": "https://bitcoinmagazine.com/markets/t-rowe-prices-blue-macellari-institutions-not-backing-away-from-bitcoin",
+      "pubDate": "Mon, 16 Nov 2026 18:30:00 +0000",
+      "summary": "Institutional views on Bitcoin remain constructive despite short-term volatility."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "$36B Wealth Firm Strategist: Bitcoins Supercycle Is Still Intact",
+      "url": "https://bitcoinmagazine.com/markets/36b-wealth-firm-strategist-bitcoins-supercycle-is-still-intact",
+      "pubDate": "Mon, 16 Nov 2026 17:45:00 +0000",
+      "summary": "Long-term thesis for Bitcoin remains in place according to large wealth manager."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin network activity and miner behavior amid price pressure",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-network-activity-miner-behavior-price-pressure",
+      "pubDate": "Mon, 16 Nov 2026 16:20:00 +0000",
+      "summary": "On-chain metrics show mixed signals as price consolidates."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Former Robinhood engineer pleads guilty to insider trading scheme on Hyperliquid",
+      "url": "https://www.coindesk.com/markets/2026/11/16/former-robinhood-engineer-pleads-guilty-to-insider-trading-scheme-on-hyperliquid",
+      "pubDate": "Mon, 16 Nov 2026 21:51:04 +0000",
+      "summary": "Huaisong Xiang admitted using confidential crypto listing information to make $125,523 trading perpetual futures on Hyperliquid."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+      "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+      "pubDate": "Mon, 16 Nov 2026 20:35:21 +0000",
+      "summary": "Rising bond yields, ETF outflows and forced selling are weighing on bitcoin as traders brace for more losses."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
+      "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
+      "pubDate": "Mon, 16 Nov 2026 18:54:19 +0000",
+      "summary": "The Commodity Futures Trading Commission directed platforms such as Kalshi to defy state bans, but the Democrats want it to reverse course, citing court orders."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
+      "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
+      "pubDate": "Mon, 16 Nov 2026 16:41:42 +0000",
+      "summary": "The decentralized exchange blamed a leaked trading API key and said its smart contracts were unaffected, while investigators traced funds to Hyperliquid."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+      "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+      "pubDate": "Mon, 16 Nov 2026 15:54:11 +0000",
+      "summary": "A central bank official reportedly said legitimate funds become tainted when moved into stablecoins, comparing the market to the informal dolar-cabo system."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "German parliament proposes crypto seizures without criminal charges",
+      "url": "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
+      "pubDate": "Mon, 16 Nov 2026 15:44:59 +0000",
+      "summary": "German lawyers said a proposed law allowing the seizure of assets worth more than 100,000 euros could impose a burden of proof on crypto holders rather than the authorities."
+    }
+  ]
+}
