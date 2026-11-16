@@ -1,1 +1,78 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-16T03:02:05Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/feed",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Luxor CEO warns of AI dark forest after Bitcoin miner hijack",
+      "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 02:33:07 +0000",
+      "summary": "Attackers redirected customers Bitcoin mining power through Luxors Commander platform over the weekend, prompting its CEO to issue a warning to crypto businesses."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Jensen Huang weighs Nvidia comeback days after shock exit: FT",
+      "url": "https://cointelegraph.com/news/jensen-huang-weighs-nvidia-comeback-days-after-shock-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 15 Nov 2026 23:47:45 +0000",
+      "summary": "Silicon Valley executives are reportedly organizing a campaign to bring Huang back and are looking to gain White House support."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodlers Digest",
+      "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 15 Nov 2026 22:50:59 +0000",
+      "summary": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A war room has been set up by supporters to reinstate Nvidia boss Jensen Huang."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Enterprise blockchain is going to come back from the dead",
+      "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 15 Nov 2026 14:30:00 +0000",
+      "summary": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Heres what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 15 Nov 2026 11:18:48 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin falls to four-month low near $62K as crypto selloff deepens",
+      "url": "https://cointelegraph.com/markets/bitcoin-four-month-low-62k-crypto-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sun, 15 Nov 2026 10:23:17 +0000",
+      "summary": "The global cryptocurrency market capitalization fell 4% to $2.26 trillion over 24 hours, while Ether and Solana posted double-digit weekly losses."
+    },
+    {
+      "source": "Decrypt",
+      "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
+      "url": "https://decrypt.co/383284/how-wall-street-racing-onchain-dollar-stablecoins",
+      "pubDate": "Sun, 15 Nov 2026 16:01:02 +0000",
+      "summary": "From Goldman and Citis $270 million Project Faro to SoFi, Anchorage, Mastercard, Visa and Circle, traditional finance is racing to claim the onchain dollar once dominated by Tether and Circle."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Lose $2.1 Billion in November as Outflow Streak Hits Seven Days",
+      "url": "https://decrypt.co/383282/bitcoin-etfs-lose-2-1-billion-november-outflow-streak-seven-days",
+      "pubDate": "Sun, 15 Nov 2026 14:01:02 +0000",
+      "summary": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000."
+    },
+    {
+      "source": "Decrypt",
+      "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidias CEO",
+      "url": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
+      "pubDate": "Sat, 14 Nov 2026 18:01:02 +0000",
+      "summary": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties sending Nvidias stock reeling and leaving the chipmaker leaderless."
+    }
+  ]
+}
