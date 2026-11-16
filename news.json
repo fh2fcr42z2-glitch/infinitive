@@ -1,1 +1,22 @@
-PLACEHOLDER_WILL_FAIL
+{
+  "asof": "2026-11-16T00:03:09Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "US sellers drive Bitcoin crash, Jensen plots Nvidia comeback: Hodler's Digest",
+      "url": "https://cointelegraph.com/magazine/us-sellers-drive-bitcoin-crash-jensen-plots-comeback-hodlers-digest",
+      "pubDate": "Sun, 15 Nov 2026 22:50:59 +0000",
+      "summary": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A \"war room\" has been set up by supporters to reinstate Nvidia boss Jensen Huang."
+    }
+  ]
+}
