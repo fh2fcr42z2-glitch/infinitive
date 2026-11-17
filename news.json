@@ -1,1 +1,36 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-17T04:02:28Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Trezor customer data exposed in 3rd partner breach this year",
+      "url": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 03:46:22 +0000",
+      "summary": "Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Hackers inject credit card, crypto-stealing malware into 178 major websites",
+      "url": "https://cointelegraph.com/news/hackers-inject-malware-into-178-major-websites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 01:02:05 +0000",
+      "summary": "Ledger and Coinpass were among the businesses whose websites served malware designed to steal visitors crypto and credit card details, according to security researchers."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Nvidia shares fall 4% as board reportedly rules out Huang return",
+      "url": "https://cointelegraph.com/news/nvidia-shares-fall-4-as-board-reportedly-rules-out-huang-return?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 16 Nov 2026 23:50:41 +0000",
+      "summary": "The chipmakers board is reportedly focused on investigating Huangs conduct, even as a petition calling for his reinstatement gathers more than 187,000 signatures."
+    }
+  ]
+}
