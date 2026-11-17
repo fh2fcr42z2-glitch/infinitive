@@ -1,1 +1,253 @@
-PLACEHOLDER_WILL_FAIL
+{
+  "asof": "2026-11-17T13:04:16Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Revolut plans four blockchain-based funds for private markets, chair says",
+      "url": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets",
+      "pubDate": "Tue, 17 Nov 2026 12:24:20 +0000",
+      "summary": "Citing a looming liquidity crunch, Martin Gilbert said blockchain could help bring more liquidity to private markets."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US senators seek SEC answers on tokenized stock money laundering risks",
+      "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards",
+      "pubDate": "Tue, 17 Nov 2026 11:36:26 +0000",
+      "summary": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BlackRock's Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
+      "url": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear",
+      "pubDate": "Tue, 17 Nov 2026 11:18:18 +0000",
+      "summary": "BlackRock's Bitcoin ETF ended 11 sessions of withdrawals totaling $2.35 billion, but CryptoQuant says one day of inflows is too early to signal a recovery."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
+      "url": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low",
+      "pubDate": "Tue, 17 Nov 2026 11:14:05 +0000",
+      "summary": "Bitcoin short-term holders' onchain spending notched the largest proportion of realized losses since February after BTC/USD dropped to $62,000."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Google says hackers use AI agents to find and exploit software flaws",
+      "url": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws",
+      "pubDate": "Tue, 17 Nov 2026 10:05:59 +0000",
+      "summary": "Google says attackers are using AI agents to find and exploit software flaws automatically, reducing the time organizations have to apply patches."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
+      "url": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit",
+      "pubDate": "Tue, 17 Nov 2026 09:30:05 +0000",
+      "summary": "Judge Jessica Clarke said the transactions did not involve false promises, but the ruling did not determine whether the brothers' conduct was ethical or violated protocol rules."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack",
+      "url": "https://decrypt.co/383418/morning-minute-the-cftc-officially-greenlights-perps-in-the-us-starting-with-backpack",
+      "pubDate": "Tue, 17 Nov 2026 12:56:24 +0000",
+      "summary": "CFTC chairman Mike Selig said he looks forward to building on this milestone, which begs the question-who's next?"
+    },
+    {
+      "source": "Decrypt",
+      "title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
+      "url": "https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents",
+      "pubDate": "Tue, 17 Nov 2026 12:50:55 +0000",
+      "summary": "The Solana Foundation's head of AI said agents now account for three-quarters of AI token use, and need blockchains to pay for things."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
+      "url": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
+      "pubDate": "Tue, 17 Nov 2026 11:05:25 +0000",
+      "summary": "Malicious code served through the website testing platform replaced visitors' wallet addresses with the attacker's and skimmed cards."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia Board Not Considering Jensen Huang's Return: Report",
+      "url": "https://decrypt.co/383411/nvidia-board-not-considering-jensen-huangs-return-report",
+      "pubDate": "Tue, 17 Nov 2026 09:54:32 +0000",
+      "summary": "The board is focused on its probe into the ousted co-founder, a source told CNBC, despite Donald Trump and Elon Musk backing his return."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
+      "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+      "pubDate": "Tue, 17 Nov 2026 09:27:29 +0000",
+      "summary": "A federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading",
+      "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
+      "pubDate": "Tue, 17 Nov 2026 09:01:03 +0000",
+      "summary": "CoinGecko has received backing from the Solana Foundation to expand into market intelligence and explore trading."
+    },
+    {
+      "source": "The Block",
+      "title": "Grvt launches RWA perpetuals with funding tied to traditional markets",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-17-grvt-launches-rwa-perpetuals-with-funding-tied-to-traditional-markets-442089",
+      "pubDate": "Tue, 17 Nov 2026 13:00:00 +0000",
+      "summary": "Grvt's Stable Funding Perps debut across seven commodity markets, with funding rates linked to market makers' financing costs."
+    },
+    {
+      "source": "The Block",
+      "title": "Lighter reopens withdrawals after trader's API key leak, returns about $5 million in USDC",
+      "url": "https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113",
+      "pubDate": "Tue, 17 Nov 2026 12:00:41 +0000",
+      "summary": "Lighter reopened deposits and withdrawals and said it returned about $5 million in USDC to the affected trader."
+    },
+    {
+      "source": "The Block",
+      "title": "Former Robinhood engineer pleads guilty to wire fraud over trades ahead of crypto listing announcements",
+      "url": "https://www.theblock.co/news/regulation/2026-11-17-former-robinhood-engineer-pleads-guilty-to-wire-fraud-over-trades-ahead-of-crypto-listing-announcements-442106",
+      "pubDate": "Tue, 17 Nov 2026 10:49:40 +0000",
+      "summary": "A former Robinhood engineer faces up to 20 years after admitting to profiting from Hyperliquid trades ahead of crypto listing announcements."
+    },
+    {
+      "source": "The Block",
+      "title": "Tether Capital invests $15 million in Nomad, eyes wider access to USDT and XAUT in Brazil",
+      "url": "https://www.theblock.co/news/business/2026-11-17-tether-nomad-brazil-investment-442097",
+      "pubDate": "Tue, 17 Nov 2026 10:20:37 +0000",
+      "summary": "Tether said the deal could ease international payments in Brazil and open the door to USDT and Tether Gold integrations."
+    },
+    {
+      "source": "The Block",
+      "title": "Grayscale says crypto pullback offers 'compelling entry points' as bitcoin falls to $64,000",
+      "url": "https://www.theblock.co/news/markets/2026-11-17-grayscale-compelling-entry-points-bitcoin-442083",
+      "pubDate": "Tue, 17 Nov 2026 07:39:17 +0000",
+      "summary": "Grayscale Head of Research Zach Pandl said crypto still has strong fundamental demand, such as institutional adoption of stablecoins."
+    },
+    {
+      "source": "The Block",
+      "title": "Cathie Wood's Ark Invest loads up on crypto stocks while selling $85 million in Nvidia",
+      "url": "https://www.theblock.co/news/business/2026-11-17-ark-invest-buys-crypto-stocks-sells-nvidia-442080",
+      "pubDate": "Tue, 17 Nov 2026 06:35:02 +0000",
+      "summary": "Cathie Wood's Ark Invest bought additional shares in Block Inc., Circle, and Coinbase as the stocks traded lower on Monday."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Lighter's exploit raises uncomfortable questions for Hyperliquid's $5.7 billion market",
+      "url": "https://cryptoslate.com/lighters-exploit-raises-uncomfortable-questions-for-hyperliquids-5-7-billion-market/",
+      "pubDate": "Tue, 17 Nov 2026 12:00:11 +0000",
+      "summary": "After @Lighter_xyz described a key-driven pool drain, Hyperliquid's permissions point to account losses while a matching extraction remains unproven."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Hackers found a way to steal crypto without hacking wallets, and Ledger was caught in the attack",
+      "url": "https://cryptoslate.com/hackers-found-a-way-to-steal-crypto-without-hacking-wallets-and-ledger-was-caught-in-the-attack/",
+      "pubDate": "Tue, 17 Nov 2026 10:40:04 +0000",
+      "summary": "Report URI listed Ledger's website in its affected sample, while Hudson Rock described code that could change a payment destination before signing."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Louisiana blocks prediction markets and threatens $370M in revenue from exchanges",
+      "url": "https://cryptoslate.com/louisiana-blocks-prediction-markets-and-threatens-370m-in-revenue-from-exchanges/",
+      "pubDate": "Tue, 17 Nov 2026 09:29:48 +0000",
+      "summary": "The order covers brokerage, clearing and settlement as well as exchanges. Its effects on customer trading remain unconfirmed."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Aave's revenue falls $10M in Q3, but one metric tells a new story",
+      "url": "https://cryptoslate.com/aaves-revenue-falls-10m-in-q3-but-one-metric-tells-a-new-story/",
+      "pubDate": "Mon, 16 Nov 2026 23:30:57 +0000",
+      "summary": "Aave Labs' quarterly breakdown shows lower liquidation receipts explain 39% of the revenue decline, while a separate dashboard reports rising net income."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Why Bitcoin's June Low May Not Be the Bottom - $58K the Key Test",
+      "url": "https://bitcoinmagazine.com/videos/why-bitcoins-june-low-may-not-be-the-bottom-58k-the-key-test",
+      "pubDate": "Mon, 16 Nov 2026 21:43:56 +0000",
+      "summary": "Analysis on whether Bitcoin's June low is the bottom, with $58K as a key test level."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia",
+      "pubDate": "Mon, 16 Nov 2026 21:20:36 +0000",
+      "summary": "Bitcoin price held near $65,000 on Monday afternoon, shrugging off a 2.5% Nasdaq slide as Nvidia's board ruled out bringing back Jensen Huang and the dollar hit a 19-month high."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Senate Agriculture Committee to Hear Trump's CFTC Nominees Tuesday",
+      "url": "https://bitcoinmagazine.com/news/senate-agriculture-committee-cftc-nominees",
+      "pubDate": "Mon, 16 Nov 2026 20:15:00 +0000",
+      "summary": "The Senate Agriculture Committee is set to hear Trump's nominees for the CFTC."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Rob Hamilton: The AI Black Hole is Pulling Liquidity Away from Bitcoin",
+      "url": "https://bitcoinmagazine.com/markets/rob-hamilton-ai-black-hole-bitcoin",
+      "pubDate": "Mon, 16 Nov 2026 19:00:00 +0000",
+      "summary": "Discussion on how AI is attracting liquidity that might otherwise flow to Bitcoin."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "T. Rowe Price's Blue Macellari: Institutions Not Backing Away From Bitcoin",
+      "url": "https://bitcoinmagazine.com/markets/t-rowe-price-institutions-bitcoin",
+      "pubDate": "Mon, 16 Nov 2026 18:00:00 +0000",
+      "summary": "Institutions are not backing away from Bitcoin according to T. Rowe Price strategist."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "$36B Wealth Firm Strategist: Bitcoin's Supercycle Is Still Intact",
+      "url": "https://bitcoinmagazine.com/markets/36b-wealth-firm-bitcoin-supercycle",
+      "pubDate": "Mon, 16 Nov 2026 17:00:00 +0000",
+      "summary": "A strategist from a large wealth firm says Bitcoin's supercycle remains intact."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+      "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+      "pubDate": "Tue, 17 Nov 2026 13:02:56 +0000",
+      "summary": "In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
+      "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
+      "pubDate": "Tue, 17 Nov 2026 13:00:00 +0000",
+      "summary": "Grvt's new Stable Funding Perps tie the cost of holding commodities trades to traditional-market financing costs, rather than volatile crypto-style funding."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
+      "pubDate": "Tue, 17 Nov 2026 12:16:53 +0000",
+      "summary": "Your day-ahead look for Nov. 17, 2026"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
+      "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+      "pubDate": "Tue, 17 Nov 2026 12:00:55 +0000",
+      "summary": "The fund swapped its common stock in Bloom Energy, Nebius and SanDisk for call options, keeping its bet on AI power, computing and memory."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
+      "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
+      "pubDate": "Tue, 17 Nov 2026 11:36:07 +0000",
+      "summary": "Bitcoin (BTC) is down a further 1.0% since midnight UTC at around $64,200, with its bounce from the weekend selloff stalled and pressure building on all fronts."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
+      "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+      "pubDate": "Tue, 17 Nov 2026 11:29:51 +0000",
+      "summary": "The foundation plans Solana-powered trading on CoinGecko's website, GeckoTerminal and app."
+    }
+  ]
+}
