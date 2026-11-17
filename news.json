@@ -1,1 +1,64 @@
-FULL_CONTENT_HERE
+{
+  "asof": "2026-11-17T17:02:31Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
+      "url": "https://cointelegraph.com/markets/bitcoin-drops-25-nvidia-stock-risks-new-5-month-low-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 16:39:43 +0000",
+      "summary": "Bitcoin price downside sees local lows of $63,269 as Nvidia stock targets $150 as traders brace for volatility over Q3 earnings."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 14:54:40 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Former Robinhood Engineer Pleads Guilty to Crypto Insider Trading Scheme",
+      "url": "https://decrypt.co/383443/former-robinhood-engineer-pleads-guilty-crypto-insider-trading",
+      "pubDate": "Tue, 17 Nov 2026 16:41:38 +0000",
+      "summary": "Huaisong Xiang admitted repeatedly trading perpetual futures on Hyperliquid using confidential Robinhood listing plans, pocketing $125,523."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
+      "url": "https://decrypt.co/383414/optimizely-hack-hijacked-ledger-bbc-and-176-other-sites-to-swap-crypto-wallet-addresses",
+      "pubDate": "Tue, 17 Nov 2026 11:05:25 +0000",
+      "summary": "Malicious code served through the website testing platform replaced visitors' wallet addresses with the attacker's and skimmed cards."
+    },
+    {
+      "source": "The Block",
+      "title": "Lighter reopens withdrawals after trader's API key leak, returns about $5 million in USDC",
+      "url": "https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113",
+      "pubDate": "Tue, 17 Nov 2026 12:00:41 +0000",
+      "summary": "Lighter reopened deposits and withdrawals and said it returned about $5 million in USDC to the affected trader."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Lighter's exploit raises uncomfortable questions for Hyperliquid's $5.7 billion market",
+      "url": "https://cryptoslate.com/lighters-exploit-raises-uncomfortable-questions-for-hyperliquids-5-7-billion-market/",
+      "pubDate": "Tue, 17 Nov 2026 12:00:11 +0000",
+      "summary": "After Lighter described a key-driven pool drain, Hyperliquid's permissions point to account losses while a matching extraction remains unproven."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
+      "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
+      "pubDate": "Tue, 17 Nov 2026 11:36:07 +0000",
+      "summary": "Bitcoin (BTC) is down a further 1.0% since midnight UTC at around $64,200, with its bounce from the weekend selloff stalled and pressure building on all fronts."
+    }
+  ]
+}
