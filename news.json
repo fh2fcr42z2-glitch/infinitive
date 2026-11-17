@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-17T21:03:34Z",
+  "asof": "2026-11-17T21:05:39Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -27,199 +27,31 @@
     },
     {
       "source": "CoinTelegraph",
-      "title": "Binance's $4.3B settlement: What it means for crypto regulation",
-      "url": "https://cointelegraph.com/news/binance-4-3b-settlement-crypto-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 17 Nov 2026 16:30:00 +0000",
-      "summary": "Analysis of the landmark settlement and its implications for the broader crypto industry."
+      "title": "Fed’s Waller cites Binance hack in warning over tokenized finance",
+      "url": "https://cointelegraph.com/news/fed-waller-binance-hack-tokenized-finance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 16:40:00 +0000",
+      "summary": "Federal Reserve official references recent incidents in comments on risks in tokenized assets."
     },
     {
       "source": "CoinTelegraph",
-      "title": "Ethereum ETF inflows resume after brief pause",
-      "url": "https://cointelegraph.com/news/ethereum-etf-inflows-resume?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 17 Nov 2026 15:45:12 +0000",
-      "summary": "Spot Ethereum ETFs saw renewed inflows as market sentiment stabilized."
+      "title": "Bitcoin drops 2.5% as Nvidia stock risks new 5-month lows into Q3 earnings",
+      "url": "https://cointelegraph.com/news/bitcoin-drops-nvidia-stock-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 15:55:12 +0000",
+      "summary": "BTC follows broader risk asset weakness ahead of key tech earnings."
     },
     {
       "source": "CoinTelegraph",
-      "title": "Solana DeFi TVL holds steady amid broader market pressure",
-      "url": "https://cointelegraph.com/news/solana-defi-tvl-steady?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 17 Nov 2026 14:20:33 +0000",
-      "summary": "Solana's DeFi ecosystem maintains total value locked despite Bitcoin and Ethereum weakness."
+      "title": "Here’s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 14:30:45 +0000",
+      "summary": "Daily roundup of market moves and key developments."
     },
     {
       "source": "CoinTelegraph",
-      "title": "Bitget investigates reported exploit affecting user funds",
-      "url": "https://cointelegraph.com/news/bitget-investigates-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 17 Nov 2026 13:10:45 +0000",
-      "summary": "Exchange says it is looking into claims of unauthorized withdrawals."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
-      "url": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks",
-      "pubDate": "Tue, 17 Nov 2026 17:18:41 +0000",
-      "summary": "A wallet linked to October's record Binance theft moved $63 million in ether, before analysts flagged a larger wave of transfers and reported Bitcoin swaps amid ongoing U.S. recovery efforts."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Bitcoin Holds Near $64K as ETF Outflows Slow",
-      "url": "https://decrypt.co/bitcoin-holds-64k-etf-outflows-slow",
-      "pubDate": "Tue, 17 Nov 2026 16:50:22 +0000",
-      "summary": "BTC consolidates as institutional flows show signs of stabilization."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Ethereum Developers Push Fusaka Upgrade Timeline",
-      "url": "https://decrypt.co/ethereum-fusaka-upgrade",
-      "pubDate": "Tue, 17 Nov 2026 15:30:11 +0000",
-      "summary": "Core team outlines next steps for the upcoming network upgrade."
-    },
-    {
-      "source": "Decrypt",
-      "title": "DeFi Protocol AERO Sees Volume Spike on Base",
-      "url": "https://decrypt.co/aero-volume-spike-base",
-      "pubDate": "Tue, 17 Nov 2026 14:15:00 +0000",
-      "summary": "Aerodrome reports increased activity amid broader Base ecosystem growth."
-    },
-    {
-      "source": "Decrypt",
-      "title": "Pump.fun Continues to Dominate Solana Memecoin Launchpad",
-      "url": "https://decrypt.co/pump-fun-solana-memecoin",
-      "pubDate": "Tue, 17 Nov 2026 13:40:55 +0000",
-      "summary": "Platform maintains lead in new token launches despite market cooldown."
-    },
-    {
-      "source": "Decrypt",
-      "title": "ENA Token Faces Pressure as Ethena Depeg Concerns Linger",
-      "url": "https://decrypt.co/ena-ethena-depeg",
-      "pubDate": "Tue, 17 Nov 2026 12:25:30 +0000",
-      "summary": "Stablecoin-related token sees volatility amid ongoing market scrutiny."
-    },
-    {
-      "source": "The Block",
-      "title": "Lighter reopens withdrawals after trader's API key leak, returns about $5 million in USDC",
-      "url": "https://www.theblock.co/news/defi/2026-11-17-lighter-reopens-withdrawals-after-traders-api-key-leak-returns-about-5-million-in-usdc-442113",
-      "pubDate": "Tue, 17 Nov 2026 12:00:41 +0000",
-      "summary": "Lighter reopened deposits and withdrawals and said it returned about $5 million in USDC to the affected trader."
-    },
-    {
-      "source": "The Block",
-      "title": "Bitcoin ETFs See Net Outflows Slow for Third Straight Day",
-      "url": "https://www.theblock.co/news/markets/bitcoin-etfs-outflows-slow",
-      "pubDate": "Tue, 17 Nov 2026 11:45:20 +0000",
-      "summary": "Spot Bitcoin products recorded smaller redemptions as price holds key level."
-    },
-    {
-      "source": "The Block",
-      "title": "Ethereum Layer-2 Activity Remains Elevated Despite L1 Fee Drop",
-      "url": "https://www.theblock.co/news/layer2/ethereum-l2-activity",
-      "pubDate": "Tue, 17 Nov 2026 10:30:15 +0000",
-      "summary": "Arbitrum and Base continue to process high transaction volumes."
-    },
-    {
-      "source": "The Block",
-      "title": "Solana DEX Volume Holds as Meme Activity Persists",
-      "url": "https://www.theblock.co/news/solana/solana-dex-volume",
-      "pubDate": "Tue, 17 Nov 2026 09:55:40 +0000",
-      "summary": "On-chain trading remains robust on Solana even as broader markets cool."
-    },
-    {
-      "source": "The Block",
-      "title": "Institutional Holders Add to ETH Positions Amid Price Weakness",
-      "url": "https://www.theblock.co/news/markets/institutional-eth-add",
-      "pubDate": "Tue, 17 Nov 2026 09:10:22 +0000",
-      "summary": "On-chain data shows accumulation by large wallets."
-    },
-    {
-      "source": "The Block",
-      "title": "Crypto Exchange Reports User Fund Incident Under Investigation",
-      "url": "https://www.theblock.co/news/security/exchange-fund-incident",
-      "pubDate": "Tue, 17 Nov 2026 08:40:05 +0000",
-      "summary": "Platform says it is working with authorities on reported unauthorized access."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Lighter's exploit raises uncomfortable questions for Hyperliquid's $5.7 billion market",
-      "url": "https://cryptoslate.com/lighters-exploit-raises-uncomfortable-questions-for-hyperliquids-5-7-billion-market/",
-      "pubDate": "Tue, 17 Nov 2026 12:00:11 +0000",
-      "summary": "After Lighter described a key-driven pool drain, Hyperliquid's permissions point to account losses while a matching extraction remains unproven."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Bitcoin Price Action Suggests Range-Bound Trading Near $64,000",
-      "url": "https://cryptoslate.com/bitcoin-range-bound-64000/",
-      "pubDate": "Tue, 17 Nov 2026 11:20:33 +0000",
-      "summary": "BTC continues to trade in a tight range as buyers and sellers balance."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Ethereum Network Fees Drop to Multi-Month Lows",
-      "url": "https://cryptoslate.com/ethereum-fees-multi-month-lows/",
-      "pubDate": "Tue, 17 Nov 2026 10:15:18 +0000",
-      "summary": "Lower activity and L2 migration keep mainnet gas prices subdued."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Base Ecosystem Tokens Show Relative Strength",
-      "url": "https://cryptoslate.com/base-ecosystem-strength/",
-      "pubDate": "Tue, 17 Nov 2026 09:40:50 +0000",
-      "summary": "AERO and related assets outperform broader market."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Memecoin Launchpad Activity Concentrated on Solana",
-      "url": "https://cryptoslate.com/memecoin-launchpad-solana/",
-      "pubDate": "Tue, 17 Nov 2026 08:55:12 +0000",
-      "summary": "Pump.fun remains the primary venue for new token creation."
-    },
-    {
-      "source": "CryptoSlate",
-      "title": "Stablecoin Issuer Addresses Depeg Risks in Latest Update",
-      "url": "https://cryptoslate.com/stablecoin-depeg-risks-update/",
-      "pubDate": "Tue, 17 Nov 2026 08:10:40 +0000",
-      "summary": "Protocol provides transparency on collateral and reserves."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
-      "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
-      "pubDate": "Tue, 17 Nov 2026 11:36:07 +0000",
-      "summary": "Bitcoin (BTC) is down a further 1.0% since midnight UTC at around $64,200, with its bounce from the weekend selloff stalled and pressure building on all fronts."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Ethereum Traders Eye Key Support as Network Activity Shifts",
-      "url": "https://www.coindesk.com/markets/ethereum-support-network-activity",
-      "pubDate": "Tue, 17 Nov 2026 10:50:29 +0000",
-      "summary": "ETH holds above critical level while L2s capture more transactions."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Solana's DeFi Landscape Shows Resilience",
-      "url": "https://www.coindesk.com/markets/solana-defi-resilience",
-      "pubDate": "Tue, 17 Nov 2026 09:35:14 +0000",
-      "summary": "TVL and volume metrics remain elevated relative to other chains."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Crypto Market Watches for Signs of Institutional Re-Entry",
-      "url": "https://www.coindesk.com/markets/institutional-reentry-signs",
-      "pubDate": "Tue, 17 Nov 2026 08:45:00 +0000",
-      "summary": "ETF flow data and on-chain metrics under close observation."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Perpetual DEX Competition Intensifies After Recent Incidents",
-      "url": "https://www.coindesk.com/markets/perp-dex-competition",
-      "pubDate": "Tue, 17 Nov 2026 08:00:22 +0000",
-      "summary": "Platforms emphasize security and risk controls in marketing."
-    },
-    {
-      "source": "CoinDesk",
-      "title": "Memecoin Sector Sees Mixed Performance Across Chains",
-      "url": "https://www.coindesk.com/markets/memecoin-mixed-performance",
-      "pubDate": "Tue, 17 Nov 2026 07:20:55 +0000",
-      "summary": "Some tokens hold gains while others retrace with broader market."
+      "title": "Ethereum price analysis shows key levels to watch",
+      "url": "https://cointelegraph.com/news/ethereum-price-analysis-key-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 13:20:33 +0000",
+      "summary": "ETH consolidates as traders monitor support and resistance."
     }
   ]
 }
