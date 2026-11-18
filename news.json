@@ -1,1 +1,141 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-18T04:02:09Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Ledger hardware implant saga reaches Dubai's Virgin Megastore",
+      "url": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 18 Nov 2026 02:39:52 +0000",
+      "summary": "Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
+      "url": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 18 Nov 2026 00:16:43 +0000",
+      "summary": "Nvidia beat Wall Street's revenue expectations by 5.6% and issued a stronger-than-expected sales forecast, while its board resisted growing calls for Jensen Huang's reinstatement."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 22:37:51 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
+      "url": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 22:20:04 +0000",
+      "summary": "The CFTC stayed Kalshi's Trump-related mention markets after raising concerns about manipulation risks, giving the platform until Dec. 11 to defend its contracts."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
+      "url": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 21:56:35 +0000",
+      "summary": "Sidney Powell aims to reach $15 billion in assets under management by the end of 2027 as the firm looks to expand into tokenized lending and traditional finance."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
+      "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 17 Nov 2026 20:05:04 +0000",
+      "summary": "Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cross-border stablecoin transfers to Ukraine continued amid the ongoing war."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
+      "url": "https://decrypt.co/383468/why-microsoft-thinks-smaller-cheaper-ai-beat-claude-gpt",
+      "pubDate": "Tue, 17 Nov 2026 23:16:03 +0000",
+      "summary": "Microsoft's new coding, cybersecurity and image models challenge bigger rivals on performance and price. The company's bet is that doing one job exceptionally well matters more than doing absolutely everything."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia Board Shuts Down Jensen Huang Comeback, Launches Search for New CEO",
+      "url": "https://decrypt.co/383513/nvidia-board-shuts-down-jensen-huang-comeback",
+      "pubDate": "Tue, 17 Nov 2026 22:39:53 +0000",
+      "summary": "Nvidia's board rejected a comeback for its ousted co-founder as it hired a search firm, backed interim CEO Colette Kress, and tightened oversight of chip exports to China."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia Shares Rise After Earnings Beat in First Report Since Jensen Huang's Exit",
+      "url": "https://decrypt.co/383505/nvidia-shares-rise-earnings-beat-first-report-jensen-huang-exit",
+      "pubDate": "Tue, 17 Nov 2026 22:18:18 +0000",
+      "summary": "The chipmaker doubled quarterly revenue, forecast another record and rallied after hours, but its first report without Jensen Huang leaves leadership questions and a deeply bruised stock chart unresolved."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
+      "url": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark",
+      "pubDate": "Tue, 17 Nov 2026 21:46:02 +0000",
+      "summary": "OpenAI's latest models promise better professional work for less money, as the company battles Anthropic and Google for AI supremacy and faces tougher questions about increasingly capable systems and safety."
+    },
+    {
+      "source": "Decrypt",
+      "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
+      "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
+      "pubDate": "Tue, 17 Nov 2026 20:56:03 +0000",
+      "summary": "The institution will test whether Circle's USDC and blockchain rails can speed up and cut the cost of disbursing development funds."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Investors Are Capitulating-That's Historically Been a Bottom Signal",
+      "url": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
+      "pubDate": "Tue, 17 Nov 2026 20:36:03 +0000",
+      "summary": "Glassnode says Bitcoin's realized losses have reached levels seen only near the 2018, 2020, 2022 and early 2023 lows, as buyers defend the $62,000 to $66,000 range."
+    },
+    {
+      "source": "The Block",
+      "title": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
+      "url": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
+      "pubDate": "Wed, 18 Nov 2026 02:47:51 +0000",
+      "summary": "The company said the system prevented about 91% of the attempted transfers linked to the fake Tesla livestream, with no human intervention."
+    },
+    {
+      "source": "The Block",
+      "title": "What's happening to crypto startup valuations?",
+      "url": "https://www.theblock.co/newsletters/the-funding/2026-11-17-crypto-startup-valuations-442903",
+      "pubDate": "Wed, 18 Nov 2026 02:40:00 +0000",
+      "summary": "Crypto unicorns from the 2021 boom now trade at 50% to 70% discounts in secondary markets, while the top companies hit new highs."
+    },
+    {
+      "source": "The Block",
+      "title": "Trump's CFTC picks face Senate scrutiny as prediction market turf war heats up",
+      "url": "https://www.theblock.co/news/regulation/2026-11-17-trumps-cftc-picks-face-senate-scrutiny-as-prediction-market-turf-war-heats-up-442909",
+      "pubDate": "Tue, 17 Nov 2026 23:32:46 +0000",
+      "summary": "President Donald Trump's nominees to the CFTC revealed how they view the hotly contested issue of how to regulate sports betting."
+    },
+    {
+      "source": "The Block",
+      "title": "Robinhood shrugs off Kalshi equities threat as Mizuho sees 86% HOOD upside",
+      "url": "https://www.theblock.co/news/business/2026-11-17-robinhoods-non-sports-prediction-market-share-doubles-mizuho-442904",
+      "pubDate": "Tue, 17 Nov 2026 22:23:29 +0000",
+      "summary": "Robinhood brushes off Kalshi's potential equities push as Mizuho maintains its bullish outlook on HOOD."
+    },
+    {
+      "source": "The Block",
+      "title": "Jito's Lucas Bruder says crypto builders need to 'slow down' and fix security weaknesses",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-17-jito-lucas-bruder-crypto-builders-need-slow-down-fix-security-weaknesses-442850",
+      "pubDate": "Tue, 17 Nov 2026 19:29:15 +0000",
+      "summary": "Jito's Lucas Bruder warns of patient attackers and urges crypto teams to address technical debt."
+    },
+    {
+      "source": "The Block",
+      "title": "Coinbase expands onchain crypto loans to New York via Morpho",
+      "url": "https://www.theblock.co/news/business/2026-11-17-coinbase-borrow-new-york-morpho-442842",
+      "pubDate": "Tue, 17 Nov 2026 18:00:02 +0000",
+      "summary": "Coinbase has expanded its onchain crypto loan product to New York residents, with BTC, ETH and SOL as the supported collateral."
+    }
+  ]
+}
