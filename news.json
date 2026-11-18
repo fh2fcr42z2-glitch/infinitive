@@ -10,5 +10,76 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "items": []
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin Covenants Part 6: FE Covenants  Enforcing covenants through cryptographically restricted signing keys",
+      "url": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys",
+      "pubDate": "Wed, 18 Nov 2026 14:04:50 +0000",
+      "summary": "FE covenants encode spending constraints into the signing key, so only transactions that satisfy a predefined condition can be signed."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
+      "url": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks",
+      "pubDate": "Wed, 18 Nov 2026 13:42:37 +0000",
+      "summary": "The October sales raised $19.3 million, nearly half the $40 million CoinShares can spend on buybacks before its next annual meeting."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Heres what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Wed, 18 Nov 2026 13:34:00 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Sanctions fears loom over Russias regulated crypto trading launch",
+      "url": "https://cointelegraph.com/news/sanctions-fears-russia-crypto-launch",
+      "pubDate": "Wed, 18 Nov 2026 13:32:19 +0000",
+      "summary": "Russias crypto trading rollout faces uncertainty as companies weigh sanctions exposure, while Moscow Exchange prepares to launch crypto trading in December."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "How to preserve wealth and access funds during a national emergency",
+      "url": "https://cointelegraph.com/magazine/how-to-preserve-wealth-and-access-it-during-a-national-emergency",
+      "pubDate": "Wed, 18 Nov 2026 13:30:00 +0000",
+      "summary": "As geopolitical and technological threats multiply, the big question is whether you can hold on to your wealth and access funds when the system fails."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Tokenized Nvidia market cap surges 159% amid Jensen Huangs exit",
+      "url": "https://cointelegraph.com/news/tokenized-nvidia-cap-rises-158-stock-loses-750b",
+      "pubDate": "Wed, 18 Nov 2026 12:53:12 +0000",
+      "summary": "Nvidia stock tokens reached $401.9 million in combined value as Jensen Huang stepped down and the chipmaker posted record quarterly revenue."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trialand Stay a Billionaire",
+      "url": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
+      "pubDate": "Wed, 18 Nov 2026 14:20:52 +0000",
+      "summary": "A German judge has offered to drop the charges if the alleged operator of the piracy site gives up most of his remaining Bitcoin."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Nvidia Beats, Board Says No on Jensen",
+      "url": "https://decrypt.co/383530/morning-minute-nvidia-beats-board-says-no-on-jensen",
+      "pubDate": "Wed, 18 Nov 2026 13:37:20 +0000",
+      "summary": "Nvidia delivered its best earnings ever and raised forward guidance. And yet, the market mostly shrugged. What does it mean?"
+    },
+    {
+      "source": "Decrypt",
+      "title": "'Doomed From the Start': President Trump's Meme Coin Hits New Lows After Midterms",
+      "url": "https://decrypt.co/383524/doomed-from-the-start-president-trumps-meme-coin-hits-new-lows-after-midterms",
+      "pubDate": "Wed, 18 Nov 2026 12:45:37 +0000",
+      "summary": "The TRUMP token has fallen almost 40% since election day, with analysts pointing to the Democrats subpoena plans, fading interest, and a heavy unlock schedule."
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Will Make the Next 12 Months 'a Slaughterhouse' for Crypto Security: Anchorage Exec",
+      "url": "https://decrypt.co/383526/ai-will-make-the-next-12-months-a-slaughterhouse-for-crypto-security-anchorage-exec",
+      "pubDate": "Wed, 18 Nov 2026 12:10:27 +0000",
+      "summary": "Security chiefs at Solana's Breakpoint said AI is lowering the bar for hackers, as North Korea steps up its attacks on crypto firms."
+    }
+  ]
 }
