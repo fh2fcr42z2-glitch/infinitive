@@ -1,1 +1,267 @@
-PLACEHOLDER_CONTENT
+{
+  "asof": "2026-11-18T17:03:44Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin, stocks wobble as Feds Waller talks of shock 50-point rate hike",
+      "url": "https://cointelegraph.com/markets/bitcoin-stocks-wobble-waller-talks-shock-50-point-rate-hike",
+      "pubDate": "Wed, 18 Nov 2026 16:34:20 +0000",
+      "summary": "Bitcoin price action dropped below $63,000 after fresh hawkish comments from the Fed as Nvidia earnings optimism faded."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin Covenants Part 6: FE Covenants  Enforcing covenants through cryptographically restricted signing keys",
+      "url": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys",
+      "pubDate": "Wed, 18 Nov 2026 14:04:50 +0000",
+      "summary": "FE covenants encode spending constraints into the signing key, so only transactions that satisfy a predefined condition can be signed."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
+      "url": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks",
+      "pubDate": "Wed, 18 Nov 2026 13:42:37 +0000",
+      "summary": "The October sales raised $19.3 million, nearly half the $40 million CoinShares can spend on buybacks before its next annual meeting."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Heres what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Wed, 18 Nov 2026 13:34:00 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Sanctions fears loom over Russias regulated crypto trading launch",
+      "url": "https://cointelegraph.com/news/sanctions-fears-russia-crypto-launch",
+      "pubDate": "Wed, 18 Nov 2026 13:32:19 +0000",
+      "summary": "Russias crypto trading rollout faces uncertainty as companies weigh sanctions exposure, while Moscow Exchange prepares to launch crypto trading in December."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "How to preserve wealth and access funds during a national emergency",
+      "url": "https://cointelegraph.com/magazine/how-to-preserve-wealth-and-access-it-during-a-national-emergency",
+      "pubDate": "Wed, 18 Nov 2026 13:30:00 +0000",
+      "summary": "As geopolitical and technological threats multiply, the big question is whether you can hold on to your wealth and access funds when the system fails."
+    },
+    {
+      "source": "Decrypt",
+      "title": "'It Speaks in Tongues That Only 6.2 Astra Understands': Why Early Testers Hate OpenAIs New Model",
+      "url": "https://decrypt.co/383539/speaks-tongues-only-6-2-astra-understands-why-early-testers-hate-openai-new-model",
+      "pubDate": "Wed, 18 Nov 2026 16:57:53 +0000",
+      "summary": "OpenAI's flagship AI model is dazzling developers with 3D creations, but early testers say it stalls during long projects, gives baffling explanations, and hides failures."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trialand Stay a Billionaire",
+      "url": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
+      "pubDate": "Wed, 18 Nov 2026 14:20:52 +0000",
+      "summary": "A German judge has offered to drop the charges if the alleged operator of the piracy site gives up most of his remaining Bitcoin."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Nvidia Beats, Board Says No on Jensen",
+      "url": "https://decrypt.co/383530/morning-minute-nvidia-beats-board-says-no-on-jensen",
+      "pubDate": "Wed, 18 Nov 2026 13:37:20 +0000",
+      "summary": "Nvidia delivered its best earnings ever and raised forward guidance. And yet, the market mostly shrugged. What does it mean?"
+    },
+    {
+      "source": "Decrypt",
+      "title": "'Doomed From the Start': President Trump's Meme Coin Hits New Lows After Midterms",
+      "url": "https://decrypt.co/383524/doomed-from-the-start-president-trumps-meme-coin-hits-new-lows-after-midterms",
+      "pubDate": "Wed, 18 Nov 2026 12:45:37 +0000",
+      "summary": "The TRUMP token has fallen almost 40% since election day, with analysts pointing to the Democrats subpoena plans, fading interest, and a heavy unlock schedule."
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Will Make the Next 12 Months 'a Slaughterhouse' for Crypto Security: Anchorage Exec",
+      "url": "https://decrypt.co/383526/ai-will-make-the-next-12-months-a-slaughterhouse-for-crypto-security-anchorage-exec",
+      "pubDate": "Wed, 18 Nov 2026 12:10:27 +0000",
+      "summary": "Security chiefs at Solana's Breakpoint said AI is lowering the bar for hackers, as North Korea steps up its attacks on crypto firms."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Scattered Spider Hacker Sentenced to 6 Years Over $11.6M in Stolen Crypto",
+      "url": "https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto",
+      "pubDate": "Wed, 18 Nov 2026 10:17:17 +0000",
+      "summary": "Scotland's Tyler Buchanan is the last of five defendants sentenced in a phishing and SIM-swapping scheme that targeted crypto holders."
+    },
+    {
+      "source": "The Block",
+      "title": "Bullishs Q3 adjusted profit rises 35%, digital asset sales fall 23%",
+      "url": "https://www.theblock.co/news/business/2026-11-18-bullishs-q3-adjusted-profit-rises-35-digital-asset-sales-fall-23-443456",
+      "pubDate": "Wed, 18 Nov 2026 17:02:41 +0000",
+      "summary": "Bullish shares rose about 10% after the crypto exchange reported earnings and authorized a buyback."
+    },
+    {
+      "source": "The Block",
+      "title": "Visa Direct to extend stablecoin prefunding for cross-border payouts to Asia-Pacific",
+      "url": "https://www.theblock.co/news/business/2026-11-18-visa-direct-extend-stablecoin-prefunding-cross-border-payouts-asia-pacific-443457",
+      "pubDate": "Wed, 18 Nov 2026 16:30:41 +0000",
+      "summary": "Visa plans to let eligible Visa Direct clients in Asia-Pacific fund cross-border payouts with stablecoins."
+    },
+    {
+      "source": "The Block",
+      "title": "Variational raises $110 million at $1.5 billion valuation to expand onchain derivatives trading",
+      "url": "https://www.theblock.co/news/deals/2026-11-18-variational-raises-110-million-at-1-5-billion-valuation-to-expand-onchain-derivatives-trading-443445",
+      "pubDate": "Wed, 18 Nov 2026 15:51:42 +0000",
+      "summary": "The derivatives protocols Omni platform has processed over $475 billion in volume as it expands into traditional markets."
+    },
+    {
+      "source": "The Block",
+      "title": "StoneX cuts Bitdeer price target to $15 amid new US chip export controls",
+      "url": "https://www.theblock.co/news/markets/2026-11-18-stonex-cuts-bitdeer-price-target-to-15-amid-new-us-chip-export-controls-443440",
+      "pubDate": "Wed, 18 Nov 2026 15:16:54 +0000",
+      "summary": "StoneX trimmed its 2027 revenue and EBITDA estimates for Bitdeer to account for Malaysian licensing scenarios, among other factors."
+    },
+    {
+      "source": "The Block",
+      "title": "Backpack secures NFA approval, completing licensing stack for US derivatives launch",
+      "url": "https://www.theblock.co/news/business/2026-11-18-backpack-completes-regulatory-framework-us-entry-442980",
+      "pubDate": "Wed, 18 Nov 2026 14:49:00 +0000",
+      "summary": "The company has also received approval from the CFTC to operate as a designated contract market and derivatives clearing organization."
+    },
+    {
+      "source": "The Block",
+      "title": "Gift from the market: Bitcoin shows signs of a local bottom after six weeks of losses, analyst says",
+      "url": "https://www.theblock.co/news/markets/2026-11-18-gift-from-the-market-bitcoin-shows-signs-of-a-local-bottom-after-six-weeks-of-losses-analyst-says-443017",
+      "pubDate": "Wed, 18 Nov 2026 14:01:54 +0000",
+      "summary": "K33 said bitcoin may have found a local bottom after six weekly losses, with options traders still seeking downside protection."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin options flash warning as downside premiums surge ahead of Fed minutes",
+      "url": "https://cryptoslate.com/bitcoin-options-flash-warning-as-downside-premiums-surge-ahead-of-fed-minutes/",
+      "pubDate": "Wed, 18 Nov 2026 16:55:14 +0000",
+      "summary": "The gap between put and call implied volatility widened faster for Nov. 19 and 20 than for Nov. 27 over four hours on Deribit. Read the full story on CryptoSlateUnderstand the crypto stories that matt"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Anthropics Claude completes a 16-hour human research job in under 3 hours",
+      "url": "https://cryptoslate.com/anthropics-claude-completes-16-hour-human-research-job-in-under-3-hours/",
+      "pubDate": "Wed, 18 Nov 2026 15:30:42 +0000",
+      "summary": "An Epoch AI analyst judged Opus 5.5s first pass comparable to contractor work, while the higher-scoring Fable 5.2 cost more than a contractor. Read the full story on CryptoSlateUnderstand the crypto s"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin faces a new threat as US prices surge at fastest pace in 38 years",
+      "url": "https://cryptoslate.com/bitcoin-faces-a-new-threat-as-us-prices-surge-at-fastest-pace-in-38-years/",
+      "pubDate": "Wed, 18 Nov 2026 14:50:59 +0000",
+      "summary": "Industrial output fell 0.4% in the Feds preliminary estimate, while futures implied higher effective rates into March. Read the full story on CryptoSlateUnderstand the crypto stories that matter and w"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Americas $1 trillion AI data center boom just suffered its first slowdown in over a year",
+      "url": "https://cryptoslate.com/americas-1-trillion-ai-data-center-boom-just-suffered-its-first-slowdown-in-over-a-year/",
+      "pubDate": "Wed, 18 Nov 2026 14:10:54 +0000",
+      "summary": "Cleanviews satellite tally shows a 28% quarterly drop in capacity starting construction, followed by the second-highest month in its series. Read the full story on CryptoSlateUnderstand the crypto sto"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin buyers pile 66,000 BTC into critical $62,000 support zone",
+      "url": "https://cryptoslate.com/bitcoin-buyers-pile-66000-btc-into-critical-62000-support-zone/",
+      "pubDate": "Wed, 18 Nov 2026 13:00:15 +0000",
+      "summary": "Glassnodes estimate shows where coins moved as Bitcoin fell, while spot trading and Coinbases brief premium offer clues to whether buyers stayed. Read the full story on CryptoSlateUnderstand the crypt"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin miners found a way to profit without mining BTC, but the advantage may not last",
+      "url": "https://cryptoslate.com/bitcoin-miners-found-a-way-to-profit-without-mining-btc-but-the-advantage-may-not-last/",
+      "pubDate": "Wed, 18 Nov 2026 12:00:26 +0000",
+      "summary": "Luxors West Texas model shows when power cost more than mining paid, while Riots quarterly filing shows why curtailment can pay. Read the full story on CryptoSlateUnderstand the crypto stories that ma"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Ionic Digital (IOND) Sells 737 Bitcoin to Fund Data Center Buildout",
+      "url": "https://bitcoinmagazine.com/news/ionic-digital-sells-737-bitcoin",
+      "pubDate": "Wed, 18 Nov 2026 16:39:19 +0000",
+      "summary": "Bitcoin Magazine Ionic Digital (IOND) Sells 737 Bitcoin to Fund Data Center Buildout Ionic Digital sold about 737 bitcoin for roughly $61.6 million after Sept. 30 and plans to use the cash to develop "
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "German Court Offers to Drop Movie2k Case for 40,000 Bitcoin",
+      "url": "https://bitcoinmagazine.com/news/german-court-offers-drop-movie2k-case-40000-bitcoin",
+      "pubDate": "Wed, 18 Nov 2026 16:03:20 +0000",
+      "summary": "Bitcoin Magazine German Court Offers to Drop Movie2k Case for 40,000 Bitcoin A Leipzig judge has offered to dismiss the Movie2k criminal case if the defendant hands over 40,000 bitcoin, which would le"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Coinbase Says Its AI Blocked $4.7 Million in Deepfake Elon Musk Scam",
+      "url": "https://bitcoinmagazine.com/news/coinbase-ai-blocks-deepfake-musk-scam",
+      "pubDate": "Wed, 18 Nov 2026 15:30:00 +0000",
+      "summary": "Bitcoin Magazine Coinbase Says Its AI Blocked $4.7 Million in Deepfake Elon Musk Scam Coinbase said its AI scam-prevention agent stopped about $4.7 million, roughly 91% of what customers tried to send"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "New York State Pension Fund Boosts Strategy (MSTR) Stake by More Than 10%",
+      "url": "https://bitcoinmagazine.com/news/ny-pension-fund-boosts-strategy-stake",
+      "pubDate": "Wed, 18 Nov 2026 14:50:00 +0000",
+      "summary": "Bitcoin Magazine New York State Pension Fund Boosts Strategy (MSTR) Stake by More Than 10% New York's state pension fund raised its Strategy (MSTR) stake to 352,850 shares worth $54.0 million at Sept."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Trades Near $64,000 as Feds Waller Floats Half-Point Hike",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-waller",
+      "pubDate": "Wed, 18 Nov 2026 14:09:47 +0000",
+      "summary": "Bitcoin Magazine Bitcoin Price Trades Near $64,000 as Feds Waller Floats Half-Point Hike Bitcoin price traded near $64,000 Wednesday morning as Fed Governor Christopher Waller floated a half-point Dec"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "South Korea Set to Let 3,500 Companies Buy Bitcoin, Report Says",
+      "url": "https://bitcoinmagazine.com/news/south-korea-companies-buy-bitcoin",
+      "pubDate": "Wed, 18 Nov 2026 14:05:41 +0000",
+      "summary": "Bitcoin Magazine South Korea Set to Let 3,500 Companies Buy Bitcoin, Report Says South Korea's Financial Services Commission plans to release guidelines next week that would let about 3,500 listed com"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Crypto exchanges shouldnt double as the vault",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/18/crypto-long-and-short-crypto-exchanges-shouldn-t-double-as-the-vault",
+      "pubDate": "Wed, 18 Nov 2026 16:02:54 +0000",
+      "summary": "A single breach moved billions out of Binance in minutes, exposing how much client money sits with the venue that trades it. Darren Jordan of Komainu argues institutions should keep trading and custod"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "German judge proposes dropping Movie2k case if operator hands over $2.56 billion in bitcoin",
+      "url": "https://www.coindesk.com/business/2026/11/18/german-judge-proposes-dropping-movie2k-case-if-operator-hands-over-usd2-56-billion-in-bitcoin",
+      "pubDate": "Wed, 18 Nov 2026 15:38:38 +0000",
+      "summary": "Prosecutors estimate the defendant still holds 56,000 BTC, meaning the proposed deal would leave him with roughly $1 billion."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hong Kong wants banks to use AI to catch crypto crime before money disappears",
+      "url": "https://www.coindesk.com/business/2026/11/18/hong-kong-wants-banks-to-use-ai-to-catch-crypto-crime-before-money-disappears",
+      "pubDate": "Wed, 18 Nov 2026 15:23:18 +0000",
+      "summary": "As Hong Kong pushes banks to use AI to combat crypto crime, experts say the technology must detect suspicious transfers without putting customer funds at risk."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
+      "pubDate": "Wed, 18 Nov 2026 12:53:34 +0000",
+      "summary": "The bitcoin miner is taking on borrowing tied to an Ohio power plant as it shifts more of its business toward AI infrastructure."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
+      "url": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
+      "pubDate": "Wed, 18 Nov 2026 12:41:09 +0000",
+      "summary": "Bullishs institutional focus may have shielded the company from the decline in activity experienced by rivals catering to retail traders and offers some insight to its revenue beat."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
+      "url": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
+      "pubDate": "Wed, 18 Nov 2026 12:25:14 +0000",
+      "summary": "The Singapore bank will let institutional clients buy and redeem USDC directly as banks across Asia develop their own blockchain payment systems."
+    }
+  ]
+}
