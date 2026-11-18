@@ -1,1 +1,29 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-18T03:07:24Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Ledger hardware implant saga reaches Dubai's Virgin Megastore",
+      "url": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 18 Nov 2026 02:39:52 +0000",
+      "summary": "Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
+      "url": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 18 Nov 2026 00:16:43 +0000",
+      "summary": "Nvidia beat Wall Street's revenue expectations by 5.6% and issued a stronger-than-expected sales forecast, while its board resisted growing calls for Jensen Huang's reinstatement."
+    }
+  ]
+}
