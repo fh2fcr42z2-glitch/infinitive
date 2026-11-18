@@ -1,1 +1,225 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-18T13:04:07Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
+      "url": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing",
+      "pubDate": "Wed, 18 Nov 2026 10:33:07 +0000",
+      "summary": "Coinbase Custody would safeguard the fund's ZEC holdings, while Bitwise Investment Advisers would serve as its manager and sponsor."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin steadies after Nvidia's earnings beat as $60K bids stand out",
+      "url": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat",
+      "pubDate": "Wed, 18 Nov 2026 10:31:20 +0000",
+      "summary": "Bitcoin halted downside as Nvidia confidence returned, with its stock gaining 3% premarket and South Korea's tech-heavy KOSPI reclaiming 5,000 points."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
+      "url": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments",
+      "pubDate": "Wed, 18 Nov 2026 09:17:18 +0000",
+      "summary": "The initiative builds on the World Bank's existing blockchain platform, which aims to create more fund traceability for investments in developing countries."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
+      "url": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization",
+      "pubDate": "Wed, 18 Nov 2026 08:41:16 +0000",
+      "summary": "Solana's token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the beta label it had used since its 2020 launch."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase",
+      "url": "https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase",
+      "pubDate": "Wed, 18 Nov 2026 08:09:23 +0000",
+      "summary": "Bitcoin ETF outflows returned after a one-day pause as CryptoQuant warned that Bitcoin had returned to a bearish market phase."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Wed, 18 Nov 2026 06:00:00 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "Decrypt",
+      "title": "'Doomed From the Start': President Trump's Meme Coin Hits New Lows After Midterms",
+      "url": "https://decrypt.co/383524/doomed-from-the-start-president-trumps-meme-coin-hits-new-lows-after-midterms",
+      "pubDate": "Wed, 18 Nov 2026 12:45:37 +0000",
+      "summary": "The TRUMP token has fallen almost 40% since election day, with analysts pointing to the Democrats' subpoena plans, fading interest, and a heavy unlock schedule."
+    },
+    {
+      "source": "Decrypt",
+      "title": "AI Will Make the Next 12 Months 'a Slaughterhouse' for Crypto Security: Anchorage Exec",
+      "url": "https://decrypt.co/383526/ai-will-make-the-next-12-months-a-slaughterhouse-for-crypto-security-anchorage-exec",
+      "pubDate": "Wed, 18 Nov 2026 12:10:27 +0000",
+      "summary": "Security chiefs at Solana's Breakpoint said AI is lowering the bar for hackers, as North Korea steps up its attacks on crypto firms."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Scattered Spider Hacker Sentenced to 6 Years Over $11.6M in Stolen Crypto",
+      "url": "https://decrypt.co/383522/scattered-spider-hacker-sentenced-to-6-years-over-11-6m-in-stolen-crypto",
+      "pubDate": "Wed, 18 Nov 2026 10:17:17 +0000",
+      "summary": "Scotland's Tyler Buchanan is the last of five defendants sentenced in a phishing and SIM-swapping scheme that targeted crypto holders."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
+      "url": "https://decrypt.co/383468/why-microsoft-thinks-smaller-cheaper-ai-beat-claude-gpt",
+      "pubDate": "Tue, 17 Nov 2026 23:16:03 +0000",
+      "summary": "Microsoft's new coding, cybersecurity and image models challenge bigger rivals on performance and price. The company's bet is that doing one job exceptionally well matters more than doing absolutely everything."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia Board Shuts Down Jensen Huang Comeback, Launches Search for New CEO",
+      "url": "https://decrypt.co/383513/nvidia-board-shuts-down-jensen-huang-comeback",
+      "pubDate": "Tue, 17 Nov 2026 22:39:53 +0000",
+      "summary": "Nvidia's board rejected a comeback for its ousted co-founder as it hired a search firm, backed interim CEO Colette Kress, and tightened oversight of chip exports to China."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia Shares Rise After Earnings Beat in First Report Since Jensen Huang's Exit",
+      "url": "https://decrypt.co/383505/nvidia-shares-rise-earnings-beat-first-report-jensen-huang-exit",
+      "pubDate": "Tue, 17 Nov 2026 22:18:18 +0000",
+      "summary": "The chipmaker doubled quarterly revenue, forecast another record and rallied after hours, but its first report without Jensen Huang leaves leadership questions and a deeply bruised stock chart unresolved."
+    },
+    {
+      "source": "The Block",
+      "title": "TD Cowen tempers ether outlook, maintains Buy rating on Sharplink",
+      "url": "https://www.theblock.co/news/markets/2026-11-18-td-cowen-tempers-ether-outlook-maintains-buy-rating-on-sharplink-442930",
+      "pubDate": "Wed, 18 Nov 2026 12:30:00 +0000",
+      "summary": "TD Cowen lowered its price target on ether while keeping a Buy rating on Sharplink Gaming."
+    },
+    {
+      "source": "The Block",
+      "title": "DBS lets eligible institutions in Asia mint and redeem USDC around the clock",
+      "url": "https://www.theblock.co/news/business/2026-11-18-dbs-lets-eligible-institutions-in-asia-mint-and-redeem-usdc-around-the-clock-442925",
+      "pubDate": "Wed, 18 Nov 2026 11:45:00 +0000",
+      "summary": "The Singapore bank expanded USDC services for institutional clients."
+    },
+    {
+      "source": "The Block",
+      "title": "Hong Kong central bank explores agentic AI to detect crypto-related financial crime",
+      "url": "https://www.theblock.co/news/regulation/2026-11-18-hong-kong-central-bank-explores-agentic-ai-to-detect-crypto-related-financial-crime-442920",
+      "pubDate": "Wed, 18 Nov 2026 10:15:00 +0000",
+      "summary": "HKMA is testing AI agents for crypto crime detection."
+    },
+    {
+      "source": "The Block",
+      "title": "Ark Invest buys crypto stocks as it sells $85 million in Nvidia, Coinbase brings onchain loans to New York",
+      "url": "https://www.theblock.co/news/business/2026-11-18-ark-invest-buys-crypto-stocks-as-it-sells-85-million-in-nvidia-coinbase-brings-onchain-loans-to-new-york-442915",
+      "pubDate": "Wed, 18 Nov 2026 09:00:00 +0000",
+      "summary": "Ark Invest adjusted holdings while Coinbase expanded loans."
+    },
+    {
+      "source": "The Block",
+      "title": "World Bank Group taps Circle and Citi to test stablecoin-based fund disbursements",
+      "url": "https://www.theblock.co/news/business/2026-11-18-world-bank-group-taps-circle-and-citi-to-test-stablecoin-based-fund-disbursements-442910",
+      "pubDate": "Wed, 18 Nov 2026 08:30:00 +0000",
+      "summary": "World Bank testing stablecoins for development payments."
+    },
+    {
+      "source": "The Block",
+      "title": "Coinbase AI defense blocks $4.7 million from being sent to deepfake Elon Musk scam",
+      "url": "https://www.theblock.co/news/defi/2026-11-17-coinbase-ai-defense-deepfake-elon-musk-442918",
+      "pubDate": "Wed, 18 Nov 2026 02:47:51 +0000",
+      "summary": "The company said the system prevented about 91% of the attempted transfers linked to the fake Tesla livestream, with no human intervention."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin buyers pile 66,000 BTC into critical $62,000 support zone",
+      "url": "https://cryptoslate.com/bitcoin-buyers-pile-66000-btc-into-critical-62000-support-zone/",
+      "pubDate": "Wed, 18 Nov 2026 12:00:00 +0000",
+      "summary": "On-chain data shows accumulation at key support levels."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin miners found a way to profit without mining BTC, but the advantage may not last",
+      "url": "https://cryptoslate.com/bitcoin-miners-found-a-way-to-profit-without-mining-btc-but-the-advantage-may-not-last/",
+      "pubDate": "Wed, 18 Nov 2026 11:30:00 +0000",
+      "summary": "Miners diversifying revenue streams amid market conditions."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Ripple's 126.8 million XRP valued at $0 in Evernorth filing as $505 million write-down emerges",
+      "url": "https://cryptoslate.com/ripples-126-8-million-xrp-valued-at-0-in-evernorth-filing-as-505-million-write-down-emerges/",
+      "pubDate": "Wed, 18 Nov 2026 10:45:00 +0000",
+      "summary": "Evernorth filing shows significant XRP write-down."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin's failed Nvidia earnings rally puts $62,000 support back in the spotlight",
+      "url": "https://cryptoslate.com/bitcoins-failed-nvidia-earnings-rally-puts-62000-support-back-in-the-spotlight/",
+      "pubDate": "Wed, 18 Nov 2026 09:15:00 +0000",
+      "summary": "BTC failed to rally with stocks after Nvidia earnings."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Cardano faces $5 million adoption test after Hoskinson declares original roadmap complete",
+      "url": "https://cryptoslate.com/cardano-faces-5-million-adoption-test-after-hoskinson-declares-original-roadmap-complete/",
+      "pubDate": "Wed, 18 Nov 2026 08:00:00 +0000",
+      "summary": "Cardano moves to next phase of development."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Monument Bank puts £250M on Midnight, but hides strict bank rules",
+      "url": "https://cryptoslate.com/monument-bank-puts-250m-on-midnight-but-hides-strict-bank-rules/",
+      "pubDate": "Wed, 18 Nov 2026 07:30:00 +0000",
+      "summary": "Bank investment in Midnight with regulatory caveats."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
+      "url": "https://www.coindesk.com/business/2026/11/18/bitcoin-miner-mara-raises-185-million-in-debt-after-selling-1-billion-btc-to-repay-loans",
+      "pubDate": "Wed, 18 Nov 2026 12:55:00 +0000",
+      "summary": "MARA Holdings sold BTC to reduce debt and raised new capital."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bullish beats revenue estimates as institutional services offset sluggish spot crypto volumes",
+      "url": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
+      "pubDate": "Wed, 18 Nov 2026 12:41:09 +0000",
+      "summary": "The crypto platform reported a net loss of $576.3 million for the third quarter, compared with a gain of $18.5 million a year earlier."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
+      "url": "https://www.coindesk.com/business/2026/11/18/circle-turns-to-dbs-as-banks-build-rival-digital-payment-systems-across-asia",
+      "pubDate": "Wed, 18 Nov 2026 12:25:14 +0000",
+      "summary": "The Singapore bank will let institutional clients buy and redeem USDC directly as banks across Asia develop their own blockchain payment systems."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Blaming Anthropic's IPO for bitcoin's slide is 'easy to believe,' but flawed, analysts say",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/18/blaming-anthropic-s-ipo-for-bitcoin-s-slide-is-easy-to-believe-but-flawed-analysts-say",
+      "pubDate": "Wed, 18 Nov 2026 12:15:00 +0000",
+      "summary": "Your day-ahead look for Nov. 18, 2026"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin drops as Nvidia earnings report drives stock index futures higher",
+      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-drops-as-nvidia-earnings-report-drives-stock-index-futures-higher",
+      "pubDate": "Wed, 18 Nov 2026 11:42:52 +0000",
+      "summary": "Bitcoin (BTC) is down 1.1% since midnight UTC at around $64,100, failing to keep pace with rising stock index futures after Nvidia beat earnings."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin outpaces gold even as both assets tumble ahead of a likely Fed rate hike",
+      "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-outpaces-gold-even-as-both-assets-tumble-ahead-of-a-likely-fed-rate-hike",
+      "pubDate": "Wed, 18 Nov 2026 10:58:36 +0000",
+      "summary": "Bitcoin held near $64,000 as gold fell 2%, lifting the ratio between the two above its 200-day moving average and extending a series of higher lows since March."
+    }
+  ]
+}
