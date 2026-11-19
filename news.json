@@ -1,1 +1,225 @@
-See /tmp/news.json for full content - updating with 30 items from RSS feeds including Anthropic IPO, Hyperliquid HK, Binance freeze, etc.
+{
+  "asof": "2026-11-19T18:03:21Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Anthropic shares open at $111.50, 34.3% above $83 IPO price",
+      "url": "https://cointelegraph.com/markets/anthropic-shares-expected-to-open-above-83-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 19 Nov 2026 16:07:51 +0000",
+      "summary": "The Claude chatbot maker began trading under the ticker ANT, with the companys valuation at around $2 trillion at the opening price."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Heres what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 19 Nov 2026 13:48:14 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ethereums new DeFi security tool raises questions over censorship",
+      "url": "https://cointelegraph.com/magazine/ethereums-new-defi-security-tool-raises-questions-over-censorship?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 19 Nov 2026 13:30:00 +0000",
+      "summary": "Phylaxs system lets decentralized protocols block potentially harmful transactions, but raises questions about potential censorship and Ethereums concentrated builder market."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Hong Kong adds Hyperliquid to list of suspicious crypto platforms",
+      "url": "https://cointelegraph.com/news/hyperliquid-hong-kong-regulators-alert-list?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 19 Nov 2026 12:44:06 +0000",
+      "summary": "Hong Kongs securities regulator said Hyperliquid has no local license and may have promoted its trading services to investors in the city."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "GTA VI publisher racks up nearly 3x Nvidias tokenized stock volume",
+      "url": "https://cointelegraph.com/news/gta-vi-launch-tokenized-ttwo-trade-triple-nvidia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 19 Nov 2026 12:33:46 +0000",
+      "summary": "Tokenized Take-Two shares drew $249.5 million in DEX volume Wednesday, nearly three times the $88.1 million for tokenized Nvidia shares."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Swedens H100 could tap Bitcoin trading pool to fund share buybacks",
+      "url": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 19 Nov 2026 11:19:58 +0000",
+      "summary": "Shareholders will vote Dec. 7 on whether H100 can buy back up to 10% of its shares, potentially using a Bitcoin pool that lost about 30 BTC in Q3."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
+      "url": "https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks",
+      "pubDate": "Thu, 19 Nov 2026 17:55:38 +0000",
+      "summary": "At least four people were arrested outside Nasdaq during Anthropics historic IPO, as protesters warned that AI valuations could leave retirement savers exposed to a potential market crash and broader economic losses."
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Are Perpetual Futures? How Crypto's Most Popular Derivative Works",
+      "url": "https://decrypt.co/resources/what-are-perpetual-futures-how-cryptos-most-popular-derivative-works",
+      "pubDate": "Thu, 19 Nov 2026 17:28:03 +0000",
+      "summary": "Perpetual futures let traders bet on prices with leverage and no expiry date. Here's how they work, and why they dominate crypto trading."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic Stock Opens 33% Above IPO Price as AI Stocks Rally",
+      "url": "https://decrypt.co/383631/anthropic-stock-indicated-open-33-above-ipo-price",
+      "pubDate": "Thu, 19 Nov 2026 16:55:10 +0000",
+      "summary": "The Claude maker's shares could debut at $110, pushing its valuation toward $2 trillion as enthusiasm for its historic IPO lifts the broader technology sector."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Anthropic Tops SpaceX's Initial IPO With $81 Billion Deal: Where the Money Went",
+      "url": "https://decrypt.co/383623/anthropic-tops-spacex-initial-ipo-81-billion-deal-where-the-money-went",
+      "pubDate": "Thu, 19 Nov 2026 15:54:03 +0000",
+      "summary": "The Claude maker beat SpaceX's original share sale, though not its expanded final IPO. Here's who got the money and why the computing bill could be even bigger."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Gen Z Embraces Crypto While Most Americans Call It a 'Side Quest'",
+      "url": "https://decrypt.co/383589/gen-z-embraces-crypto-most-americans-side-quest",
+      "pubDate": "Thu, 19 Nov 2026 14:01:02 +0000",
+      "summary": "A SoFi and YouGov survey found that 21% of Gen Z adults own crypto, more than hold employer retirement plans, even as only 13% of all Americans own it and most remain skeptical."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Quantum Upgrade Could Be 'Particularly Challenging' for Blockchains: IOSCO",
+      "url": "https://decrypt.co/383613/quantum-upgrade-could-be-particularly-challenging-for-blockchains-iosco",
+      "pubDate": "Thu, 19 Nov 2026 13:47:00 +0000",
+      "summary": "The global securities watchdog said markets shouldn't wait for quantum computers to arrive, flagging bulkier signatures and harder upgrades."
+    },
+    {
+      "source": "The Block",
+      "title": "Tokenized Stocks Shrug Off the Crypto Selloff",
+      "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829",
+      "pubDate": "Thu, 19 Nov 2026 17:12:00 +0000",
+      "summary": "Tokenized Stocks Shrug Off the Crypto Selloff Bitcoin fell as low as $62k late Saturday, its sixth straight weekly decline. Meanwhile, tokenized stocks crossed $4 billion in onchain value for the first time on Nov 11. Tokenized stocks are now roughly five times their value on January 1. Tokenized stocks track equity prices, not crypto, []"
+    },
+    {
+      "source": "The Block",
+      "title": "Hill, Moreno blame delays for missed Clarity Act window but differ on reach of agency rulemaking",
+      "url": "https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615",
+      "pubDate": "Thu, 19 Nov 2026 16:01:16 +0000",
+      "summary": "Hill and Moreno fault Clarity Act delays but disagree on how much crypto regulators can accomplish."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin finance protocol Hashi goes live on Sui mainnet",
+      "url": "https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608",
+      "pubDate": "Thu, 19 Nov 2026 14:00:00 +0000",
+      "summary": "Hashi is processing bitcoin deposits on Sui mainnet, with hBTC used for Fluid loans and HoneyB vaults on Upshift."
+    },
+    {
+      "source": "The Block",
+      "title": "US launches cybercrime center with TRM Labs to help trace crypto tied to scams",
+      "url": "https://www.theblock.co/news/regulation/2026-11-19-us-launches-cybercrime-center-with-trm-labs-to-help-trace-crypto-tied-to-scams-443599",
+      "pubDate": "Thu, 19 Nov 2026 11:55:06 +0000",
+      "summary": "The Threat Disruption Center will help investigators trace victims funds and identify crypto wallets used by scammers."
+    },
+    {
+      "source": "The Block",
+      "title": "1inch integrates Hyperliquids perpetual futures contracts into its dApp and wallet platform",
+      "url": "https://www.theblock.co/news/web3/2026-11-19-1inch-integrates-hyperliquid-perpetual-futures-443574",
+      "pubDate": "Thu, 19 Nov 2026 11:00:00 +0000",
+      "summary": "Users can fund a position with a token they already hold on 1inch, which will be routed to USDC and deposited to a balance on Hyperliquid."
+    },
+    {
+      "source": "The Block",
+      "title": "Ant International launches protocol for real-time settlement between tokenized deposits and money market funds",
+      "url": "https://www.theblock.co/news/business/2026-11-19-ant-international-protocol-tokenized-assets-443586",
+      "pubDate": "Thu, 19 Nov 2026 10:39:29 +0000",
+      "summary": "Ant launched the Whale Orchestration Protocol to enable settlement between tokenized deposits and tokenized money market funds."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Thresholds 11-day Bitcoin redemption freeze exposes a hidden risk in BTC-backed tokens",
+      "url": "https://cryptoslate.com/thresholds-11-day-bitcoin-redemption-freeze-exposes-a-hidden-risk-in-btc-backed-tokens/",
+      "pubDate": "Thu, 19 Nov 2026 18:00:46 +0000",
+      "summary": "The Nov. 18 post-mortem explains why wallet signers had to return and how proof submission came back before app access. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Arthur Hayes predicts 97% crypto rally weeks after he exited trades",
+      "url": "https://cryptoslate.com/arthur-hayes-targets-1800-for-zcash-nearly-double-its-nov-18-close/",
+      "pubDate": "Thu, 19 Nov 2026 17:30:24 +0000",
+      "summary": "His targets for ETH, ZEC, NEAR and VVV were 57.8% to 97.3% above their Nov. 18 Coinbase closes. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitwise challenges Grayscales $489 million Zcash ETF as CIO predicts Bitcoin-to-ZEC rotation",
+      "url": "https://cryptoslate.com/bitwise-challenges-grayscales-489-million-zcash-etf-as-cio-predicts-bitcoin-to-zec-rotation/",
+      "pubDate": "Thu, 19 Nov 2026 16:40:20 +0000",
+      "summary": "Bitwises proposal would let eligible firms take delivery of ZEC, while Grayscales quarterly filing says its ETF requires cash redemptions. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Over 7 million Bitcoin could face a quantum security reckoning after new discovery",
+      "url": "https://cryptoslate.com/over-7-million-bitcoin-could-face-a-quantum-security-reckoning-after-new-discovery/",
+      "pubDate": "Thu, 19 Nov 2026 15:20:54 +0000",
+      "summary": "Nearly three-quarters of the tally came from historical matches, and the spending conditions behind those matches matter for a future quantum migration. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Anthropics crypto futures traded 25% above its $81 billion IPO price as Bitcoin slumped 22%",
+      "url": "https://cryptoslate.com/bitcoins-22-slump-fails-to-dampen-crypto-traders-bullish-bets-on-anthropics-81-billion-ipo/",
+      "pubDate": "Thu, 19 Nov 2026 14:45:19 +0000",
+      "summary": "Crypto futures tied to Anthropic traded about 25% above the companys IPO price on Thursday. The bets swelled during a Bitcoin selloff, but research from Block Scholes points to a broader retreat from risk rather than clear evidence that investors sold Bitcoin to buy Anthropic. Anthropic priced 980 million shares at $83 on Nov. 18, Read the full story on CryptoSlateUnderstand the crypto stories tha"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Anthropic hits $1.5 trillion valuation in record IPO as ECB warns AI funding could dry up",
+      "url": "https://cryptoslate.com/anthropic-hits-1-5-trillion-valuation-in-record-ipo-as-ecb-warns-ai-funding-could-dry-up/",
+      "pubDate": "Thu, 19 Nov 2026 14:20:28 +0000",
+      "summary": "Anthropic priced its $81 billion IPO at $83 a share Wednesday. The company behind Claude said it expected trading to begin on Nasdaq on Nov. 19. If the stock opens above $83, investors who got shares in the offering will have an immediate gain on paper. Anthropic won't get any extra cash from that move. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch n"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Anthropic opens for trade at $111.50, up 34% from IPO price",
+      "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
+      "pubDate": "Thu, 19 Nov 2026 17:01:47 +0000",
+      "summary": "At that opening price, the company would be valued at more than $2 trillion"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Falling prices drove Octobers 10% drop in institutional crypto exposure",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
+      "pubDate": "Thu, 19 Nov 2026 16:09:28 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+      "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
+      "pubDate": "Thu, 19 Nov 2026 15:20:38 +0000",
+      "summary": "The crypto exchange said it has already replaced the stolen assets using its own funds and insurance reserves."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto traders vs. Wall Street: OKXs Anthropic markets put IPO pricing to the test",
+      "url": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
+      "pubDate": "Thu, 19 Nov 2026 13:11:31 +0000",
+      "summary": "The crypto exchange plans to launch tokenized Anthropic shares as its pre-IPO futures trade about 24% above the companys $83 offering price."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump Media wants to clear $884 million of debt without selling its bitcoin",
+      "url": "https://www.coindesk.com/markets/2026/11/19/trump-media-wants-to-clear-usd884-million-of-debt-without-selling-its-bitcoin",
+      "pubDate": "Thu, 19 Nov 2026 12:40:12 +0000",
+      "summary": "The Truth Social owner bought back $100 million of convertible notes this week. Holders of the rest can demand cash on Nov. 30, and its bitcoin is worth just under $1 billion."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETF outflows show waning crypto appetite ahead of Anthropic's Nasdaq debut",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/19/bitcoin-etf-outflows-show-waning-crypto-appetite-ahead-of-anthropic-s-nasdaq-debut",
+      "pubDate": "Thu, 19 Nov 2026 12:20:39 +0000",
+      "summary": "Your day-ahead look for Nov. 19, 2026"
+    }
+  ]
+}
