@@ -1,1 +1,36 @@
-PLACEHOLDER_CONTENT
+{
+  "asof": "2026-11-20T17:05:42Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+      "url": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 16:55:51 +0000",
+      "summary": "Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+      "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+      "pubDate": "Fri, 20 Nov 2026 16:35:59 +0000",
+      "summary": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic's IPO."
+    },
+    {
+      "source": "The Block",
+      "title": "Wagyu's XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+      "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+      "pubDate": "Fri, 20 Nov 2026 16:11:22 +0000",
+      "summary": "Wagyu's founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit."
+    }
+  ]
+}
