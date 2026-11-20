@@ -1,1 +1,225 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-20T19:01:33Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+      "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 18:37:10 +0000",
+      "summary": "Sky says its USDS stablecoin held its $1 value despite more than $2 billion in withdrawals, as it disputes a report linking the protocol to illicit activity."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+      "url": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 16:55:51 +0000",
+      "summary": "Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+      "url": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 15:55:22 +0000",
+      "summary": "The Senate-approved bill would ban prediction market contracts tied to war, assassination and death amid concerns over potential insider trading on military events."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+      "url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 15:52:06 +0000",
+      "summary": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic's IPO."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "DBS bets it can lose the deposit and keep the client",
+      "url": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 15:32:30 +0000",
+      "summary": "The Singapore bank earned a record $208 million in crypto-related fees while preparing for a world where deposits leave its balance sheet."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin drops under $60K as Anthropic IPO triggers tech sell-off",
+      "url": "https://cointelegraph.com/markets/bitcoin-drops-under-60k-anthropic-ipo-triggers-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 14:22:11 +0000",
+      "summary": "Bitcoin slipped under $60,000 as Anthropic's IPO day triggered a broader tech sell-off that weighed on crypto risk assets."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+      "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+      "pubDate": "Fri, 20 Nov 2026 17:41:45 +0000",
+      "summary": "Wagyu's XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+      "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+      "pubDate": "Fri, 20 Nov 2026 16:35:59 +0000",
+      "summary": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic's IPO."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Sky Protocol Sees $2B Stablecoin Outflows, Disputes Illicit Funds Report",
+      "url": "https://decrypt.co/383712/sky-protocol-sees-2b-stablecoin-outflows-disputes-illicit-funds-report",
+      "pubDate": "Fri, 20 Nov 2026 16:12:08 +0000",
+      "summary": "Sky Protocol saw over $2 billion in USDS withdrawals while disputing claims that its protocol was used to launder illicit funds."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Senate Passes Bill Banning Prediction Market Bets on War and Death",
+      "url": "https://decrypt.co/383688/senate-passes-bill-banning-prediction-market-bets-on-war-and-death",
+      "pubDate": "Fri, 20 Nov 2026 15:48:17 +0000",
+      "summary": "The US Senate passed legislation that would ban prediction market contracts tied to war, assassination, and death."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hong Kong to Expand Crypto Licensing to Brokers and Custodians",
+      "url": "https://decrypt.co/383671/hong-kong-to-expand-crypto-licensing-to-brokers-and-custodians",
+      "pubDate": "Fri, 20 Nov 2026 14:55:41 +0000",
+      "summary": "Hong Kong is moving to bring crypto brokers, advisers, and custodians under its licensing regime."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Bots Race for Funds in Seconds After Researchers Leak Test Keys",
+      "url": "https://decrypt.co/383655/bitcoin-bots-race-for-funds-in-seconds-after-researchers-leak-test-keys",
+      "pubDate": "Fri, 20 Nov 2026 13:42:09 +0000",
+      "summary": "Researchers watched automated bots drain deliberately vulnerable Bitcoin addresses within seconds of exposure."
+    },
+    {
+      "source": "The Block",
+      "title": "Wagyu's XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+      "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+      "pubDate": "Fri, 20 Nov 2026 16:11:22 +0000",
+      "summary": "Wagyu's founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin drops below $60,000 for first time since July as tech stocks slide",
+      "url": "https://www.theblock.co/news/markets/2026-11-20-bitcoin-drops-below-60000-for-first-time-since-july-as-tech-stocks-slide-444721",
+      "pubDate": "Fri, 20 Nov 2026 15:48:55 +0000",
+      "summary": "Bitcoin fell under $60,000 as the broader tech sell-off intensified following Anthropic's public debut."
+    },
+    {
+      "source": "The Block",
+      "title": "Sky Protocol disputes illicit activity claims amid $2 billion USDS withdrawals",
+      "url": "https://www.theblock.co/news/defi/2026-11-20-sky-protocol-disputes-illicit-activity-claims-amid-2-billion-usds-withdrawals-444698",
+      "pubDate": "Fri, 20 Nov 2026 15:22:14 +0000",
+      "summary": "Sky Protocol said its USDS stablecoin maintained its peg despite large withdrawals and disputed reports linking it to illicit funds."
+    },
+    {
+      "source": "The Block",
+      "title": "US Senate passes legislation to restrict prediction market contracts on war and death",
+      "url": "https://www.theblock.co/news/policy/2026-11-20-us-senate-passes-legislation-to-restrict-prediction-market-contracts-on-war-and-death-444675",
+      "pubDate": "Fri, 20 Nov 2026 14:59:33 +0000",
+      "summary": "The Senate advanced a bill that would prohibit prediction market bets tied to war, assassination, and death."
+    },
+    {
+      "source": "The Block",
+      "title": "Hong Kong proposes extending crypto licensing rules to brokers, advisers and custodians",
+      "url": "https://www.theblock.co/news/policy/2026-11-20-hong-kong-proposes-extending-crypto-licensing-rules-to-brokers-advisers-and-custodians-444652",
+      "pubDate": "Fri, 20 Nov 2026 14:31:07 +0000",
+      "summary": "Hong Kong regulators want to bring more crypto service providers under the existing licensing framework."
+    },
+    {
+      "source": "The Block",
+      "title": "BlackRock bitcoin ETF records $541 million outflow amid market selloff",
+      "url": "https://www.theblock.co/news/markets/2026-11-20-blackrock-bitcoin-etf-records-541-million-outflow-amid-market-selloff-444629",
+      "pubDate": "Fri, 20 Nov 2026 13:55:48 +0000",
+      "summary": "BlackRock's spot bitcoin ETF saw a record single-day outflow as bitcoin traded near $60,000."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin tests $60K as Anthropic IPO sparks risk-off move across tech and crypto",
+      "url": "https://cryptoslate.com/bitcoin-tests-60k-as-anthropic-ipo-sparks-risk-off-move-across-tech-and-crypto/",
+      "pubDate": "Fri, 20 Nov 2026 17:12:04 +0000",
+      "summary": "Bitcoin approached the $60,000 level as Anthropic's IPO day triggered broader selling in technology stocks."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Wrapped Monero token collapses after $13 million exploit linked to web host",
+      "url": "https://cryptoslate.com/wrapped-monero-token-collapses-after-13-million-exploit-linked-to-web-host/",
+      "pubDate": "Fri, 20 Nov 2026 16:44:19 +0000",
+      "summary": "XMR1 fell more than 99 percent after tokens were moved from the deployer and sold on the open market."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Sky Protocol faces $2 billion in stablecoin withdrawals while disputing illicit fund allegations",
+      "url": "https://cryptoslate.com/sky-protocol-faces-2-billion-in-stablecoin-withdrawals-while-disputing-illicit-fund-allegations/",
+      "pubDate": "Fri, 20 Nov 2026 15:38:27 +0000",
+      "summary": "USDS held its peg as Sky Protocol disputed reports connecting the protocol to illicit activity."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Senate bill would ban prediction market contracts on war, assassination and death",
+      "url": "https://cryptoslate.com/senate-bill-would-ban-prediction-market-contracts-on-war-assassination-and-death/",
+      "pubDate": "Fri, 20 Nov 2026 15:05:12 +0000",
+      "summary": "Lawmakers advanced legislation targeting prediction market bets tied to military and death-related events."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Hong Kong moves to license crypto brokers, advisers and custodians",
+      "url": "https://cryptoslate.com/hong-kong-moves-to-license-crypto-brokers-advisers-and-custodians/",
+      "pubDate": "Fri, 20 Nov 2026 14:22:51 +0000",
+      "summary": "Hong Kong is expanding its crypto regulatory perimeter to cover additional service providers."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "BlackRock bitcoin ETF posts record outflow as prices slide toward $60K",
+      "url": "https://cryptoslate.com/blackrock-bitcoin-etf-posts-record-outflow-as-prices-slide-toward-60k/",
+      "pubDate": "Fri, 20 Nov 2026 13:48:33 +0000",
+      "summary": "The iShares Bitcoin Trust recorded its largest single-day outflow on record during Friday's selloff."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide",
+      "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-is-closing-in-on-its-usd57-700-summer-low-as-delphi-digital-strategist-warns-the-fed-could-make-matters-worse-and-sts-digital-sees-cash-as-the-place-to-hide",
+      "pubDate": "Fri, 20 Nov 2026 18:13:52 +0000",
+      "summary": "Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+      "url": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
+      "pubDate": "Fri, 20 Nov 2026 14:54:30 +0000",
+      "summary": "A former Point72 executive says AI could reshape Wall Street's data market, turning once-exclusive information into a source of revenue and financing."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+      "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
+      "pubDate": "Fri, 20 Nov 2026 14:38:30 +0000",
+      "summary": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
+      "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
+      "pubDate": "Fri, 20 Nov 2026 14:25:57 +0000",
+      "summary": "The bill would ban bets on war, assassinations and military operations amid concerns that traders could profit from inside information, as has already occurred."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+      "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
+      "pubDate": "Fri, 20 Nov 2026 13:35:33 +0000",
+      "summary": "BlackRock's bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea's Kospi down more than 5%."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
+      "url": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
+      "pubDate": "Fri, 20 Nov 2026 13:30:22 +0000",
+      "summary": "University of Liege researchers put a few dollars into deliberately vulnerable bitcoin addresses and watched rival bots race for the money within seconds."
+    }
+  ]
+}
