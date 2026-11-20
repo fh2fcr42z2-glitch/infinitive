@@ -1,1 +1,29 @@
-PLACEHOLDER_WILL_FAIL
+{
+  "asof": "2026-11-20T14:05:53Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/feed",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Heres what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 13:29:58 +0000",
+      "summary": "Need to know what happened in crypto today Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
+      "url": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 13:21:39 +0000",
+      "summary": "The ECB president said Europes market for tokenized securities could split into platforms that cannot settle trades with one another."
+    }
+  ]
+}
