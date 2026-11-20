@@ -1,1 +1,267 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-20T20:04:04Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+      "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 19:37:27 +0000",
+      "summary": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+      "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 18:37:10 +0000",
+      "summary": "Sky says its USDS stablecoin held its $1 value despite more than $2 billion in withdrawals, as it disputes a report linking the protocol to illicit activity."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
+      "url": "https://cointelegraph.com/markets/bitcoin-falls-below-60k-for-first-time-since-july-amid-broader-market-selloff?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 16:55:51 +0000",
+      "summary": "Bitcoin fell nearly 6% as US stocks declined, with the Nasdaq dropping more than 2% and Anthropic shares losing almost 10%."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+      "url": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 15:55:22 +0000",
+      "summary": "The Senate-approved bill would ban prediction market contracts tied to war, assassination and death amid concerns over potential insider trading on military events."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+      "url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 15:52:06 +0000",
+      "summary": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropics IPO."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "DBS bets it can lose the deposit and keep the client",
+      "url": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 15:32:30 +0000",
+      "summary": "The Singapore bank earned a record $208 million in transaction services fees in the third quarter  now its helping companies turn deposits into stablecoins they can spend without"
+    },
+    {
+      "source": "Decrypt",
+      "title": "SBFs 'The Altruists' Plot Twist: FTXs Anthropic Shares Would Be Worth $43 Billion",
+      "url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
+      "pubDate": "Fri, 20 Nov 2026 19:36:03 +0000",
+      "summary": "Anthropics IPO made FTXs liquidated AI bet a $43 billion what-if, just as Netflix premiered its Sam Bankman-Fried drama."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+      "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
+      "pubDate": "Fri, 20 Nov 2026 18:46:03 +0000",
+      "summary": "The firm bought 934,968 Anthropic shares across six ETFs on the Claude makers Nasdaq debut while trimming a combined $4.1 million from its Ethereum and Solana staking ETFs."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
+      "url": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
+      "pubDate": "Fri, 20 Nov 2026 18:16:02 +0000",
+      "summary": "Gemini's new Mac computer-use feature navigates apps, files, and websites in a separate window, but Google's own documentation warns about prompt injection."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
+      "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+      "pubDate": "Fri, 20 Nov 2026 17:41:45 +0000",
+      "summary": "Wagyus XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+      "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
+      "pubDate": "Fri, 20 Nov 2026 16:35:59 +0000",
+      "summary": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropics IPO."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
+      "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+      "pubDate": "Fri, 20 Nov 2026 15:42:51 +0000",
+      "summary": "Sen. Adam Schiff's DEATH BETS Act would bar U.S.-regulated exchanges from listing contracts tied to war, assassinations or deaths."
+    },
+    {
+      "source": "TheBlock",
+      "title": "Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program",
+      "url": "https://www.theblock.co/news/regulation/2026-11-20-rep-casten-seeks-curb-prediction-market-insider-trading-doj-whistleblower-program-444779",
+      "pubDate": "Fri, 20 Nov 2026 19:41:52 +0000",
+      "summary": "Rep. Sean Casten, who could have a top spot in Congress next year, is clamping down on insider trading in prediction markets."
+    },
+    {
+      "source": "TheBlock",
+      "title": "Binance hack laundering ramps up as $149 million in bitcoin mixed through coinjoins: Elliptic",
+      "url": "https://www.theblock.co/news/markets/2026-11-20-binance-hack-laundering-ramps-up-149-million-bitcoin-mixed-coinjoins-elliptic-444758",
+      "pubDate": "Fri, 20 Nov 2026 18:22:39 +0000",
+      "summary": "Elliptic says little has likely been cashed out, despite a sharp rise in bitcoin mixing since Nov. 17."
+    },
+    {
+      "source": "TheBlock",
+      "title": "JPMorgan says bitcoin price correction widens gap to estimated $86,000 production cost",
+      "url": "https://www.theblock.co/news/markets/2026-11-20-jpmorgan-bitcoin-price-correction-gap-86000-production-cost-444763",
+      "pubDate": "Fri, 20 Nov 2026 18:17:39 +0000",
+      "summary": "Bitcoin's recent price drop has widened the gap between its market price and JPMorgan's estimated production cost of $86,000."
+    },
+    {
+      "source": "TheBlock",
+      "title": "Wagyus XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+      "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+      "pubDate": "Fri, 20 Nov 2026 16:11:22 +0000",
+      "summary": "Wagyus founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit."
+    },
+    {
+      "source": "TheBlock",
+      "title": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
+      "url": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
+      "pubDate": "Fri, 20 Nov 2026 14:51:32 +0000",
+      "summary": "Rep. Steven Horsford said a bipartisan crypto tax bill could pass the House before this current Congress ends."
+    },
+    {
+      "source": "TheBlock",
+      "title": "Wintermute policy chief calls for crypto lobby to clean house in D.C.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
+      "pubDate": "Fri, 20 Nov 2026 14:36:10 +0000",
+      "summary": "Wintermute's Ron Hammond says crypto needs a new strategy after repeated lobbying setbacks against established financial interests."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin ETF investors have a way to hedge during Thanksgivings 40+ hour trading gap",
+      "url": "https://cryptoslate.com/bitcoin-etf-investors-have-a-way-to-hedge-during-thanksgivings-40-hour-trading-gap/",
+      "pubDate": "Fri, 20 Nov 2026 19:15:10 +0000",
+      "summary": "Eligible CME contracts can trade during Thursdays closure, with trades submitted for clearing that day due to clear Friday. Read the full story on CryptoSlateUnderstand the crypto"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin faces a new inflation threat as a regional US factory price hits a 4 year high",
+      "url": "https://cryptoslate.com/bitcoin-faces-a-new-inflation-threat-as-a-regional-us-factory-price-hits-a-4-year-high/",
+      "pubDate": "Fri, 20 Nov 2026 18:15:18 +0000",
+      "summary": "The Philadelphia Feds selling-price index reached its highest since June 2022, while the earlier October PCE reading could shift December rate expectations. Read the full story on"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin crashes to $59,000 as Anthropic falls 25% from yesterdays IPO-day high",
+      "url": "https://cryptoslate.com/bitcoin-crashes-to-59000-as-anthropic-falls-25-from-yesterdays-ipo-day-high/",
+      "pubDate": "Fri, 20 Nov 2026 17:15:22 +0000",
+      "summary": "Bitcoin fell below $60,000 on Friday for the first time since July as US technology stocks slid and Anthropic shares fell about 25% from their IPO-day high. Bitcoin traded at $59,4"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "US spot Bitcoin ETFs are almost $1 billion short of a record monthly outflow at $3.5 billion",
+      "url": "https://cryptoslate.com/blackrock-leads-582-million-bitcoin-etf-exodus-as-november-withdrawals-approach-3-5-billion/",
+      "pubDate": "Fri, 20 Nov 2026 16:30:38 +0000",
+      "summary": "US spot Bitcoin exchange-traded funds recorded $3.47 billion in net outflows through Nov. 19, about $1.04 billion short of the record set in June. Farside Investors reported that B"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Scientists found a surprising use for wrong AI hypotheses in climate research",
+      "url": "https://cryptoslate.com/scientists-found-a-surprising-use-for-wrong-ai-hypotheses-in-climate-research/",
+      "pubDate": "Fri, 20 Nov 2026 16:00:28 +0000",
+      "summary": "Testing a proposed seasonal shift led International Potato Center scientists to a part of the historical record with weak weather-station coverage. Read the full story on CryptoSla"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin hits four-month low as $820 million liquidated and $12.7 billion short squeeze risk builds",
+      "url": "https://cryptoslate.com/bitcoin-hits-four-month-low-as-820-million-liquidated-and-12-7-billion-short-squeeze-risk-builds/",
+      "pubDate": "Fri, 20 Nov 2026 15:35:56 +0000",
+      "summary": "Bitcoin fell to its lowest level in four months as an $820 million liquidation wave swept the derivatives market. The leading cryptocurrency fell to $61,196 on Nov. 20 before recov"
+    },
+    {
+      "source": "BitcoinMagazine",
+      "title": "SEC Freezes Assets in $560 Million Crypto Trading Ponzi Scheme",
+      "url": "https://bitcoinmagazine.com/news/sec-freezes-crypto-560-million-ponzi",
+      "pubDate": "Fri, 20 Nov 2026 19:15:56 +0000",
+      "summary": "Bitcoin Magazine SEC Freezes Assets in $560 Million Crypto Trading Ponzi Scheme The SEC obtained an asset freeze against Backward Hat Capital and its founders, alleging a $560 mill"
+    },
+    {
+      "source": "BitcoinMagazine",
+      "title": "Researchers Publish Security Analysis of Bitcoins Post-Quantum SHRINCS Proposal",
+      "url": "https://bitcoinmagazine.com/news/blockstream-shrincs-security-shrincs",
+      "pubDate": "Fri, 20 Nov 2026 16:55:00 +0000",
+      "summary": "Bitcoin Magazine Researchers Publish Security Analysis of Bitcoins Post-Quantum SHRINCS Proposal Blockstream researchers published a 131-page security analysis of SHRINCS, a hash-"
+    },
+    {
+      "source": "BitcoinMagazine",
+      "title": "U.S. Treasury Secretary Pushes Back on Bigger Fed Hike",
+      "url": "https://bitcoinmagazine.com/markets/bessent-fed-bigger-rate-hike-bitcoin",
+      "pubDate": "Fri, 20 Nov 2026 16:22:32 +0000",
+      "summary": "Bitcoin Magazine U.S. Treasury Secretary Pushes Back on Bigger Fed Hike Treasury Secretary Scott Bessent urged the Fed not to embrace a bigger rate hike as Citi and traders still s"
+    },
+    {
+      "source": "BitcoinMagazine",
+      "title": "Bitcoin Price Crashes to $59,000 as Market Selloff Deepens",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000",
+      "pubDate": "Fri, 20 Nov 2026 15:59:50 +0000",
+      "summary": "Bitcoin Magazine Bitcoin Price Crashes to $59,000 as Market Selloff Deepens Bitcoin fell below $60,000 for the first time since early July on Friday as a tech stock rout, rate hike"
+    },
+    {
+      "source": "BitcoinMagazine",
+      "title": "Block Says Most Bitcoin Payments on Square Are for Coffee and Food",
+      "url": "https://bitcoinmagazine.com/news/block-square-bitcoin-payments-report",
+      "pubDate": "Fri, 20 Nov 2026 14:45:00 +0000",
+      "summary": "Bitcoin Magazine Block Says Most Bitcoin Payments on Square Are for Coffee and Food Blocks first bitcoin payments report found the median Square payment is about $13, with 72% at "
+    },
+    {
+      "source": "BitcoinMagazine",
+      "title": "Bitcoin Hovers Just Above Average Holders Cost Basis as Price Keeps Dipping",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-hovers-above-realized-price",
+      "pubDate": "Fri, 20 Nov 2026 14:25:00 +0000",
+      "summary": "Bitcoin Magazine Bitcoin Hovers Just Above Average Holders Cost Basis as Price Keeps Dipping Bitcoin is trading barely above its realized price, the average cost of every coin, an"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play",
+      "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+      "pubDate": "Fri, 20 Nov 2026 18:13:52 +0000",
+      "summary": "Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+      "url": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
+      "pubDate": "Fri, 20 Nov 2026 14:54:30 +0000",
+      "summary": "A former Point72 executive says AI could reshape Wall Street's data market, turning once-exclusive information into a source of revenue and financing."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+      "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
+      "pubDate": "Fri, 20 Nov 2026 14:38:30 +0000",
+      "summary": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
+      "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
+      "pubDate": "Fri, 20 Nov 2026 14:25:57 +0000",
+      "summary": "The bill would ban bets on war, assassinations and military operations amid concerns that traders could profit from inside information, as has already occurred."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+      "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
+      "pubDate": "Fri, 20 Nov 2026 13:35:33 +0000",
+      "summary": "BlackRocks bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Koreas Kospi down more than 5%."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
+      "url": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
+      "pubDate": "Fri, 20 Nov 2026 13:30:22 +0000",
+      "summary": "University of Lige researchers put a few dollars into deliberately vulnerable bitcoin addresses and watched rival bots race for the money within seconds."
+    }
+  ]
+}
