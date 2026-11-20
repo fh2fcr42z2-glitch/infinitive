@@ -1,1 +1,246 @@
-PLACEHOLDER_CONTENT
+{
+  "asof": "2026-11-20T00:01:45Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Ledger CTO Charles Guillemet to leave after nine years at company",
+      "url": "https://cointelegraph.com/news/ledger-cto-charles-guillemet-to-leave-after-nine-years-at-company?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 19 Nov 2026 23:44:02 +0000",
+      "summary": "Guillemet helped establish Ledgers Donjon security lab and says his departure has been planned for months."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binances $6.5B freeze order, Hong Kong suspicious of HYPE: Asia Express",
+      "url": "https://cointelegraph.com/magazine/binances-65b-freeze-order-hong-kong-suspicious-of-hype-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 19 Nov 2026 22:25:18 +0000",
+      "summary": "Binance obtains court orders freezing assets stolen in Octobers hack. Hong Kong warns citizens about Hyperliquid, and Thai police arrest four foreigners linked to a crypto scam."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Heres what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 19 Nov 2026 21:42:20 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "MoonPay seeks US bank charter for stablecoin, custody services",
+      "url": "https://cointelegraph.com/news/moonpay-seeks-us-bank-charter-for-stablecoin-custody-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 19 Nov 2026 21:01:42 +0000",
+      "summary": "MoonPays proposed national trust bank would offer stablecoin issuance and redemption, reserve management and digital asset custody under federal oversight."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Hyperliquid Anthropic futures priced within 1% of Nasdaq opening price",
+      "url": "https://cointelegraph.com/markets/hyperliquid-anthropic-futures-nasdaq-opening-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 19 Nov 2026 20:33:24 +0000",
+      "summary": "Hyperliquid traders priced Anthropic futures within 1% of the stocks Nasdaq opening price, as trading surged ahead of the AI companys IPO."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Trumps SEC nominee Johnson backs formal rulemaking for tokenized stock trading",
+      "url": "https://cointelegraph.com/news/sec-nominees-johnson-levine-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 19 Nov 2026 20:06:34 +0000",
+      "summary": "Former CFTC Commissioner and Democrat Kristin Johnson and ex-SEC aide Steven Levine appeared before lawmakers Thursday."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Citi Says Customers Are Responsible When AI Banking Agents Go RogueEven After a Hack",
+      "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
+      "pubDate": "Thu, 19 Nov 2026 22:36:02 +0000",
+      "summary": "Citibanks updated terms put customers on the hook for outside AI agents, including leaked logins."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia, AMD, Micron Sink as Anthropic Closes 17% Above IPO Price",
+      "url": "https://decrypt.co/383669/nvidia-amd-micron-ai-stocks-sink-anthropic-ipo-price",
+      "pubDate": "Thu, 19 Nov 2026 21:12:06 +0000",
+      "summary": "Anthropic shares opened 34% above their $83 IPO price before giving up much of the gain, while Nvidia, AMD and other AI stocks slid across Wall Street."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Meet SHRINCS: Bitcoin's Emerging Frontrunner for a Post-Quantum Signature",
+      "url": "https://decrypt.co/383666/meet-shrincs-bitcoin-emerging-frontrunner-post-quantum-signature",
+      "pubDate": "Thu, 19 Nov 2026 20:46:02 +0000",
+      "summary": "A new post-quantum signature proposal aims to secure Bitcoins future, but balancing user safety and efficiency comes with hurdles."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hackers Leak Visa, Mastercard and JPMorgan Customer Data",
+      "url": "https://decrypt.co/383663/hackers-leak-visa-mastercard-jpmorgan-data",
+      "pubDate": "Thu, 19 Nov 2026 20:15:32 +0000",
+      "summary": "A ransomware group breached third-party vendors, not the companies own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
+      "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
+      "pubDate": "Thu, 19 Nov 2026 19:08:24 +0000",
+      "summary": "Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtrend, and fragile support."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
+      "url": "https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks",
+      "pubDate": "Thu, 19 Nov 2026 17:55:38 +0000",
+      "summary": "At least four people were arrested outside Nasdaq during Anthropics historic IPO, as protesters warned that AI valuations could leave retirement savers exposed to a potential market crash and broader "
+    },
+    {
+      "source": "The Block",
+      "title": "Kalshis Quintenz says insider trading is just easier to see in prediction markets than stocks",
+      "url": "https://www.theblock.co/news/markets/2026-11-19-kalshi-quintenz-insider-trading-prediction-markets-stocks-444133",
+      "pubDate": "Thu, 19 Nov 2026 20:20:59 +0000",
+      "summary": "Quintenz said the possibility of insider trading doesn't make a market illegal and that enforcement should back up exchanges' efforts to prevent it."
+    },
+    {
+      "source": "The Block",
+      "title": "Ripples Alderoty doubts Elizabeth Warren will set crypto policy in this country, backs durable agency rules",
+      "url": "https://www.theblock.co/news/regulation/2026-11-19-ripple-alderoty-elizabeth-warren-wont-set-crypto-policy-backs-durable-agency-rules-444105",
+      "pubDate": "Thu, 19 Nov 2026 18:47:30 +0000",
+      "summary": "Ripples Alderoty backs durable agency rules as hopes for crypto market structure legislation fade."
+    },
+    {
+      "source": "The Block",
+      "title": "CFTC Chair Selig outlines how Hyperliquid and other onchain venues could enter the US",
+      "url": "https://www.theblock.co/news/regulation/2026-11-19-cftc-chair-selig-hyperliquid-onchain-venues-the-us-444106",
+      "pubDate": "Thu, 19 Nov 2026 18:04:15 +0000",
+      "summary": "Michael Selig said platforms like Hyperliquid have two ways to enter the U.S. retail market and must follow the same rules as other exchanges"
+    },
+    {
+      "source": "The Block",
+      "title": "Tokenized Stocks Shrug Off the Crypto Selloff",
+      "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-19-tokenized-stocks-shrug-off-crypto-selloff-442829",
+      "pubDate": "Thu, 19 Nov 2026 17:12:00 +0000",
+      "summary": "Tokenized Stocks Shrug Off the Crypto Selloff Bitcoin fell as low as $62k late Saturday, its sixth straight weekly decline. Meanwhile, tokenized stocks crossed $4 billion in onchain value for the firs"
+    },
+    {
+      "source": "The Block",
+      "title": "Hill, Moreno blame delays for missed Clarity Act window but differ on reach of agency rulemaking",
+      "url": "https://www.theblock.co/news/regulation/2026-11-19-hill-moreno-blame-delays-missed-clarity-act-window-split-regulators-fill-gap-443615",
+      "pubDate": "Thu, 19 Nov 2026 16:01:16 +0000",
+      "summary": "Hill and Moreno fault Clarity Act delays but disagree on how much crypto regulators can accomplish."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin finance protocol Hashi goes live on Sui mainnet",
+      "url": "https://www.theblock.co/news/defi/2026-11-19-bitcoin-finance-protocol-hashi-goes-live-on-sui-mainnet-443608",
+      "pubDate": "Thu, 19 Nov 2026 14:00:00 +0000",
+      "summary": "Hashi is processing bitcoin deposits on Sui mainnet, with hBTC used for Fluid loans and HoneyB vaults on Upshift."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "California says OpenAI lost control of AI agents 80 times while chasing profits",
+      "url": "https://cryptoslate.com/california-says-openai-lost-control-of-ai-agents-80-times-while-chasing-profits/",
+      "pubDate": "Thu, 19 Nov 2026 21:50:44 +0000",
+      "summary": "The states lawsuit seeks to end an alleged public nuisance tied to internal AI testing and also asks for civil penalties. Read the full story on CryptoSlateUnderstand the crypto stories that matter an"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bullish recruits Wall Street heavyweights to solve tokenized stocks biggest trading problem",
+      "url": "https://cryptoslate.com/bullish-recruits-wall-street-heavyweights-to-solve-tokenized-stocks-biggest-trading-problem/",
+      "pubDate": "Thu, 19 Nov 2026 20:30:58 +0000",
+      "summary": "Equiniti runs the shareholder register, and Galaxys route through two transfer agents shows what it takes for an issuer to connect another system. Read the full story on CryptoSlateUnderstand the cryp"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Anthropics $1.5 trillion IPO exposes bankrupt FTXs $40 billion missed fortune",
+      "url": "https://cryptoslate.com/anthropics-1-5-trillion-ipo-exposes-bankrupt-ftxs-40-billion-missed-fortune/",
+      "pubDate": "Thu, 19 Nov 2026 19:40:53 +0000",
+      "summary": "Anthropic shares owned by FTX and sold for around $2 billion would now be worth more than $40 billion as the artificial intelligence company finally goes public on Nov. 19. The difference highlights o"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Cryptos $11 billion bet on Wall Street is running into a funding problem",
+      "url": "https://cryptoslate.com/cryptos-11-billion-bet-on-wall-street-is-running-into-a-funding-problem/",
+      "pubDate": "Thu, 19 Nov 2026 19:10:25 +0000",
+      "summary": "Nvidias settled funding was higher on Binance over seven days and higher on trade.xyz over 30 days in a Nov. 18 snapshot. Read the full story on CryptoSlateUnderstand the crypto stories that matter an"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Thresholds 11-day Bitcoin redemption freeze exposes a hidden risk in BTC-backed tokens",
+      "url": "https://cryptoslate.com/thresholds-11-day-bitcoin-redemption-freeze-exposes-a-hidden-risk-in-btc-backed-tokens/",
+      "pubDate": "Thu, 19 Nov 2026 18:00:46 +0000",
+      "summary": "The Nov. 18 post-mortem explains why wallet signers had to return and how proof submission came back before app access. Read the full story on CryptoSlateUnderstand the crypto stories that matter and "
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Arthur Hayes predicts 97% crypto rally weeks after he exited trades",
+      "url": "https://cryptoslate.com/arthur-hayes-targets-1800-for-zcash-nearly-double-its-nov-18-close/",
+      "pubDate": "Thu, 19 Nov 2026 17:30:24 +0000",
+      "summary": "His targets for ETH, ZEC, NEAR and VVV were 57.8% to 97.3% above their Nov. 18 Coinbase closes. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get "
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+      "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+      "pubDate": "Thu, 19 Nov 2026 19:53:42 +0000",
+      "summary": "USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC liquidity backing its stablecoins."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
+      "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
+      "pubDate": "Thu, 19 Nov 2026 18:15:56 +0000",
+      "summary": "The U.S. Senate Banking Committee held a confirmation hearing for the two nominees one from each party as the administration rebuilds the markets regulators."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Anthropic gains after IPO, but pulls off highest levels",
+      "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
+      "pubDate": "Thu, 19 Nov 2026 17:01:47 +0000",
+      "summary": "After opening at $111.50, ANT quickly slipped back under $100, still above its $83 offering price."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Falling prices drove Octobers 10% drop in institutional crypto exposure",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/19/crypto-for-advisors-falling-prices-drove-october-s-10-drop-in-institutional-crypto-exposure",
+      "pubDate": "Thu, 19 Nov 2026 16:09:28 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+      "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
+      "pubDate": "Thu, 19 Nov 2026 15:20:38 +0000",
+      "summary": "The crypto exchange said it has already replaced the stolen assets using its own funds and insurance reserves."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto traders vs. Wall Street: OKXs Anthropic markets put IPO pricing to the test",
+      "url": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
+      "pubDate": "Thu, 19 Nov 2026 13:11:31 +0000",
+      "summary": "The crypto exchange plans to launch tokenized Anthropic shares as its pre-IPO futures trade about 24% above the companys $83 offering price."
+    }
+  ]
+}
