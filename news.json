@@ -10,5 +10,258 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "items": []
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+      "url": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 15:55:22 +0000",
+      "summary": "The Senate-approved bill would ban prediction market contracts tied to war, assassination and death amid concerns over potential insider trading on military events."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+      "url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 15:52:06 +0000",
+      "summary": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic?s IPO."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "DBS bets it can lose the deposit and keep the client",
+      "url": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 15:32:30 +0000",
+      "summary": "The Singapore bank earned a record $208 million in transaction services fees in the third quarter ? now it?s helping companies turn deposits into stablecoins they can spend without it."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here?s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 13:29:58 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
+      "url": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 13:21:39 +0000",
+      "summary": "The ECB president said Europe?s market for tokenized securities could split into platforms that cannot settle trades with one another."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
+      "url": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 11:31:41 +0000",
+      "summary": "OnChain Lens tracked nearly $600 million in ETH transfers over two days as the Binance hackers moved the stolen funds through fresh wallets and cross-chain protocols to obscure their trail."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
+      "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+      "pubDate": "Fri, 20 Nov 2026 15:42:51 +0000",
+      "summary": "Sen. Adam Schiff's DEATH BETS Act would bar U.S.-regulated exchanges from listing contracts tied to war, assassinations or deaths."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
+      "url": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
+      "pubDate": "Fri, 20 Nov 2026 13:23:01 +0000",
+      "summary": "A (brief) win for Anthropic's ANT stock on IPO day meant a loss for just about every other major asset class."
+    },
+    {
+      "source": "Decrypt",
+      "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
+      "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
+      "pubDate": "Fri, 20 Nov 2026 12:10:14 +0000",
+      "summary": "The crypto payments firm joins a rush of crypto companies seeking federal trust charters, which face growing political scrutiny."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
+      "url": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
+      "pubDate": "Fri, 20 Nov 2026 11:50:51 +0000",
+      "summary": "Thursday's ETF outflow was the funds' biggest in three weeks, as rising Treasury yields and Fed rate hike bets weigh on crypto."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
+      "url": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report",
+      "pubDate": "Fri, 20 Nov 2026 11:23:00 +0000",
+      "summary": "The exchange offers event contracts through Kalshi, but running its own would give it more control and a bigger share of trading revenue."
+    },
+    {
+      "source": "Decrypt",
+      "title": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
+      "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
+      "pubDate": "Fri, 20 Nov 2026 10:07:46 +0000",
+      "summary": "The UK crypto trade group broadly backed the regulator's proposed perimeter guidance, but warned that parts of it go further than the law."
+    },
+    {
+      "source": "The Block",
+      "title": "Wagyu?s XMR1 wrapped Monero plunges 99% after $13 million hack as founder promises refunds",
+      "url": "https://www.theblock.co/news/defi/2026-11-20-wagyus-xmr1-wrapped-monero-plunges-99-after-13-million-hack-founder-promises-refunds-444747",
+      "pubDate": "Fri, 20 Nov 2026 16:11:22 +0000",
+      "summary": "Wagyu?s founder pledged refunds after an attacker sold XMR1 Wrapped Monero tokens in a $13 million exploit."
+    },
+    {
+      "source": "The Block",
+      "title": "Rep. Horsford sees opening for House vote on crypto tax bill before Congress ends",
+      "url": "https://www.theblock.co/news/regulation/2026-11-20-rep-horsford-sees-opening-house-vote-crypto-tax-bill-before-congress-ends-444720",
+      "pubDate": "Fri, 20 Nov 2026 14:51:32 +0000",
+      "summary": "Rep. Steven Horsford said a bipartisan crypto tax bill could pass the House before this current Congress ends."
+    },
+    {
+      "source": "The Block",
+      "title": "Wintermute policy chief calls for crypto lobby to ?clean house? in D.C.",
+      "url": "https://www.theblock.co/news/regulation/2026-11-20-wintermute-policy-chief-calls-for-crypto-lobby-clean-house-d-c-444721",
+      "pubDate": "Fri, 20 Nov 2026 14:36:10 +0000",
+      "summary": "Wintermute's Ron Hammond says crypto needs a new strategy after repeated lobbying setbacks against established financial interests."
+    },
+    {
+      "source": "The Block",
+      "title": "US spot bitcoin ETFs see $582 million in daily net outflows as November total nears $3.5 billion",
+      "url": "https://www.theblock.co/news/markets/2026-11-20-us-spot-bitcoin-etfs-see-582-million-in-daily-net-outflows-as-november-total-nears-3-5-billion-444217",
+      "pubDate": "Fri, 20 Nov 2026 12:29:57 +0000",
+      "summary": "BlackRock's IBIT made up nearly all of Thursday's outflows, despite Morgan Stanley's MSBT attracting $49.6 million."
+    },
+    {
+      "source": "The Block",
+      "title": "Ark buys $90 million worth of Anthropic shares on debut, trims Ethereum and Solana staking ETF holdings",
+      "url": "https://www.theblock.co/news/markets/2026-11-20-ark-buys-90-million-worth-of-anthropic-shares-on-debut-trims-ethereum-and-solana-staking-etf-holdings-444226",
+      "pubDate": "Fri, 20 Nov 2026 12:12:29 +0000",
+      "summary": "Ark Invest bought nearly 1 million Anthropic shares and trimmed its Ethereum and Solana staking ETF holdings."
+    },
+    {
+      "source": "The Block",
+      "title": "MoonPay applies for national trust bank charter to expand stablecoin services",
+      "url": "https://www.theblock.co/news/business/2026-11-20-moonpay-applies-occ-national-bank-charter-444198",
+      "pubDate": "Fri, 20 Nov 2026 10:39:09 +0000",
+      "summary": "MoonPay has applied for a national trust bank charter to expand its custody and stablecoin services under federal oversight."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Scientists found a surprising use for wrong AI hypotheses in climate research",
+      "url": "https://cryptoslate.com/scientists-found-a-surprising-use-for-wrong-ai-hypotheses-in-climate-research/",
+      "pubDate": "Fri, 20 Nov 2026 16:00:28 +0000",
+      "summary": "Testing a proposed seasonal shift led International Potato Center scientists to a part of the historical record with weak weather-station coverage. Read the full story on CryptoSlateUnderstand the cry"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin hits four-month low as $820 million liquidated and $12.7 billion short squeeze risk builds",
+      "url": "https://cryptoslate.com/bitcoin-hits-four-month-low-as-820-million-liquidated-and-12-7-billion-short-squeeze-risk-builds/",
+      "pubDate": "Fri, 20 Nov 2026 15:35:56 +0000",
+      "summary": "Bitcoin fell to its lowest level in four months as an $820 million liquidation wave swept the derivatives market. The leading cryptocurrency fell to $61,196 on Nov. 20 before recovering to $61,901 as "
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "The DeFi protocol powering $1.6 billion in Coinbase loans as crypto lending goes mainstream",
+      "url": "https://cryptoslate.com/the-defi-protocol-powering-1-6-billion-in-coinbase-loans-as-crypto-lending-goes-mainstream/",
+      "pubDate": "Fri, 20 Nov 2026 15:00:30 +0000",
+      "summary": "The New York rollout extends a service that Coinbase offers through its app and lenders fund through Morpho?s markets. Read the full story on CryptoSlateUnderstand the crypto stories that matter and w"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "AI data center boom linked to 650 premature US deaths as pollution spreads across states",
+      "url": "https://cryptoslate.com/ai-data-center-boom-linked-to-650-premature-us-deaths-as-pollution-spreads-across-states/",
+      "pubDate": "Fri, 20 Nov 2026 14:00:52 +0000",
+      "summary": "An MIT-led study estimates about 650 premature deaths in the contiguous US in 2023 from pollution linked to the electricity data centers drew from the grid. Read the full story on CryptoSlateUnderstan"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin buyers face a trading issue as stablecoins just suffer their biggest supply drop since 2022",
+      "url": "https://cryptoslate.com/bitcoin-buyers-face-a-trading-issue-as-stablecoins-just-suffer-their-biggest-supply-drop-since-2022/",
+      "pubDate": "Fri, 20 Nov 2026 12:40:46 +0000",
+      "summary": "Flowdesk?s Greg Guttas explains how a market maker could use its own stablecoins to fund a Bitcoin purchase and settle with the client later. Read the full story on CryptoSlateUnderstand the crypto st"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin missed AI stocks? 85% rally but could still face the fallout if the boom unravels",
+      "url": "https://cryptoslate.com/bitcoin-missed-ai-stocks-85-rally-but-could-still-face-the-fallout-if-the-boom-unravels/",
+      "pubDate": "Fri, 20 Nov 2026 11:20:42 +0000",
+      "summary": "DWF Labs? study of large Nasdaq-100 down days offers a historical comparison if losses on AI investments spread across markets. Read the full story on CryptoSlateUnderstand the crypto stories that mat"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Crashes to $59,000 as Market Selloff Deepens",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000",
+      "pubDate": "Fri, 20 Nov 2026 15:59:50 +0000",
+      "summary": "Bitcoin Magazine Bitcoin Price Crashes to $59,000 as Market Selloff Deepens Bitcoin fell below $60,000 for the first time since early July on Friday as a tech stock rout, rate hike bets and record ETF"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Block Says Most Bitcoin Payments on Square Are for Coffee and Food",
+      "url": "https://bitcoinmagazine.com/news/block-square-bitcoin-payments-report",
+      "pubDate": "Fri, 20 Nov 2026 14:45:00 +0000",
+      "summary": "Bitcoin Magazine Block Says Most Bitcoin Payments on Square Are for Coffee and Food Block?s first bitcoin payments report found the median Square payment is about $13, with 72% at food and drink busin"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Hovers Just Above Average Holder?s Cost Basis as Price Keeps Dipping",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-hovers-above-realized-price",
+      "pubDate": "Fri, 20 Nov 2026 14:25:00 +0000",
+      "summary": "Bitcoin Magazine Bitcoin Hovers Just Above Average Holder?s Cost Basis as Price Keeps Dipping Bitcoin is trading barely above its realized price, the average cost of every coin, and a break below woul"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-61500-asia",
+      "pubDate": "Fri, 20 Nov 2026 14:00:15 +0000",
+      "summary": "Bitcoin Magazine Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia The bitcoin price slipped to near $61,500 on Friday morning, its lowest level since July, as the tech selloff spread t"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Inside Bukele?s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador?s Future",
+      "url": "https://bitcoinmagazine.com/news/inside-bukeles-casa-presidencial-dinner-bitcoiners-discuss-energy-immigration-and-el-salvadors-future",
+      "pubDate": "Thu, 19 Nov 2026 22:20:01 +0000",
+      "summary": "Bitcoin Magazine Inside Bukele?s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador?s Future On November 10, 2026, President Nayib Bukele hosted roughly 30 Bitcoiners at"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides",
+      "url": "https://bitcoinmagazine.com/markets/strategy-stock-sinks-62000",
+      "pubDate": "Thu, 19 Nov 2026 21:53:36 +0000",
+      "summary": "Bitcoin Magazine Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides Strategy shares fell 4.6% to $86.13 on Thursday, their sixth straight decline, as bitcoin dipped below $6"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+      "url": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
+      "pubDate": "Fri, 20 Nov 2026 14:54:30 +0000",
+      "summary": "A former Point72 executive says AI could reshape Wall Street's data market, turning once-exclusive information into a source of revenue and financing."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
+      "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
+      "pubDate": "Fri, 20 Nov 2026 14:38:30 +0000",
+      "summary": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
+      "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
+      "pubDate": "Fri, 20 Nov 2026 14:25:57 +0000",
+      "summary": "The bill would ban bets on war, assassinations and military operations amid concerns that traders could profit from inside information, as has already occurred."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
+      "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
+      "pubDate": "Fri, 20 Nov 2026 13:35:33 +0000",
+      "summary": "BlackRock?s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea?s Kospi down more than 5%."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
+      "url": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
+      "pubDate": "Fri, 20 Nov 2026 13:30:22 +0000",
+      "summary": "University of Li?ge researchers put a few dollars into deliberately vulnerable bitcoin addresses and watched rival bots race for the money within seconds."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "ECB?s Lagarde warns Europe could lose control of growing tokenized asset market",
+      "url": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
+      "pubDate": "Fri, 20 Nov 2026 13:11:49 +0000",
+      "summary": "The ECB president called for common rules as the EU's new blockchain settlement system handled a 1 billion-euro ($1.1 billion) digital bond transaction."
+    }
+  ]
 }
