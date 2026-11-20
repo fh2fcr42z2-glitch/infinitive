@@ -1,1 +1,22 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-20T23:01:46Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin miners face a new profitability cliff as difficulty heads for an 8.5% jump",
+      "url": "https://cryptoslate.com/bitcoin-miners-face-shrinking-revenue-and-tighter-electricity-margins-as-a-projected-difficulty-increase-threatens-less-efficient-machines/",
+      "pubDate": "Fri, 20 Nov 2026 22:50:55 +0000",
+      "summary": "The projected adjustment would lower the electricity rate a less efficient rig can afford, even if Bitcoin's price and block rewards hold steady."
+    }
+  ]
+}
