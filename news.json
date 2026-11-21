@@ -1,1 +1,267 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-21T23:01:35Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 21 Nov 2026 11:18:52 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "ECB seeks industry partners for tokenized deposits, securities experiments",
+      "url": "https://cointelegraph.com/news/ecb-tokenized-deposits-securities-experiments-appia?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 21 Nov 2026 09:48:56 +0000",
+      "summary": "Industry groups have until Dec. 11 to apply for the ECB's first experimental exercises under its Appia initiative, with later submissions reviewed on a rolling basis."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US lawmakers propose up to 30% rewards for prediction market whistleblowers",
+      "url": "https://cointelegraph.com/news/us-prediction-market-whistleblower-rewards-30-percent?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 21 Nov 2026 07:51:47 +0000",
+      "summary": "Whistleblowers could receive 10% to 30% of monetary sanctions in qualifying prediction market fraud cases exceeding $1 million in penalties."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Hong Kong pushes to bring crypto custodians, advisers under licensing rules",
+      "url": "https://cointelegraph.com/news/hong-kong-crypto-custody-advisory-licensing-bill?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Sat, 21 Nov 2026 05:40:35 +0000",
+      "summary": "Hong Kong's securities regulator says the proposal would strengthen investor protections, with the bill set for its first reading in the Legislative Council on Dec. 2."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+      "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 19:37:27 +0000",
+      "summary": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+      "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 20 Nov 2026 18:37:10 +0000",
+      "summary": "Sky says its USDS stablecoin held its $1 value despite more than $2 billion in withdrawals, as it disputes a report linking the protocol to illicit activity."
+    },
+    {
+      "source": "Decrypt",
+      "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+      "url": "https://decrypt.co/news/gta-6-leaker-dangles-pc-port-behind-15-million-crypto-pump",
+      "pubDate": "Sat, 21 Nov 2026 16:00:00 +0000",
+      "summary": "A GTA 6 leaker is promising a PC port if a related crypto token reaches a $15 million market cap."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+      "url": "https://decrypt.co/news/fraudsters-used-fake-crypto-exchanges-to-steal-37-million-sec-alleges",
+      "pubDate": "Sat, 21 Nov 2026 15:30:00 +0000",
+      "summary": "The SEC charged individuals with operating fake crypto exchanges that allegedly stole $37 million from investors."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
+      "url": "https://decrypt.co/news/signal-calls-os-level-ai-an-existential-threat-and-blocks-screenshots-to-fight-it",
+      "pubDate": "Sat, 21 Nov 2026 14:00:00 +0000",
+      "summary": "Signal is taking steps against OS-level AI features it views as a threat to privacy."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
+      "url": "https://decrypt.co/news/is-the-ai-bubble-finally-popping-nvidia-crashes-48-as-wall-street-experts-sound-the-alarm",
+      "pubDate": "Sat, 21 Nov 2026 13:00:00 +0000",
+      "summary": "Nvidia shares have fallen sharply amid concerns about AI valuation sustainability."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
+      "url": "https://decrypt.co/news/claude-claims-historic-math-breakthrough-one-day-after-anthropic-ipo",
+      "pubDate": "Sat, 21 Nov 2026 12:00:00 +0000",
+      "summary": "Anthropic's Claude model reportedly achieved a notable mathematical result shortly after the company's IPO."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
+      "url": "https://decrypt.co/news/nvidia-shares-sink-to-52-week-low-after-report-sec-is-probing-accounting",
+      "pubDate": "Sat, 21 Nov 2026 11:00:00 +0000",
+      "summary": "Nvidia stock hit a 52-week low following reports of an SEC accounting investigation."
+    },
+    {
+      "source": "The Block",
+      "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+      "url": "https://www.theblock.co/news/kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide",
+      "pubDate": "Sat, 21 Nov 2026 16:30:00 +0000",
+      "summary": "Prediction market Kalshi is set for a hearing on a New York order that could impact its operations."
+    },
+    {
+      "source": "The Block",
+      "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+      "url": "https://www.theblock.co/news/cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers",
+      "pubDate": "Sat, 21 Nov 2026 15:00:00 +0000",
+      "summary": "A suspected bridge exploit of about $1 million is under investigation, with some Korean exchanges freezing related transfers."
+    },
+    {
+      "source": "The Block",
+      "title": "Chainflip's FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
+      "url": "https://www.theblock.co/news/chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise",
+      "pubDate": "Sat, 21 Nov 2026 14:30:00 +0000",
+      "summary": "Chainflip suffered a vault drain of roughly $4.86 million linked to a suspected key compromise; FLIP token fell sharply."
+    },
+    {
+      "source": "The Block",
+      "title": "JPMorgan says bitcoin's price drop pressures miners, Senate passes 'Death Bets Act', and more",
+      "url": "https://www.theblock.co/news/jpmorgan-says-bitcoins-price-drop-pressures-miners-senate-passes-death-bets-act-and-more",
+      "pubDate": "Sat, 21 Nov 2026 13:00:00 +0000",
+      "summary": "Roundup covering Bitcoin miner pressure from price drops and a Senate prediction market bill."
+    },
+    {
+      "source": "The Block",
+      "title": "DCG's Zcash miner Fortitude clears vote for Nasdaq listing as ZEC retreats from all-time high",
+      "url": "https://www.theblock.co/news/dcgs-zcash-miner-fortitude-clears-vote-for-nasdaq-listing-as-zec-retreats-from-all-time-high",
+      "pubDate": "Sat, 21 Nov 2026 12:00:00 +0000",
+      "summary": "Fortitude, a Zcash miner linked to DCG, advanced toward a Nasdaq listing."
+    },
+    {
+      "source": "The Block",
+      "title": "Rep. Casten seeks to curb prediction market insider trading with DOJ whistleblower program",
+      "url": "https://www.theblock.co/news/rep-casten-seeks-to-curb-prediction-market-insider-trading-with-doj-whistleblower-program",
+      "pubDate": "Sat, 21 Nov 2026 11:00:00 +0000",
+      "summary": "Legislation aims to address potential insider trading on prediction markets via a whistleblower mechanism."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Hackers swapped a hosted DeepSeek model for 53 hours and stripped away its safety protections",
+      "url": "https://cryptoslate.com/hackers-swapped-a-hosted-deepseek-model-for-53-hours-and-stripped-away-its-safety-protections/",
+      "pubDate": "Sat, 21 Nov 2026 10:00:00 +0000",
+      "summary": "A hosted DeepSeek AI model was reportedly replaced for over two days, removing safety measures."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Russia allows Bitcoin trading as sanctioned Moscow Exchange prepares December launch",
+      "url": "https://cryptoslate.com/russia-allows-bitcoin-trading-as-sanctioned-moscow-exchange-prepares-december-launch/",
+      "pubDate": "Sat, 21 Nov 2026 09:00:00 +0000",
+      "summary": "Russia is moving to permit Bitcoin trading, with Moscow Exchange preparing a launch."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Aave's $4 billion USDC borrow cap could leave just $190 million available for withdrawals",
+      "url": "https://cryptoslate.com/aaves-4-billion-usdc-borrow-cap-could-leave-just-190-million-available-for-withdrawals/",
+      "pubDate": "Sat, 21 Nov 2026 08:00:00 +0000",
+      "summary": "Aave's USDC utilization and borrow cap may limit available liquidity for withdrawals."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Singapore wants to test stablecoin payments by AI agents",
+      "url": "https://cryptoslate.com/singapore-wants-to-test-stablecoin-payments-by-ai-agents/",
+      "pubDate": "Sat, 21 Nov 2026 07:00:00 +0000",
+      "summary": "Singapore is exploring stablecoin use cases involving AI agent payments."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "A Bitcoin drop toward $53,000 could put $240 million in collateral at risk",
+      "url": "https://cryptoslate.com/a-bitcoin-drop-toward-53000-could-put-240-million-in-collateral-at-risk/",
+      "pubDate": "Sat, 21 Nov 2026 06:00:00 +0000",
+      "summary": "Analysis suggests significant collateral exposure if Bitcoin falls toward $53,000."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "One Bitcoin miner paid an $11.9M tariff bill four years after delivery",
+      "url": "https://cryptoslate.com/one-bitcoin-miner-paid-an-11-9m-tariff-bill-four-years-after-delivery/",
+      "pubDate": "Sat, 21 Nov 2026 05:00:00 +0000",
+      "summary": "A Bitcoin mining firm faced a large tariff bill long after equipment delivery."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Tracy Schuchart: Bitcoin Trading \"Like a Risk Asset\" as Fed Hikes Loom",
+      "url": "https://bitcoinmagazine.com/markets/tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom",
+      "pubDate": "Sat, 21 Nov 2026 16:00:00 +0000",
+      "summary": "Commentary on Bitcoin trading behavior amid potential Federal Reserve rate hikes."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-to-lows-not-seen-since-2024-nasdaq-plunges-5",
+      "pubDate": "Sat, 21 Nov 2026 15:00:00 +0000",
+      "summary": "Bitcoin reached multi-month lows alongside a sharp Nasdaq decline."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "MSTR Head of Investor Relations Addresses Bitcoin Pullback, Equity Performance",
+      "url": "https://bitcoinmagazine.com/markets/mstr-head-of-investor-relations-addresses-bitcoin-pullback-equity-performance",
+      "pubDate": "Sat, 21 Nov 2026 14:00:00 +0000",
+      "summary": "MicroStrategy IR discusses recent Bitcoin price action and company equity."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "SEC Freezes Assets in $560 Million Crypto Trading Ponzi Scheme",
+      "url": "https://bitcoinmagazine.com/markets/sec-freezes-assets-in-560-million-crypto-trading-ponzi-scheme",
+      "pubDate": "Sat, 21 Nov 2026 13:00:00 +0000",
+      "summary": "SEC action against a large alleged crypto trading Ponzi scheme."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Researchers Publish Security Analysis of Bitcoin's Post-Quantum SHRINCS Proposal",
+      "url": "https://bitcoinmagazine.com/technical/researchers-publish-security-analysis-of-bitcoins-post-quantum-shrincs-proposal",
+      "pubDate": "Sat, 21 Nov 2026 12:00:00 +0000",
+      "summary": "Academic review of a proposed post-quantum signature scheme for Bitcoin."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "U.S. Treasury Secretary Pushes Back on Bigger Fed Hike",
+      "url": "https://bitcoinmagazine.com/markets/us-treasury-secretary-pushes-back-on-bigger-fed-hike",
+      "pubDate": "Sat, 21 Nov 2026 11:00:00 +0000",
+      "summary": "Treasury Secretary comments on the scale of potential Federal Reserve rate increases."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-rebounds-above-60-000-after-1-8-billion-crypto-liquidation-wave",
+      "pubDate": "Sat, 21 Nov 2026 16:45:00 +0000",
+      "summary": "Bitcoin recovered above $60,000 following a large liquidation event across crypto markets."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+      "url": "https://www.coindesk.com/markets/2026/11/21/cross-chain-protocol-chainflips-flip-tanks-30-after-suspected-4-86-million-vault-drain",
+      "pubDate": "Sat, 21 Nov 2026 15:30:00 +0000",
+      "summary": "Chainflip token declined after a reported vault exploit."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
+      "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-54-million-aave-loan-could-be-liquidated",
+      "pubDate": "Sat, 21 Nov 2026 14:30:00 +0000",
+      "summary": "BTCS flagged potential liquidation risk on a large Aave position involving Ether."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin nodes could be stalled by repeating one ID 50,000 times. AI found the bug",
+      "url": "https://www.coindesk.com/tech/2026/11/21/bitcoin-nodes-could-be-stalled-by-repeating-one-id-50-000-times-ai-found-the-bug",
+      "pubDate": "Sat, 21 Nov 2026 13:30:00 +0000",
+      "summary": "Researchers identified a potential denial-of-service vector in Bitcoin node software."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "XRP falls 10% as long bets unwind and ETF assets slip below $1 billion",
+      "url": "https://www.coindesk.com/markets/2026/11/21/xrp-falls-10-as-long-bets-unwind-and-etf-assets-slip-below-1-billion",
+      "pubDate": "Sat, 21 Nov 2026 12:30:00 +0000",
+      "summary": "XRP declined amid position unwinds and reduced ETF holdings."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-57-000-for-the-first-time-in-two-years-and-its-not-alone",
+      "pubDate": "Sat, 21 Nov 2026 11:30:00 +0000",
+      "summary": "Bitcoin and broader crypto markets saw significant declines, with BTC under $57,000."
+    }
+  ]
+}
