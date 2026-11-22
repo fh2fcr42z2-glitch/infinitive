@@ -38,6 +38,62 @@
       "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Sun, 22 Nov 2026 05:28:43 +0000",
       "summary": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints."
+    },
+    {
+      "source": "Decrypt",
+      "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+      "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+      "pubDate": "Sat, 21 Nov 2026 18:01:02 +0000",
+      "summary": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+      "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+      "pubDate": "Sat, 21 Nov 2026 17:01:02 +0000",
+      "summary": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms even faking SEC certificates and filings to defraud U.S. investors of more than $37 million."
+    },
+    {
+      "source": "The Block",
+      "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+      "url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+      "pubDate": "Sat, 21 Nov 2026 21:17:36 +0000",
+      "summary": "Kalshi, which is headquartered in New York, has said the order would shut it down nationwide, though NY's AG said that's not her goal."
+    },
+    {
+      "source": "The Block",
+      "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+      "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+      "pubDate": "Sat, 21 Nov 2026 18:51:14 +0000",
+      "summary": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident."
+    },
+    {
+      "source": "The Block",
+      "title": "Chainflip's FLIP drops 34% after attacker drains $4.86 million from vault with suspected key compromise",
+      "url": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
+      "pubDate": "Sat, 21 Nov 2026 15:24:14 +0000",
+      "summary": "Chainflip's FLIP token dropped 34% in price in the wake of the apparently automated attack."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin's next big threat could come from two oil tankers in the Middle East",
+      "url": "https://cryptoslate.com/two-hormuz-tanker-strikes-threaten-a-potential-source-of-relief-for-bitcoin/",
+      "pubDate": "Sun, 22 Nov 2026 13:00:09 +0000",
+      "summary": "Two reported tanker strikes put the recent Brent decline to the test as traders watch outbound cargo and US rate expectations."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave",
+      "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+      "pubDate": "Sat, 21 Nov 2026 17:50:00 +0000",
+      "summary": "The selloff wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
+      "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
+      "pubDate": "Sat, 21 Nov 2026 16:41:00 +0000",
+      "summary": "The withdrawal carried a valid signature, pointing to a possible compromise of the key validators use to approve vault payouts."
     }
   ]
 }
