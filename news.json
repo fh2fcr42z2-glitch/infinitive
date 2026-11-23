@@ -1,1 +1,288 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-23T21:01:55Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Kalshi secures temporary win in New York gambling law dispute",
+      "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 23 Nov 2026 20:38:43 +0000",
+      "summary": "The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
+      "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 23 Nov 2026 19:35:06 +0000",
+      "summary": "BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
+      "url": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 23 Nov 2026 19:16:46 +0000",
+      "summary": "Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
+      "url": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 23 Nov 2026 17:42:18 +0000",
+      "summary": "Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt out of OKXICE's rollout, while some issuers simply wanted more time."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin rebounds 17% from $55K lows as Nvidia rally sparks $500M crypto liquidations",
+      "url": "https://cointelegraph.com/markets/bitcoin-rebounds-lows-nvidia-rally-sparks-500m-crypto-liquidations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 23 Nov 2026 16:51:17 +0000",
+      "summary": "Bitcoin price upside hit $64,500 as risk assets surged on Nvidia CEO Jensen Huang's reinstatement, while crypto liquidations topped $500 million four hours."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Cross River Bank enters Bitcoin-backed lending with $250K loans",
+      "url": "https://cointelegraph.com/news/cross-river-bank-bitcoin-backed-lending-250k-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 23 Nov 2026 16:23:37 +0000",
+      "summary": "The US bank is offering Bitcoin-backed loans ranging from $10,000 to $250,000 through LendingUSA, allowing borrowers to access cash without selling their holdings."
+    },
+    {
+      "source": "Decrypt",
+      "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
+      "url": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
+      "pubDate": "Mon, 23 Nov 2026 20:36:02 +0000",
+      "summary": "Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who \"refuses to block funds such as these.\""
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why Nvidia Needed Jensen Huang Back-And What His Return Really Changes",
+      "url": "https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes",
+      "pubDate": "Mon, 23 Nov 2026 19:57:21 +0000",
+      "summary": "Huang's 11-day absence exposed the importance of his customer ties, influence in Washington and hold on Silicon Valley. The stock is soaring, but the comeback brings risks of its own."
+    },
+    {
+      "source": "Decrypt",
+      "title": "GPU Jesus Has Risen: Jensen Huang's Nvidia Comeback Gets a Meme Parade",
+      "url": "https://decrypt.co/383820/jensen-huang-returns-nvidia-memes-gpu-jesus",
+      "pubDate": "Mon, 23 Nov 2026 18:45:21 +0000",
+      "summary": "Hollywood, WWE and GPU Jesus joined the celebration after Nvidia reinstated Jensen Huang on Monday, while viral AI memes cast Anthropic's Dario Amodei as the unlikely villain of the comeback."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds",
+      "url": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot",
+      "pubDate": "Mon, 23 Nov 2026 18:16:25 +0000",
+      "summary": "The lone miner solved block 977057 through Solo CKPool, pocketing 3.13 BTC (worth about $191,000) in a lottery-like feat that normally only industrial-scale mining farms pull off."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Perps and Swaps: How to Trade the News on Decrypt",
+      "url": "https://decrypt.co/resources/perps-and-swaps-how-to-trade-the-news-on-decrypt",
+      "pubDate": "Mon, 23 Nov 2026 18:15:45 +0000",
+      "summary": "Decrypt readers can now swap tokens and trade perpetual futures from a single Money Account. Here's how The Information Exchange works."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Jensen Huang's Wealth Rises $36 Billion as Nvidia Surge Burns Short Sellers for $12 Billion",
+      "url": "https://decrypt.co/383815/jensen-huang-fortune-37-billion-nvidia-soars-short-sellers-rekt",
+      "pubDate": "Mon, 23 Nov 2026 17:28:08 +0000",
+      "summary": "Nvidia shares jumped more than 33% after the board reinstated Huang 11 days post-resignation, adding over $36 billion to his fortune while dealing short sellers their worst single-day loss since at least 2019."
+    },
+    {
+      "source": "The Block",
+      "title": "DOJ seeks $1.17 billion in USDC tied to Binance hack; Circle could issue replacement tokens",
+      "url": "https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398",
+      "pubDate": "Mon, 23 Nov 2026 20:00:34 +0000",
+      "summary": "The U.S. Justice Department is seeking to recover about $1.17 billion in USDC tied to the Oct. 29 Binance hack."
+    },
+    {
+      "source": "The Block",
+      "title": "CFTC prediction market rules advance to White House review amid state-federal jurisdiction fight",
+      "url": "https://www.theblock.co/news/regulation/2026-11-23-cftc-prediction-market-rules-advance-white-house-review-amid-state-federal-jurisdiction-fight-445384",
+      "pubDate": "Mon, 23 Nov 2026 18:30:09 +0000",
+      "summary": "A proposed set of rules by the CFTC to further assert its oversight of prediction markets is now with the White House for review."
+    },
+    {
+      "source": "The Block",
+      "title": "Sky cofounder weighs SKY sale to repay $77 million as stUSDS pool runs dry",
+      "url": "https://www.theblock.co/news/defi/2026-11-23-sky-cofounder-weighs-sky-sale-repay-77-million-stusds-pool-runs-dry-445373",
+      "pubDate": "Mon, 23 Nov 2026 17:31:50 +0000",
+      "summary": "USDS held near $1 on Monday even as the separate stUSDS lending pool had no funds available for withdrawals."
+    },
+    {
+      "source": "The Block",
+      "title": "DeFi Development extends Solana buying streak to 11 straight weeks, SOL treasury hits 2.62 million",
+      "url": "https://www.theblock.co/news/markets/2026-11-23-defi-development-dfdv-solana-treasury-11-consecutive-weeks-444950",
+      "pubDate": "Mon, 23 Nov 2026 15:34:51 +0000",
+      "summary": "DeFi Development added about 5,180 SOL, lifting its Solana treasury to 2.62 million SOL in its 11th straight week of buying since Sept. 14."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitmine adds 7,819 ETH as Tom Lee makes the 'hard money' case",
+      "url": "https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948",
+      "pubDate": "Mon, 23 Nov 2026 15:02:41 +0000",
+      "summary": "Bitmine added 7,819 ETH over the past week, lifting its total holdings to 6,085,564 ETH, or 4.98% of the circulating supply."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin, crypto and tech stocks rally as Nvidia reinstates Jensen Huang as CEO; NVDA jumps 30%",
+      "url": "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952",
+      "pubDate": "Mon, 23 Nov 2026 15:02:21 +0000",
+      "summary": "Ahead of the announcement, Polymarket put the odds of Huang rejoining Nvidia by the end of the year at just 10.5%."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin's supply squeeze narrative faces scrutiny after 11,000 BTC moves to Kraken",
+      "url": "https://cryptoslate.com/bitcoins-supply-squeeze-narrative-faces-scrutiny-after-11000-btc-moves-to-kraken/",
+      "pubDate": "Mon, 23 Nov 2026 20:30:38 +0000",
+      "summary": "Five transfers from Coinbase- and Binance-tagged wallets show how exchange withdrawals can leave coins inside the tracked trading network."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Strategy raises its buyback ceiling to $4 billion as MSTR shares sink 21%",
+      "url": "https://cryptoslate.com/strategy-raises-its-buyback-ceiling-to-4-billion-as-mstr-shares-sink-21/",
+      "pubDate": "Mon, 23 Nov 2026 19:40:57 +0000",
+      "summary": "Strategy raised its STRC buyback authorization for the third time on Monday, bringing the program to $4 billion as its common shares continued to struggle."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Monad faces $190 million insider token unlock larger than its market cap as MON hits record low",
+      "url": "https://cryptoslate.com/monad-faces-190-million-insider-token-unlock-larger-than-its-market-cap-as-mon-hits-record-low/",
+      "pubDate": "Mon, 23 Nov 2026 19:10:56 +0000",
+      "summary": "About 2.30 billion MON would account for a tenth of voting power if it entered active stake and existing balances stayed fixed."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Robinhood Chain pays Ethereum 70% more than Base despite collecting 64% less in fees",
+      "url": "https://cryptoslate.com/robinhood-chain-pays-ethereum-70-more-than-base-despite-collecting-64-less-in-fees/",
+      "pubDate": "Mon, 23 Nov 2026 18:00:37 +0000",
+      "summary": "Base paid more for blobs in the 30 days through Nov. 21, while Robinhood Chain had a larger estimated bill for its other Ethereum costs."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Jensen Huang's NVIDIA comeback sparks $1 trillion rally and $12 million Polymarket frenzy",
+      "url": "https://cryptoslate.com/jensen-huangs-nvidia-comeback-sparks-1-trillion-rally-and-12-million-polymarket-frenzy/",
+      "pubDate": "Mon, 23 Nov 2026 17:10:09 +0000",
+      "summary": "The board said its independent investigation would continue, and Polymarket's November return contract reached 99.3% in CryptoSlate's snapshot."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "More than $2 billion rushed out of Sky's stablecoin in a single day",
+      "url": "https://cryptoslate.com/more-than-2-billion-rushed-out-of-skys-stablecoin-in-a-single-day/",
+      "pubDate": "Mon, 23 Nov 2026 16:40:12 +0000",
+      "summary": "An Obex debt repayment helped refill the shared pool after Sky's Ethereum reserve lost two-thirds of its USDC in hours."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Fades Near $61,000 as Stocks Soar on Huang's Return",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-fades-61000-huang",
+      "pubDate": "Mon, 23 Nov 2026 20:58:21 +0000",
+      "summary": "The bitcoin price gave back its Nvidia-fueled spike above $64,000 on Monday afternoon, slipping near $61,000 while stocks and crypto shares held big gains."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Grant Cardone: Bitcoin to 5x - MSTR So Cheap \"You Have to Buy it\"",
+      "url": "https://bitcoinmagazine.com/videos/grant-cardone-bitcoin-to-5x-mstr-so-cheap-you-have-to-buy-it",
+      "pubDate": "Mon, 23 Nov 2026 19:15:17 +0000",
+      "summary": "Grant Cardone says Michael Saylor is hated, frankly, by the Bitcoin community that needs him, and predicts Saylor will be proven one of the smartest individual thinkers."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitdeer Sells All 281 Bitcoin It Mined Last Week, Holds None",
+      "url": "https://bitcoinmagazine.com/news/bitdeer-sells-281-bitcoin-holds-none",
+      "pubDate": "Mon, 23 Nov 2026 18:30:00 +0000",
+      "summary": "Bitdeer mined 281.1 BTC last week and sold all of it, leaving the miner with no bitcoin of its own as of Nov. 20 while American Bitcoin borrows against its reserve instead."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitwise Head of Research: Did NVIDIA Just Ignite the Bitcoin Bull Market?",
+      "url": "https://bitcoinmagazine.com/videos/bitwise-head-of-research-did-nvidia-just-ignite-the-bitcoin-bull-market",
+      "pubDate": "Mon, 23 Nov 2026 18:21:13 +0000",
+      "summary": "Ryan Rasmussen, Head of Research at Bitwise, joins Bitcoin Magazine TV as stocks and Bitcoin bounce on Jensen Huang's return to Nvidia."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Solo Bitcoin Miner Wins $191,000 Block Reward With Just 11 TH/s",
+      "url": "https://bitcoinmagazine.com/news/solo-bitcoin-miner-191000-block-reward",
+      "pubDate": "Mon, 23 Nov 2026 17:25:00 +0000",
+      "summary": "A solo miner with about 11.1 TH/s found Bitcoin block 977,057 through CKpool, collecting 3.1287 BTC. The CKpool developer put the odds at about 1 in 1,650 a year."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Nvidia Soars as Huang Returns, Lifting Stocks and Crypto Shares",
+      "url": "https://bitcoinmagazine.com/markets/nvidia-soars-huang-returns-crypto",
+      "pubDate": "Mon, 23 Nov 2026 15:50:22 +0000",
+      "summary": "Nvidia shares jumped about 35% on Monday after the board reinstated Jensen Huang as CEO, lifting the Nasdaq, chip stocks, bitcoin, Coinbase, Strategy and miners."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "New York judge declines to block Kalshi from operating in the state for now",
+      "url": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now",
+      "pubDate": "Mon, 23 Nov 2026 18:22:03 +0000",
+      "summary": "Judge Melissa Crane did not shut down Kalshi's operations in a hearing Monday, but did say she wanted both parties to present their full arguments in an expedited fashion."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO",
+      "url": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo",
+      "pubDate": "Mon, 23 Nov 2026 18:12:05 +0000",
+      "summary": "Congressional scrutiny will continue even as CEO returns to lead the company after his affair scandal and its national-security implications."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
+      "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank",
+      "pubDate": "Mon, 23 Nov 2026 17:31:27 +0000",
+      "summary": "Nvidia jumped more than 30% and has recovered most of its losses since CEO Jensen Huang stepped down, but bitcoin is lagging as U.S. selling persists, traders said."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
+      "url": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs",
+      "pubDate": "Mon, 23 Nov 2026 16:39:03 +0000",
+      "summary": "ProShares' rival CoinDesk 20 Crypto ETF (KRYP) holds $1.81 million in assets nearly 10 months post-launch."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance hackers push $247 million through transactions designed to cloud the source",
+      "url": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
+      "pubDate": "Mon, 23 Nov 2026 15:29:01 +0000",
+      "summary": "Elliptic found that nearly all the mixing transactions, known as coinjoins, were coordinated by an entity called Kruw during fixed daily hours, suggesting potential handoffs to China-based money launderers."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
+      "url": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
+      "pubDate": "Mon, 23 Nov 2026 15:02:32 +0000",
+      "summary": "The Nasdaq-listed crypto miner can borrow without selling its reserves or issuing new shares, but falling BTC prices could force it to pledge more collateral."
+    }
+  ]
+}
