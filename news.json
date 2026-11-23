@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-23T14:06:19Z",
+  "asof": "2026-11-23T15:14:12Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     {
@@ -34,10 +34,150 @@
   "items": [
     {
       "source": "CoinTelegraph",
+      "title": "Nvidia reinstates Jensen Huang as CEO amid ongoing intelligence probe",
+      "url": "https://cointelegraph.com/news/nvidia-reinstates-jensen-huang-ceo-intelligence-probe",
+      "pubDate": "Mon, 23 Nov 2026 14:47:00 +0000",
+      "summary": "Nvidia shares surged nearly 29% after the company board reinstated Jensen Huang as CEO following consultations with the US government."
+    },
+    {
+      "source": "CoinTelegraph",
       "title": "OKX, ICE launch 113 tokenized assets despite issuer objections",
       "url": "https://cointelegraph.com/news/okxice-launch-113-tokenized-assets-objections",
       "pubDate": "Mon, 23 Nov 2026 14:00:00 +0000",
       "summary": "The venture named Coinbase and Fidelity among the issuers and asset managers in the rollout after 67 companies objected to having their shares traded on the venue."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Trump-linked American Bitcoin secures $150M credit line from FalconX",
+      "url": "https://cointelegraph.com/news/trumps-american-bitcoin-rises-150m-credit-falconx",
+      "pubDate": "Mon, 23 Nov 2026 13:44:16 +0000",
+      "summary": "The miner can borrow against its Bitcoin to fund operations and expansion after selling about 465 BTC to cover expenses in the third quarter."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Strategy buys 457 Bitcoin, spends $212M on preferred share buybacks",
+      "url": "https://cointelegraph.com/news/strategy-buy-457-bitcoin-btc-treasury-losses",
+      "pubDate": "Mon, 23 Nov 2026 13:31:01 +0000",
+      "summary": "Strategy raised its preferred stock buyback limit to $4 billion and authorized the transfer of up to $1 billion from its dollar reserve."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia Reinstates Jensen Huang as CEO Days After Board Ruled Out His Return",
+      "url": "https://decrypt.co/383797/nvidia-reinstates-jensen-huang-as-ceo-days-after-board-ruled-out-his-return",
+      "pubDate": "Mon, 23 Nov 2026 14:07:21 +0000",
+      "summary": "The board said senior U.S. officials input left it confident Huang return poses no national security risk. Shares jumped 26% premarket."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Crypto Rebounds after NVDA Drives Friday Selloff",
+      "url": "https://decrypt.co/383778/morning-minute-crypto-rebounds-after-nvda-drives-friday-selloff",
+      "pubDate": "Mon, 23 Nov 2026 13:34:13 +0000",
+      "summary": "The Nasdaq dropped 10% last week. Bitcoin lost 10% in a single day on Friday amidst cascading selloffs, though a relief rally is underway."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Strategy Buys $30M in Bitcoin, Moves $1B From USD Reserve to Cash Pot",
+      "url": "https://decrypt.co/383779/strategy-buys-30m-in-bitcoin-moves-1b-from-usd-reserve-to-cash-pot",
+      "pubDate": "Mon, 23 Nov 2026 13:25:35 +0000",
+      "summary": "Michael Saylor firm raised its preferred stock buyback program to $4 billion after repurchasing another $212 million of STRC last week."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Rebounds to $61K After Weekend Plunge to Two-Year Low",
+      "url": "https://decrypt.co/383758/bitcoin-rebounds-to-61k-after-weekend-plunge-to-two-year-low",
+      "pubDate": "Mon, 23 Nov 2026 11:14:22 +0000",
+      "summary": "Bitcoin swung by more than $6,000 over the weekend as tech stocks slid and spot ETFs logged their biggest daily outflow since June."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitmine adds 7,819 ETH as Tom Lee makes the hard money case",
+      "url": "https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948",
+      "pubDate": "Mon, 23 Nov 2026 15:02:41 +0000",
+      "summary": "Bitmine added 7,819 ETH over the past week, lifting its total holdings to 6,085,564 ETH, or 4.98% of the circulating supply."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin, crypto and tech stocks rally as Nvidia reinstates Jensen Huang as CEO; NVDA jumps 30%",
+      "url": "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952",
+      "pubDate": "Mon, 23 Nov 2026 15:02:21 +0000",
+      "summary": "Ahead of the announcement, Polymarket put the odds of Huang rejoining Nvidia by the end of the year at just 10.5%."
+    },
+    {
+      "source": "The Block",
+      "title": "OKXICE launches tokenized securities venue with 113 assets confirmed for 24/7 trading",
+      "url": "https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898",
+      "pubDate": "Mon, 23 Nov 2026 14:01:02 +0000",
+      "summary": "The current lineup of issuers and asset managers includes eToro, Fidelity, Strive, BitGo, Circle, Coinbase, Robinhood, and Strategy."
+    },
+    {
+      "source": "The Block",
+      "title": "Pump.fun draws criticism over private key imports as it retires external wallet sign-in on web",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-23-pump-fun-draws-criticism-over-private-key-imports-as-it-retires-external-wallet-sign-in-on-web-444926",
+      "pubDate": "Mon, 23 Nov 2026 13:54:54 +0000",
+      "summary": "Pump.fun is retiring external web wallet logins and asking users to import private keys to keep existing wallet-linked accounts."
+    },
+    {
+      "source": "The Block",
+      "title": "Solo bitcoin miner beats the odds to win $191,000 block reward",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-23-solo-bitcoin-miner-beats-odds-wins-191000-block-reward-444919",
+      "pubDate": "Mon, 23 Nov 2026 13:37:02 +0000",
+      "summary": "A small-scale miner won a Bitcoin block reward despite operating a tiny fraction of the network hashpower."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Nvidia stock soars after board reinstates Jensen Huang as CEO",
+      "url": "https://cryptoslate.com/nvidia-stock-soars-after-board-reinstates-jensen-huang-as-ceo/",
+      "pubDate": "Mon, 23 Nov 2026 14:50:00 +0000",
+      "summary": "Shares jumped sharply on the news that the board reversed its earlier stance following government consultations."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin recovers above $62,000 as risk assets rebound on Nvidia news",
+      "url": "https://cryptoslate.com/bitcoin-recovers-above-62000-as-risk-assets-rebound-on-nvidia-news/",
+      "pubDate": "Mon, 23 Nov 2026 14:20:00 +0000",
+      "summary": "Crypto markets followed equities higher after the CEO reinstatement announcement."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its Bitcoin",
+      "url": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
+      "pubDate": "Mon, 23 Nov 2026 15:02:32 +0000",
+      "summary": "The Nasdaq-listed crypto miner can borrow without selling its reserves or issuing new shares, but falling BTC prices could force it to pledge more collateral."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Jensen Huang returns as Nvidia CEO as shares jump 27%",
+      "url": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27",
+      "pubDate": "Mon, 23 Nov 2026 14:13:44 +0000",
+      "summary": "Nasdaq futures rose nearly 7% and neocloud stocks gained as much as 16% after Nvidia board voted unanimously to reinstate Huang."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Fidelity Investments, Strive, Etoro join OKX-ICE tokenized securities venue",
+      "url": "https://www.coindesk.com/business/2026/11/23/fidelity-investments-strive-etoro-join-okx-ice-tokenized-securities-venue",
+      "pubDate": "Mon, 23 Nov 2026 13:49:44 +0000",
+      "summary": "The Intercontinental Exchange-backed venture said it has confirmed 113 assets for listing as trading begins, following a wave of objections from companies initially picked for inclusion."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin climbs above $63,000 as Nasdaq soars 6% on Huang return",
+      "url": "https://www.coindesk.com/tech/2026/11/23/live-news-wall-street-rebounds-as-dollar-index-hits-highest-since-march-2025",
+      "pubDate": "Mon, 23 Nov 2026 13:01:20 +0000",
+      "summary": "The Nvidia board announced the reinstatement of Jensen Huang as president, CEO, and director."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's losing streak is second-longest ever, and some observers see more downside",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/23/bitcoin-s-losing-streak-is-second-longest-ever-and-some-observers-see-more-downside",
+      "pubDate": "Mon, 23 Nov 2026 12:30:25 +0000",
+      "summary": "Your day-ahead look for Nov. 23, 2026."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's 5-year return is nearly zero, great narratives are fading and what's left is the Fed",
+      "url": "https://www.coindesk.com/opinion/2026/11/23/bitcoin-s-5-year-return-is-nearly-zero-great-narratives-are-fading-and-what-s-left-is-the-fed",
+      "pubDate": "Mon, 23 Nov 2026 14:43:18 +0000",
+      "summary": "Opinion piece on fading narratives and macro drivers."
     }
   ]
 }
