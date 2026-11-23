@@ -1,1 +1,43 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-23T19:02:57Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Cuomo says rivals urged companies to opt out of OKXICE tokenized stocks",
+      "url": "https://cointelegraph.com/news/cuomo-rivals-urged-companies-reject-okx-ice-tokenized-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 23 Nov 2026 17:42:18 +0000",
+      "summary": "Former New York Gov. Andrew Cuomo said competitors encouraged companies to opt out of OKXICEs rollout, while some issuers simply wanted more time."
+    }
+  ]
+}
