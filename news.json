@@ -1,1 +1,183 @@
-FULL_CONTENT_FROM_FILE_19813_CHARS
+{
+  "asof": "2026-11-23T00:03:05Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/feed",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Will Bitcoin's big rebound hold? More tampered Ledgers found: Hodler's Digest",
+      "url": "https://cointelegraph.com/magazine/will-bitcoins-big-rebound-hold-more-tampered-ledgers-found-hodlers-digest",
+      "pubDate": "Sun, 22 Nov 2026 22:47:09 +0000",
+      "summary": "Bitcoin rebounds sharply from its new cycle low, but is $55,110 really the bottom? Ledger investigates new reports of tampered devices in Berlin and the UAE."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "The future of onchain FX could start with users, not institutional liquidity",
+      "url": "https://cointelegraph.com/opinion/future-onchain-fx-could-start-with-users-not-institutional-liquidity",
+      "pubDate": "Sun, 22 Nov 2026 14:30:00 +0000",
+      "summary": "Onchain FX does not need to recreate the trillion-dollar institutional market to become useful. Real demand can make smaller markets work first."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Sun, 22 Nov 2026 11:25:27 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin briefly drops to $17K on Kraken, exchange upholds trades",
+      "url": "https://cointelegraph.com/news/bitcoin-17k-kraken-canadian-dollar-market-trades-stand",
+      "pubDate": "Sun, 22 Nov 2026 09:33:06 +0000",
+      "summary": "Kraken said all orders were processed correctly and found no evidence of a security breach or compromised accounts."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "South Korean exchanges halt CYBER transfers amid suspected bridge exploit",
+      "url": "https://cointelegraph.com/news/upbit-bithumb-suspend-cyber-transfers-bridge-exploit",
+      "pubDate": "Sun, 22 Nov 2026 07:24:05 +0000",
+      "summary": "Cyber reported unexpected minting of CYBER tokens on Solana, followed by tokens moving out of its Ethereum bridge lockbox, prompting an investigation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Chainflip confirms $12M hack, offers attacker 10% bounty",
+      "url": "https://cointelegraph.com/news/chainflip-12m-crypto-hack-10-percent-bounty",
+      "pubDate": "Sun, 22 Nov 2026 05:28:43 +0000",
+      "summary": "Chainflip offered the attacker a 10% bounty to return 90% of the stolen funds by Nov. 23, promising to treat the return as a white-hat recovery and withdraw law enforcement complaints."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Google's Quantum Chip Beats Classical Limits in 'Impossible' Game",
+      "url": "https://decrypt.co/383743/googles-quantum-chip-beats-classical-limits-in-impossible-game-tests-105-qubits",
+      "pubDate": "Sun, 22 Nov 2026 14:01:02 +0000",
+      "summary": "Google's Willow quantum processor beat the classical ceiling in a four-qubit coordination game, revealing a promising hardware test rather than commercial quantum computing."
+    },
+    {
+      "source": "Decrypt",
+      "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+      "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+      "pubDate": "Sat, 21 Nov 2026 18:01:02 +0000",
+      "summary": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
+      "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
+      "pubDate": "Sat, 21 Nov 2026 17:01:02 +0000",
+      "summary": "The agency says eight Colorado-registered entities, likely run from overseas, posed as legitimate advisers and crypto platforms-even faking SEC certificates and filings-to defraud U.S. investors of more than $37 million."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Signal Calls OS-Level AI an 'Existential Threat' and Blocks Screenshots to Fight It",
+      "url": "https://decrypt.co/383750/signal-os-level-ai-existential-threat-blocks-screenshots",
+      "pubDate": "Sat, 21 Nov 2026 16:01:02 +0000",
+      "summary": "The encrypted-messaging app will restrict screenshots on iOS 27 and auto-enable screen security on Android when it detects an AI assistant reading a chat."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Is the AI Bubble Finally Popping? Nvidia Crashes 48% as Wall Street Experts Sound the Alarm",
+      "url": "https://decrypt.co/383754/ai-bubble-finally-popping-nvidia-crashes-48-wall-street-alarm",
+      "pubDate": "Sat, 21 Nov 2026 14:01:06 +0000",
+      "summary": "Tech stocks are buckling after Anthropic's historic IPO and Nvidia's leadership crisis, while Bitcoin has slipped below $60,000. Experts disagree on whether AI faces a correction or a crash."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
+      "url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
+      "pubDate": "Fri, 20 Nov 2026 21:36:02 +0000",
+      "summary": "Levent Alpge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic's IPO has prompted questions about timing."
+    },
+    {
+      "source": "The Block",
+      "title": "Trump to host second memecoin dinner tonight with TRUMP down 99% from peak",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-22-trump-to-host-second-memecoin-dinner-tonight-with-trump-down-99-from-peak-444828",
+      "pubDate": "Sun, 22 Nov 2026 20:58:33 +0000",
+      "summary": "Boxer Floyd Mayweather, Shark Tank investor Kevin O'Leary and NBA champion Tristan Thompson are scheduled to appear at the dinner."
+    },
+    {
+      "source": "The Block",
+      "title": "Chainflip's losses climb to $12 million after protocol discloses 122.9 BTC theft, offers hacker bounty",
+      "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829",
+      "pubDate": "Sun, 22 Nov 2026 18:58:57 +0000",
+      "summary": "Chainflip offered the attacker a 10% bounty to return the remainder of the $12 million in stolen BTC, ETH, and stablecoins by Monday."
+    },
+    {
+      "source": "The Block",
+      "title": "Kalshi faces Monday hearing on New York order it says would shut down its exchange nationwide",
+      "url": "https://www.theblock.co/news/regulation/2026-11-21-kalshi-faces-monday-hearing-on-new-york-order-it-says-would-shut-down-its-exchange-nationwide-444813",
+      "pubDate": "Sat, 21 Nov 2026 21:17:36 +0000",
+      "summary": "Kalshi, which is headquartered in New York, has said the order would shut it down nationwide, though NY's AG said that's not her goal."
+    },
+    {
+      "source": "The Block",
+      "title": "Cyber investigating suspected $1 million bridge exploit as Upbit, Bithumb freeze transfers",
+      "url": "https://www.theblock.co/news/defi/2026-11-21-cyber-investigating-suspected-1-million-bridge-exploit-as-upbit-bithumb-freeze-transfers-444810",
+      "pubDate": "Sat, 21 Nov 2026 18:51:14 +0000",
+      "summary": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident."
+    },
+    {
+      "source": "The Block",
+      "title": "Chainflip's FLIP drops 34% after attacker drains $12 million from vaults with suspected key compromise",
+      "url": "https://www.theblock.co/news/defi/2026-11-21-chainflips-flip-drops-34-after-attacker-drains-4-86-million-from-vault-with-suspected-key-compromise-444804",
+      "pubDate": "Sat, 21 Nov 2026 15:24:14 +0000",
+      "summary": "Chainflip's FLIP token dropped 34% in price in the wake of the apparently automated attack, per The Block's price data."
+    },
+    {
+      "source": "The Block",
+      "title": "JPMorgan says bitcoin's price drop pressures miners, Senate passes Death Bets Act, and more",
+      "url": "https://www.theblock.co/newsletters/the-daily/2026-11-20-jpmorgan-bitcoin-price-drop-miners-senate-passes-death-bets-act-more-crypto-news-444786",
+      "pubDate": "Sat, 21 Nov 2026 04:30:00 +0000",
+      "summary": "In today's newsletter, JPMorgan says bitcoin's price drop puts more pressure on miners; Senate passes bill to ban prediction markets tied to death and war; and more."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Senators want state-licensed firms to keep issuing stablecoins after Jan. 18",
+      "url": "https://cryptoslate.com/senators-want-state-licensed-firms-to-keep-issuing-stablecoins-after-jan-18/",
+      "pubDate": "Sun, 22 Nov 2026 22:05:49 +0000",
+      "summary": "Treasury's proposal recognizes waivers for eligible federal applicants, leaving New York asking for clarity on its own issuers."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "XRP Ledger trial settled 213,000 paid AI requests in 6,324 transactions",
+      "url": "https://cryptoslate.com/xrp-ledger-trial-settled-213000-paid-ai-requests-in-6324-transactions/",
+      "pubDate": "Sun, 22 Nov 2026 21:05:16 +0000",
+      "summary": "t54 Labs reported 0.36 drops per paid request in its October beta, and two November checks show a merchant receiving RLUSD."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "AI just exposed a major weakness in anonymous peer reviews",
+      "url": "https://cryptoslate.com/ai-just-exposed-a-major-weakness-in-anonymous-peer-reviews/",
+      "pubDate": "Sun, 22 Nov 2026 20:05:03 +0000",
+      "summary": "In a Nov. 19 preprint, researchers report that Claude correctly named the writer on 56% of 398 reports from six volunteers."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Wagyu's $13.5 million token crash exposes another coin with 99.9% held by one wallet",
+      "url": "https://cryptoslate.com/wagyus-13-5-million-token-crash-exposes-another-coin-with-99-9-held-by-one-wallet/",
+      "pubDate": "Sun, 22 Nov 2026 19:05:03 +0000",
+      "summary": "The account that sent XMR1 to the seller held 99.97% of ZEC1's supply in Bitquery's November 20 snapshot."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "UK to ban crypto exchanges from making markets on their own platforms as Bitcoin rules change",
+      "url": "https://cryptoslate.com/uk-to-ban-crypto-exchanges-from-making-markets-on-their-own-platforms-as-bitcoin-rules-change/",
+      "pubDate": "Sun, 22 Nov 2026 18:05:49 +0000",
+      "summary": "Firms making markets in spot Bitcoin on qualifying platforms are exempt from principal-dealing permission for that activity. Separate venue rules apply."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "XRP's institutional adoption story has a catch that investors may be overlooking",
+      "url": "https://cryptoslate.com/xrps-institutional-adoption-story-has-a-catch-that-investors-may-be-overlooking/",
+      "pubDate": "Sun, 22 Nov 2026 17:05:07 +0000",
+      "summary": "CertiK checked selected network controls, and two live fund designs show where sterling, RLUSD and XRP come into play."
+    }
+  ]
+}
