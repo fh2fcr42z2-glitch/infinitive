@@ -1,1 +1,14 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-23T04:02:17Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": ["https://cointelegraph.com/rss", "https://decrypt.co/feed", "https://www.theblock.co/rss.xml", "https://cryptoslate.com/feed/", "https://bitcoinmagazine.com/.rss/full/", "https://www.coindesk.com/arc/outboundfeeds/rss", "https://rekt.news"],
+  "items": [
+    {"source": "CoinTelegraph", "title": "Trump renews call for Nvidia to rehire Jensen Huang as CEO", "url": "https://cointelegraph.com/news/trump-renews-call-for-nvidia-to-rehire-jensen-huang-as-ceo", "pubDate": "Mon, 23 Nov 2026 03:37:20 +0000", "summary": "Trump renews call for Nvidia to rehire Jensen Huang as CEO."},
+    {"source": "CoinTelegraph", "title": "Billionaire Bill Ackman warns Fed will make a rate mistake in December", "url": "https://cointelegraph.com/markets/billionaire-bill-ackman-warns-fed-rate-hikes-could-trigger-recession", "pubDate": "Mon, 23 Nov 2026 02:47:39 +0000", "summary": "Ackman warns of potential Fed rate mistake."},
+    {"source": "CoinTelegraph", "title": "Half of wallets on Trump's dinner list got tokens from non-US exchanges", "url": "https://cointelegraph.com/news/half-wallets-trumps-dinner-list-got-tokens-from-non-us-exchanges", "pubDate": "Mon, 23 Nov 2026 00:53:49 +0000", "summary": "Public Citizen traced many wallets to non-US exchanges."},
+    {"source": "The Block", "title": "A $2 million exploit leads to a $3.7 million free-for-all as traders empty Fusionist's ACE bridge", "url": "https://www.theblock.co/news/defi/2026-11-22-a-2-million-exploit-leads-to-a-3-7-million-free-for-all-as-traders-empty-fusionists-ace-bridge-444838", "pubDate": "Sun, 22 Nov 2026 23:17:08 +0000", "summary": "Traders emptied the bridge after exploit."},
+    {"source": "The Block", "title": "Chainflip's losses climb to $12 million after protocol discloses 122.9 BTC theft", "url": "https://www.theblock.co/news/defi/2026-11-22-chainflips-losses-climb-to-12-million-after-protocol-discloses-122-9-btc-theft-offers-hacker-bounty-444829", "pubDate": "Sun, 22 Nov 2026 18:58:57 +0000", "summary": "Chainflip offers bounty after large theft."},
+    {"source": "CoinDesk", "title": "Bitcoin rebounds above $60,000 after $1.8 billion crypto liquidation wave", "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open", "pubDate": "Sat, 21 Nov 2026 17:50:00 +0000", "summary": "BTC rebounds after liquidations."},
+    {"source": "Bitcoin Magazine", "title": "Bitcoin Price Slips to Lows Not Seen Since 2024", "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq", "pubDate": "Fri, 20 Nov 2026 21:08:02 +0000", "summary": "Bitcoin near multi-year lows."}
+  ]
+}
