@@ -1,14 +1,1 @@
-{
-  "asof": "2026-11-24T20:02:31Z",
-  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
-  "feeds": [
-    "https://cointelegraph.com/rss",
-    "https://decrypt.co/feed",
-    "https://www.theblock.co/rss.xml",
-    "https://cryptoslate.com/feed/",
-    "https://bitcoinmagazine.com/.rss/full/",
-    "https://www.coindesk.com/arc/outboundfeeds/rss",
-    "https://rekt.news"
-  ],
-  "items": []
-}
+{"asof":"2026-11-24T20:03:56Z","stamp":"NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.","feeds":["https://cointelegraph.com/rss","https://decrypt.co/feed","https://www.theblock.co/rss.xml","https://cryptoslate.com/feed/","https://bitcoinmagazine.com/.rss/full/","https://www.coindesk.com/arc/outboundfeeds/rss","https://rekt.news"],"items":[{"source":"CoinTelegraph","title":"Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares","url":"https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares","pubDate":"Tue, 24 Nov 2026 19:44:23 +0000","summary":"The crypto asset manager warned that Bitcoins downturn could persist amid weak investor demand."},{"source":"Decrypt","title":"Bitcoin Losses Are the Worst Since FTX. Is the Bottom Near?","url":"https://decrypt.co/383909/bitcoin-losses-worst-since-ftx-is-bottom-near","pubDate":"Tue, 24 Nov 2026 19:35:32 +0000","summary":"Bitcoin slipped below 60000 as realized losses nearly doubled in a week."},{"source":"The Block","title":"Paywards Krak plans early 2027 launch of US credit cards with bitcoin cashback","url":"https://www.theblock.co/news/business/2026-11-24-kraken-krak-early-2027-launch-us-credit-cards-bitcoin-cashback-usdc-collateral-445498","pubDate":"Tue, 24 Nov 2026 18:35:02 +0000","summary":"Krak has opened a waitlist for two U.S. credit card products, including a secured card that uses USDC as collateral."},{"source":"CryptoSlate","title":"Hong Kong wants banks to secure new approval before holding customers crypto","url":"https://cryptoslate.com/hong-kong-wants-banks-to-secure-new-approval-before-holding-customers-crypto/","pubDate":"Tue, 24 Nov 2026 19:00:30 +0000","summary":"Standalone custodians would generally need a license, while banks would need registration alongside existing custody standards."},{"source":"Bitcoin Magazine","title":"Anchorage Digital Sets Up Asset Manager to Offer Bitcoin Yield to Clients","url":"https://bitcoinmagazine.com/news/anchorage-digital-bitcoin-yield-asset-manager","pubDate":"Tue, 24 Nov 2026 18:38:01 +0000","summary":"Anchorage Digital is launching 61st Parallel Asset Management, a subsidiary expected to open by early December."},{"source":"CoinDesk","title":"Utah moves to drop criminal pursuit of Kalshi after the firm halted services there","url":"https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there","pubDate":"Tue, 24 Nov 2026 17:50:08 +0000","summary":"The state continues to hold the criminal charges in its back pocket."}]}
