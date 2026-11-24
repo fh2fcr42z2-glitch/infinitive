@@ -10,5 +10,258 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "items": []
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
+      "url": "https://cointelegraph.com/news/russia-usdt-buyer-face-22-tax-december-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 24 Nov 2026 14:10:23 +0000",
+      "summary": "Buyers will pay VAT on top of the trade price in December because Russia\u2019s tax code has no explicit exemption for foreign digital instruments."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
+      "url": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 24 Nov 2026 13:57:56 +0000",
+      "summary": "The study will assess whether a shared ledger can bring central bank money, commercial bank money and securities onto the same platform."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals",
+      "url": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 24 Nov 2026 13:43:46 +0000",
+      "summary": "Borrowers would sell SKY to the protocol and use the proceeds to pay down their loans, freeing up funds for depositors in the stUSDS pool."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Grayscale calls Bitcoin \u2018oversold\u2019 at $62K but warns of AI risks",
+      "url": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 24 Nov 2026 13:11:44 +0000",
+      "summary": "Grayscale said Bitcoin\u2019s bear market was its longest on record at 411 days and counting, though the 56% drop was the smallest percentage decline."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
+      "url": "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 24 Nov 2026 12:04:16 +0000",
+      "summary": "The draft bill would also reopen domestic initial coin offerings after a ban dating to 2017 and require issuers to disclose risks before soliciting buyers."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin dipped on Huang\u2019s Nvidia exit but jumped 5% on his return",
+      "url": "https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 24 Nov 2026 11:40:33 +0000",
+      "summary": "Bitcoin rose about 5% on Jensen Huang\u2019s return, more than the 3.5% it lost on news of his exit, but remained 19.2% below its pre-resignation price."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
+      "url": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
+      "pubDate": "Tue, 24 Nov 2026 14:13:03 +0000",
+      "summary": "U.S. authorities say they've now helped freeze, seize or return more than $2.9 billion of the crypto stolen from Binance in October."
+    },
+    {
+      "source": "Decrypt",
+      "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
+      "url": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
+      "pubDate": "Tue, 24 Nov 2026 13:46:03 +0000",
+      "summary": "The blockchain security firm walked officers from across Asia and the South Pacific through a real wallet-theft case at a workshop in Hanoi."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
+      "url": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
+      "pubDate": "Tue, 24 Nov 2026 13:07:49 +0000",
+      "summary": "It was a very green Monday for most markets, but crypto couldn\u2019t hold the pump as ETF sellers race for the exits."
+    },
+    {
+      "source": "Decrypt",
+      "title": "GTA 6 PC Ports \u2018Nuked\u2019 Just Days Before Devs Expected It to Be Playable",
+      "url": "https://decrypt.co/383860/gta-6-pc-ports-nuked-just-days-before-devs-expected-it-to-be-playable",
+      "pubDate": "Tue, 24 Nov 2026 13:01:30 +0000",
+      "summary": "Leonida and GTA6Modding went dark a day after Cyberleek released the executable file that porters had been waiting for."
+    },
+    {
+      "source": "Decrypt",
+      "title": "$14.7B in \u2018Lost\u2019 Bitcoin Has Moved Since 2018: Report",
+      "url": "https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report",
+      "pubDate": "Tue, 24 Nov 2026 12:40:47 +0000",
+      "summary": "Roughly 245,000 BTC has left almost 10,000 wallets presumed lost, undercutting a lawsuit that argues silence means abandonment."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Says He 'Made the Deal' to Reinstate Jensen Huang, Sparking Bipartisan Backlash",
+      "url": "https://decrypt.co/383853/trump-says-he-made-the-deal-to-reinstate-jensen-huang-sparking-bipartisan-backlash",
+      "pubDate": "Tue, 24 Nov 2026 11:35:13 +0000",
+      "summary": "Lawmakers from both parties want to know what national security assurances the White House gave Nvidia's board before it brought Huang back."
+    },
+    {
+      "source": "The Block",
+      "title": "Crypto Market Structure Basics",
+      "url": "https://www.theblock.co/learn/campus/crypto-market-structure-basics-442986",
+      "pubDate": "Tue, 24 Nov 2026 14:40:12 +0000",
+      "summary": "Crypto Market Structure 101 explains how crypto markets work for beginners. It covers centralized and decentralized exchanges, trading pairs and settlement, order types, leverage a"
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin ETFs see another $570 million in net outflows as November total nears $5 billion and BTC dips below $60K",
+      "url": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-etfs-another-570-million-net-outflows-november-total-nears-5-billion-btc-dips-below-60k-445548",
+      "pubDate": "Tue, 24 Nov 2026 14:32:21 +0000",
+      "summary": "BlackRock's IBIT bitcoin exchange-traded fund again led the outflows, with $509.3 million exiting the fund on Monday."
+    },
+    {
+      "source": "The Block",
+      "title": "XRP Ledger DEX volume hits 4.51 million XRP a day in Q3 as big traders take over: Evernorth",
+      "url": "https://www.theblock.co/news/markets/2026-11-24-xrpl-dex-volume-q3-2026-evernorth-report-445395",
+      "pubDate": "Tue, 24 Nov 2026 14:00:02 +0000",
+      "summary": "XRP Ledger DEX order-book volume averaged 4.51M XRP a day in Q3, Evernorth says, as top accounts drove 65% of trading and RLUSD rose 74%."
+    },
+    {
+      "source": "The Block",
+      "title": "Ledn brings US business onshore with account to hold, swap and borrow against bitcoin",
+      "url": "https://www.theblock.co/news/business/2026-11-24-ledn-launches-us-custody-account-bitcoin-gold-stablecoins-lending-445411",
+      "pubDate": "Tue, 24 Nov 2026 14:00:00 +0000",
+      "summary": "Ledn's new U.S. custody account lets customers hold bitcoin, gold, stablecoins and dollars, swap with no trading fees and borrow against bitcoin without selling."
+    },
+    {
+      "source": "The Block",
+      "title": "Neuberger Berman\u2019s HINC fund brings high-yield credit to Aave\u2019s institutional lending platform",
+      "url": "https://www.theblock.co/news/markets/2026-11-24-neuberger-berman-tokenized-hinc-fund-aave-horizon-collateral-445391",
+      "pubDate": "Tue, 24 Nov 2026 14:00:00 +0000",
+      "summary": "Neuberger Berman's tokenized high-yield fund HINC launches on Aave Horizon, letting eligible investors borrow USDC, GHO and RLUSD against it."
+    },
+    {
+      "source": "The Block",
+      "title": "BlackRock opens tokenized money market fund with $100 million in assets to Hong Kong investors",
+      "url": "https://www.theblock.co/news/business/2026-11-24-blackrock-opens-tokenized-money-market-fund-with-100-million-in-assets-to-hong-kong-investors-445524",
+      "pubDate": "Tue, 24 Nov 2026 13:17:35 +0000",
+      "summary": "BlackRock has launched and opened its HKD Digital Liquidity Fund to retail and institutional investors in Hong Kong."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bisq 2 desktop users must update to keep trading Bitcoin",
+      "url": "https://cryptoslate.com/bisq-2-desktop-users-must-update-to-keep-trading-bitcoin/",
+      "pubDate": "Tue, 24 Nov 2026 14:10:15 +0000",
+      "summary": "Desktop version 2.1.16 fixes a bundled Java flaw, and the Nov. 25 network change requires nodes to run at least 2.1.14. Read the full story on CryptoSlateUnderstand the crypto stor"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "What the junk bond market can tell Bitcoin traders after Monday\u2019s rebound",
+      "url": "https://cryptoslate.com/what-the-junk-bond-market-can-tell-bitcoin-traders-after-mondays-rebound/",
+      "pubDate": "Tue, 24 Nov 2026 13:10:18 +0000",
+      "summary": "Investment-grade yields fell while the weakest borrowers faced the largest jump in the premium investors demanded over Treasuries. Read the full story on CryptoSlateUnderstand the "
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin developers propose fix for transaction verification gap affecting Lightning wallets",
+      "url": "https://cryptoslate.com/bitcoin-developers-propose-fix-for-transaction-verification-gap-affecting-lightning-wallets/",
+      "pubDate": "Tue, 24 Nov 2026 12:10:56 +0000",
+      "summary": "Jean Pablo\u2019s proposal grew out of Electrum\u2019s Lightning work and gives developers 93 cases for testing proof verification. Read the full story on CryptoSlateUnderstand the crypto st"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "BitMine\u2019s $655 million Ethereum hit wipes out nearly three years of staking income",
+      "url": "https://cryptoslate.com/bitmines-655-million-ethereum-hit-wipes-out-nearly-three-years-of-staking-income/",
+      "pubDate": "Tue, 24 Nov 2026 11:00:25 +0000",
+      "summary": "BitMine's Ethereum (ETH) holdings lost about $655 million in market value in one week, even as the company bought 7,819 more ETH. The decline equals 2.67 years of its projected $24"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "16 Polymarket wallets turn $20,000 into $350,000 before Jensen Huang\u2019s shock NVIDIA return",
+      "url": "https://cryptoslate.com/16-polymarket-wallets-turn-20000-into-350000-before-jensen-huangs-shock-nvidia-return/",
+      "pubDate": "Tue, 24 Nov 2026 09:50:23 +0000",
+      "summary": "President Donald Trump publicly urged Nvidia to rehire Jensen Huang at 02:54 UTC on Nov. 23, according to TrumpAlert's archive. Bubblemaps reported that 11 Polymarket accounts rece"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin\u2019s next crash may come from holders, not leverage, as $10.7 billion gets liquidated",
+      "url": "https://cryptoslate.com/bitcoins-next-crash-may-come-from-holders-not-leverage-as-10-7-billion-gets-liquidated/",
+      "pubDate": "Tue, 24 Nov 2026 08:30:22 +0000",
+      "summary": "Bitcoin futures open interest fell 12% last week to $29.3 billion, its lowest level since early March, according to Glassnode's Nov. 23 Market Pulse. Over the same week to Nov. 22,"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "UniCredit Opens Bitcoin to Italian Savers, Capping Gains at 65%",
+      "url": "https://bitcoinmagazine.com/news/unicredit-bitcoin-certificate-italy",
+      "pubDate": "Tue, 24 Nov 2026 14:58:09 +0000",
+      "summary": "Bitcoin Magazine UniCredit Opens Bitcoin to Italian Savers, Capping Gains at 65% UniCredit began selling a six-year, capital-protected certificate linked to BlackRock's iShares Bit"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "South Korea Unveils Crypto Bill Capping Exchange Ownership at 20%",
+      "url": "https://bitcoinmagazine.com/news/south-korea-crypto-bill-exchange-ownership-cap",
+      "pubDate": "Tue, 24 Nov 2026 14:45:00 +0000",
+      "summary": "Bitcoin Magazine South Korea Unveils Crypto Bill Capping Exchange Ownership at 20% South Korea\u2019s financial regulator unveiled a bill that would cap major shareholders of crypto exc"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "DOJ Moves to Forfeit $1.1 Billion in USDC Stolen in Binance Hack",
+      "url": "https://bitcoinmagazine.com/news/doj-forfeit-usdc-binance-hack",
+      "pubDate": "Tue, 24 Nov 2026 14:30:00 +0000",
+      "summary": "Bitcoin Magazine DOJ Moves to Forfeit $1.1 Billion in USDC Stolen in Binance Hack The Justice Department filed to forfeit more than $1.1 billion in USDC stolen from Binance by Nort"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Relai Launches Stacks, Letting Bitcoin Savers Split Plans by Goal",
+      "url": "https://bitcoinmagazine.com/news/relai-launches-stacks-bitcoin-savings",
+      "pubDate": "Tue, 24 Nov 2026 13:50:58 +0000",
+      "summary": "Bitcoin Magazine Relai Launches Stacks, Letting Bitcoin Savers Split Plans by Goal Swiss bitcoin app Relai launched Stacks, letting users in Switzerland and the EU run separate rec"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Slips to $60,000 as November ETF Outflows Hit Record",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-60000-etf-outflows",
+      "pubDate": "Tue, 24 Nov 2026 13:47:18 +0000",
+      "summary": "Bitcoin Magazine Bitcoin Price Slips to $60,000 as November ETF Outflows Hit Record The bitcoin price slipped back to near $60,000 Tuesday as the Nvidia stock rally cooled and spot"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "\u201cThis Is An Excellent Entry Point\u201d \u2013 UTXO\u2019s Loren Asmus Gives Bitcoin Outlook",
+      "url": "https://bitcoinmagazine.com/videos/this-is-an-excellent-entry-point-utxos-loren-asmus-gives-bitcoin-outlook",
+      "pubDate": "Mon, 23 Nov 2026 21:30:11 +0000",
+      "summary": "\u25b6Bitcoin Magazine \u201cThis Is An Excellent Entry Point\u201d \u2013 UTXO\u2019s Loren Asmus Gives Bitcoin Outlook Loren Asmus of UTXO Management says Bitcoin's long-term case is intact after a bruta"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
+      "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
+      "pubDate": "Tue, 24 Nov 2026 14:40:53 +0000",
+      "summary": "Token issuers would have to disclose how they plan to spend investors' money and could face criminal charges for misleading buyers."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
+      "url": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
+      "pubDate": "Tue, 24 Nov 2026 12:47:49 +0000",
+      "summary": "Ansem suspects someone broke into his account on Bullpen, the trading terminal he co-founded, where the wallet's private key had been imported."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin pulls back to $60,000, stock rally fades, as tariffs re-enter the picture",
+      "url": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
+      "pubDate": "Tue, 24 Nov 2026 12:47:40 +0000",
+      "summary": "The Trump Administration could unveil tariff hikes against China, Japan, South Korea and other countries as soon as this week, according to a WSJ report."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
+      "pubDate": "Tue, 24 Nov 2026 12:36:28 +0000",
+      "summary": "Your day-ahead look for Nov. 24, 2026"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "JPMorgan, HSBC and StoneX complete first digital gold trades in London",
+      "url": "https://www.coindesk.com/business/2026/11/24/jpmorgan-hsbc-and-stonex-complete-first-digital-gold-trades-in-london",
+      "pubDate": "Tue, 24 Nov 2026 12:04:39 +0000",
+      "summary": "The banks tested a new way to trade fractions of physical gold bars and use the metal as collateral without moving it from vaults for the first time."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin hands back Monday's Nvidia-driven gains, liquidations triple",
+      "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-hands-back-monday-s-nvidia-driven-gains-liquidations-triple",
+      "pubDate": "Tue, 24 Nov 2026 11:31:56 +0000",
+      "summary": "Bitcoin (BTC) has dropped 2.2% since midnight UTC to around $59,900, giving back Monday's jump and lagging the stock market's rebound from last week's selloff."
+    }
+  ]
 }
