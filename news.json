@@ -1,35 +1,39 @@
 {
-  "asof": "2026-11-24T00:02:21Z",
+  "asof": "2026-11-24T00:04:00Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
-    {
-      "name": "CoinTelegraph",
-      "url": "https://cointelegraph.com/rss"
-    },
-    {
-      "name": "Decrypt",
-      "url": "https://decrypt.co/feed"
-    },
-    {
-      "name": "The Block",
-      "url": "https://www.theblock.co/rss.xml"
-    },
-    {
-      "name": "CryptoSlate",
-      "url": "https://cryptoslate.com/feed/"
-    },
-    {
-      "name": "Bitcoin Magazine",
-      "url": "https://bitcoinmagazine.com/.rss/full/"
-    },
-    {
-      "name": "CoinDesk",
-      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
-    },
-    {
-      "name": "Rekt",
-      "url": "https://rekt.news"
-    }
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
   ],
-  "items": []
+  "items": [
+    {"source": "CoinTelegraph", "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves", "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves", "pubDate": "Mon, 23 Nov 2026 22:30:00 +0000", "summary": "Staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves."},
+    {"source": "CoinTelegraph", "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack", "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack", "pubDate": "Mon, 23 Nov 2026 21:04:03 +0000", "summary": "US prosecutors seeking control of stolen USDC. Elliptic says hackers moved funds through Bitcoin mixers."},
+    {"source": "CoinTelegraph", "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn", "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn", "pubDate": "Mon, 23 Nov 2026 19:35:06 +0000", "summary": "BTCS sold more than half its Ether holdings to reduce leverage after the sell-off."},
+    {"source": "Decrypt", "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers", "url": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers", "pubDate": "Mon, 23 Nov 2026 20:36:02 +0000", "summary": "Elliptic reports nearly all coinjoin mixing of hack proceeds was coordinated by one actor."},
+    {"source": "Decrypt", "title": "Solo Bitcoin Miner Scores Again, Hitting $191,000 Jackpot Against the Odds", "url": "https://decrypt.co/383818/solo-bitcoin-miner-scores-again-191000-jackpot", "pubDate": "Mon, 23 Nov 2026 18:16:25 +0000", "summary": "Lone miner solved a block via Solo CKPool, earning about 3.13 BTC."},
+    {"source": "The Block", "title": "Grayscale says bitcoin and major altcoins look oversold as AI risks cloud near-term outlook", "url": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418", "pubDate": "Mon, 23 Nov 2026 22:18:02 +0000", "summary": "Grayscale notes bitcoin drop made the current bear market its longest on record."},
+    {"source": "The Block", "title": "DOJ seeks $1.17 billion in USDC tied to Binance hack; Circle could issue replacement tokens", "url": "https://www.theblock.co/news/regulation/2026-11-23-doj-1-17-billion-usdc-binance-hack-circle-replacement-tokens-445398", "pubDate": "Mon, 23 Nov 2026 20:00:34 +0000", "summary": "Justice Department seeking recovery of about $1.17 billion in USDC from the Oct. 29 Binance hack."},
+    {"source": "The Block", "title": "Sky cofounder weighs SKY sale to repay $77 million as stUSDS pool runs dry", "url": "https://www.theblock.co/news/defi/2026-11-23-sky-cofounder-weighs-sky-sale-repay-77-million-stusds-pool-runs-dry-445373", "pubDate": "Mon, 23 Nov 2026 17:31:50 +0000", "summary": "USDS held near peg while separate stUSDS lending pool had no funds available."},
+    {"source": "CryptoSlate", "title": "Bitcoin supply squeeze narrative faces scrutiny after 11,000 BTC moves to Kraken", "url": "https://cryptoslate.com/bitcoins-supply-squeeze-narrative-faces-scrutiny-after-11000-btc-moves-to-kraken/", "pubDate": "Mon, 23 Nov 2026 20:30:38 +0000", "summary": "Transfers from exchange-tagged wallets show withdrawals can remain inside tracked trading network."},
+    {"source": "CryptoSlate", "title": "Strategy raises its buyback ceiling to $4 billion as MSTR shares sink 21%", "url": "https://cryptoslate.com/strategy-raises-its-buyback-ceiling-to-4-billion-as-mstr-shares-sink-21/", "pubDate": "Mon, 23 Nov 2026 19:40:57 +0000", "summary": "Strategy lifted STRC buyback authorization to $4 billion after exhausting most of prior limit."},
+    {"source": "Bitcoin Magazine", "title": "Bitcoin Price Fades Near $61,000 as Stocks Soar on Huang Return", "url": "https://bitcoinmagazine.com/markets/bitcoin-price-fades-61000-huang", "pubDate": "Mon, 23 Nov 2026 20:58:21 +0000", "summary": "Bitcoin gave back Nvidia-fueled spike above $64k, slipping near $61k while equities held gains."},
+    {"source": "Bitcoin Magazine", "title": "Bitdeer Sells All 281 Bitcoin It Mined Last Week, Holds None", "url": "https://bitcoinmagazine.com/news/bitdeer-sells-281-bitcoin-holds-none", "pubDate": "Mon, 23 Nov 2026 18:30:00 +0000", "summary": "Bitdeer mined 281 BTC last week and sold the entire amount, holding zero bitcoin of its own."},
+    {"source": "CoinDesk", "title": "Bitcoin rebound already losing steam as AI trade returns with a bang", "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bank", "pubDate": "Mon, 23 Nov 2026 17:31:27 +0000", "summary": "Nvidia recovered strongly on CEO return but bitcoin is lagging as U.S. selling persists."},
+    {"source": "CoinDesk", "title": "New York judge declines to block Kalshi from operating in the state for now", "url": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now", "pubDate": "Mon, 23 Nov 2026 18:22:03 +0000", "summary": "Judge did not shut down Kalshi operations pending full arguments."},
+    {"source": "CoinTelegraph", "title": "Kalshi secures temporary win in New York gambling law dispute", "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute", "pubDate": "Mon, 23 Nov 2026 20:38:43 +0000", "summary": "Ruling allows Kalshi to continue operating as legal battle moves toward January hearing."},
+    {"source": "Decrypt", "title": "Why Nvidia Needed Jensen Huang Back And What His Return Really Changes", "url": "https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes", "pubDate": "Mon, 23 Nov 2026 19:57:21 +0000", "summary": "Huang absence highlighted importance of his customer and Washington ties. Stock soared on return."},
+    {"source": "The Block", "title": "DeFi Development extends Solana buying streak to 11 straight weeks, SOL treasury hits 2.62 million", "url": "https://www.theblock.co/news/markets/2026-11-23-defi-development-dfdv-solana-treasury-11-consecutive-weeks-444950", "pubDate": "Mon, 23 Nov 2026 15:34:51 +0000", "summary": "Added about 5,180 SOL, lifting treasury to 2.62 million SOL."},
+    {"source": "CryptoSlate", "title": "Robinhood Chain pays Ethereum 70% more than Base despite collecting 64% less in fees", "url": "https://cryptoslate.com/robinhood-chain-pays-ethereum-70-more-than-base-despite-collecting-64-less-in-fees/", "pubDate": "Mon, 23 Nov 2026 18:00:37 +0000", "summary": "Robinhood Chain had larger estimated bill for other Ethereum costs than Base."},
+    {"source": "Bitcoin Magazine", "title": "Strive (ASST) Buys No Bitcoin Last Week, Holdings Stay at 43,404 BTC", "url": "https://bitcoinmagazine.com/news/strive-asst-no-bitcoin-purchases-holdings", "pubDate": "Mon, 23 Nov 2026 21:09:15 +0000", "summary": "Strive bought no bitcoin and sold no stock last week. Holdings remain 43,404 BTC."},
+    {"source": "CoinDesk", "title": "Cathie Wood ARK Invest pulls the plug on two planned crypto ETFs", "url": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs", "pubDate": "Mon, 23 Nov 2026 16:00:00 +0000", "summary": "ARK withdrew plans for two crypto-related ETFs."},
+    {"source": "The Block", "title": "CFTC prediction market rules advance to White House review amid state-federal jurisdiction fight", "url": "https://www.theblock.co/news/regulation/2026-11-23-cftc-prediction-market-rules-advance-white-house-review-amid-state-federal-jurisdiction-fight-445384", "pubDate": "Mon, 23 Nov 2026 18:30:09 +0000", "summary": "Proposed CFTC rules on prediction markets now with White House for review."},
+    {"source": "CryptoSlate", "title": "Monad faces $190 million insider token unlock larger than its market cap as MON hits record low", "url": "https://cryptoslate.com/monad-faces-190-million-insider-token-unlock-larger-than-its-market-cap-as-mon-hits-record-low/", "pubDate": "Mon, 23 Nov 2026 19:10:56 +0000", "summary": "About 2.30 billion MON unlock would represent significant voting power if staked."},
+    {"source": "Bitcoin Magazine", "title": "Bitcoin-Gold Ratio Signals Potential Bottom: What to Watch", "url": "https://bitcoinmagazine.com/videos/bitcoin-gold-ratio-signals-potential-bottom-what-to-watch", "pubDate": "Mon, 23 Nov 2026 20:30:12 +0000", "summary": "Analysis revisits Bitcoin-in-gold chart for potential bottom signals."},
+    {"source": "Decrypt", "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses", "url": "https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses", "pubDate": "Mon, 23 Nov 2026 21:46:03 +0000", "summary": "OpenAI OpenWorks program pays local AI evangelists up to $8,000 monthly."}
+  ]
 }
