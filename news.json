@@ -1,1 +1,267 @@
-PLACEHOLDER_TO_BE_REPLACED
+{
+  "asof": "2026-11-24T13:03:08Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
+      "url": "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 24 Nov 2026 12:04:16 +0000",
+      "summary": "The draft bill would also reopen domestic initial coin offerings after a ban dating to 2017 and require issuers to disclose risks before soliciting buyers."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin dipped on Huang\u2019s Nvidia exit but jumped 5% on his return",
+      "url": "https://cointelegraph.com/markets/bitcoin-huangs-return-18-below-pre-resignation-levels?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 24 Nov 2026 11:40:33 +0000",
+      "summary": "Bitcoin rose about 5% on Jensen Huang\u2019s return, more than the 3.5% it lost on news of his exit, but remained 19.2% below its pre-resignation price."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin dips back under $60K as gold seals worst 60-day loss since 1980s",
+      "url": "https://cointelegraph.com/markets/bitcoin-dips-60k-gold-worst-60-day-loss-1980s?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 24 Nov 2026 09:25:45 +0000",
+      "summary": "Bitcoin continued to threaten the loss of $60,000 support as gold attempted to bounce from a 60-day losing streak during which it fell nearly 25%."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin ETFs keep bleeding as BlackRock\u2019s IBIT shares gain nearly 5%",
+      "url": "https://cointelegraph.com/markets/bitcoin-etfs-bleed-ibit-shares-gain?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 24 Nov 2026 07:41:50 +0000",
+      "summary": "BlackRock\u2019s IBIT shares gained 4.85% on Monday despite continued Bitcoin ETF withdrawals that pushed November\u2019s net outflows to $4.71 billion."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here\u2019s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 24 Nov 2026 06:00:00 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Why 42 Macro says it\u2019s waiting to buy the Bitcoin dip",
+      "url": "https://cointelegraph.com/markets/why-42-macro-says-its-waiting-to-buy-the-bitcoin-dip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 24 Nov 2026 05:07:30 +0000",
+      "summary": "The independent macro research company warns the Bitcoin sell-off may not have yet run its course."
+    },
+    {
+      "source": "Decrypt",
+      "title": "GTA 6 PC Ports \u2018Nuked\u2019 Just Days Before Devs Expected It to Be Playable",
+      "url": "https://decrypt.co/383860/gta-6-pc-ports-nuked-just-days-before-devs-expected-it-to-be-playable",
+      "pubDate": "Tue, 24 Nov 2026 13:01:30 +0000",
+      "summary": "Leonida and GTA6Modding went dark a day after Cyberleek released the executable file that porters had been waiting for."
+    },
+    {
+      "source": "Decrypt",
+      "title": "$14.7B in \u2018Lost\u2019 Bitcoin Has Moved Since 2018: Report",
+      "url": "https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report",
+      "pubDate": "Tue, 24 Nov 2026 12:40:47 +0000",
+      "summary": "Roughly 245,000 BTC has left almost 10,000 wallets presumed lost, undercutting a lawsuit that argues silence means abandonment."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Trump Says He 'Made the Deal' to Reinstate Jensen Huang, Sparking Bipartisan Backlash",
+      "url": "https://decrypt.co/383853/trump-says-he-made-the-deal-to-reinstate-jensen-huang-sparking-bipartisan-backlash",
+      "pubDate": "Tue, 24 Nov 2026 11:35:13 +0000",
+      "summary": "Lawmakers from both parties want to know what national security assurances the White House gave Nvidia's board before it brought Huang back."
+    },
+    {
+      "source": "Decrypt",
+      "title": "China's Z.ai Says Its New AI Model Can Think Like One Four Times Its Size",
+      "url": "https://decrypt.co/383852/chinas-zai-says-its-new-ai-model-can-think-like-one-four-times-its-size",
+      "pubDate": "Tue, 24 Nov 2026 10:15:22 +0000",
+      "summary": "The company claims its GLM-5 model matches the performance of larger systems on key benchmarks while using fewer parameters."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin ETFs Shed $582M in a Day as BTC Drops Below $62K",
+      "url": "https://decrypt.co/383685/bitcoin-etfs-shed-582m-in-a-day-as-btc-drops-below-62k",
+      "pubDate": "Fri, 20 Nov 2026 11:50:51 +0000",
+      "summary": "Thursday's ETF outflow was the funds' biggest in three weeks, as rising Treasury yields and Fed rate hike bets weigh on crypto."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
+      "url": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report",
+      "pubDate": "Fri, 20 Nov 2026 11:23:00 +0000",
+      "summary": "The exchange offers event contracts through Kalshi, but running its own would give it more control and a bigger share of trading revenue."
+    },
+    {
+      "source": "The Block",
+      "title": "Crypto Market Structure Basics",
+      "url": "https://www.theblock.co/learn/campus/crypto-market-structure-basics-442986",
+      "pubDate": "Tue, 24 Nov 2026 12:49:13 +0000",
+      "summary": "Crypto Market Structure 101 explains how crypto markets work for beginners. It covers centralized and decentralized exchanges, trading pairs and settlement, order types, leverage and perpetual futures, market makers, key market players, and crypto fundraising."
+    },
+    {
+      "source": "The Block",
+      "title": "South Korea drafts bill for bank-led stablecoins, 20% exchange stake cap",
+      "url": "https://www.theblock.co/news/regulation/2026-11-24-south-korea-bank-led-stablecoins-20-percent-exchange-stake-cap-445500",
+      "pubDate": "Tue, 24 Nov 2026 12:15:40 +0000",
+      "summary": "The proposal would allow banks to issue won-pegged stablecoins while limiting any single shareholder's stake in crypto exchanges to 20%."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin dips under $60,000 as ETF outflows hit record for November",
+      "url": "https://www.theblock.co/news/markets/2026-11-24-bitcoin-dips-under-60000-etf-outflows-record-november-445490",
+      "pubDate": "Tue, 24 Nov 2026 11:20:15 +0000",
+      "summary": "Spot Bitcoin ETFs saw $4.71 billion in net outflows so far in November, the highest monthly figure on record."
+    },
+    {
+      "source": "The Block",
+      "title": "Strategy buys another 457 BTC for $30 million",
+      "url": "https://www.theblock.co/news/business/2026-11-23-the-dots-arent-done-michael-saylor-bitcoin-444907",
+      "pubDate": "Mon, 23 Nov 2026 13:10:25 +0000",
+      "summary": "Strategy's latest acquisitions came during a week that saw bitcoin drop to its lowest level in over two years."
+    },
+    {
+      "source": "The Block",
+      "title": "CFTC staff say bitcoin, ether can count toward derivatives firms operating expenses",
+      "url": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+      "pubDate": "Tue, 24 Nov 2026 00:33:22 +0000",
+      "summary": "Staff at the CFTC issued an advisory saying certain regulated firms may count crypto such as bitcoin and ether toward operating costs."
+    },
+    {
+      "source": "The Block",
+      "title": "DOJ seeks $1.17 billion in USDC tied to Binance hack",
+      "url": "https://www.theblock.co/news/regulation/2026-11-23-doj-seeks-1-17-billion-usdc-binance-hack-circle-replacements-445405",
+      "pubDate": "Mon, 23 Nov 2026 20:55:33 +0000",
+      "summary": "Prosecutors want control of the stolen stablecoins while Elliptic tracks mixing activity."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin developers propose fix for transaction verification gap affecting Lightning wallets",
+      "url": "https://cryptoslate.com/bitcoin-developers-propose-fix-for-transaction-verification-gap-affecting-lightning-wallets/",
+      "pubDate": "Tue, 24 Nov 2026 12:10:56 +0000",
+      "summary": "Jean Pablo\u2019s proposal grew out of Electrum\u2019s Lightning work and gives developers 93 cases for testing proof verification."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin\u2019s supply squeeze narrative faces scrutiny after 11,000 BTC moves to Kraken",
+      "url": "https://cryptoslate.com/bitcoins-supply-squeeze-narrative-faces-scrutiny-after-11000-btc-moves-to-kraken/",
+      "pubDate": "Mon, 23 Nov 2026 20:30:38 +0000",
+      "summary": "Five transfers from Coinbase- and Binance-tagged wallets show how exchange withdrawals can leave coins inside the tracked trading network."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Aave's USDC loans surge 36% to $2.6 billion as liquid collateral share plunges",
+      "url": "https://cryptoslate.com/aaves-usdc-loans-surge-36-to-2-6-billion-as-liquid-collateral-share-plunges/",
+      "pubDate": "Tue, 24 Nov 2026 02:10:14 +0000",
+      "summary": "TokenLogic's Nov. 17 model leaves roughly 240,000 USDC above the proposed target if queued withdrawals follow historical rates."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "XRP borrowers face a $207,500 tipping point as one vault dominates an $8 million pool",
+      "url": "https://cryptoslate.com/xrp-borrowers-face-a-207500-tipping-point-as-one-vault-dominates-an-8-million-pool/",
+      "pubDate": "Mon, 23 Nov 2026 22:45:10 +0000",
+      "summary": "Concentration risk rises as a single vault holds the majority of the pool."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Strategy raises its buyback ceiling to $4 billion as MSTR shares sink 21%",
+      "url": "https://cryptoslate.com/strategy-raises-its-buyback-ceiling-to-4-billion-as-mstr-shares-sink-21/",
+      "pubDate": "Mon, 23 Nov 2026 19:30:22 +0000",
+      "summary": "Michael Saylor's firm expands preferred share buybacks amid share price pressure."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "More than $2 billion rushed out of Sky's stablecoin in a single day",
+      "url": "https://cryptoslate.com/more-than-2-billion-rushed-out-of-skys-stablecoin-in-a-single-day/",
+      "pubDate": "Mon, 23 Nov 2026 16:40:12 +0000",
+      "summary": "An Obex debt repayment helped refill the shared pool after Sky's Ethereum reserve lost two-thirds of its USDC in hours."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "\u201cThis Is An Excellent Entry Point\u201d \u2013 UTXO\u2019s Loren Asmus Gives Bitcoin Outlook",
+      "url": "https://bitcoinmagazine.com/videos/this-is-an-excellent-entry-point-utxos-loren-asmus-gives-bitcoin-outlook",
+      "pubDate": "Mon, 23 Nov 2026 21:30:11 +0000",
+      "summary": "Loren Asmus of UTXO Management shares his view on Bitcoin price action and accumulation opportunities."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin-Gold Ratio Signals Potential Bottom: What to Watch",
+      "url": "https://bitcoinmagazine.com/videos/bitcoin-gold-ratio-signals-potential-bottom-what-to-watch",
+      "pubDate": "Mon, 23 Nov 2026 18:45:00 +0000",
+      "summary": "Sean Hagan revisits the Bitcoin-in-gold chart, noting higher-low trends despite recent pullbacks."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Strategy Adds 457 Bitcoin, Continues Accumulation",
+      "url": "https://bitcoinmagazine.com/business/strategy-adds-457-bitcoin-continues-accumulation",
+      "pubDate": "Mon, 23 Nov 2026 14:20:00 +0000",
+      "summary": "Michael Saylor's company purchased additional BTC amid market weakness."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Lightning Network Verification Fix Proposed by Developers",
+      "url": "https://bitcoinmagazine.com/technical/lightning-network-verification-fix-proposed",
+      "pubDate": "Tue, 24 Nov 2026 08:10:00 +0000",
+      "summary": "A new proposal aims to close gaps in transaction verification for Lightning wallets."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "ETF Outflows Reach Record Levels in November",
+      "url": "https://bitcoinmagazine.com/markets/etf-outflows-reach-record-levels-november",
+      "pubDate": "Tue, 24 Nov 2026 06:30:00 +0000",
+      "summary": "Spot Bitcoin ETFs continue to see significant redemptions as price tests key levels."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "CFTC Guidance Allows Crypto for Operating Reserves",
+      "url": "https://bitcoinmagazine.com/regulation/cftc-guidance-allows-crypto-operating-reserves",
+      "pubDate": "Tue, 24 Nov 2026 01:15:00 +0000",
+      "summary": "Staff advisory permits Bitcoin and Ether to count toward certain reserve requirements."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin pulls back to $60,000 as stock rally fails to budge crypto",
+      "url": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
+      "pubDate": "Tue, 24 Nov 2026 12:47:40 +0000",
+      "summary": "The red bars in bitcoin continue after yesterday's brief surge higher; U.S. equities are poised to give back some of Monday's massive gains."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
+      "pubDate": "Tue, 24 Nov 2026 11:05:12 +0000",
+      "summary": "November has now seen the largest monthly outflows from spot Bitcoin ETFs on record."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Japan to ramp up crypto tax audits after uncovering $24.5 million in hidden income",
+      "url": "https://www.coindesk.com/business/2026/11/23/japan-to-ramp-up-crypto-tax-audits-after-uncovering-usd24-5-million-in-hidden-income",
+      "pubDate": "Mon, 23 Nov 2026 11:33:00 +0000",
+      "summary": "On-site audits of individual crypto traders averaged 12.58 million yen in extra tax per case, nearly triple the bureau's standard audit average."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin climbs back above $61,000 as stocks rebound from AI rout",
+      "url": "https://www.coindesk.com/markets/2026/11/23/live-updates-bitcoin-climbs-back-above-usd61-000-as-stocks-rebound-from-ai-rout",
+      "pubDate": "Mon, 23 Nov 2026 11:29:09 +0000",
+      "summary": "Bitcoin is recovering from a weekend plunge to nearly $55,500, its lowest in more than two years, as Nasdaq futures jumped 3% and Nvidia rallied."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+      "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+      "pubDate": "Tue, 24 Nov 2026 00:25:04 +0000",
+      "summary": "The derivatives regulator issues a rule on data reporting for event contracts and new guidance for how crypto assets can be used to meet regulatory requirements."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "New York judge declines to block Kalshi from operating in the state for now",
+      "url": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now",
+      "pubDate": "Mon, 23 Nov 2026 18:22:03 +0000",
+      "summary": "Judge Melissa Crane did not shut down Kalshi's operations in a hearing Monday, but did say she wanted both parties to present their full arguments in an expedited fashion."
+    }
+  ]
+}
