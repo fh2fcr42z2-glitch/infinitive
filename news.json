@@ -10,5 +10,216 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "items": []
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Tue, 24 Nov 2026 00:36:26 +0000",
+      "summary": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+      "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 23 Nov 2026 23:43:34 +0000",
+      "summary": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 23 Nov 2026 21:40:44 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US seeks to recover $1.1B in crypto stolen in North Korea-linked Binance hack",
+      "url": "https://cointelegraph.com/news/us-seeks-11b-crypto-stolen-north-korea-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 23 Nov 2026 21:04:03 +0000",
+      "summary": "US prosecutors are seeking control of stolen USDC, while Elliptic says hackers have moved $247 million through Bitcoin mixers."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Kalshi secures temporary win in New York gambling law dispute",
+      "url": "https://cointelegraph.com/news/kalshi-temporary-win-new-york-gambling-law-dispute?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 23 Nov 2026 20:38:43 +0000",
+      "summary": "The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
+      "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-to-reduce-defi-debt-amid-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Mon, 23 Nov 2026 19:05:12 +0000",
+      "summary": "BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury."
+    },
+    {
+      "source": "Decrypt",
+      "title": "China's Z.ai Says Its New AI Model Can Think Like One Four Times Its Size",
+      "url": "https://decrypt.co/383851/chinas-zai-new-ai-model-glm-think-like-four-times-size",
+      "pubDate": "Mon, 23 Nov 2026 23:06:02 +0000",
+      "summary": "GLM-5.4 uses a looping architecture to squeeze more reasoning power from fewer parameters, challenging the expensive approach favored by American AI giants."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Will Pay You Up to $8K to Preach the AI Gospel to Small Businesses",
+      "url": "https://decrypt.co/383848/openai-will-pay-8k-preach-ai-gospel-small-businesses",
+      "pubDate": "Mon, 23 Nov 2026 21:46:03 +0000",
+      "summary": "OpenAI wants local AI evangelists to bring ChatGPT to Main Street."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why One Math Proof Has AI Experts Warning Humans Might Soon Lose Control",
+      "url": "https://decrypt.co/383846/math-proof-ai-experts-warning-humans-lose-control",
+      "pubDate": "Mon, 23 Nov 2026 21:16:02 +0000",
+      "summary": "A new mathematical result has some researchers concerned about long-term AI alignment."
+    },
+    {
+      "source": "Decrypt",
+      "title": "North Korea Moves $247 Million of Binance Hack Loot Through Bitcoin Mixers",
+      "url": "https://decrypt.co/383844/north-korea-247-million-binance-hack-bitcoin-mixers",
+      "pubDate": "Mon, 23 Nov 2026 20:36:02 +0000",
+      "summary": "Roughly a month after the $6.4 billion hack, Elliptic says nearly all of the coinjoin mixing was coordinated by one person who refuses to block funds such as these."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Why Nvidia Needed Jensen Huang Back And What His Return Really Changes",
+      "url": "https://decrypt.co/383841/why-nvidia-needed-jensen-huang-back-what-return-changes",
+      "pubDate": "Mon, 23 Nov 2026 19:57:21 +0000",
+      "summary": "Huang's 11-day absence exposed the importance of his customer ties, influence in Washington and hold on Silicon Valley. The stock is soaring, but the comeback brings risks of its own."
+    },
+    {
+      "source": "Decrypt",
+      "title": "GPU Jesus Has Risen: Jensen Huang's Nvidia Comeback Gets a Meme Parade",
+      "url": "https://decrypt.co/383820/jensen-huang-returns-nvidia-memes-gpu-jesus",
+      "pubDate": "Mon, 23 Nov 2026 18:45:21 +0000",
+      "summary": "Hollywood, WWE and GPU Jesus joined the celebration after Nvidia reinstated Jensen Huang on Monday."
+    },
+    {
+      "source": "The Block",
+      "title": "CFTC staff say bitcoin, ether can count toward derivatives firms operating expenses",
+      "url": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+      "pubDate": "Tue, 24 Nov 2026 00:33:22 +0000",
+      "summary": "Staff at the CFTC issued an advisory saying certain regulated firms may count crypto such as bitcoin and ether toward operating costs."
+    },
+    {
+      "source": "The Block",
+      "title": "Grayscale says bitcoin and major altcoins look oversold as AI risks cloud near-term outlook",
+      "url": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418",
+      "pubDate": "Mon, 23 Nov 2026 22:18:02 +0000",
+      "summary": "Grayscale said bitcoin's drop to about $55,000 on Saturday made the current bear market its longest on record, at least 411 days."
+    },
+    {
+      "source": "The Block",
+      "title": "Grayscale's new 2x leveraged Zcash ETF takes 13% opening day tumble",
+      "url": "https://www.theblock.co/news/markets/2026-11-23-grayscale-2x-leveraged-zcash-etf-13-percent-opening-day-tumble-445412",
+      "pubDate": "Mon, 23 Nov 2026 21:45:11 +0000",
+      "summary": "The new product launched with high volume but closed down sharply."
+    },
+    {
+      "source": "The Block",
+      "title": "DOJ seeks $1.17 billion in USDC tied to Binance hack; Circle could issue replacements",
+      "url": "https://www.theblock.co/news/regulation/2026-11-23-doj-seeks-1-17-billion-usdc-binance-hack-circle-replacements-445405",
+      "pubDate": "Mon, 23 Nov 2026 20:55:33 +0000",
+      "summary": "Prosecutors want control of the stolen stablecoins while Elliptic tracks mixing activity."
+    },
+    {
+      "source": "The Block",
+      "title": "CFTC prediction market rules advance to White House review amid state-federal jurisdiction fight",
+      "url": "https://www.theblock.co/news/regulation/2026-11-23-cftc-prediction-market-rules-white-house-review-445398",
+      "pubDate": "Mon, 23 Nov 2026 19:12:44 +0000",
+      "summary": "Final rules on which event contracts can trade are now under White House review."
+    },
+    {
+      "source": "The Block",
+      "title": "Sky cofounder weighs SKY sale to repay $77 million as stUSDS pool runs dry",
+      "url": "https://www.theblock.co/news/defi/2026-11-23-sky-cofounder-sky-sale-repay-77-million-stusds-pool-445390",
+      "pubDate": "Mon, 23 Nov 2026 18:01:22 +0000",
+      "summary": "More than $2 billion left Sky's stablecoin in a single day amid liquidity pressure."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Aave's USDC loans surge 36% to $2.6 billion as liquid collateral share plunges",
+      "url": "https://cryptoslate.com/aaves-usdc-loans-surge-36-to-2-6-billion-as-liquid-collateral-share-plunges/",
+      "pubDate": "Tue, 24 Nov 2026 02:10:14 +0000",
+      "summary": "TokenLogic's Nov. 17 model leaves roughly 240,000 USDC above the proposed target if queued withdrawals follow historical rates."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "XRP borrowers face a $207,500 tipping point as one vault dominates an $8 million pool",
+      "url": "https://cryptoslate.com/xrp-borrowers-face-a-207500-tipping-point-as-one-vault-dominates-an-8-million-pool/",
+      "pubDate": "Mon, 23 Nov 2026 22:45:10 +0000",
+      "summary": "Concentration risk rises as a single vault holds the majority of the pool."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin's supply squeeze narrative faces scrutiny after 11,000 BTC moves to Kraken",
+      "url": "https://cryptoslate.com/bitcoins-supply-squeeze-narrative-faces-scrutiny-after-11000-btc-moves-to-kraken/",
+      "pubDate": "Mon, 23 Nov 2026 20:15:33 +0000",
+      "summary": "Large transfer to exchange challenges the narrative of locked supply."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Strategy raises its buyback ceiling to $4 billion as MSTR shares sink 21%",
+      "url": "https://cryptoslate.com/strategy-raises-its-buyback-ceiling-to-4-billion-as-mstr-shares-sink-21/",
+      "pubDate": "Mon, 23 Nov 2026 19:30:22 +0000",
+      "summary": "Michael Saylor's firm expands preferred share buybacks amid share price pressure."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "More than $2 billion rushed out of Sky's stablecoin in a single day",
+      "url": "https://cryptoslate.com/more-than-2-billion-rushed-out-of-skys-stablecoin-in-a-single-day/",
+      "pubDate": "Mon, 23 Nov 2026 16:40:12 +0000",
+      "summary": "An Obex debt repayment helped refill the shared pool after Sky's Ethereum reserve lost two-thirds of its USDC in hours."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+      "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+      "pubDate": "Tue, 24 Nov 2026 00:25:04 +0000",
+      "summary": "The derivatives regulator issues a rule on data reporting for event contracts and new guidance for how crypto assets can be used to meet regulatory requirements."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "New York judge declines to block Kalshi from operating in the state for now",
+      "url": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now",
+      "pubDate": "Mon, 23 Nov 2026 18:22:03 +0000",
+      "summary": "Judge Melissa Crane did not shut down Kalshi's operations in a hearing Monday, but did say she wanted both parties to present their full arguments in an expedited fashion."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Nvidia's Jensen Huang faces Senate scrutiny despite Trump-backed return as CEO",
+      "url": "https://www.coindesk.com/business/2026/11/23/nvidia-s-jensen-huang-faces-senate-scrutiny-despite-trump-backed-return-as-ceo",
+      "pubDate": "Mon, 23 Nov 2026 18:12:05 +0000",
+      "summary": "Congressional scrutiny will continue even as CEO returns to lead the company after his affair scandal and its national-security implications."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin rebound already losing steam as AI trade returns with a bang",
+      "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-rebound-already-losing-steam-as-ai-trade-returns-with-a-bang",
+      "pubDate": "Mon, 23 Nov 2026 17:31:27 +0000",
+      "summary": "Nvidia jumped more than 30% and has recovered most of its losses since CEO Jensen Huang stepped down, but bitcoin is lagging as U.S. selling persists, traders said."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Cathie Wood's ARK Invest pulls the plug on two planned crypto ETFs",
+      "url": "https://www.coindesk.com/business/2026/11/23/cathie-wood-s-ark-invest-pulls-the-plug-on-two-planned-crypto-etfs",
+      "pubDate": "Mon, 23 Nov 2026 16:39:03 +0000",
+      "summary": "ProShares' rival CoinDesk 20 Crypto ETF (KRYP) holds $1.81 million in assets nearly 10 months post-launch."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Binance hackers push $247 million through transactions designed to cloud the source",
+      "url": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
+      "pubDate": "Mon, 23 Nov 2026 15:29:01 +0000",
+      "summary": "Elliptic found that nearly all the mixing transactions, known as coinjoins, were coordinated by an entity called Kruw during fixed daily hours."
+    },
+    {
+      "source": "Chainflip",
+      "title": "Chainflip confirms $12M hack of BTC and ETH vaults, offers 10% bounty",
+      "url": "https://chainflip.io/blog/incident-report-vault-exploit-21-november-2026-part-1",
+      "pubDate": "Sun, 22 Nov 2026 18:00:00 +0000",
+      "summary": "Attacker drained 133 BTC, 520 ETH and millions in stablecoins from vaults via compromised validator key shares. Swaps paused."
+    }
+  ]
 }
