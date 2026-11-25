@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-25T13:03:50Z",
+  "asof": "2026-11-25T14:05:36Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -11,6 +11,20 @@
     "https://rekt.news"
   ],
   "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Wed, 25 Nov 2026 13:26:05 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
+      "url": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax",
+      "pubDate": "Wed, 25 Nov 2026 13:02:09 +0000",
+      "summary": "Ukraine's parliament passed a crypto regulation bill after three years of legislative work, with the new rules set to take effect in July 2027."
+    },
     {
       "source": "CoinTelegraph",
       "title": "Japan's SBI, SMFG launch Solana venture for stablecoins, tokenization",
@@ -37,21 +51,28 @@
       "title": "Bitcoin price may fall below $53K if bear-market history repeats",
       "url": "https://cointelegraph.com/markets/bitcoin-price-bear-market-history-repeats",
       "pubDate": "Wed, 25 Nov 2026 11:09:38 +0000",
-      "summary": "Bitcoin price downside targets focused on the $53,200 realized price as research pointed to bear-market patterns continuing for BTC/USD."
+      "summary": "Bitcoin price downside targets focused on the $53,200 realized price as research saw pointed to bear-market patterns continuing for BTC/USD."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "HYPE drops 8% as Trump bump gives way to 40% slide from peak",
-      "url": "https://cointelegraph.com/markets/hyperliquid-hype-price-falls-abraxas-capital-wallets",
-      "pubDate": "Wed, 25 Nov 2026 10:57:52 +0000",
-      "summary": "HYPE traded below its price before Trump's August remarks as wallets linked to Abraxas Capital reportedly exited the Hyperliquid platform."
+      "source": "Decrypt",
+      "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
+      "url": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
+      "pubDate": "Wed, 25 Nov 2026 13:41:38 +0000",
+      "summary": "The Ethereum Foundation pulls its quantum-resistance deadline forward to end 2028, as AI labs say their next models are too dangerous."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "French Senate rejects 100K euro crypto wallet disclosure requirement",
-      "url": "https://cointelegraph.com/news/french-senate-rejects-disclosing-self-custodied-crypto-wallets-100k",
-      "pubDate": "Wed, 25 Nov 2026 09:58:12 +0000",
-      "summary": "The Senate rejected a proposal requiring disclosure of self-custodied crypto wallets holding more than 100,000 euros."
+      "source": "Decrypt",
+      "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
+      "url": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
+      "pubDate": "Wed, 25 Nov 2026 13:15:24 +0000",
+      "summary": "Holders had warned that reporting wallets worth over 100,000 could expose them to risk in a country hit by a wave of crypto kidnappings."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
+      "url": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam",
+      "pubDate": "Wed, 25 Nov 2026 11:52:06 +0000",
+      "summary": "David Anthony Sanchez posed as the streamer to persuade a meme coin project's organizers to pay him for a fake endorsement deal."
     },
     {
       "source": "Decrypt",
@@ -62,10 +83,17 @@
     },
     {
       "source": "Decrypt",
-      "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
-      "url": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
-      "pubDate": "Tue, 24 Nov 2026 21:16:02 +0000",
-      "summary": "Coinkite's postmortem reveals a software random-number generator shipped in place of the hardware one for over five years."
+      "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
+      "url": "https://decrypt.co/383935/take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3007-github-repos",
+      "pubDate": "Wed, 25 Nov 2026 10:35:57 +0000",
+      "summary": "Rockstar's parent said the project's \"bring your own files\" instruction was a misleading attempt to dodge responsibility for the leak."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
+      "url": "https://decrypt.co/383933/openai-and-anthropic-insiders-fear-next-ai-models-too-dangerous",
+      "pubDate": "Tue, 24 Nov 2026 22:36:02 +0000",
+      "summary": "Employees at both AI labs reportedly question whether their strongest models should ever reach the public, as researchers struggle to keep increasingly capable systems under control during training and testing."
     },
     {
       "source": "The Block",
@@ -76,7 +104,28 @@
     },
     {
       "source": "The Block",
-      "title": "Ethereum Foundation researchers pick one hash to rule them all for post-quantum upgrade",
+      "title": "'Don't mess with X,' Elon Musk says after platform secures default judgment in alleged bitcoin content-farm case",
+      "url": "https://www.theblock.co/news/regulation/2026-11-25-dont-mess-with-x-elon-musk-says-after-platform-secures-default-judgment-in-alleged-bitcoin-content-farm-case-446151",
+      "pubDate": "Wed, 25 Nov 2026 12:14:27 +0000",
+      "summary": "X secured a default judgment against two defendants in its lawsuit over an alleged $271,000 creator-payout scheme."
+    },
+    {
+      "source": "The Block",
+      "title": "Japan's SBI, SMFG launch Solana joint venture for stablecoin payments and tokenization",
+      "url": "https://www.theblock.co/news/business/2026-11-25-japans-sbi-smfg-tap-solana-stablecoin-tokenization-joint-venture-446131",
+      "pubDate": "Wed, 25 Nov 2026 10:23:10 +0000",
+      "summary": "The entity will pursue initiatives in stablecoin-based payments, financial and real-world asset tokenization, and onchain asset management."
+    },
+    {
+      "source": "The Block",
+      "title": "Hong Kong Monetary Authority launches digital asset platform for tokenized debt securities",
+      "url": "https://www.theblock.co/news/regulation/2026-11-25-hong-kong-debt-securities-tokenization-446132",
+      "pubDate": "Wed, 25 Nov 2026 10:05:40 +0000",
+      "summary": "HSBC, Standard Chartered, Bank of China (Hong Kong), DBS, and six other banks are the platform's first direct participants."
+    },
+    {
+      "source": "The Block",
+      "title": "Ethereum Foundation researchers pick one hash 'to rule them all' for post-quantum upgrade",
       "url": "https://www.theblock.co/news/ecosystems/2026-11-25-ethereum-foundation-researchers-pick-one-hash-to-rule-them-all-for-post-quantum-upgrade-446125",
       "pubDate": "Wed, 25 Nov 2026 09:49:45 +0000",
       "summary": "Keccak-256 was favored for its long cryptanalysis record and existing role across Ethereum, despite slower proving than BLAKE3."
@@ -89,18 +138,46 @@
       "summary": "Cathie Wood's Ark Invest sold its own Ark 21Shares bitcoin ETF on Tuesday amid a broader crypto market downturn."
     },
     {
-      "source": "CryptoSlate",
-      "title": "VanEck is dropping Gemini from nearly $1 billion in Bitcoin, Ethereum and Solana ETFs",
-      "url": "https://cryptoslate.com/vaneck-is-dropping-gemini-from-nearly-1-billion-in-bitcoin-ethereum-and-solana-etfs/",
-      "pubDate": "Wed, 25 Nov 2026 12:00:24 +0000",
-      "summary": "Coinbase Custody will stay with all three funds, whose termination filings name no replacement for Gemini Clearing."
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collapse",
+      "url": "https://bitcoinmagazine.com/videos/bitcoin-faces-6-year-moving-average-test-only-seen-during-ftx-collapse",
+      "pubDate": "Tue, 24 Nov 2026 22:30:03 +0000",
+      "summary": "Bitcoin Magazine Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collapse Since 2016, the only time Bitcoin closed below its six-year moving average was the FTX crash. This post Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collap"
     },
     {
-      "source": "CryptoSlate",
-      "title": "Bitcoin ETFs gained 191 institutional holders but just 25 drove all the growth",
-      "url": "https://cryptoslate.com/bitcoin-etfs-gained-191-institutional-holders-but-just-25-drove-all-the-growth/",
-      "pubDate": "Wed, 25 Nov 2026 10:50:46 +0000",
-      "summary": "Galaxy counted 2,166 managers with U.S. spot Bitcoin fund positions and found the 25 largest added more exposure than all filers combined."
+      "source": "Bitcoin Magazine",
+      "title": "\"Escape Velocity\" Coming for Bitcoin with Repeat of 2017 Cycle | Micha l van de Poppe",
+      "url": "https://bitcoinmagazine.com/videos/escape-velocity-coming-for-bitcoin-with-repeat-of-2017-cycle-michael-van-de-poppe",
+      "pubDate": "Tue, 24 Nov 2026 21:15:30 +0000",
+      "summary": "Bitcoin Magazine \"Escape Velocity\" Coming for Bitcoin with Repeat of 2017 Cycle | Micha l van de Poppe The Fear & Greed Index has sat in extreme fear, and Micha l van de Poppe says people are upset that Bitcoin has underperformed other assets. This post \"Escap"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Andr Dragosch: Bitcoin at \"Fire Sale\" Valuations Heading Into Fed Pivot",
+      "url": "https://bitcoinmagazine.com/videos/andre-dragosch-bitcoin-at-fire-sale-valuations-heading-into-fed-pivot",
+      "pubDate": "Tue, 24 Nov 2026 20:20:57 +0000",
+      "summary": "Bitcoin Magazine Andr Dragosch: Bitcoin at \"Fire Sale\" Valuations Heading Into Fed Pivot Andr Dragosch says Fed language is already as hawkish as it was in 2022, and \"we are probably close to peak hawkishness. This post Andr Dragosch: Bitcoin at \"Fire Sale\" Va"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Lender Ledn Moves US Clients Onshore With New Custody Accounts",
+      "url": "https://bitcoinmagazine.com/news/ledn-launches-us-custody-accounts",
+      "pubDate": "Tue, 24 Nov 2026 20:15:19 +0000",
+      "summary": "Bitcoin Magazine Bitcoin Lender Ledn Moves US Clients Onshore With New Custody Accounts Bitcoin lender Ledn launched a US custody account that lets clients hold bitcoin, gold, stablecoins and dollars, with no trading fees and a 0.5% spread. This post Bitcoin L"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Inside the UAE's $1.5 Billion Bitcoin & Real Estate Play",
+      "url": "https://bitcoinmagazine.com/videos/inside-the-uaes-1-5-billion-bitcoin-real-estate-play",
+      "pubDate": "Tue, 24 Nov 2026 19:34:31 +0000",
+      "summary": "Bitcoin Magazine Inside the UAE's $1.5 Billion Bitcoin & Real Estate Play Coinbase Asset Management President Anthony Bassili goes inside the Standard Asset Company's $1. This post Inside the UAE's $1.5 Billion Bitcoin & Real Estate Play first appeared on Bitc"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Anchorage Digital Sets Up Asset Manager to Offer Bitcoin Yield to Clients",
+      "url": "https://bitcoinmagazine.com/news/anchorage-digital-bitcoin-yield-asset-manager",
+      "pubDate": "Tue, 24 Nov 2026 18:38:01 +0000",
+      "summary": "Bitcoin Magazine Anchorage Digital Sets Up Asset Manager to Offer Bitcoin Yield to Clients Anchorage Digital is launching 61st Parallel Asset Management, a subsidiary expected to open by early December with a bitcoin-denominated fund that lets custody clients "
     },
     {
       "source": "CoinDesk",
@@ -111,10 +188,38 @@
     },
     {
       "source": "CoinDesk",
-      "title": "Bitcoin falls below $60,000 as rally on Jensen Huang's Nvidia return fades",
-      "url": "https://www.coindesk.com/markets/2026/11/24/bitcoin-falls-below-usd60-000-as-rally-on-jensen-huang-s-nvidia-return-fades",
-      "pubDate": "Tue, 24 Nov 2026 10:08:38 +0000",
-      "summary": "Nasdaq 100 futures fell about 1% after the index surged on Monday, while the Dollar Index held above 104."
+      "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
+      "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
+      "pubDate": "Wed, 25 Nov 2026 11:57:50 +0000",
+      "summary": "Bitcoin (BTC) is down 1.2% since midnight UTC as the stock selloff resumes, with ether (ETH) and DeFi tokens falling about twice as far."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Italy's UniCredit launches six-year bitcoin certificate with gains capped at 65%",
+      "url": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
+      "pubDate": "Wed, 25 Nov 2026 11:51:54 +0000",
+      "summary": "UniCredit brings bitcoin investing to its roughly 8 million retail customers in Italy, offering them a six-year product that caps the redemption value but promises to return their capital."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
+      "url": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
+      "pubDate": "Wed, 25 Nov 2026 11:30:32 +0000",
+      "summary": "Gold has lost the risk-adjusted advantage that made it this year's haven of choice over bitcoin. Both now offer negative one-year Sharpe ratios, leaving cash yields hard to beat."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
+      "url": "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push",
+      "pubDate": "Wed, 25 Nov 2026 11:00:27 +0000",
+      "summary": "Brussels wants tech firms to grow at home. EU scale-ups raise about half the capital of San Francisco peers by year 10, an EIB study found."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin slips back under $59,000, with tech rout continuing",
+      "url": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
+      "pubDate": "Wed, 25 Nov 2026 08:35:47 +0000",
+      "summary": "HYPE fell 8% and SOL 5%, and one analyst said a recovery will need selling in stocks to ease first. Fresh U.S. inflation data is due this morning."
     }
   ]
 }
