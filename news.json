@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-25T02:02:30Z",
+  "asof": "2026-11-25T02:05:00Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -14,44 +14,37 @@
     {
       "source": "CoinTelegraph",
       "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
-      "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "url": "https://cointelegraph.com/news/cleanspark-weighs-selling-more-bitcoin-than-it-mines-to-de-risk-books",
       "pubDate": "Wed, 25 Nov 2026 01:40:59 +0000",
       "summary": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Hackers breach CIA intelligence network in latest US cyberattack",
-      "url": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 24 Nov 2026 23:48:16 +0000",
-      "summary": "The reported breach follows cyber incidents involving the FBI, Department of Homeland Security and Department of Agriculture."
+      "source": "Decrypt",
+      "title": "Coldcard Bitcoin Exploit, Revisited: How a Hidden Flaw Survived Years of Audits",
+      "url": "https://decrypt.co/383930/coldcard-bitcoin-exploit-how-hidden-flaw-survived-years-audits",
+      "pubDate": "Tue, 24 Nov 2026 21:16:02 +0000",
+      "summary": "Coinkite's postmortem reveals a software random-number generator shipped in place of the hardware one for over five years."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Heres what happened in crypto today",
-      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 24 Nov 2026 22:12:10 +0000",
-      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+      "source": "CoinDesk",
+      "title": "Crypto trader Ansem says his wallet was hacked as $2 million in memecoins were sold",
+      "url": "https://www.coindesk.com/markets/2026/11/24/a-wallet-linked-to-popular-crypto-trader-ansem-sold-usd2-million-in-memecoins-as-his-namesake-token-cratered",
+      "pubDate": "Tue, 24 Nov 2026 12:47:49 +0000",
+      "summary": "Ansem suspects someone broke into his account on Bullpen, the trading terminal he co-founded."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
-      "url": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 24 Nov 2026 21:50:25 +0000",
-      "summary": "Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to trace financial transactions and disrupt illegal streaming services."
+      "source": "The Block",
+      "title": "Bitcoin miner CleanSpark swings to $987 million annual loss as BTC production declines",
+      "url": "https://www.theblock.co/news/business/2026-11-24-bitcoin-miner-cleanspark-swings-987-million-annual-loss-btc-production-declines-446061",
+      "pubDate": "Tue, 24 Nov 2026 22:10:45 +0000",
+      "summary": "CleanSpark's annual revenue fell 25% as the bitcoin miner continues to shift toward AI infrastructure."
     },
     {
-      "source": "CoinTelegraph",
-      "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
-      "url": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 24 Nov 2026 20:48:27 +0000",
-      "summary": "Utahs attorney general warned that the criminal charges could be refiled if Kalshi resumes operations in the state, while separate civil litigation remains unresolved."
-    },
-    {
-      "source": "CoinTelegraph",
-      "title": "Bitcoin sell-off driven by weak demand, forced liquidations: 21Shares",
-      "url": "https://cointelegraph.com/news/bitcoin-selloff-weak-demand-forced-liquidations-21shares?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-      "pubDate": "Tue, 24 Nov 2026 19:44:23 +0000",
-      "summary": "The crypto asset manager warned that Bitcoins downturn could persist amid weak investor demand, while forecasting an uneven recovery across crypto sectors."
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collapse",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-faces-6-year-moving-average-test-only-seen-during-ftx-collapse",
+      "pubDate": "Tue, 24 Nov 2026 20:00:00 +0000",
+      "summary": "Technical levels under pressure as demand weakens."
     }
   ]
 }
