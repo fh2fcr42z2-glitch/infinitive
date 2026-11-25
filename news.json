@@ -1,1 +1,267 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-25T21:03:36Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 18:54:51 +0000",
+      "summary": "Ethlabs co-founder Julian Ma told Cointelegraph that AI poses a more immediate threat as Ethereum prepares for one of its biggest security overhauls since the Merge."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
+      "url": "https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 17:53:10 +0000",
+      "summary": "US core inflation rose more than expected in October as markets anticipate a December interest rate hike, which could slow a crypto market recovery."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+      "url": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 17:33:22 +0000",
+      "summary": "The prospect of higher US tariffs and hotter-than-expected PCE inflation weighed on Bitcoin, crypto and stocks on Wednesday."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
+      "url": "https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 17:19:33 +0000",
+      "summary": "The proposed settlement would resolve a shareholder lawsuit dating back to 2018 that alleged Nvidia misled investors about its exposure to the cryptocurrency industry."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers",
+      "url": "https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 17:10:53 +0000",
+      "summary": "The planned Starmind constellation will process data in orbit for use on Earth, as demand for artificial intelligence computing power continues to grow."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ex-FTX COO calls out Netflix over CZ\u2019s \u2018Asian mafia\u2019 portrayal",
+      "url": "https://cointelegraph.com/news/ftx-coo-netflix-portrayal-binance-founder-racist?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 14:21:36 +0000",
+      "summary": "Constance Waing said Netflix used racist stereotypes in its portrayal of CZ and misrepresented life at FTX before the exchange\u2019s collapse."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+      "url": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+      "pubDate": "Wed, 25 Nov 2026 20:36:03 +0000",
+      "summary": "Braiins says an attacker exploited the unencrypted Stratum V1 protocol and internet route hijacking to impersonate mining pools, striking over 1,000 sites in a single second."
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+      "url": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
+      "pubDate": "Wed, 25 Nov 2026 20:06:03 +0000",
+      "summary": "Microsoft says state-backed hackers and cybercriminals are using Artex to automate attacks with AI agents, exploiting familiar security flaws at speeds that leave defenders little time to respond or recover."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+      "url": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
+      "pubDate": "Wed, 25 Nov 2026 19:28:54 +0000",
+      "summary": "The proposed cash settlement would resolve a shareholder suit alleging the chipmaker hid how much of its 2017-2018 gaming revenue came from crypto miners."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Elon Musk\u2019s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
+      "url": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
+      "pubDate": "Wed, 25 Nov 2026 18:18:10 +0000",
+      "summary": "The FCC authorized SpaceX\u2019s solar-powered Starmind constellation, backing Elon Musk\u2019s plans to move AI computing into orbit and reduce the industry\u2019s dependence on increasingly strained power grids here on Earth."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI\u2019s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
+      "url": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
+      "pubDate": "Wed, 25 Nov 2026 17:46:02 +0000",
+      "summary": "OpenAI is merging ChatGPT\u2019s Chat and Work modes, forcing advanced conversations to compete with coding tasks for usage and leaving paying subscribers wondering how much AI they will actually get."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Elon Musk\u2019s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
+      "url": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
+      "pubDate": "Wed, 25 Nov 2026 17:16:02 +0000",
+      "summary": "London\u2019s High Court entered a default judgment against Vivek Kumar Sen and Zamyang Sherpa after they failed to respond, though damages, which X estimates at over \u00a3207,000, won\u2019t be set until a later hearing."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+      "pubDate": "Wed, 25 Nov 2026 19:37:10 +0000",
+      "summary": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards."
+    },
+    {
+      "source": "The Block",
+      "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+      "url": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
+      "pubDate": "Wed, 25 Nov 2026 19:32:42 +0000",
+      "summary": "Fidelity has filed with the U.S. Securities and Exchange Commission to launch a spot Chainlink exchange-traded fund."
+    },
+    {
+      "source": "The Block",
+      "title": "Justice Department takes aim at billions in crypto fraud proceeds in historic \u2018largest ever crackdown\u2019",
+      "url": "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711",
+      "pubDate": "Wed, 25 Nov 2026 18:05:18 +0000",
+      "summary": "Following President Trump\u2019s directive to crack down on fraud, the Justice Department announced what it called its \u201clargest-ever crackdown.\""
+    },
+    {
+      "source": "The Block",
+      "title": "Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil",
+      "url": "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709",
+      "pubDate": "Wed, 25 Nov 2026 18:00:13 +0000",
+      "summary": "Nvidia agreed to a $290M settlement over claims it misled investors about crypto mining demand driving 2017\u201318 gaming GPU sales."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin falls below $58,000 as CoinShares\u2019 Butterfill sees \u2018tail end of the bear market\u2019",
+      "url": "https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678",
+      "pubDate": "Wed, 25 Nov 2026 17:26:55 +0000",
+      "summary": "The crypto market cap fell to its lowest since September 2024 as stocks slid and U.S. inflation picked up."
+    },
+    {
+      "source": "The Block",
+      "title": "Hyperliquid\u2019s HYPE will join bitcoin, ether and more in Franklin Templeton\u2019s crypto ETF",
+      "url": "https://www.theblock.co/news/markets/2026-11-25-franklin-templeton-ezpz-etf-adds-hyperliquid-hype-446686",
+      "pubDate": "Wed, 25 Nov 2026 16:54:15 +0000",
+      "summary": "Franklin Templeton's Crypto Index ETF (EZPZ) will add Hyperliquid's HYPE token effective Dec. 1, according to an SEC prospectus supplement."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Ripple\u2019s latest banking partnership opens another route to XRP adoption in Turkey",
+      "url": "https://cryptoslate.com/ripples-latest-banking-partnership-opens-another-route-to-xrp-adoption-in-turkey/",
+      "pubDate": "Wed, 25 Nov 2026 20:10:29 +0000",
+      "summary": "Ripple says its custody software is deployed at Yap\u0131 Kredi, while a route from lira into withdrawable XRP remains publicly unconfirmed."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "CleanSpark is selling Bitcoin to fund its AI expansion as annual losses approach $1 billion",
+      "url": "https://cryptoslate.com/cleanspark-is-selling-bitcoin-to-fund-its-ai-expansion-as-annual-losses-approach-1-billion/",
+      "pubDate": "Wed, 25 Nov 2026 19:00:01 +0000",
+      "summary": "The miner raised cash for potential acquisitions, and its Two Prime facility shows how a price drop can make borrowing against Bitcoin more demanding."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Visa is testing an AI economy where agents work and humans collect the paycheck",
+      "url": "https://cryptoslate.com/visa-is-testing-an-ai-economy-where-agents-work-and-humans-collect-the-paycheck/",
+      "pubDate": "Wed, 25 Nov 2026 18:00:17 +0000",
+      "summary": "Eligible US cardholders can verify an agent for certain Taskmarket jobs and receive Open USD on Tempo when requesters accept its work."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "AI agents are reshaping the job market and less-experienced workers are feeling it first",
+      "url": "https://cryptoslate.com/ai-agents-are-reshaping-the-job-market-and-less-experienced-workers-are-feeling-it-first/",
+      "pubDate": "Wed, 25 Nov 2026 16:40:10 +0000",
+      "summary": "A study of 34.8 million US postings linked higher estimated exposure to slower growth in ads asking for up to five years of experience."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin\u2019s selloff deepens as Trump tariffs and hot inflation revive market fears",
+      "url": "https://cryptoslate.com/bitcoins-selloff-deepens-as-trump-tariffs-and-hot-inflation-revive-market-fears/",
+      "pubDate": "Wed, 25 Nov 2026 15:49:19 +0000",
+      "summary": "Bitcoin fell to $57,470 on Wednesday as hotter-than-expected US core inflation and the announcement of new tariffs intensified selling across risk assets. The Nasdaq 100 extended its losses to 2.9%, reversing the optimism that followed Jens"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Sky\u2019s withdrawal crisis tests confidence as its stablecoin supply shrinks by nearly $6 billion",
+      "url": "https://cryptoslate.com/skys-withdrawal-crisis-tests-confidence-as-its-stablecoin-supply-shrinks-by-nearly-6-billion/",
+      "pubDate": "Wed, 25 Nov 2026 15:15:08 +0000",
+      "summary": "The foundation\u2019s savings could cover about 69% of its loan, and an earlier repayment shows how fast depositors can claim the available cash."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
+      "url": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor",
+      "pubDate": "Wed, 25 Nov 2026 19:50:00 +0000",
+      "summary": "Rep. Nick Begich's bill to write the Strategic Bitcoin Reserve into law, with a 20-year ban on selling its bitcoin, is now eligible for a House floor vote. This post Stra"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028",
+      "url": "https://bitcoinmagazine.com/news/switzerland-57-countries-crypto-tax",
+      "pubDate": "Wed, 25 Nov 2026 18:40:05 +0000",
+      "summary": "Switzerland approved 57 partner jurisdictions, including all EU states and the UK, for automatic crypto tax data exchanges under the OECD's CARF from 2028. This pos"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses",
+      "url": "https://bitcoinmagazine.com/news/bithumb-hack-exposed-passports-wallet-addresses",
+      "pubDate": "Wed, 25 Nov 2026 18:15:00 +0000",
+      "summary": "Bithumb said a follow-up review found its October breach exposed more people and data, including passports and wallet addresses, and lasted about 15 days. This"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "DOJ Targets 800 Defendants in Largest-Ever Scam Crackdown, Including Crypto Fraud",
+      "url": "https://bitcoinmagazine.com/news/doj-largest-ever-scam-crackdown-crypto",
+      "pubDate": "Wed, 25 Nov 2026 17:50:00 +0000",
+      "summary": "The Justice Department said its largest-ever scam crackdown has targeted more than 800 defendants since March, with Southeast Asian crypto scam centers among"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "HRF Announces Funding of Seven Bitcoin Projects for People Living Under Authoritarian Regimes",
+      "url": "https://bitcoinmagazine.com/news/hrf-bitcoin-development-seven-projects",
+      "pubDate": "Wed, 25 Nov 2026 17:22:30 +0000",
+      "summary": "HRF's Bitcoin Development Fund backed seven projects for self-custody, privacy and education under repression, from phone wallets to solar mining"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "CleanSpark Weighs Selling More Bitcoin Than It Mines After $987M Loss",
+      "url": "https://bitcoinmagazine.com/news/cleanspark-987-million-loss-fiscal-2026",
+      "pubDate": "Wed, 25 Nov 2026 17:13:10 +0000",
+      "summary": "CleanSpark's CFO said the miner may sell more bitcoin than it mines to reduce risk after a $987.1 million fiscal 2026 loss, as its shares hit a new 52-week low. This post"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
+      "url": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+      "pubDate": "Wed, 25 Nov 2026 18:24:47 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+      "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+      "pubDate": "Wed, 25 Nov 2026 17:38:33 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+      "url": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+      "pubDate": "Wed, 25 Nov 2026 16:02:31 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
+      "url": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
+      "pubDate": "Wed, 25 Nov 2026 16:02:07 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Bitcoin investors can\u2019t keep ignoring Japan",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
+      "pubDate": "Wed, 25 Nov 2026 15:59:44 +0000",
+      "summary": ""
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
+      "url": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+      "pubDate": "Wed, 25 Nov 2026 14:47:17 +0000",
+      "summary": ""
+    }
+  ]
+}
