@@ -1,1 +1,29 @@
-PLACEHOLDER_FULL
+{
+  "asof": "2026-11-26T16:02:14Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
+      "url": "https://cointelegraph.com/news/how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 26 Nov 2026 15:45:07 +0000",
+      "summary": "A vote on Kyrgyzstan could make an exchange's home country the deciding factor in whether a European broker can use it to settle a trade."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
+      "url": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 26 Nov 2026 13:47:56 +0000",
+      "summary": "Nasdaq's Roland Chai backed exploring common EU rules for tokenized securities and said its Swedish subsidiary had applied for a DLT license."
+    }
+  ]
+}
