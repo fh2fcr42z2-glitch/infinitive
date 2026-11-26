@@ -10,5 +10,62 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "items": []
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+      "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 21:22:19 +0000",
+      "summary": "Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to hijack miners' computing power and potentially steal rewards."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 18:54:51 +0000",
+      "summary": "Ethlabs co-founder Julian Ma told Cointelegraph that AI poses a more immediate threat as Ethereum prepares for one of its biggest security overhauls since the Merge."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
+      "url": "https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 17:53:10 +0000",
+      "summary": "US core inflation rose more than expected in October as markets anticipate a December interest rate hike, which could slow a crypto market recovery."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+      "pubDate": "Wed, 25 Nov 2026 19:37:10 +0000",
+      "summary": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin falls below $58,000 as CoinShares' Butterfill sees 'tail end of the bear market'",
+      "url": "https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678",
+      "pubDate": "Wed, 25 Nov 2026 17:26:55 +0000",
+      "summary": "The crypto market cap fell to its lowest since September 2024 as stocks slid and U.S. inflation picked up."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin has fallen so far that its original Rainbow Chart has run out of colors",
+      "url": "https://cryptoslate.com/bitcoin-has-fallen-so-far-that-its-original-rainbow-chart-has-run-out-of-colors/",
+      "pubDate": "Wed, 25 Nov 2026 22:40:35 +0000",
+      "summary": "BlockchainCenter's November 25 snapshot put Bitcoin at $58,577 after an 8.6% weekly slide, while its two curves gave sharply different readings."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+      "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+      "pubDate": "Wed, 25 Nov 2026 17:38:33 +0000",
+      "summary": "Crypto sentiment is near rock bottom, but Galaxy sees room for a deeper slide and even longtime crypto bulls are wary of buying amid fears of AI and quantum computing."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Bitcoin investors can't keep ignoring Japan",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
+      "pubDate": "Wed, 25 Nov 2026 15:59:44 +0000",
+      "summary": "Yen-funded carry trades ran an estimated $250 billion before the August 2024 selloff, and the Bank of Japan's policy rate is now around 1.25%."
+    }
+  ]
 }
