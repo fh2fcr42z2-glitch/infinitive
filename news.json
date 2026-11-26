@@ -13,17 +13,255 @@
   "items": [
     {
       "source": "CoinTelegraph",
-      "title": "AI labs likely sitting on cryptography ‘bombshells,’ computer scientist says",
+      "title": "AI labs likely sitting on cryptography \u2018bombshells,\u2019 computer scientist says",
       "url": "https://cointelegraph.com/news/ai-labs-likely-sitting-on-cryptography-bombshells-computer-scientist-says?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Thu, 26 Nov 2026 01:33:20 +0000",
       "summary": "AI is driving a massive wave of mathematical breakthroughs which could have implications for cryptography."
     },
     {
       "source": "CoinTelegraph",
-      "title": "Here’s what happened in crypto today",
+      "title": "Here\u2019s what happened in crypto today",
       "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
       "pubDate": "Wed, 25 Nov 2026 22:33:13 +0000",
       "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Switzerland clears 57 jurisdictions for crypto tax data sharing",
+      "url": "https://cointelegraph.com/news/switzerland-clears-57-jurisdictions-crypto-tax-data-sharing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 21:53:38 +0000",
+      "summary": "The move paves the way for Switzerland to exchange crypto tax data with foreign authorities starting in 2028 as part of a global effort to combat tax evasion."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+      "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 21:22:19 +0000",
+      "summary": "Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to hijack miners\u2019 computing power and potentially steal rewards."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
+      "url": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 21:11:39 +0000",
+      "summary": "Past ECB decisions offer clues to the value of using bonds as collateral, while US derivatives exchanges face a different calculation over their Bitcoin holdings."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
+      "url": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Wed, 25 Nov 2026 18:54:51 +0000",
+      "summary": "Ethlabs co-founder Julian Ma told Cointelegraph that AI poses a more immediate threat as Ethereum prepares for one of its biggest security overhauls since the Merge."
+    },
+    {
+      "source": "Decrypt",
+      "title": "China's Google Just Released Its Fast New AI Model for Free",
+      "url": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
+      "pubDate": "Wed, 25 Nov 2026 22:38:09 +0000",
+      "summary": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic"
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia\u2019s Scandal?",
+      "url": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
+      "pubDate": "Wed, 25 Nov 2026 21:46:02 +0000",
+      "summary": "U.S. intelligence found no evidence that Beijing directed Alice Huang to spy on Nvidia\u2019s CEO, but the former Megaspeed executive still faces entry bans and scrutiny of business ties."
+    },
+    {
+      "source": "Decrypt",
+      "title": "The 1Password Breach Didn\u2019t Touch Your Vault. The Phishing Emails Might",
+      "url": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
+      "pubDate": "Wed, 25 Nov 2026 21:16:02 +0000",
+      "summary": "An attacker compromised an employee\u2019s GitHub account to reach 1Password\u2019s backend and copy customer names and emails, but the company says vault contents, encryption keys and your Secret Key were never exposed."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
+      "url": "https://decrypt.co/383999/another-bitcoin-mining-firm-hashrate-hijacking-attacks",
+      "pubDate": "Wed, 25 Nov 2026 20:36:03 +0000",
+      "summary": "Braiins says an attacker exploited the unencrypted Stratum V1 protocol and internet route hijacking to impersonate mining pools, striking over 1,000 sites in a single second."
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Is Artex? The AI Hacking Tool Linked to the US Spy Agency Breach",
+      "url": "https://decrypt.co/383997/what-is-artex-ai-hacking-tool-us-spy-agency-breach",
+      "pubDate": "Wed, 25 Nov 2026 20:06:03 +0000",
+      "summary": "Microsoft says state-backed hackers and cybercriminals are using Artex to automate attacks with AI agents, exploiting familiar security flaws at speeds that leave defenders little time to respond or recover."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia to Pay $290 Million to Settle Long-Running Crypto Mining Revenue Lawsuit",
+      "url": "https://decrypt.co/383994/nvidia-290-million-settle-crypto-mining-disclosure-lawsuit",
+      "pubDate": "Wed, 25 Nov 2026 19:28:54 +0000",
+      "summary": "The proposed cash settlement would resolve a shareholder suit alleging the chipmaker hid how much of its 2017-2018 gaming revenue came from crypto miners."
+    },
+    {
+      "source": "The Block",
+      "title": "Sens. Warren, Van Hollen lead push to scrap SEC\u2019s Regulation Crypto and innovation exemption",
+      "url": "https://www.theblock.co/news/regulation/2026-11-25-warren-van-hollen-lead-push-scrap-sec-regulation-crypto-innovation-exemption-446756",
+      "pubDate": "Wed, 25 Nov 2026 22:20:02 +0000",
+      "summary": "Sens. Warren and Van Hollen sent two letters to SEC Chair Atkins demanding he rescind the innovation exemption and Regulation Crypto."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin miners hit by hashrate hijacking attack exploiting unencrypted connections",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-25-bitcoin-miners-hit-hashrate-hijacking-attack-exploiting-unencrypted-connections-446723",
+      "pubDate": "Wed, 25 Nov 2026 19:37:10 +0000",
+      "summary": "Braiins warns that an attacker is redirecting miners' compute power to steal bitcoin mining rewards."
+    },
+    {
+      "source": "The Block",
+      "title": "Fidelity files for spot Chainlink ETF with planned Nasdaq listing",
+      "url": "https://www.theblock.co/news/business/2026-11-25-fidelity-chainlink-etf-nasdaq-listing-446735",
+      "pubDate": "Wed, 25 Nov 2026 19:32:42 +0000",
+      "summary": "Fidelity has filed with the U.S. Securities and Exchange Commission to launch a spot Chainlink exchange-traded fund."
+    },
+    {
+      "source": "The Block",
+      "title": "Justice Department takes aim at billions in crypto fraud proceeds in historic \u2018largest ever crackdown\u2019",
+      "url": "https://www.theblock.co/news/regulation/2026-11-25-justice-department-takes-aim-billions-crypto-fraud-proceeds-largest-ever-crackdown-446711",
+      "pubDate": "Wed, 25 Nov 2026 18:05:18 +0000",
+      "summary": "Following President Trump\u2019s directive to crack down on fraud, the Justice Department announced what it called its \u201clargest-ever crackdown.\""
+    },
+    {
+      "source": "The Block",
+      "title": "Nvidia agrees to $290 million settlement over crypto mining disclosures amid Jensen Huang turmoil",
+      "url": "https://www.theblock.co/news/regulation/2026-11-25-nvidia-290-million-settlement-crypto-mining-class-action-446709",
+      "pubDate": "Wed, 25 Nov 2026 18:00:13 +0000",
+      "summary": "Nvidia agreed to a $290M settlement over claims it misled investors about crypto mining demand driving 2017\u201318 gaming GPU sales."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitcoin falls below $58,000 as CoinShares\u2019 Butterfill sees \u2018tail end of the bear market\u2019",
+      "url": "https://www.theblock.co/news/markets/2026-11-25-bitcoin-falls-below-58000-coinshares-butterfill-sees-tail-end-bear-market-446678",
+      "pubDate": "Wed, 25 Nov 2026 17:26:55 +0000",
+      "summary": "The crypto market cap fell to its lowest since September 2024 as stocks slid and U.S. inflation picked up."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Lido tightens Ethereum staking penalties as operators gain access to larger validators",
+      "url": "https://cryptoslate.com/lido-tightens-ethereum-staking-penalties-as-operators-gain-access-to-larger-validators/",
+      "pubDate": "Thu, 26 Nov 2026 01:50:48 +0000",
+      "summary": "A March slashing involving six validators shows why Lido sought wider authority and when recovery could depend on future rewards or bond top-ups. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin Lightning operators could recover stuck payments even after losing channel data",
+      "url": "https://cryptoslate.com/bitcoin-lightning-operators-could-recover-stuck-payments-even-after-losing-channel-data/",
+      "pubDate": "Thu, 26 Nov 2026 00:20:15 +0000",
+      "summary": "The 26.12 release candidate can help recover eligible funds after channel data loss if the operator still has key records and can get help from the peer. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your i"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin has fallen so far that its original Rainbow Chart has run out of colors",
+      "url": "https://cryptoslate.com/bitcoin-has-fallen-so-far-that-its-original-rainbow-chart-has-run-out-of-colors/",
+      "pubDate": "Wed, 25 Nov 2026 22:40:35 +0000",
+      "summary": "BlockchainCenter\u2019s November 25 snapshot put Bitcoin at $58,577 after an 8.6% weekly slide, while its two curves gave sharply different readings. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "UK to test whether AI can replace a second mammogram reader in trial of 660,000 women",
+      "url": "https://cryptoslate.com/uk-to-test-whether-ai-can-replace-a-second-mammogram-reader-in-trial-of-660000-women/",
+      "pubDate": "Wed, 25 Nov 2026 21:30:55 +0000",
+      "summary": "The first women have joined a trial that compares standard double reading with two AI workflows and requires a human to read every mammogram. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Ripple\u2019s latest banking partnership opens another route to XRP adoption in Turkey",
+      "url": "https://cryptoslate.com/ripples-latest-banking-partnership-opens-another-route-to-xrp-adoption-in-turkey/",
+      "pubDate": "Wed, 25 Nov 2026 20:10:29 +0000",
+      "summary": "Ripple says its custody software is deployed at Yap\u0131 Kredi, while a route from lira into withdrawable XRP remains publicly unconfirmed. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbox"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "CleanSpark is selling Bitcoin to fund its AI expansion as annual losses approach $1 billion",
+      "url": "https://cryptoslate.com/cleanspark-is-selling-bitcoin-to-fund-its-ai-expansion-as-annual-losses-approach-1-billion/",
+      "pubDate": "Wed, 25 Nov 2026 19:00:01 +0000",
+      "summary": "The miner raised cash for potential acquisitions, and its Two Prime facility shows how a price drop can make borrowing against Bitcoin more demanding. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watch next. Get The Catalyst in your inbo"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin is Vanishing into \u201cDeep Storage\u201d Faster than Miners Make It",
+      "url": "https://bitcoinmagazine.com/videos/bitcoin-is-vanishing-into-deep-storage-faster-than-miners-make-it",
+      "pubDate": "Wed, 25 Nov 2026 23:30:12 +0000",
+      "summary": "&#9654;Bitcoin Magazine Bitcoin is Vanishing into \u201cDeep Storage\u201d Faster than Miners Make It Miners produce about 450 new Bitcoin a day, but over the past year about 630 a day moved into wallets dormant for 10 years. This post Bitcoin is Vanishing into \u201cDeep Storage\u201d Faster than M"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Stanford Professor Reveals \u201cPraxis\u201d Bitcoin Cryptography Breakthrough",
+      "url": "https://bitcoinmagazine.com/videos/stanford-professor-reveals-praxis-bitcoin-cryptography-breakthrough",
+      "pubDate": "Wed, 25 Nov 2026 22:15:26 +0000",
+      "summary": "&#9654;Bitcoin Magazine Stanford Professor Reveals \u201cPraxis\u201d Bitcoin Cryptography Breakthrough Bitcoin developers have tried for five to 10 years to add covenants through a soft fork, and every effort has stalled. This post Stanford Professor Reveals \u201cPraxis\u201d Bitcoin Cryptography "
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Matt Hougan: $1.6 MILLION Bitcoin Price Target \u201cConservative\u201d",
+      "url": "https://bitcoinmagazine.com/videos/matt-hougan-1-6-million-bitcoin-price-target-conservative",
+      "pubDate": "Wed, 25 Nov 2026 21:22:24 +0000",
+      "summary": "&#9654;Bitcoin Magazine Matt Hougan: $1.6 MILLION Bitcoin Price Target \u201cConservative\u201d Bitwise just raised its 10-year Bitcoin forecast from $1. This post Matt Hougan: $1.6 MILLION Bitcoin Price Target \u201cConservative\u201d first appeared on Bitcoin Magazine and is written by Patrick Gre"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
+      "url": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor",
+      "pubDate": "Wed, 25 Nov 2026 19:50:00 +0000",
+      "summary": "Bitcoin Magazine Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor Rep. Nick Begich's bill to write the Strategic Bitcoin Reserve into law, with a 20-year ban on selling its bitcoin, is now eligible for a House floor vote. This post Strategic Bitcoin Reserve B"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028",
+      "url": "https://bitcoinmagazine.com/news/switzerland-57-countries-crypto-tax",
+      "pubDate": "Wed, 25 Nov 2026 18:40:05 +0000",
+      "summary": "Bitcoin Magazine Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028 Switzerland approved 57 partner jurisdictions, including all EU states and the UK, for automatic crypto tax data exchanges under the OECD's CARF from 2028. This post Switzerland Picks 57 "
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses",
+      "url": "https://bitcoinmagazine.com/news/bithumb-hack-exposed-passports-wallet-addresses",
+      "pubDate": "Wed, 25 Nov 2026 18:15:00 +0000",
+      "summary": "Bitcoin Magazine Bithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses Bithumb said a follow-up review found its October breach exposed more people and data, including passports and wallet addresses, and lasted about 15 days. This post Bithumb Says Octob"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
+      "url": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+      "pubDate": "Wed, 25 Nov 2026 18:24:47 +0000",
+      "summary": "The government opposed the measures citing existing EU data-sharing rules and non-legal tender status, leaving the 2027 budget open."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+      "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+      "pubDate": "Wed, 25 Nov 2026 17:38:33 +0000",
+      "summary": "Crypto sentiment is near rock bottom, but Galaxy sees room for a deeper slide and even longtime crypto bulls are wary of buying amid fears of AI and quantum computing."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+      "url": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+      "pubDate": "Wed, 25 Nov 2026 16:02:31 +0000",
+      "summary": "The EBA renewed its call for the commission to propose rules for crypto firms granting client access to DeFi, particularly lending protocols."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
+      "url": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
+      "pubDate": "Wed, 25 Nov 2026 16:02:07 +0000",
+      "summary": "Lawmaker Yaroslav Zhelezniak said he expects roughly $330 million (15 billion hryvnias) in added budget revenue, though the time frame remains unclear."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto Long & Short: Bitcoin investors can\u2019t keep ignoring Japan",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
+      "pubDate": "Wed, 25 Nov 2026 15:59:44 +0000",
+      "summary": "Yen-funded carry trades ran an estimated $250 billion before the August 2024 selloff, and the Bank of Japan's policy rate is now around 1.25%. Phillip Lord of Bitcoin Japan explains how yen funding conditions reach bitcoin, and the shareholder test Japanese companies' bitcoin tre"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
+      "url": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+      "pubDate": "Wed, 25 Nov 2026 14:47:17 +0000",
+      "summary": "South Korea's second-largest crypto exchange said its trading systems were not breached, but stolen customer records could already be being used in future scams."
     }
   ]
 }
