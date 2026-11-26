@@ -1,1 +1,267 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-26T17:04:55Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
+      "url": "https://cointelegraph.com/news/bis-chief-pablo-hernndez-de-cos-next-ecb-president?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 26 Nov 2026 16:40:44 +0000",
+      "summary": "The Spanish economist has questioned the viability of stablecoins for widespread payments while backing the development of a digital euro."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "How EU brokers could lose access to Kyrgyz crypto exchanges",
+      "url": "https://cointelegraph.com/news/how-eu-brokers-could-lose-access-to-kyrgyz-crypto-exchanges?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 26 Nov 2026 15:45:07 +0000",
+      "summary": "A vote on Kyrgyzstan could make an exchange's home country the deciding factor in whether a European broker can use it to settle a trade."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
+      "url": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 26 Nov 2026 13:47:56 +0000",
+      "summary": "Nasdaq's Roland Chai backed exploring common EU rules for tokenized securities and said its Swedish subsidiary had applied for a DLT license."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 26 Nov 2026 13:45:04 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "7 bizarre things crypto whales spent a fortune on",
+      "url": "https://cointelegraph.com/magazine/7-bizarre-things-crypto-whales-spent-a-fortune-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 26 Nov 2026 13:30:00 +0000",
+      "summary": "The crypto rich have spent their fortunes on everything from dinosaur skeletons to rotting fruit, with some purchases defying belief."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Vitalik Buterin calls for verifiable chips as hardware wallet threats evolve",
+      "url": "https://cointelegraph.com/news/vitalik-buterin-verifiable-chips-hardware-wallet-threats-evolve?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Thu, 26 Nov 2026 12:13:59 +0000",
+      "summary": "Buterin warned that future attacks could use lookalike chips with hidden malicious functions, making hardware tampering harder to detect."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
+      "url": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
+      "pubDate": "Thu, 26 Nov 2026 16:43:02 +0000",
+      "summary": "Sepblac can now suspend crypto, bank and payment accounts for up to five working days, with courts deciding on any extension."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Fixes ChatGPT Billing Error, Promises to Make it 40% Worse",
+      "url": "https://decrypt.co/384053/openai-fixes-chatgpt-billing-error-promises-to-make-it-40-worse",
+      "pubDate": "Thu, 26 Nov 2026 15:11:14 +0000",
+      "summary": "OpenAI says a billing mistake made its new AI models cheaper to use than intended. Subscribers will now burn through their allowances faster, but get a free one-time usage reset."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Elon Musk Says 'Multiplanetary' SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
+      "url": "https://decrypt.co/384043/elon-musk-says-multiplanetary-spacex-could-be-worth-118-quintillion-yes-quintillion",
+      "pubDate": "Thu, 26 Nov 2026 14:38:55 +0000",
+      "summary": "The SpaceX founder claims the firm could one day be worth a million times the global economy, as he pledges free shares to American children."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over",
+      "url": "https://decrypt.co/384030/galaxy-research-withdraws-call-that-bitcoins-bear-market-is-over",
+      "pubDate": "Thu, 26 Nov 2026 12:26:08 +0000",
+      "summary": "A month after saying Bitcoin had bottomed in June, Galaxy now says a daily close below $58,525 would signal a materially lower low."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
+      "url": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
+      "pubDate": "Tue, 24 Nov 2026 14:13:03 +0000",
+      "summary": "U.S. authorities say they've now helped freeze, seize or return more than $2.9 billion of the crypto stolen from Binance in October."
+    },
+    {
+      "source": "Decrypt",
+      "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
+      "url": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
+      "pubDate": "Tue, 24 Nov 2026 13:46:03 +0000",
+      "summary": "The blockchain security firm walked officers from across Asia and the South Pacific through a real wallet-theft case at a workshop in Hanoi."
+    },
+    {
+      "source": "The Block",
+      "title": "JPMorgan says bitcoin ‘capitulation’ signaled by Strategy’s record-low NAV multiple",
+      "url": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
+      "pubDate": "Thu, 26 Nov 2026 16:18:24 +0000",
+      "summary": "JPMorgan analysts said Strategy's valuation relative to its bitcoin holdings has hit a record low, signaling bitcoin \"capitulation.\""
+    },
+    {
+      "source": "The Block",
+      "title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
+      "url": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814",
+      "pubDate": "Thu, 26 Nov 2026 08:50:46 +0000",
+      "summary": "Spot bitcoin ETFs have already hit record monthly net outflows of $5.39 billion in November, with several trading days remaining."
+    },
+    {
+      "source": "The Block",
+      "title": "Galaxy walks back bitcoin's June-bottom call, warns of deeper losses below $58,525",
+      "url": "https://www.theblock.co/news/markets/2026-11-26-galaxy-walks-back-bitcoin-bottom-call-446786",
+      "pubDate": "Thu, 26 Nov 2026 05:16:11 +0000",
+      "summary": "Galaxy now treats a daily close below $58,525, the June 30 closing low, as the start of a move toward a materially lower low."
+    },
+    {
+      "source": "The Block",
+      "title": "Bit Digital pays down $50 million to Galaxy after selling 29,825 ETH",
+      "url": "https://www.theblock.co/news/companies/2026-11-25-bit-digital-pays-down-50-million-to-galaxy-after-selling-29825-eth-446164",
+      "pubDate": "Wed, 25 Nov 2026 14:15:44 +0000",
+      "summary": "Bit Digital sold 29,825 ETH and used the proceeds to reduce its secured borrowing with Galaxy to $50 million."
+    },
+    {
+      "source": "The Block",
+      "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
+      "url": "https://www.theblock.co/news/policy/2026-11-25-hong-kong-tokenized-debt-platform-446000",
+      "pubDate": "Wed, 25 Nov 2026 11:31:10 +0000",
+      "summary": "The HKMA’s new platform supports settlement in multiple currencies and handles debt issuance, interest payments and repayment at maturity."
+    },
+    {
+      "source": "The Block",
+      "title": "Standard Chartered's Zodia Custody suffers data breach",
+      "url": "https://www.theblock.co/news/companies/2026-11-26-zodia-custody-data-breach-446900",
+      "pubDate": "Thu, 26 Nov 2026 11:37:06 +0000",
+      "summary": "Zodia Custody's CEO said the breach exposed names and email addresses of some clients and employees and was detected by the company Monday."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin’s recovery above $60,000 faces a threat from Japan while Wall Street sleeps",
+      "url": "https://cryptoslate.com/bitcoins-recovery-above-60000-faces-a-threat-from-japan-while-wall-street-sleeps/",
+      "pubDate": "Thu, 26 Nov 2026 16:20:29 +0000",
+      "summary": "Tokyo’s inflation report lands during the US ETF trading break, with yen moves and short-term Japanese yields offering clues to pressure on yen-funded trades."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Crypto bridge hacks can spread losses far beyond the assets they compromise",
+      "url": "https://cryptoslate.com/crypto-bridge-hacks-can-spread-losses-far-beyond-the-assets-they-compromise/",
+      "pubDate": "Thu, 26 Nov 2026 11:00:57 +0000",
+      "summary": "November's bridge exploits show how a token can keep trading even when its holders lose a route back to the underlying asset."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "South Korea wants banks to own more than 50% of domestic stablecoin issuers",
+      "url": "https://cryptoslate.com/south-korea-wants-banks-to-own-more-than-50-of-domestic-stablecoin-issuers/",
+      "pubDate": "Thu, 26 Nov 2026 05:50:38 +0000",
+      "summary": "Fintechs could hold the largest individual stake, and reserve managers could repay holders directly if an issuer fails."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin could double by 2032 and UniCredit investors would still make just 65%",
+      "url": "https://cryptoslate.com/bitcoin-could-double-by-2032-and-unicredit-investors-would-still-make-just-65/",
+      "pubDate": "Wed, 25 Nov 2026 12:00:00 +0000",
+      "summary": "The Italian offer caps scheduled repayment at €1,650 per certificate, while savers who sell early face the market price."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin ETFs near $5B in record monthly outflows amid AI stock rout",
+      "url": "https://cryptoslate.com/bitcoin-etfs-near-5b-in-record-monthly-outflows-amid-ai-stock-rout/",
+      "pubDate": "Wed, 25 Nov 2026 11:12:26 +0000",
+      "summary": "Spot bitcoin ETFs are on pace for their worst month as AI-related stock weakness spills into crypto."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Vitalik Buterin pushes for verifiable hardware as wallet risks grow",
+      "url": "https://cryptoslate.com/vitalik-buterin-pushes-for-verifiable-hardware-as-wallet-risks-grow/",
+      "pubDate": "Thu, 26 Nov 2026 12:13:00 +0000",
+      "summary": "Buterin highlighted risks from supply-chain attacks on hardware wallets."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Has Become Boring, Finally",
+      "url": "https://bitcoinmagazine.com/culture/bitcoin-has-become-boring-finally",
+      "pubDate": "Thu, 26 Nov 2026 15:51:27 +0000",
+      "summary": "Bitcoin isn't a shiny new technology any more, it is established, and it is here to stay."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough",
+      "url": "https://bitcoinmagazine.com/videos/stanford-professor-reveals-praxis-bitcoin-cryptography-breakthrough",
+      "pubDate": "Wed, 25 Nov 2026 22:15:26 +0000",
+      "summary": "Bitcoin developers have tried for five to 10 years to add covenants through a soft fork, and every effort has stalled."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-is-vanishing-into-deep-storage-faster-than-miners-make-it",
+      "pubDate": "Thu, 26 Nov 2026 14:00:00 +0000",
+      "summary": "More bitcoin is moving into long-term holdings."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Lightning Network Growth Continues Amid Price Weakness",
+      "url": "https://bitcoinmagazine.com/technical/lightning-network-growth-continues-amid-price-weakness",
+      "pubDate": "Wed, 25 Nov 2026 18:00:00 +0000",
+      "summary": "Capacity and activity on Lightning remain resilient."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Institutional Bitcoin Accumulation Slows as ETFs See Outflows",
+      "url": "https://bitcoinmagazine.com/markets/institutional-bitcoin-accumulation-slows-as-etfs-see-outflows",
+      "pubDate": "Wed, 25 Nov 2026 16:00:00 +0000",
+      "summary": "ETF flows and corporate buying have moderated."
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Miners Adapt to Lower Bitcoin Prices with Efficiency Gains",
+      "url": "https://bitcoinmagazine.com/business/miners-adapt-to-lower-bitcoin-prices-with-efficiency-gains",
+      "pubDate": "Tue, 24 Nov 2026 20:00:00 +0000",
+      "summary": "Hashrate remains high as miners optimize operations."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+      "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+      "pubDate": "Thu, 26 Nov 2026 16:50:23 +0000",
+      "summary": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin little changed, DeFi tokens lead the bounce as U.S. marks Thanksgiving",
+      "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-little-changed-defi-tokens-lead-the-bounce-as-u-s-marks-thanksgiving",
+      "pubDate": "Thu, 26 Nov 2026 11:17:22 +0000",
+      "summary": "Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, while DeFi and infrastructure tokens are gaining nearly twice as much."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
+      "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
+      "pubDate": "Thu, 26 Nov 2026 12:38:51 +0000",
+      "summary": "The breach exposed client and employee contact information at Standard Chartered's crypto custodian, which said no unauthorized transactions took place."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+      "pubDate": "Thu, 26 Nov 2026 12:14:46 +0000",
+      "summary": "Your day-ahead look for Nov. 26, 2026"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
+      "url": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
+      "pubDate": "Wed, 25 Nov 2026 11:51:54 +0000",
+      "summary": "UniCredit brings bitcoin investing to its roughly 8 million retail customers in Italy, offering them a six-year product that caps the redemption value but promises to return their capital."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
+      "url": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
+      "pubDate": "Wed, 25 Nov 2026 11:30:32 +0000",
+      "summary": "Gold has lost the risk-adjusted advantage that made it this year's haven of choice over bitcoin. Both now offer negative one-year Sharpe ratios, leaving cash yields hard to beat."
+    }
+  ]
+}
