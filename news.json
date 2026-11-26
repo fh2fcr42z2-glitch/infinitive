@@ -1,1 +1,57 @@
-{"asof":"2026-11-26T20:01:37Z","stamp":"NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.","feeds":["https://cointelegraph.com/rss","https://decrypt.co/feed","https://www.theblock.co/rss.xml","https://cryptoslate.com/feed/","https://bitcoinmagazine.com/.rss/full/","https://www.coindesk.com/arc/outboundfeeds/rss","https://rekt.news"],"items":[]}
+{
+  "asof": "2026-11-26T20:03:48Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+      "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+      "pubDate": "Thu, 26 Nov 2026 18:15:29 +0000",
+      "summary": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks."
+    },
+    {
+      "source": "The Block",
+      "title": "JPMorgan says bitcoin capitulation signaled by Strategy record-low NAV multiple",
+      "url": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
+      "pubDate": "Thu, 26 Nov 2026 16:18:24 +0000",
+      "summary": "JPMorgan analysts said Strategy's valuation relative to its bitcoin holdings has hit a record low, signaling bitcoin capitulation."
+    },
+    {
+      "source": "The Block",
+      "title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
+      "url": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814",
+      "pubDate": "Thu, 26 Nov 2026 08:50:46 +0000",
+      "summary": "Spot bitcoin ETFs have already hit record monthly net outflows of $5.39 billion in November."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+      "pubDate": "Thu, 26 Nov 2026 12:14:46 +0000",
+      "summary": "Your day-ahead look for Nov. 26, 2026"
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+      "url": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts",
+      "pubDate": "Thu, 26 Nov 2026 18:26:31 +0000",
+      "summary": "A new decree would allow Spain’s financial intelligence unit to suspend crypto accounts."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin’s recovery above $60,000 faces a threat from Japan while Wall Street sleeps",
+      "url": "https://cryptoslate.com/bitcoins-recovery-above-60000-faces-a-threat-from-japan-while-wall-street-sleeps/",
+      "pubDate": "Thu, 26 Nov 2026 16:20:29 +0000",
+      "summary": "Tokyo’s inflation report lands during the US ETF trading break."
+    }
+  ]
+}
