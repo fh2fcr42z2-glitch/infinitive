@@ -1,1 +1,29 @@
-PLACEHOLDER_CONTENT
+{
+  "asof": "2026-11-26T23:02:07Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "'Very racist' Netflix SBF series, BitMart's $319M shortfall: Asia Express",
+      "url": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express",
+      "pubDate": "Thu, 26 Nov 2026 22:39:46 +0000",
+      "summary": "Netflix's The Altruist has been slammed for its 'very racist' portrayal of CZ. BitMart reportedly has a $319.5 million shortfall and just $1.9M in liquid assets."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Thu, 26 Nov 2026 22:12:06 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    }
+  ]
+}
