@@ -1,1 +1,99 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-27T04:02:08Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    "https://cointelegraph.com/rss",
+    "https://decrypt.co/feed",
+    "https://www.theblock.co/rss.xml",
+    "https://cryptoslate.com/feed/",
+    "https://bitcoinmagazine.com/.rss/full/",
+    "https://www.coindesk.com/arc/outboundfeeds/rss",
+    "https://rekt.news"
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "AI is driving a flood of crypto bug reports. Now it's helping sort them",
+      "url": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them",
+      "pubDate": "Fri, 27 Nov 2026 01:47:38 +0000",
+      "summary": "Bug bounty platform HackerOne said it's increasing its triage throughput with AI agents after a record quarter of reports in the third quarter."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+      "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash",
+      "pubDate": "Fri, 27 Nov 2026 00:35:39 +0000",
+      "summary": "As KuCoin joins exchanges dropping Monero ahead of new EU restrictions, Grayscale argues that Zcash's privacy design sets it apart."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "'Very racist' Netflix SBF series, BitMart's $319M shortfall: Asia Express",
+      "url": "https://cointelegraph.com/magazine/very-racist-netflix-sbf-series-bitmarts-319m-shortfall-asia-express",
+      "pubDate": "Thu, 26 Nov 2026 22:39:46 +0000",
+      "summary": "Netflix's The Altruist has been slammed for its 'very racist' portrayal of CZ. BitMart reportedly has a $319.5 million shortfall and just $1.9M in liquid assets."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today",
+      "pubDate": "Thu, 26 Nov 2026 22:12:06 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "BNB Chain details new layer-1 for trading, private finance and AI",
+      "url": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai",
+      "pubDate": "Thu, 26 Nov 2026 21:42:43 +0000",
+      "summary": "The proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with a public testnet targeted for the first quarter of 2027."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Binance completes withdrawal recovery four weeks after $6.3B hack",
+      "url": "https://cointelegraph.com/news/binance-completes-withdrawal-recovery-four-weeks-after-63b-hack",
+      "pubDate": "Thu, 26 Nov 2026 21:33:47 +0000",
+      "summary": "The announcement concludes a phased withdrawal recovery that began on Nov. 1, when Binance restored Bitcoin withdrawals following the record crypto theft."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
+      "url": "https://decrypt.co/384061/vibecoded-gta-6-pc-ports-are-now-rendering-in-game-graphics-despite-take-two-crackdown",
+      "pubDate": "Thu, 26 Nov 2026 22:01:02 +0000",
+      "summary": "Some unofficial ports now hit around 20 frames per second, as developers move their work into private communities to dodge takedowns."
+    },
+    {
+      "source": "Decrypt",
+      "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
+      "url": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
+      "pubDate": "Thu, 26 Nov 2026 21:01:03 +0000",
+      "summary": "Self-custody means holding your own crypto instead of trusting an exchange. Here's how it works, the wallets involved and the risks."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
+      "url": "https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study",
+      "pubDate": "Thu, 26 Nov 2026 19:01:02 +0000",
+      "summary": "A study of 170 years of financial journalism suggests AI stocks rivaled dot-com bubble levels, but estimates vary."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+      "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+      "pubDate": "Thu, 26 Nov 2026 18:15:29 +0000",
+      "summary": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
+      "url": "https://decrypt.co/384063/spain-lets-its-financial-intelligence-unit-freeze-crypto-accounts-without-a-court-order",
+      "pubDate": "Thu, 26 Nov 2026 16:43:02 +0000",
+      "summary": "Sepblac can now suspend crypto, bank and payment accounts for up to five working days, with courts deciding on any extension."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin's $60K Bounce Looks Fragile as Death Cross Looms Over Thanksgiving Rally",
+      "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+      "pubDate": "Thu, 26 Nov 2026 18:15:29 +0000",
+      "summary": "Bitcoin held above $60,000 on Thanksgiving but a death cross and weak stocks correlation leave the bounce looking fragile."
+    }
+  ]
+}
