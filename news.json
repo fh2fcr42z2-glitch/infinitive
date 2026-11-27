@@ -89,11 +89,130 @@
       "summary": "Sepblac can now suspend crypto, bank and payment accounts for up to five working days, with courts deciding on any extension."
     },
     {
-      "source": "Decrypt",
-      "title": "Bitcoin's $60K Bounce Looks Fragile as Death Cross Looms Over Thanksgiving Rally",
-      "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
-      "pubDate": "Thu, 26 Nov 2026 18:15:29 +0000",
-      "summary": "Bitcoin held above $60,000 on Thanksgiving but a death cross and weak stocks correlation leave the bounce looking fragile."
+      "source": "The Block",
+      "title": "JPMorgan says bitcoin 'capitulation' signaled by Strategy's record-low NAV multiple",
+      "url": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
+      "pubDate": "Thu, 26 Nov 2026 16:18:24 +0000",
+      "summary": "JPMorgan analysts said Strategy's valuation relative to its bitcoin holdings has hit a record low, signaling bitcoin capitulation."
+    },
+    {
+      "source": "The Block",
+      "title": "Spot bitcoin ETFs on track for worst month on record as bear market drags on",
+      "url": "https://www.theblock.co/news/markets/2026-11-26-spot-bitcoin-etfs-worst-month-november-446814",
+      "pubDate": "Thu, 26 Nov 2026 08:50:46 +0000",
+      "summary": "Spot bitcoin ETFs have already hit record monthly net outflows of $5.39 billion in November."
+    },
+    {
+      "source": "The Block",
+      "title": "Tokenized Anthropic Holders Doubled in 3 Days",
+      "url": "https://www.theblock.co/newsletters/tokenization-briefing/2026-11-26-tokenized-anthropic-holders-doubled-in-3-days-446013",
+      "pubDate": "Thu, 26 Nov 2026 17:32:00 +0000",
+      "summary": "Onchain trade progress focused on the asset side; bank money started moving onchain too."
+    },
+    {
+      "source": "The Block",
+      "title": "Crypto markets open Thanksgiving with bitcoin above $60K amid death cross concerns",
+      "url": "https://www.theblock.co/news/markets/2026-11-26-crypto-markets-open-thanksgiving-bitcoin-above-60k-death-cross-447123",
+      "pubDate": "Thu, 26 Nov 2026 15:45:12 +0000",
+      "summary": "Bitcoin held gains above $60,000 as markets opened on Thanksgiving, though technical signals remain mixed."
+    },
+    {
+      "source": "The Block",
+      "title": "Standard Chartered's Zodia Custody reports data breach affecting client contacts",
+      "url": "https://www.theblock.co/news/tech/2026-11-26-standard-chartered-zodia-custody-data-breach-client-contacts-447045",
+      "pubDate": "Thu, 26 Nov 2026 13:20:33 +0000",
+      "summary": "The crypto custodian said no funds were affected in the breach of contact information."
+    },
+    {
+      "source": "The Block",
+      "title": "Spain's financial intelligence unit gains power to freeze crypto accounts without court order",
+      "url": "https://www.theblock.co/news/policy/2026-11-26-spain-financial-intelligence-unit-freeze-crypto-accounts-without-court-446987",
+      "pubDate": "Thu, 26 Nov 2026 14:10:05 +0000",
+      "summary": "Sepblac can now freeze accounts for up to five working days pending court review."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin's $60,000 recovery masks a growing threat that could push its price as low as $29,000",
+      "url": "https://cryptoslate.com/bitcoins-60000-recovery-masks-a-growing-threat-that-could-push-its-price-as-low-as-29000/",
+      "pubDate": "Thu, 26 Nov 2026 19:30:23 +0000",
+      "summary": "Bitcoin recovered above $60,000 after slipping below that mark on Nov. 25."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Morpho's largest euro stablecoin vault is 13.8 million short of covering its biggest depositor's exit",
+      "url": "https://cryptoslate.com/morphos-largest-euro-stablecoin-vault-is-e13-8-million-short-of-covering-its-biggest-depositors-exit/",
+      "pubDate": "Fri, 27 Nov 2026 00:50:42 +0000",
+      "summary": "The Nov. 26 app snapshot showed a gap of about 13.77 million EURCV in a hypothetical full withdrawal."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "KuCoin to delist Monero as EU privacy coin restrictions tighten",
+      "url": "https://cryptoslate.com/kucoin-to-delist-monero-as-eu-privacy-coin-restrictions-tighten/",
+      "pubDate": "Fri, 27 Nov 2026 00:20:15 +0000",
+      "summary": "The exchange joins others dropping Monero ahead of new European rules."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Binance finishes restoring withdrawals after major hack",
+      "url": "https://cryptoslate.com/binance-finishes-restoring-withdrawals-after-major-hack/",
+      "pubDate": "Thu, 26 Nov 2026 21:40:00 +0000",
+      "summary": "The exchange completed its phased recovery of user withdrawals following the incident."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "ETF outflows hit record in November as bitcoin holds near $60K",
+      "url": "https://cryptoslate.com/etf-outflows-hit-record-in-november-as-bitcoin-holds-near-60k/",
+      "pubDate": "Thu, 26 Nov 2026 09:15:30 +0000",
+      "summary": "Spot bitcoin ETFs recorded their largest monthly outflows on record this month."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Developer finds tiny payment can link bitcoin wallet to IP address",
+      "url": "https://cryptoslate.com/developer-finds-tiny-payment-can-link-bitcoin-wallet-to-ip-address/",
+      "pubDate": "Thu, 26 Nov 2026 17:45:12 +0000",
+      "summary": "A Bitcoin Core contributor demonstrated a low-cost method to associate addresses with network observers."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+      "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+      "pubDate": "Thu, 26 Nov 2026 17:30:00 +0000",
+      "summary": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+      "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+      "pubDate": "Thu, 26 Nov 2026 16:50:23 +0000",
+      "summary": "More bitcoin is sitting untouched onchain as the price holds around $60,000."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
+      "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
+      "pubDate": "Thu, 26 Nov 2026 12:38:51 +0000",
+      "summary": "The breach exposed client and employee contact information at Standard Chartered's crypto custodian. No unauthorized transactions."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin ETFs are bleeding cash and the Fed is unlikely to help",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/26/bitcoin-etfs-are-bleeding-cash-and-the-fed-is-unlikely-to-help",
+      "pubDate": "Thu, 26 Nov 2026 12:14:46 +0000",
+      "summary": "Your day-ahead look for Nov. 26, 2026."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
+      "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
+      "pubDate": "Thu, 26 Nov 2026 14:05:58 +0000",
+      "summary": "Under existing rules, Sepblac could only suspend accounts when requested by a foreign financial intelligence unit."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Crypto for Advisors: Four questions to ask before trusting a crypto exchange",
+      "url": "https://www.coindesk.com/coindesk-indices/2026/11/26/crypto-for-advisors-four-questions-to-ask-before-trusting-a-crypto-exchange",
+      "pubDate": "Thu, 26 Nov 2026 15:42:43 +0000",
+      "summary": "Key checks for advisors evaluating crypto custody and exchange counterparty risk."
     }
   ]
 }
