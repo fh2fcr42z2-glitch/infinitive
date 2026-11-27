@@ -1,5 +1,5 @@
 {
-  "asof": "2026-11-27T02:02:39Z",
+  "asof": "2026-11-27T02:04:00Z",
   "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
   "feeds": [
     "https://cointelegraph.com/rss",
@@ -10,5 +10,48 @@
     "https://www.coindesk.com/arc/outboundfeeds/rss",
     "https://rekt.news"
   ],
-  "items": []
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "AI is driving a flood of crypto bug reports. Now it's helping sort them",
+      "url": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them",
+      "pubDate": "Fri, 27 Nov 2026 01:47:38 +0000",
+      "summary": "Bug bounty platform HackerOne said it's increasing its triage throughput with AI agents after a record quarter of reports in the third quarter."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
+      "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash",
+      "pubDate": "Fri, 27 Nov 2026 00:35:39 +0000",
+      "summary": "As KuCoin joins exchanges dropping Monero ahead of new EU restrictions, Grayscale argues that Zcash's privacy design sets it apart."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+      "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
+      "pubDate": "Thu, 26 Nov 2026 18:15:29 +0000",
+      "summary": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks."
+    },
+    {
+      "source": "The Block",
+      "title": "JPMorgan says bitcoin 'capitulation' signaled by Strategy's record-low NAV multiple",
+      "url": "https://www.theblock.co/news/markets/2026-11-26-jpmorgan-bitcoin-capitulation-strategy-low-nav-multiple-447007",
+      "pubDate": "Thu, 26 Nov 2026 16:18:24 +0000",
+      "summary": "JPMorgan analysts said Strategy's valuation relative to its bitcoin holdings has hit a record low, signaling bitcoin capitulation."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Morpho's largest euro stablecoin vault is 13.8 million short of covering its biggest depositor's exit",
+      "url": "https://cryptoslate.com/morphos-largest-euro-stablecoin-vault-is-e13-8-million-short-of-covering-its-biggest-depositors-exit/",
+      "pubDate": "Fri, 27 Nov 2026 00:50:42 +0000",
+      "summary": "The Nov. 26 app snapshot showed a gap of about 13.77 million EURCV in a hypothetical full withdrawal."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin's dormant supply rises, a behavior seen during previous bear-market bottoming phases",
+      "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
+      "pubDate": "Thu, 26 Nov 2026 16:50:23 +0000",
+      "summary": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak."
+    }
+  ]
 }
