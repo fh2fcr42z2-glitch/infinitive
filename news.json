@@ -1,1 +1,288 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-28T00:02:43Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/feed"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here's what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 27 Nov 2026 22:12:51 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+      "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 27 Nov 2026 21:15:29 +0000",
+      "summary": "The addition comes as US spot investment products tracking Hyperliquid's native token reach $266.5 million in assets under management."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+      "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 27 Nov 2026 19:23:00 +0000",
+      "summary": "CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "China sets March 2027 rollout for blockchain identity regulations",
+      "url": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 27 Nov 2026 17:37:23 +0000",
+      "summary": "China has issued new regulations governing blockchain-based digital identities, setting rules for cross-platform verification and data privacy."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 27 Nov 2026 16:48:51 +0000",
+      "summary": "Bitcoin price volatility returned at the Wall Street open as BTC/USD dropped to local lows of $58,700 while stocks and gold headed higher."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "What was Coinbase worth while Nasdaq was closed?",
+      "url": "https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 27 Nov 2026 14:40:54 +0000",
+      "summary": "A Thanksgiving buyer paid 106.24 USDC per Coinbase share. Whether that looked like a holiday rally depended on when you'd last checked the stock."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
+      "url": "https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims",
+      "pubDate": "Fri, 27 Nov 2026 21:46:03 +0000",
+      "summary": "The ChatGPT maker's counterclaims flip the script on a dispute Apple started in July, alleging the iPhone maker took its trade secrets and pressured shared hardware suppliers to freeze it out of the A"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
+      "url": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says",
+      "pubDate": "Fri, 27 Nov 2026 20:46:02 +0000",
+      "summary": "A draft AI-assisted proof of the Riemann Hypothesis renewed worries about the math securing Bitcoin, but K33 says no cryptographic compromise has been demonstrated."
+    },
+    {
+      "source": "Decrypt",
+      "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
+      "url": "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
+      "pubDate": "Fri, 27 Nov 2026 19:46:02 +0000",
+      "summary": "Bitcoin is trading below several of its most popular long-term price models, breaking historical support levels that previously helped investors anticipate the cryptocurrency's eventual recovery from "
+    },
+    {
+      "source": "Decrypt",
+      "title": "$7 Billion in Bitcoin Options Just Expired: Here's What It Means",
+      "url": "https://decrypt.co/384154/7-billion-bitcoin-options-just-expired-what-it-means",
+      "pubDate": "Fri, 27 Nov 2026 18:16:03 +0000",
+      "summary": "Bitcoin's largest options expiry this month comes as traders increasingly seek protection against further losses, with some hedging against a potential drop to $40,000 before the end of the year."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+      "url": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
+      "pubDate": "Fri, 27 Nov 2026 17:43:29 +0000",
+      "summary": "The intrusion at Cloud One, discovered during a system upgrade, has prompted a Cyber Command damage assessment and disrupted the platform that runs air-defense radar feeds, munitions tracking and pers"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Nvidia's Blackwell Chips Turn Up in China as Trump Floats Government Stake",
+      "url": "https://decrypt.co/384153/nvidias-blackwell-chips-turn-up-in-china-as-trump-floats-government-stake",
+      "pubDate": "Fri, 27 Nov 2026 17:09:30 +0000",
+      "summary": "Banned Nvidia racks were found at a Shanghai data center tied to Alice Huang, as Trump said the U.S. could still take a stake in the firm."
+    },
+    {
+      "source": "The Block",
+      "title": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
+      "url": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-usdt-supply-growth-447560",
+      "pubDate": "Fri, 27 Nov 2026 18:13:45 +0000",
+      "summary": "Bitcoin needs USDT supply to start growing again for a sustained price recovery, according to CryptoQuant."
+    },
+    {
+      "source": "The Block",
+      "title": "Tether buys $10 million of Bitdeer shares as stock hovers near all-time low",
+      "url": "https://www.theblock.co/news/business/2026-11-27-tether-buys-10-million-of-bitdeer-shares-as-stock-hovers-near-all-time-low-447554",
+      "pubDate": "Fri, 27 Nov 2026 15:00:21 +0000",
+      "summary": "USDT issuer Tether spent about $10 million earlier this week to acquire 3.72 million Bitdeer Class A ordinary shares."
+    },
+    {
+      "source": "The Block",
+      "title": "AI math breakthroughs revive Bitcoin security fears, but practical threat remains unproven: K33",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ai-math-breakthroughs-revive-bitcoin-security-fears-but-practical-threat-remains-unproven-k33-447549",
+      "pubDate": "Fri, 27 Nov 2026 14:24:21 +0000",
+      "summary": "K33 said recent mathematical advances had not demonstrated a compromise of Bitcoin's cryptography, while urging closer attention to AI."
+    },
+    {
+      "source": "The Block",
+      "title": "Bank of Japan official says stablecoins need reserve rules to preserve 'singleness of money'",
+      "url": "https://www.theblock.co/news/regulation/2026-11-27-bank-of-japan-official-says-stablecoins-need-reserve-rules-to-preserve-singleness-of-money-447059",
+      "pubDate": "Fri, 27 Nov 2026 10:45:02 +0000",
+      "summary": "Japan's central bank warned that stablecoins and tokenized deposits need safeguards to prevent fragmentation across the financial system."
+    },
+    {
+      "source": "The Block",
+      "title": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051",
+      "pubDate": "Fri, 27 Nov 2026 07:51:14 +0000",
+      "summary": "Developers also discussed whether post-quantum readiness should trump other proposals set for the subsequent Ethereum upgrade, Hegota."
+    },
+    {
+      "source": "The Block",
+      "title": "China, Japan, South Korea and ASEAN to form working group on digital payments, crypto regulation",
+      "url": "https://www.theblock.co/news/regulation/2026-11-26-china-japan-south-korea-asean-digital-payments-447029",
+      "pubDate": "Fri, 27 Nov 2026 04:18:40 +0000",
+      "summary": "The decision comes after the group met in May in Uzbekistan and identified cross-border digital payments as a new area of cooperation."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Chainflip identifies who lost money in $12.6 million hack as recovery plan takes shape",
+      "url": "https://cryptoslate.com/chainflip-identifies-who-lost-money-in-12-6-million-hack-as-recovery-plan-takes-shape/",
+      "pubDate": "Fri, 27 Nov 2026 23:10:30 +0000",
+      "summary": "The affected-user list gives Chainflip a basis for a recovery fund proposal, but the report gave no payout date. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin privacy weakness links wallet addresses to network nodes in 30 out of 30 tests",
+      "url": "https://cryptoslate.com/bitcoin-privacy-weakness-links-wallet-addresses-to-network-nodes-in-30-out-of-30-tests/",
+      "pubDate": "Fri, 27 Nov 2026 21:50:59 +0000",
+      "summary": "Abubakar Sadiq Ismail reported 30 correct matches in a controlled test and says watch-only wallets can expose the same link. Read the full story on CryptoSlateUnderstand the crypto stories that matter"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "XRP holders face a choice between earning more yield and getting their tokens back",
+      "url": "https://cryptoslate.com/xrp-holders-face-a-choice-between-earning-more-yield-and-getting-their-tokens-back/",
+      "pubDate": "Fri, 27 Nov 2026 20:30:25 +0000",
+      "summary": "Spectra's February market keeps XRP-linked exposure on Flare, while getting native XRP back takes a separate redemption. Read the full story on CryptoSlateUnderstand the crypto stories that matter and"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "How Coldcard's $112 million Bitcoin exploit slipped past 15 security reviews",
+      "url": "https://cryptoslate.com/how-coldcards-112-million-bitcoin-exploit-slipped-past-15-security-reviews/",
+      "pubDate": "Fri, 27 Nov 2026 19:00:40 +0000",
+      "summary": "Coinkite's November postmortem details the Mk5 and Q checks and why owners still need to know how their recovery phrases were created. Read the full story on CryptoSlateUnderstand the crypto stories t"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Google's lightweight Gemini matched two top models on a chemistry test",
+      "url": "https://cryptoslate.com/googles-lightweight-gemini-matched-two-top-models-on-a-chemistry-test/",
+      "pubDate": "Fri, 27 Nov 2026 17:40:28 +0000",
+      "summary": "All three models reached about 97% exact-match accuracy in DeepMind's test of compounds with public reference spectra when given internet access and the same chemistry tools. Read the full story on Cr"
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin dodged one risk from Japan and now faces a Monday reckoning",
+      "url": "https://cryptoslate.com/a-weaker-yen-eased-one-cost-for-bitcoin-traders-who-borrowed-in-yen/",
+      "pubDate": "Fri, 27 Nov 2026 16:40:25 +0000",
+      "summary": "Japan's two-year bond auction on Monday gives traders a fresh checkpoint for the yen and short-term yields. Read the full story on CryptoSlateUnderstand the crypto stories that matter and what to watc"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack",
+      "url": "https://bitcoinmagazine.com/news/binance-lifts-withdrawal-suspension-hack",
+      "pubDate": "Fri, 27 Nov 2026 18:00:00 +0000",
+      "summary": "Bitcoin Magazine Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack Binance said its withdrawal recovery work is complete and the suspension tied to the Oct. 29 hack has been fu"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Russia's VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test",
+      "url": "https://bitcoinmagazine.com/news/russia-vtb-bitcoin-trading-crypto-test",
+      "pubDate": "Fri, 27 Nov 2026 17:06:12 +0000",
+      "summary": "Bitcoin Magazine Russia's VTB Opens Bitcoin Trading as Central Bank Finalizes Crypto Test VTB began letting qualified investors trade bitcoin in its app on Friday, a day after the Bank of Russia appro"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "New York Wins $1.37 Billion Judgment Against NovaTech Crypto Ponzi Founders",
+      "url": "https://bitcoinmagazine.com/news/new-york-novatech-judgment-1-37-billion",
+      "pubDate": "Fri, 27 Nov 2026 16:15:00 +0000",
+      "summary": "Bitcoin Magazine New York Wins $1.37 Billion Judgment Against NovaTech Crypto Ponzi Founders A New York judge ordered NovaTech founders Cynthia and Eddy Petion to pay more than $1.37 billion over a cr"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Spain Lets Anti-Money Laundering Unit Freeze Crypto Accounts Without a Judge",
+      "url": "https://bitcoinmagazine.com/news/spain-sepblac-freeze-crypto-accounts",
+      "pubDate": "Fri, 27 Nov 2026 15:00:00 +0000",
+      "summary": "Bitcoin Magazine Spain Lets Anti-Money Laundering Unit Freeze Crypto Accounts Without a Judge A royal decree lets Sepblac, Spain's financial intelligence unit, freeze crypto, bank and payment accounts"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Peter St. Onge: \"Massively Bullish\" for Bitcoin if Fed Abandons 2% Inflation Target",
+      "url": "https://bitcoinmagazine.com/videos/peter-st-onge-massively-bullish-for-bitcoin-if-fed-abandons-2-inflation-target",
+      "pubDate": "Fri, 27 Nov 2026 14:45:09 +0000",
+      "summary": "Bitcoin Magazine Peter St. Onge: \"Massively Bullish\" for Bitcoin if Fed Abandons 2% Inflation Target Inflation is back near 4%, the Fed is hiking, and Peter St. This post Peter St. Onge: \"Massively B"
+    },
+    {
+      "source": "Bitcoin Magazine",
+      "title": "Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally",
+      "url": "https://bitcoinmagazine.com/markets/bitcoin-price-61300-tech-futures",
+      "pubDate": "Fri, 27 Nov 2026 13:57:15 +0000",
+      "summary": "Bitcoin Magazine Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally The bitcoin price traded near $61,300 on Friday as tech stock futures jumped ahead of a shortened Wall Street session, pu"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
+      "url": "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
+      "pubDate": "Fri, 27 Nov 2026 13:19:10 +0000",
+      "summary": "The prediction market is pitching protection against tariffs, weather and other business risks as courts challenge its ability to offer sports wagers."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
+      "url": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
+      "pubDate": "Fri, 27 Nov 2026 12:16:07 +0000",
+      "summary": "Your day-ahead look for Nov. 27, 2026"
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+      "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
+      "pubDate": "Fri, 27 Nov 2026 11:45:47 +0000",
+      "summary": "Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600 and is on course to end seven straight weekly losses."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin's Thanksgiving gains prove fleeting",
+      "url": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
+      "pubDate": "Fri, 27 Nov 2026 11:34:37 +0000",
+      "summary": "Stocks are broadly higher, but bitcoin has slipped back near $60,000, reversing a turkey day advance."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
+      "url": "https://www.coindesk.com/policy/2026/11/27/next-ecb-chief-favors-tokenized-bank-deposits-over-stablecoins-and-bitcoin",
+      "pubDate": "Fri, 27 Nov 2026 11:22:42 +0000",
+      "summary": "Pablo Hernandez de Cos, chosen to succeed Christine Lagarde, favors blockchain-based banking and has warned against private digital currencies and banks holding bitcoin."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Injective asks SEC to allow order books for tokenized stock trading",
+      "url": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading",
+      "pubDate": "Fri, 27 Nov 2026 11:07:17 +0000",
+      "summary": "The regulator's rules favor one type of blockchain trading system, leaving platforms built on Injective out, the developer said. It wants the SEC to open stock trading to order-book systems."
+    }
+  ]
+}
