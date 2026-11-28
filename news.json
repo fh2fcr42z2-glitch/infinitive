@@ -1,1 +1,20 @@
-FULL_CONTENT_HERE
+{
+  "asof": "2026-11-28T03:01:59Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {"name": "CoinTelegraph", "url": "https://cointelegraph.com/rss"},
+    {"name": "Decrypt", "url": "https://decrypt.co/feed"},
+    {"name": "The Block", "url": "https://www.theblock.co/rss.xml"},
+    {"name": "CryptoSlate", "url": "https://cryptoslate.com/feed/"},
+    {"name": "Bitcoin Magazine", "url": "https://bitcoinmagazine.com/.rss/full/"},
+    {"name": "CoinDesk", "url": "https://www.coindesk.com/arc/outboundfeeds/rss"},
+    {"name": "Rekt", "url": "https://rekt.news"}
+  ],
+  "items": [
+    {"source": "CoinTelegraph", "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound", "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound", "pubDate": "Fri, 27 Nov 2026 16:48:51 +0000", "summary": "Bitcoin price volatility returned at the Wall Street open as BTC/USD dropped to local lows of $58,700 while stocks and gold headed higher."},
+    {"source": "Decrypt", "title": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says", "url": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says", "pubDate": "Fri, 27 Nov 2026 20:46:02 +0000", "summary": "A draft AI-assisted proof of the Riemann Hypothesis renewed worries about the math securing Bitcoin, but K33 says no cryptographic compromise has been demonstrated."},
+    {"source": "CryptoSlate", "title": "How Coldcard's $112 million Bitcoin exploit slipped past 15 security reviews", "url": "https://cryptoslate.com/how-coldcards-112-million-bitcoin-exploit-slipped-past-15-security-reviews/", "pubDate": "Fri, 27 Nov 2026 19:00:40 +0000", "summary": "Coinkite's November postmortem details the Mk5 and Q checks."},
+    {"source": "The Block", "title": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15", "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051", "pubDate": "Fri, 27 Nov 2026 07:51:14 +0000", "summary": "Developers also discussed whether post-quantum readiness should trump other proposals."},
+    {"source": "CoinDesk", "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound", "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound", "pubDate": "Fri, 27 Nov 2026 11:45:47 +0000", "summary": "Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600."}
+  ]
+}
