@@ -1,1 +1,246 @@
-PLACEHOLDER
+{
+  "asof": "2026-11-28T04:01:52Z",
+  "stamp": "NEWS HUB. Headlines only. Not a ticket. DO NOT BUY from a headline.",
+  "feeds": [
+    {
+      "name": "CoinTelegraph",
+      "url": "https://cointelegraph.com/rss"
+    },
+    {
+      "name": "Decrypt",
+      "url": "https://decrypt.co/feed"
+    },
+    {
+      "name": "The Block",
+      "url": "https://www.theblock.co/rss.xml"
+    },
+    {
+      "name": "CryptoSlate",
+      "url": "https://cryptoslate.com/feed/"
+    },
+    {
+      "name": "Bitcoin Magazine",
+      "url": "https://bitcoinmagazine.com/.rss/full/"
+    },
+    {
+      "name": "CoinDesk",
+      "url": "https://www.coindesk.com/arc/outboundfeeds/rss"
+    },
+    {
+      "name": "Rekt",
+      "url": "https://rekt.news"
+    }
+  ],
+  "items": [
+    {
+      "source": "CoinTelegraph",
+      "title": "Here\u2019s what happened in crypto today",
+      "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 27 Nov 2026 22:12:51 +0000",
+      "summary": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
+      "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 27 Nov 2026 21:15:29 +0000",
+      "summary": "The addition comes as US spot investment products tracking Hyperliquid\u2019s native token reach $266.5 million in assets under management."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin whales pile into BTC despite shrinking profit cushion",
+      "url": "https://cointelegraph.com/markets/bitcoin-whales-pile-btc-despite-shrinking-profit-cushion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 27 Nov 2026 19:23:00 +0000",
+      "summary": "CryptoQuant data shows Bitcoin whales are breaking with historical fourth-quarter selling patterns despite a market downturn."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "China sets March 2027 rollout for blockchain identity regulations",
+      "url": "https://cointelegraph.com/news/china-march-2027-rollout-blockchain-identity-regulations?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 27 Nov 2026 17:37:23 +0000",
+      "summary": "China has issued new regulations governing blockchain-based digital identities, setting rules for cross-platform verification and data privacy."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "Bitcoin price drops below $59K as Anthropic joins tech stock rebound",
+      "url": "https://cointelegraph.com/markets/bitcoin-price-below-59k-anthropic-tech-stock-rebound?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 27 Nov 2026 16:48:51 +0000",
+      "summary": "Bitcoin price volatility returned at the Wall Street open as BTC/USD dropped to local lows of $58,700 while stocks and gold headed higher."
+    },
+    {
+      "source": "CoinTelegraph",
+      "title": "What was Coinbase worth while Nasdaq was closed?",
+      "url": "https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+      "pubDate": "Fri, 27 Nov 2026 14:40:54 +0000",
+      "summary": "A Thanksgiving buyer paid 106.24 USDC per Coinbase share. Whether that looked like a holiday rally depended on when you\u2019d last checked the stock."
+    },
+    {
+      "source": "Decrypt",
+      "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
+      "url": "https://decrypt.co/384222/openai-countersuit-apple-trade-secret-theft-claims",
+      "pubDate": "Fri, 27 Nov 2026 21:46:03 +0000",
+      "summary": "The ChatGPT maker\u2019s counterclaims flip the script on a dispute Apple started in July, alleging the iPhone maker took its trade secrets and pressured shared hardware suppliers to freeze it out of the A"
+    },
+    {
+      "source": "Decrypt",
+      "title": "Could AI Break Bitcoin? Not Yet, Research Firm K33 Says",
+      "url": "https://decrypt.co/384218/could-ai-break-bitcoin-not-yet-research-firm-k33-says",
+      "pubDate": "Fri, 27 Nov 2026 20:46:02 +0000",
+      "summary": "A draft AI-assisted proof of the Riemann Hypothesis renewed worries about the math securing Bitcoin, but K33 says no cryptographic compromise has been demonstrated."
+    },
+    {
+      "source": "Decrypt",
+      "title": "4 Scary Bitcoin Charts That Suggest This Bear Market Is Different",
+      "url": "https://decrypt.co/384177/bitcoin-4-scary-charts-crypto-winter-bear-market",
+      "pubDate": "Fri, 27 Nov 2026 19:31:02 +0000",
+      "summary": "Bitcoin is in a bear market, but the charts look different this time."
+    },
+    {
+      "source": "Decrypt",
+      "title": "$7 Billion in Bitcoin Options Just Expired: Here\u2019s What It Means",
+      "url": "https://decrypt.co/384109/7-billion-bitcoin-options-expired-what-it-means",
+      "pubDate": "Fri, 27 Nov 2026 18:15:02 +0000",
+      "summary": "A massive options expiry hit Bitcoin markets today."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
+      "url": "https://decrypt.co/384055/hackers-hit-us-air-force-cloud-system",
+      "pubDate": "Fri, 27 Nov 2026 17:00:02 +0000",
+      "summary": "A cloud system used by the US Air Force was compromised."
+    },
+    {
+      "source": "Decrypt",
+      "title": "Solana\u2019s Firedancer Client Goes Live on Mainnet",
+      "url": "https://decrypt.co/383900/solana-firedancer-client-goes-live-mainnet",
+      "pubDate": "Fri, 27 Nov 2026 15:45:02 +0000",
+      "summary": "The long-awaited Firedancer client is now running on Solana mainnet."
+    },
+    {
+      "source": "The Block",
+      "title": "CryptoQuant says bitcoin price recovery needs USDT supply growth",
+      "url": "https://www.theblock.co/news/markets/2026-11-27-cryptoquant-bitcoin-price-recovery-needs-usdt-supply-growth-447100",
+      "pubDate": "Fri, 27 Nov 2026 20:30:00 +0000",
+      "summary": "Analysts say Bitcoin needs fresh stablecoin inflows to sustain a recovery."
+    },
+    {
+      "source": "The Block",
+      "title": "Ethereum devs schedule Glamsterdam upgrade for Hoodi testnet on Dec. 15",
+      "url": "https://www.theblock.co/news/ecosystems/2026-11-27-ethereum-devs-schedule-glamsterdam-upgrade-hoodi-447051",
+      "pubDate": "Fri, 27 Nov 2026 07:51:14 +0000",
+      "summary": "Developers also discussed whether post-quantum readiness should trump other proposals."
+    },
+    {
+      "source": "The Block",
+      "title": "Bitget reports $45M loss from hot wallet exploit",
+      "url": "https://www.theblock.co/news/security/2026-11-27-bitget-reports-45m-loss-from-hot-wallet-exploit-447040",
+      "pubDate": "Fri, 27 Nov 2026 06:12:00 +0000",
+      "summary": "The exchange said the incident was contained and customer funds are safe."
+    },
+    {
+      "source": "The Block",
+      "title": "Aave proposes new risk parameters for ENA and AERO",
+      "url": "https://www.theblock.co/news/defi/2026-11-27-aave-proposes-new-risk-parameters-ena-aero-447020",
+      "pubDate": "Fri, 27 Nov 2026 05:00:00 +0000",
+      "summary": "Governance discussion on collateral factors for Ethena and Aerodrome tokens."
+    },
+    {
+      "source": "The Block",
+      "title": "Pump.fun volume drops as traders shift to other launchpads",
+      "url": "https://www.theblock.co/news/markets/2026-11-27-pumpfun-volume-drops-traders-shift-446990",
+      "pubDate": "Fri, 27 Nov 2026 04:20:00 +0000",
+      "summary": "Activity on the Solana meme launchpad cooled after a volatile week."
+    },
+    {
+      "source": "The Block",
+      "title": "SNAP token sees heavy on-chain movement after listing rumor",
+      "url": "https://www.theblock.co/news/markets/2026-11-27-snap-token-heavy-onchain-movement-446950",
+      "pubDate": "Fri, 27 Nov 2026 03:10:00 +0000",
+      "summary": "Traders are watching large transfers of the SNAP token."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "How Coldcard's $112 million Bitcoin exploit slipped past 15 security reviews",
+      "url": "https://cryptoslate.com/how-coldcards-112-million-bitcoin-exploit-slipped-past-15-security-reviews/",
+      "pubDate": "Fri, 27 Nov 2026 19:00:40 +0000",
+      "summary": "Coinkite's November postmortem details the Mk5 and Q checks."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Ethereum's next upgrade focuses on data availability and fees",
+      "url": "https://cryptoslate.com/ethereum-next-upgrade-data-availability-fees/",
+      "pubDate": "Fri, 27 Nov 2026 16:30:00 +0000",
+      "summary": "Developers outline priorities for the Glamsterdam hard fork."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "DRV token under pressure after large unlock",
+      "url": "https://cryptoslate.com/drv-token-under-pressure-after-large-unlock/",
+      "pubDate": "Fri, 27 Nov 2026 14:15:00 +0000",
+      "summary": "An upcoming unlock is weighing on the DRV price."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Bitcoin options expiry sets stage for weekend volatility",
+      "url": "https://cryptoslate.com/bitcoin-options-expiry-weekend-volatility/",
+      "pubDate": "Fri, 27 Nov 2026 12:00:00 +0000",
+      "summary": "Traders position for moves around the $7B expiry."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Ethena USDe supply stable despite market chop",
+      "url": "https://cryptoslate.com/ethena-usde-supply-stable-despite-market-chop/",
+      "pubDate": "Fri, 27 Nov 2026 10:45:00 +0000",
+      "summary": "ENA governance and USDe backing remain in focus."
+    },
+    {
+      "source": "CryptoSlate",
+      "title": "Aerodrome liquidity incentives face review",
+      "url": "https://cryptoslate.com/aerodrome-liquidity-incentives-face-review/",
+      "pubDate": "Fri, 27 Nov 2026 09:20:00 +0000",
+      "summary": "Base chain DEX token AERO sees governance discussion."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound",
+      "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
+      "pubDate": "Fri, 27 Nov 2026 11:45:47 +0000",
+      "summary": "Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "$7 billion of bitcoin options expire Friday, and the biggest bets look starkly different from October",
+      "url": "https://www.coindesk.com/markets/2026/11/26/usd7-billion-of-bitcoin-options-expire-friday-and-the-biggest-bets-look-starkly-different-from-october",
+      "pubDate": "Thu, 26 Nov 2026 08:01:33 +0000",
+      "summary": "Bitcoin options positioning has flipped bearish ahead of Friday\u2019s $7 billion expiry, with traders piling into downside protection as volatility rises."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Zcash developers want to phase out older privacy system as a precaution against future attacks",
+      "url": "https://www.coindesk.com/tech/2026/11/26/zcash-developers-want-users-to-move-usd300-million-out-of-an-older-privacy-system",
+      "pubDate": "Thu, 26 Nov 2026 07:09:25 +0000",
+      "summary": "Zakura is pushing to stop new payments into Sapling sooner, citing the possibility that AI-assisted discoveries could weaken the math protecting it."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Pump.fun faces regulatory scrutiny after high-profile rug",
+      "url": "https://www.coindesk.com/policy/2026/11/26/pumpfun-faces-regulatory-scrutiny-after-high-profile-rug",
+      "pubDate": "Thu, 26 Nov 2026 05:30:00 +0000",
+      "summary": "Regulators are looking at the Solana launchpad following recent incidents."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Ethereum layer-2 activity holds up despite mainnet fee drop",
+      "url": "https://www.coindesk.com/tech/2026/11/26/ethereum-layer-2-activity-holds-up-despite-mainnet-fee-drop",
+      "pubDate": "Thu, 26 Nov 2026 04:15:00 +0000",
+      "summary": "L2s continue to capture most of the transaction volume."
+    },
+    {
+      "source": "CoinDesk",
+      "title": "Bitget exploit details emerge as exchange pledges full reimbursement",
+      "url": "https://www.coindesk.com/business/2026/11/26/bitget-exploit-details-emerge-as-exchange-pledges-full-reimbursement",
+      "pubDate": "Thu, 26 Nov 2026 03:00:00 +0000",
+      "summary": "The hot wallet incident is under investigation with no customer losses expected."
+    }
+  ]
+}
